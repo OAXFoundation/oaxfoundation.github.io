@@ -1,3 +1,5 @@
+//TODO Wayland come back and clean out unused code
+
 $(document).ready(function(){
 
 
