@@ -188,7 +188,8 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	call-to-action Start
 --*/
-#call-to-action {
+/* TODO Wayland delete call-to-action */
+/* #call-to-action {
   background: url("../img/call-to-action-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -226,7 +227,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 15px;
   color: #333333;
   margin-top: 30px;
-}
+} */
 /*--
 	Feature Start
 --*/
