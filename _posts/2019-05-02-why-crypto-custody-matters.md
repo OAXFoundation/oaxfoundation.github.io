@@ -2,9 +2,10 @@
 layout: post
 ---
 
-<figure>
-	<img src="images/why-crypto-custody-matters-banner.png">
-</figure>
+![]({{ site.baseurl }}/img/blog-images/why-crypto-custody-matters-banner.png)
+<!-- <figure>
+	<img src="/img/blog-images/why-crypto-custody-matters-banner.png" alt="why crypto custody matters">
+</figure> -->
 
 _By Amanda Liu, General Manager and Kelvin Wong Senior Marketing Advisor_  
 
@@ -35,9 +36,9 @@ Want to know the latest from OAX Foundation?
 
 More about OAX Foundation
 
-Website: www.oax.org
+[www.oax.org](https://www.oax.org)
 
-Medium: medium.com/@OAX_Foundation  
+[Medium](https://medium.com/@OAX_Foundation)  
   
 
 **Reach out to OAX Foundation via e-mail:**
@@ -46,20 +47,20 @@ Collaboration Proposals: ProjectStallman@oax.org
 
 Other Inquiries: Info@oax.org
 
-Social Media:
+**Social Media:**
 
-Discord: discord.gg/ZH5YHkb
+[Discord](https://discordapp.com/invite/ZH5YHkb)
 
-Youtube: bit.ly/2Bvsk73
+[Youtube](https://bit.ly/2Bvsk73)
 
-Twitter: twitter.com/OAX_Foundation
+[Twitter](https://twitter.com/OAX_Foundation)
 
-LinkedIn: www.linkedin.com/company/oax-foundation/
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
 
-BitcoinTalk: bitcointalk.org/index.php?topic=1943946
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
 
-Reddit: www.reddit.com/r/OpenANX/
+[Reddit](https://www.reddit.com/r/OpenANX/)
 
-Telegram English: t.me/openanxteam
+[Telegram English](https://t.me/openanxteam)
 
-Telegram Chinese: t.me/oax_cn
+[Telegram Chinese](https://t.me/oax_cn)
