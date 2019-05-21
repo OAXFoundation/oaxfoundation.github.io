@@ -2,32 +2,35 @@
 
 $(document).ready(function(){
 
-
 	$("#portfolio-contant-active").mixItUp();
+	// var mixer = mixItUp('.portfolio-contant-active', {
+  //   controls: {
+  //       toggleDefault: '.Founder'
+  //   }
+	// });
+
+	// $("#testimonial-slider").owlCarousel({
+	//     paginationSpeed : 500,      
+	//     singleItem:true,
+	//     autoPlay: 3000,
+	// });
 
 
-	$("#testimonial-slider").owlCarousel({
-	    paginationSpeed : 500,      
-	    singleItem:true,
-	    autoPlay: 3000,
-	});
 
 
+	// $("#clients-logo").owlCarousel({
+	// 	autoPlay: 3000,
+	// 	items : 5,
+	// 	itemsDesktop : [1199,5],
+	// 	itemsDesktopSmall : [979,5],
+	// });
 
-
-	$("#clients-logo").owlCarousel({
-		autoPlay: 3000,
-		items : 5,
-		itemsDesktop : [1199,5],
-		itemsDesktopSmall : [979,5],
-	});
-
-	$("#works-logo").owlCarousel({
-		autoPlay: 3000,
-		items : 5,
-		itemsDesktop : [1199,5],
-		itemsDesktopSmall : [979,5],
-	});
+	// $("#works-logo").owlCarousel({
+	// 	autoPlay: 3000,
+	// 	items : 5,
+	// 	itemsDesktop : [1199,5],
+	// 	itemsDesktopSmall : [979,5],
+	// });
 
 
 	// google map
