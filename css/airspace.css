@@ -232,7 +232,8 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  /* WC replaced this with img in index.html of typewriter
+  /* background: url("../img/featue-bg.jpg"); */
   background-position: 50% 94px;
   width: 100%;
   display: block;
