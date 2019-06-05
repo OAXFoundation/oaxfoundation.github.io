@@ -15,10 +15,10 @@ keep_files:
 
 # Site settings
 title: "OAX Foundation website"
-subtitle: "A free HTML5 agency template"
+subtitle: ""
 url: "https://oax.gitlab.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/www.oax.org-jekll"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/oax-logo.svg"
 
@@ -35,3 +35,6 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+plugins:
+  - jekyll-sitemap
