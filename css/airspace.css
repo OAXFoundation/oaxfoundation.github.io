@@ -42,6 +42,13 @@ ul {
   margin: 0;
   list-style: none;
 }
+
+li {
+	font-family: 'Open Sans', serif;
+	color: #666;
+	font-size: 14px;
+}
+
 a,
 a:active,
 a:focus,
@@ -58,7 +65,7 @@ a:active {
 }
 .section-title p {
   font-family: 'Volkhov', serif;
-  font-style: italic;
+  /* font-style: italic; */
   color: #666;
 }
 /*--
