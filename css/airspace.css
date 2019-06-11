@@ -1042,8 +1042,34 @@ footer .footer-manu ul li a:hover {
   }
 }
 
-
 img {
   max-width:100%;
   height:auto;
+}
+
+/* this #blog is for our blog posts under the "News" link 
+  copied from #intro and modified */
+
+#blog {
+  padding: 100px 0;
+}
+#blog .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#blog .block p {
+  color: #7B7B7B;
+  padding-top: 20px;
+}
+
+#blog .section-title {
+  margin-bottom: 0px;
+}
+#blog .section-title p {
+  padding-top: 20px;
+}
+
+#blog pre {
+  overflow: unset;
 }
