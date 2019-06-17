@@ -1,6 +1,6 @@
 ---
 layout: post
-author: OAX Foundation
+author: Amanda Liu, General Manager and Kelvin Wong, Senior Marketing Advisor, OAX Foundation
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/why_crypto_custody_matters_banner.png)
@@ -8,7 +8,7 @@ author: OAX Foundation
 	<img src="/img/blog-images/why-crypto-custody-matters-banner.png" alt="why crypto custody matters">
 </figure> -->
 
-_By [Amanda Liu, General Manager](https://www.linkedin.com/in/amanda-liu-57934561/) and [Kelvin Wong, Senior Marketing Advisor](https://www.linkedin.com/in/kelvin-wong-90aa002/) at [OAX Foundation](https://www.oax.org/)_  
+<!--_By [Amanda Liu, General Manager](https://www.linkedin.com/in/amanda-liu-57934561/) and [Kelvin Wong, Senior Marketing Advisor](https://www.linkedin.com/in/kelvin-wong-90aa002/) at [OAX Foundation](https://www.oax.org/)_  -->
 
 Those of you who have been following [OAX Foundation](https://www.oax.org/) would know that one of our main goals is to promote digital asset trading to the mainstream. For this to happen, it is our belief that the industry needs to work together to build a proper ecosystem.
 
