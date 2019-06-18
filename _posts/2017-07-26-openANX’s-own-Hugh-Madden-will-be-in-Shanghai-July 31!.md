@@ -25,6 +25,6 @@ The openANX team won’t be the only ones handing out our souvenirs. We have als
 
 The ticket price for the Finwise event is $2499 RMB, or around $370 USD. To thank our supporters, we will be giving out a few tickets to those who have contributed 10,000 or more OAX tokens and completed their registration on [https://registration.openanx.org/](https://registration.openanx.org/).
 
-Please email [projectstallman@openanx.org](projectstallman@openanx.org) with the amount of OAX you have contributed and your registered email address for a chance to win a free ticket.
+Please email [projectstallman@openanx.org](mailto:projectstallman@openanx.org) with the amount of OAX you have contributed and your registered email address for a chance to win a free ticket.
 
 Get involved! Come and visit us in Shanghai!

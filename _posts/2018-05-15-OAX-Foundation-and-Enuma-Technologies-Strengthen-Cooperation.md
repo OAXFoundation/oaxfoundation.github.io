@@ -19,36 +19,24 @@ Amanda Liu, General Manager of OAX Foundation, said, “Enuma Technologies has b
 
 Antoine Cote, CEO and Co-Founder of Enuma Technologies, said, “OAX Foundation is a pioneer and innovator in the decentralized exchange space with great vision and strong execution capabilities. Enuma is committed to helping build an evolutionary system which will benefit the blockchain community.”
 
-**About OAX Foundation**
-
+**About OAX Foundation**  
 OAX Foundation Limited is a Hong Kong-based, not-for-profit entity set up to promote the real-world application of the OAX platform, an open, transparent and decentralized exchange for digital assets. It aims to build a sustainable digital asset industry based on principles of strong governance.
 
-**About Enuma Technologies** 
-
+**About Enuma Technologies**   
 Enuma Technologies is a leading engineering firm with expertise covering the full blockchain spectrum. As an early entrant into the blockchain space, Enuma has enabled enterprises to explore and implement cutting edge technologies to gain competitive advantage. Enuma has successfully designed and executed a number of high profile projects including blockchain platforms, crypto-asset exchanges, payment, identity and security solutions.
 
-**For more information, please contact:**
-
-**OAX Foundation**
-
-Kelvin Wong 
-
-[kelvin@oax.org](kelvin@oax.org)
-
+**For more information, please contact:**  
+**OAX Foundation**  
+Kelvin Wong   
+[kelvin@oax.org](mailto:kelvin@oax.org)  
 +852 6037 5705
 
-**Cognito**
+**Cognito**  
+Dan Bradley   
+[dan.bradley@cognitomedia.com](mailto:dan.bradley@cognitomedia.com)
++852 6145 7455  
 
-Dan Bradley
-
-[dan.bradley@cognitomedia.com](dan.bradley@cognitomedia.com)
-
-+852 6145 7455
-
-**Enuma Technologies**
-
-Vikki Huang
-
-[vikki.huang@enuma.io](vikki.huang@enuma.io)
-
-+852 6284 8531
+**Enuma Technologies**  
+Vikki Huang  
+[vikki.huang@enuma.io](vikki.huang@enuma.io)  
++852 6284 8531  

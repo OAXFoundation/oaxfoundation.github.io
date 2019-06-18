@@ -25,7 +25,7 @@ If that’s not enough, our Working Group will hold it’s first meeting Novembe
 
 The key aim of the Working Group will be to have a frank, closed door discussion about how to overcome some of the challenges facing the industry, and how to specifically address these challenges in the future development of the OAX Platform. This includes the shaping of best practice, understanding the obstacles to mass adoption and how to overcome them.
 
-For any companies in the above spaces who may be interested in how we are tackling these industry wide challenges, email [workinggroup@oax.org](workinggroup@oax.org). 
+For any companies in the above spaces who may be interested in how we are tackling these industry wide challenges, email [workinggroup@oax.org](mailto:workinggroup@oax.org). 
 
 ##### Blockchain World Moscow 
 ![]({{ site.baseurl }}/img/blog-images/listing_fever-3.png)
@@ -40,39 +40,23 @@ That’s it for this update, although I would like to also mention that things a
 
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-**Want to know the latest from OAX Foundation?**
-
-**More about OAX Foundation**
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
-
-
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  
