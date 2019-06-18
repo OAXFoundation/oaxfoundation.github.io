@@ -12,4 +12,4 @@ At the event, which will be centered on the latest development in digital tradin
 
 Our audience at the event — many of whom are traders of different asset classes, will not be strangers to such concepts, as it shares similar principles to the tools that they use for trading, such as the instant messaging systems or chatrooms on various financial data terminals. Their feedback will certainly add new perspectives to our project. 
 
-Stay tuned for our post-event wrap up and other updates from the OAX Foundation. If you want to talk to us about any aspect of the project, please feel free to get in touch via [communitymgmt@oax.org](communitymgmt@oax.org).
+Stay tuned for our post-event wrap up and other updates from the OAX Foundation. If you want to talk to us about any aspect of the project, please feel free to get in touch via [communitymgmt@oax.org](mailto:communitymgmt@oax.org).

@@ -57,7 +57,7 @@ A: Eligible participants must complete all steps and input all information requi
 
 ###### Q: I can’t seem to go further than adding my social usernames. Next doesn’t work.
 
-A: I am sorry for the inconvenience you encountered. Please contact us at [info@oax.org](info@oax.org) with screenshots of errors if available.
+A: I am sorry for the inconvenience you encountered. Please contact us at [info@oax.org](mailto:info@oax.org) with screenshots of errors if available.
 
 ###### Q: Why should I follow your social media channels?
 
@@ -71,7 +71,7 @@ A: The list of restricted countries for airdrop participation is not publicly av
 ## Post-registration
 ###### Q: What is the next step after I submit my application?
 
-A: Once you successfully submit the airdrop application, you will be contacted via email within 2 weeks. If you do not hear from us, please contact email [info@oax.org](info@oax.org).
+A: Once you successfully submit the airdrop application, you will be contacted via email within 2 weeks. If you do not hear from us, please contact email [mailto:info@oax.org](info@oax.org).
 
 ###### Q: Is there a name list of successful participants so we can check?
 
@@ -87,7 +87,7 @@ A: The airdrop period closes on 16 January 2019 (12 am HKT). Once we complete al
 
 ###### Q: When will I get a reply after submitting my application for the airdrop?
 
-A: Once you submit your airdrop application, you will be contacted via email within 2 weeks. If you don’t hear from us, please email [info@oax.org](info@oax.org).
+A: Once you submit your airdrop application, you will be contacted via email within 2 weeks. If you don’t hear from us, please email [info@oax.org](mailto:info@oax.org).
 
 ###### Q: When will the team announce the results of the airdrop?
 

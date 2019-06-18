@@ -14,75 +14,48 @@ Amanda Liu, General Manager of OAX Foundation, said, “Solidus Labs shares our 
 
 Asaf Meir, Founder and CEO of Solidus Labs, said, “Combating market manipulation is crucial to increasing the credibility of digital assets and ushering institutional investments. The ML-powered surveillance software we developed is already helping exchanges, broker dealers and market makers tackle manipulation. OAX Foundation is fast emerging as one of Asia’s leading solution providers to the digital asset industry. Our partnership with them is a major step towards achieving this common goal.”
 
-**About OAX Foundation**
-
+**About OAX Foundation**  
 OAX Foundation Limited is a Hong Kong-based entity set up to develop and promote digital asset trading for the mainstream. It aims to build a sustainable digital asset industry based on principles of openness, transparency, and strong governance.
 
-**About Solidus Labs Incorporated**
-
+**About Solidus Labs Incorporated**  
 Founded by former Goldman Sachs FinTech engineers, Solidus Labs’ mission is to bridge traditional finance and the new digital economy through compliance infrastructure tailored for digital assets. The company envisions a healthy digital asset ecosystem where innovators and regulators work together to benefit consumers, markets, economies and societies. Solidus Labs’ machine learning-powered market surveillance platform was designed uniquely for digital assets and is currently deployed with diverse clients including exchanges, broker-dealers, hedge funds and market makers in Europe, the United States and Israel.
 
-**For more information, please contact:**
+**For more information, please contact:**  
+**OAX Foundation**  
+Kelvin Wong  
+[kelvin@oax.org](kelvin@oax.org)  
++852 6037 5705  
 
-**OAX Foundation**
+**Solidus Labs**  
+Chen Arad  
+Chief Marketing Officer  
+[chen@soliduslabs.com](chen@soliduslabs.com)  
++1 617 877 7307  
 
-Kelvin Wong
-
-[kelvin@oax.org](kelvin@oax.org)
-
-+852 6037 5705
-
-**Solidus Labs**
-
-Chen Arad
-
-Chief Marketing Officer
-
-[chen@soliduslabs.com](chen@soliduslabs.com)
-
-+1 617 877 7307
-
-**Cognito**
-
-Dan Bradley 
-
-[dan.bradley@cognitomedia.com](dan.bradley@cognitomedia.com)
-
-+852 6145 7455
+**Cognito**  
+Dan Bradley   
+[dan.bradley@cognitomedia.com](dan.bradley@cognitomedia.com)  
++852 6145 7455  
 
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-**Want to know the latest from OAX Foundation?**
-
-**More about OAX Foundation**
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  

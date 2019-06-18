@@ -26,16 +26,11 @@ Reference:
 
 **IMPORTANT NOTICE** — We will only ever communicate news and updates about the OAX project via the OAX Foundation’s official channels. Please make sure you are following these:
 
-Website: [www.oax.org](www.oax.org)
+Website: [www.oax.org](www.oax.org)  
+Twitter: [twitter.com/OAX_Foundation](twitter.com/OAX_Foundation)  
+Medium: [medium.com/@OAX_Foundation](medium.com/@OAX_Foundation)  
+Telegram: [t.me/openanxteam](t.me/openanxteam) and [t.me/oaxcnt](t.me/oaxcnt)  
+Slack: [openanx.slack.com](openanx.slack.com)  
+QQ: 651355919  
 
-Twitter: [twitter.com/OAX_Foundation](twitter.com/OAX_Foundation)
-
-Medium: [medium.com/@OAX_Foundation](medium.com/@OAX_Foundation)
-
-Telegram: [t.me/openanxteam and t.me/oaxcnt](t.me/openanxteam and t.me/oaxcnt)
-
-Slack: openanx.slack.com
-
-QQ: 651355919
-
-Any other channels purporting to be OAX are false and the information they provide should be disregarded. We’re regularly monitoring for false channels and actively working to have them shut down. To report any false channels you find, please contact us: [projectstallman@oax.org](projectstallman@oax.org).]
+Any other channels purporting to be OAX are false and the information they provide should be disregarded. We’re regularly monitoring for false channels and actively working to have them shut down. To report any false channels you find, please contact us: [projectstallman@oax.org](mailto:projectstallman@oax.org).]

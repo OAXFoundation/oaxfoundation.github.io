@@ -10,6 +10,6 @@ First and foremost our leadership team will be out in force, including our co-fo
 
 We’ll also have new videos on display explaining the OAX project and the technology behind it. These will be accompanied by demos — so this is a real chance to get more informed about the purpose of the project and how we’re going about building it. Last but not least, we’ll have plenty of OAX branded giveaways for you to take, so you can show your support for OAX wherever you are!
 
-If you want to book some time to talk about any aspect of the project with our leaders, please feel free to get in touch via [communitymgmt@oax.org](communitymgmt@oax.org). Even if you don’t have time for a meeting we’d love you to drop by and say hi.
+If you want to book some time to talk about any aspect of the project with our leaders, please feel free to get in touch via [communitymgmt@oax.org](mailto:communitymgmt@oax.org). Even if you don’t have time for a meeting we’d love you to drop by and say hi.
 
 We're are looking forward to seeing you in New York! 

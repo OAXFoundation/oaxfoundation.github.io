@@ -19,28 +19,20 @@ The full paper, “_Requisites for Development of a Regulated Secondary Market i
 
 The previous paper in the series, “_Regulating cryptographic consensus technology: Oxymoron or Necessity?_”, can is also available here: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264556](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264556)
 
-Alternatively, for summary versions of the papers, please email [OAX@cognitomedia.com](OAX@cognitomedia.com)
+Alternatively, for summary versions of the papers, please email [OAX@cognitomedia.com](mailto:OAX@cognitomedia.com)
 
 ---
 
-**About OAX Foundation**
-
+**About OAX Foundation**  
 OAX Foundation Limited is a Hong Kong-based entity set up to develop and promote digital asset trading for the mainstream. It aims to build a sustainable digital asset industry based on principles of openness, transparency, and strong governance.
 
-**For more information, please contact:**
+**For more information, please contact:**  
+**OAX Foundation**  
+Kelvin Wong  
+[kelvin@oax.org](mailto:kelvin@oax.org)  
++852 6037 5705  
 
-**OAX Foundation**
-
-Kelvin Wong
-
-[kelvin@oax.org](kelvin@oax.org)
-
-+852 6037 5705
-
-**Cognito**
-
-Dan Bradley 
-
-[dan.bradley@cognitomedia.com](dan.bradley@cognitomedia.com)
-
-+852 6145 7455
+**Cognito**  
+Dan Bradley  
+[dan.bradley@cognitomedia.com](mailto:dan.bradley@cognitomedia.com)  
++852 6145 7455  

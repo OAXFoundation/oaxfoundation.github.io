@@ -34,8 +34,25 @@ This new technology is so promising, the Ethereum Foundation recently provided t
 
 4. [New Crypto Exchanges Don’t Want (to Hold) your Money — (Bloomberg)](https://www.bloomberg.com/news/articles/2018-05-07/new-crypto-exchanges-don-t-want-to-hold-your-money-quicktake?utm_source=newsletter&utm_medium=email&utm_campaign=oax_newsletter&utm_term=2019-05-30)
 
-**OAX Foundation**
+---
 
-[www.oax.org](https://www.oax.org)
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
+
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
+
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  
