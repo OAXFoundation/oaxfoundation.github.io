@@ -27,12 +27,6 @@ You can download a copy of the full research paper, “Requisites for Developmen
 
 The previous paper in the series, “Regulating cryptographic consensus technology: Oxymoron or Necessity?”, is also available here: [http://bit.ly/SyrenJohnstonerp1](http://bit.ly/SyrenJohnstonerp1)
 
-#Open
-
-#Transparent
-
-#Decentralized
-
 ---
 
 **Got a Question?**  

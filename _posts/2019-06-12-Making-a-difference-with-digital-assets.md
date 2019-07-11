@@ -19,12 +19,6 @@ Belfast isn’t the first city to do this sort of thing. Many other cities aroun
 
 These are just examples from three areas — banking, social media and social welfare — where digital assets are making a difference, and we expect many more examples to come in new areas and countries. At OAX Foundation we firmly believe in the positive impact the adoption of digital assets can have across many aspects of our lives. That’s why it’s our mission to help bring them into the mainstream.
 
-#Transparent
-
-#OAX
-
-#BelfastCoin
-
 ---
 
 **Got a Question?**  
