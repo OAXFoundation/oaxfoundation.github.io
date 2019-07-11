@@ -38,7 +38,7 @@ To continue and improve our community engagement, we’d like to ask for your he
 
 5. Any concerns? Which things the team can improve upon?
 
-Besides these topics, we’re open to hear anything you have to say. Please email us at [marketing@openanx.org](marketing@openanx.org). If we get a good number of responses, we will do a follow-up blog covering some of your responses.
+Besides these topics, we’re open to hear anything you have to say. Please email us at [marketing@openanx.org](mailto:marketing@openanx.org). If we get a good number of responses, we will do a follow-up blog covering some of your responses.
 
 Establishing trust for a trustless technology and trading platform is no small task. A continuous effort to educate participants and raise awareness of a better way of cryptocurrency trading (i.e. openANX with its innovative features of aggregated liquidity, collateralised asset gateways and an off-chain dispute resolution mechanism) will be critical to the growth of this platform.
 

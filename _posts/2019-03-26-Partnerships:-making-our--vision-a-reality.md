@@ -21,51 +21,34 @@ Founded by former Goldman Sachs FinTech engineers, [Solidus Labs](https://www.so
 
 We’ve chosen to partner with all these firms because they share our vision of a digital asset industry based on principles of openness, [transparency](https://medium.com/@OAX_Foundation/bringing-digital-asset-trading-to-mainstream-crypto-indices-fdf0997dd0a9), [decentralization](https://medium.com/@OAX_Foundation/what-is-decentralization-85a0fc993b5b) and [strong governance](https://medium.com/@OAX_Foundation/oax-regulatory-breakfast-bridging-the-knowledge-gap-in-a-decentralized-ecosystem-3939790c41cf). It’s only by demonstrating a commitment to these principles that the industry will come into the mainstream. Our work at OAX Foundation is focused on making this vision a reality.
 
-**About Solidus Labs Incorporated**
-
+**About Solidus Labs Incorporated**  
 Founded by former Goldman Sachs FinTech engineers, [Solidus Labs](https://www.soliduslabs.com)’ mission is to bridge traditional finance and the new digital economy through compliance infrastructure tailored for digital assets. The company envisions a healthy digital asset ecosystem where innovators and regulators work together to benefit consumers, markets, economies and societies. Solidus Labs’ machine learning-powered market surveillance platform was designed uniquely for digital assets and is currently deployed with diverse clients including exchanges, broker-dealers, hedge funds and market makers in Europe, the United States and Israel.
 
-**About Refinitiv**
-
+**About Refinitiv**  
 [Refinitiv](https://www.refinitiv.com/en) is one of the world’s largest providers of financial markets data and infrastructure, serving over 40,000 institutions in over 190 countries. It provides leading data and insights, trading platforms, and open data and technology platforms that connect a thriving global financial markets community — driving performance in trading, investment, wealth management, regulatory compliance, market data management, enterprise risk and fighting financial crime.
 
-**About KYC-Chain**
-
+**About KYC-Chain**  
 [KYC-Chain](https://kyc-chain.com) provides state of the art compliance solutions for businesses of all sizes. Since 2014, the leading Compliance Software has helped process over 500,000 KYC applications in a cost-effective and scalable way.
 
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-**Want to know the latest from OAX Foundation?**
-
-**More about OAX Foundation**
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  

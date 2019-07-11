@@ -31,41 +31,27 @@ Off chain swaps are simply atomic swaps that use payment channels.
 ##### OAX
 As you know, at OAX, we’re working on building a decentralized exchange platform (DEX). The DEX marketplace is highly competitive and the biggest hurdle to true decentralization of exchanges is performance. Many initiatives are currently being worked on to increase the performance of blockchains. One area that we’re presently working on are off chain atomic swaps using payment channels. Being able to reliably and efficiently perform off chain atomic swaps will be a huge breakthrough to allow users to trade in a decentralized manner.
 
-To learn more about OAX Foundation and our decentralized exchange platform (DEX), and how it can help you and your project, please get in touch with us at [info@oax.org](info@oax.org) or follow us on any of our social media channels.
+To learn more about OAX Foundation and our decentralized exchange platform (DEX), and how it can help you and your project, please get in touch with us at [info@oax.org](mailto:info@oax.org) or follow us on any of our social media channels.
 
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-Want to know the latest from OAX Foundation?
-
-**More about OAX Foundation**
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  

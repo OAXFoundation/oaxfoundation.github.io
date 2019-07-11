@@ -28,4 +28,4 @@ OAX Foundation is pleased to announce details and rules of a 5 million OAX token
 
 On the other hand, if the number of eligible sign-ups is 20 million tokens, the ratio becomes 1 token for every 4 tokens held. A 10,000-token average daily balance over the airdrop period will entitle the holder to 2,500 airdrop tokens.
 
-For any inquries, please email us at [info@oax.org](info@oax.org).
+For any inquries, please email us at [info@oax.org](mailto:info@oax.org).

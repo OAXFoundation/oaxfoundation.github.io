@@ -25,37 +25,23 @@ One thing for certain is that we will see index providers constantly adjusting a
 
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-**Want to know the latest from OAX Foundation?**
-
-**More about OAX Foundation**
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  

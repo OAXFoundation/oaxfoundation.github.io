@@ -12,7 +12,6 @@ Several of the team members at [OAX Foundation](https://www.oax.org/en) come fro
 Our General Manager, Amanda Liu, ran the corporate and investment banking team for [Banco Santander](https://www.enterprisetimes.co.uk/2019/02/18/banco-santander-to-accelerate-transformation-with-ibm-blockchain/) in Hong Kong and was head of large corporates for [ANZ](https://bluenotes.anz.com/posts/2018/01/longread-everything-you-ll-ever-need-to-know-about-blockhain-and-more) Bank, also in Hong Kong. And Winnie Mak, our Executive Director of Corporate Finance, was an equity research director for [Deutsche Bank](https://www.db.com/company/en/cryptocurrencies-and-blockchain.htm), while Raphael Tressieres, our Business Development Director, was a tech investment banker at [BNP Paribas](https://securities.bnpparibas.com/insights/what-is-blockchain.html).
 
 ###### 1. Do you see this as an important endorsement of blockchain and cryptocurrency by a mainstream financial institution?
-
 **Amanda:** Even before Monday’s news you already had projects out there like [Ripple](https://ethereumworldnews.com/banco-santander-to-expand-ripple-xrp-powered-payment-platform-to-more-european-countries/) that involved mainstream banks. But of course having one of the world’s biggest financial institutions making such an announcement is an important endorsement for blockchain. The more banks that make moves like this the stronger the testament will be that [blockchain can really help transform traditional finance](https://www.ubs.com/microsites/innovation/en/teasers/_jcr_content/mainpar/gridcontrol/col1/actionbutton.1656714339.file/bGluay9wYXRoPS9jb250ZW50L2RhbS91YnMvbWFnYXppbmVzL2lubm92YXRpb24vZG9jdW1lbnRzL3doaXRlcGFwZXItMTkwNTE2LnBkZg==/whitepaper-190516.pdf).
 
 ###### 2. Following this news, do you expect many other banks to accelerate their development or adoption of blockchain technology?
@@ -45,37 +44,23 @@ These are all signs that more banks are now realizing that Blockchain / FinTech 
 
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-Want to know the latest from OAX Foundation?
-
-More about OAX Foundation
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  

@@ -8,8 +8,7 @@ _The OAX platform has been in [testnet environment](https://www.oax.org/en/testn
 
 About a month ago the [OAX Foundation](https://www.oax.org/en) and Enuma released a [prototype SDK](https://github.com/OAXFoundation/oax-client) of our trustless exchange prototype. In this post we would like to provide an accessible overview of the technology behind it.
 
-##### Introduction
-
+##### Introduction  
 Life is full of trade-offs. Blockchains are (or should be) decentralized and trustless. But these qualities come at a cost: blockchains with proof of work are slow and “inefficient” and require large amounts of compute and storage resources to operate.
 
 The increased popularity of blockchain backed cryptocurrencies over the last decade has given rise to many crypto exchanges where clients exchange different cryptocurrencies and fiat money. The vast majority of these exchanges are centralized and custodian. Meaning they store the private cryptographic keys on the users’ behalf giving the exchange complete control over all the assets the users holds on the exchange. The users thus find themselves at the mercy of the exchange’s behavior and security measures; flying straight in the face off what blockchains were made for.
@@ -18,8 +17,7 @@ Over the last few years a few decentralized exchanges have been launched to miti
 
 In turns out however that if we relax the decentralization restriction we can build non-custodial and trustless intermediaries that scale well and have no collateral requirements such as the NOCUST payment hub[2](https://blog.enuma.io/update/2019/03/08/trustless-noncustodial-exchange.html#fn:2) and what’s described here.
 
-##### Trustless Exchange
-
+##### Trustless Exchange  
 On a very high level such a trustless exchange stacks up as follows against traditional centralized exchanges and decentralized exchanges with blockchain settlement.
 
 ![]({{ site.baseurl }}/img/blog-images/table_compare_different_solutions.png)
@@ -32,8 +30,7 @@ The timeline is divided into rounds. The operator maintains a ledger with the cl
 
 The clients must ask the operator for a proof of their balance and verify its correctness. If the operator is cheating, they can file a dispute via a smart contract which — if successful — shuts down the system, reverts the balances to the last known good state and opens the balances up for withdrawal by the clients.
 
-##### Architecture
-
+##### Architecture  
 ![]({{ site.baseurl }}/img/blog-images/diagram_of_offchain_and_blockchain.png)
 
 The basic building blocks of such a systems are
@@ -57,8 +54,7 @@ The basic building blocks of such a systems are
 
     2. Interact with the Mediator to verify information and lodge disputes if necessary.
 
-##### Merkle Trees
-
+##### Merkle Trees  
 To enforce the protocol, the smart contract requires knowledge of the clients balances but storing those balances on the blockchain would be expensive and scale poorly. This problem is solved with the help of a cryptographic data structure called the [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree).
 
 A Merkle tree has the interesting property where changing any part of it will result in a completely different Merkle tree root. In the beginning of a round the Operator commits the root of the balance Merkle tree (where each leaf contains the balance of one client) to the blockchain. This aggregates the result of the activities (trading, payments, …) in the previous round.
@@ -70,7 +66,7 @@ Thanks to the _collision resistant hash functions_ used to build the Merkle tree
 
 This way the balances need not be stored on the blockchain (which would not scale) but the smart contract is nevertheless able to carry out operations that require knowledge of the balance such as dispute and withdrawal handling.
 
-##### Protocol Outline
+##### Protocol Outline  
 1. Operation
 
     1. Clients deposit assets into the mediator 
@@ -89,8 +85,7 @@ This way the balances need not be stored on the blockchain (which would not scal
 
          2. If the operator cheated, they’re unable to close the dispute. The system comes to a halt and the balances are rolled back to the last known good state. Users can then withdraw their assets to their wallets.
 
-##### Trading
-
+##### Trading  
 Inspired by the payment hub from NOCUST we set out to build a trading application. Two desirable requirements for an exchange are
 • Funds should not be moved unless an order signed by the client authorizes it.
 
@@ -100,8 +95,7 @@ To implement this we needed to enable the operator to prove via the smart contra
 
 On a high level, users sign authorization messages to swap asset quantities and send them to the exchange. The exchange creates “fills” whenever a trade execution takes place. In case of a dispute the client and exchange may send authorization messages and fills, together with Merkle proofs to the mediator smart contract who takes care of arbitrating the dispute.
 
-##### Integration with existing exchanges
-
+##### Integration with existing exchanges  
 Our layer 2 solution can be integrated with existing exchanges. It mainly requires
 
 • Deploying the mediator smart contract.
@@ -116,53 +110,36 @@ Through this integration any centralized exchange can offer a trustless version 
 
 Non-custodial exchanges require less trust among the users than the traditional centralized exchanges. _You hold your keys!_ While our solution doesn’t prevent an exchange from front-running it does provide users with more security in case of security breaches, bugs or malicious behavior on the exchange side. Notably if you don’t have any open orders, your balances cannot be modified at all.
 
-##### Acknowledgement
-
+##### Acknowledgement  
 Thanks David Leung, Lionello Lunesu, Philippe Camacho and Sunny Cheung for valuable feedback and questions.
 
-##### Author
-
+##### Author  
 [Mathis Antony](https://github.com/sveitser/), Software Design Engineer, Enuma Technologies
 
-##### Reference
-
+##### Reference  
 1. Miller, Andrew, et al. “Sprites: Payment channels that go faster than lightning.” arXiv preprint arXiv:1702.05812 (2017). [https://arxiv.org/pdf/1702.05812](https://arxiv.org/pdf/1702.05812)
 2. Khalil, Rami, and Arthur Gervais. Nocust–a non-custodial 2 nd-layer financial intermediary. Cryptology ePrint Archive, Report 2018/642. [https://eprint.iacr.org/2018/642](https://eprint.iacr.org/2018/642), 2018. 
 3. McCorry, Patrick, et al. “Pisa: Arbitration Outsourcing for State Channels.” IACR Cryptology ePrint Archive 2018 (2018): 582. [https://eprint.iacr.org/2018/582](https://eprint.iacr.org/2018/582) 
 
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-**Want to know the latest from OAX Foundation?**
-
-**More about OAX Foundation**
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  

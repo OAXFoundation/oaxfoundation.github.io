@@ -29,40 +29,26 @@ The good news is that lately, exchanges and technology companies alike are launc
 During the same month, [Bakkt](https://www.bakkt.com/index), another crypto exchange, said that it has [acquired Digital Asset Custody Company](https://www.yahoo.com/news/bakkt-announces-acquisition-digital-asset-083011945.html), a custodian of digital assets. In March, Shuttle Holdings, a New York-based investment firm, launched the beta version of a [custody solution for digital assets](https://www.theblockcrypto.com/tiny/ibm-teams-up-with-shuttle-holdings-to-launch-a-custody-solution/) built on IBM’s private cloud and encryption technologies. The solution can be used by exchanges, banks, brokers, funds, custodians or any investors who want to do self-custody.
 
 With more players joining the race to come up with safer and more reliable custody solutions, it may also open the door for more institutional investment to come into the space, bringing us closer to our goal of mass adoption of digital assets.
-  
+
 ---
 
-**Got a Question?**
+**Got a Question?**  
+**Want to know the latest from OAX Foundation?**  
 
-Want to know the latest from OAX Foundation?
-
-More about OAX Foundation
-
-[www.oax.org](https://www.oax.org)
-
+**More about OAX Foundation**  
+[www.oax.org](https://www.oax.org)  
 [Medium](https://medium.com/@OAX_Foundation)  
-  
 
-**Reach out to OAX Foundation via e-mail:**
+**Reach out to OAX Foundation via e-mail:**  
+Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
+Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
 
-Collaboration Proposals: [ProjectStallman@oax.org](ProjectStallman@oax.org)
-
-Other Inquiries: [Info@oax.org](Info@oax.org)
-
-**Social Media:**
-
-[Discord](https://discordapp.com/invite/ZH5YHkb)
-
-[Youtube](https://bit.ly/2Bvsk73)
-
-[Twitter](https://twitter.com/OAX_Foundation)
-
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)
-
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)
-
-[Reddit](https://www.reddit.com/r/OpenANX/)
-
-[Telegram English](https://t.me/openanxteam)
-
-[Telegram Chinese](https://t.me/oax_cn)
+**Social Media:**  
+[Discord](https://discordapp.com/invite/ZH5YHkb)  
+[Youtube](https://bit.ly/2Bvsk73)  
+[Twitter](https://twitter.com/OAX_Foundation)  
+[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
+[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
+[Reddit](https://www.reddit.com/r/OpenANX/)  
+[Telegram English](https://t.me/openanxteam)  
+[Telegram Chinese](https://t.me/oax_cn)  

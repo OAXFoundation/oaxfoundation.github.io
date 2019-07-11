@@ -19,7 +19,7 @@ All you have to do is give us a (truthful) story about a time you traded on a ce
 They are pretty simple.
 1. Story must be your own experience.
 2. Story can be any length but we recommend under 1 page of single spaced text (around 500 words)
-3. Story can be shared with us via email at [communitymgmt@oax.org](communitymgmt@oax.org)
+3. Story can be shared with us via email at [communitymgmt@oax.org](mailto:communitymgmt@oax.org)
 Tweeted to us (if its short) [OAX](https://medium.com/@OAX_Foundation)
 4. Posted on the "bounty" channel on the Project Slack 
 5. Posted on the [Facebook page](https://www.facebook.com/oaxfoundation/photos/a.1570118639693488/1609036342468384/?type=3&theater)

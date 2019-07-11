@@ -20,4 +20,4 @@ Amanda Liu, General Manager of OAX Foundation, said, “The launch today of the 
 
 The prototype is now accessible at the following URL: [https://dex.demo.oax.org/](https://dex.demo.oax.org/)
 
-Contact us at: [info@oax.org](info@oax.org)
+Contact us at: [info@oax.org](mailto:info@oax.org)
