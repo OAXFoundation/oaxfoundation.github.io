@@ -47,6 +47,12 @@ window.cookieconsent.initialise({
     "href": "{{ site.baseurl }}/privacy"
   }
 })});
+
+$( '#navbar-header .navbar-nav a' ).on( 'click', function () {
+  console.log('nav clicked');
+	$( '#navbar-header .navbar-nav' ).find( 'li.active' ).removeClass( 'active' );
+	$( this ).parent( 'li' ).addClass( 'active' );
+});
 </script>
 
 <!--
