@@ -552,7 +552,6 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #655E7A;
 }
 #portfolio-work .block .portfolio-contant ul img {
-  width: 100%;
   height: auto;
 }
 #portfolio-work .block .portfolio-contant .overly {
@@ -734,6 +733,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
 }
+
 /*--
 	wrapper-contact Start
 --*/
@@ -814,7 +814,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 400;
 }
 .heading p {
-  font-size: 18px;
+  font-size: 28px;
   line-height: 40px;
   color: #292929;
   font-weight: 300;
