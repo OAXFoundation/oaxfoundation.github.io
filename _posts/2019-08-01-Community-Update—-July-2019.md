@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Wayland Chan, Director of Technology, OAX Foundation
+author: OAX Foundation
 ---
 ![]({{ site.baseurl }}/img/blog-images/community-updates_july2019.jpeg)
 
