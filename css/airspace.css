@@ -481,7 +481,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-menu ul .active:before {
   content: "\f0d7";
   position: absolute;
-  font-family: 'FontAwesome';
+  font-family: 'Font Awesome 5 Free';
   bottom: -18px;
   font-size: 30px;
   width: 20px;
@@ -500,7 +500,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-menu ul li:hover:before {
   content: "\f0d7";
   position: absolute;
-  font-family: 'FontAwesome';
+  font-family: 'Font Awesome 5 Free';
   bottom: -18px;
   font-size: 30px;
   width: 20px;
