@@ -4,9 +4,6 @@ author: OAX Foundation
 ---
 ![]({{ site.baseurl }}/img/blog-images/l2x_protocol_release.jpeg)
 
-•	Layer 2 Exchange (L2X) protocol code released open source  
-•	New version includes on-chain dispute resolution
-
 **HONG KONG – 12 August 2019 –** OAX Foundation has today released the code for its Layer 2 Exchange (L2X) protocol, marking the completion of a major milestone for the project.
 
 Currently, digital asset trading either takes place on centralized exchanges, which have persistently proved vulnerable to hacking, or in decentralized environments, which have speed and governance issues.  OAX Foundation, working with its development partner, Enuma Technologies, has built a trustless exchange platform that combines the best elements of each system.
