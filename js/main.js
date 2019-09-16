@@ -10,6 +10,12 @@ $(document).ready(function(){
 		$( this ).parent( 'li' ).addClass( 'active' );
 	});
 
+	/* OpenMinds Customization Starts */
+
+	
+
+	/* OpenMinds Customization Ends */
+
 });
 
 
