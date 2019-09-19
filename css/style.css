@@ -53,6 +53,16 @@
   font-size: 48px;
 }
 
+h2.section-title {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #1A467E;
+}
+
 /* OpenMinds Customization - header */
 
 header {
@@ -140,6 +150,29 @@ header {
   padding-bottom: 50px;
 }
 
+#portfolio-work .block .portfolio-menu ul {
+  border: 1px solid #1A467E;
+
+}
+
+#portfolio-work .block .portfolio-menu ul li {
+  color: #828282;
+  padding: 10px 30px;
+  font-size: 20px;
+  letter-spacing: 20%;
+  font-weight: 400;
+}
+
+#portfolio-work .block .portfolio-menu ul .active, #portfolio-work .block .portfolio-menu ul li:hover {
+  color: #1A467E;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#portfolio-work .block .portfolio-menu ul .active:before, #portfolio-work .block .portfolio-menu ul li:hover:before {
+  content: "";
+}
+
 #portfolio-work .block .portfolio-contant ul img {
   border-radius: 0px !important;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -190,6 +223,30 @@ header {
 .portfolio-contant h5 {
   padding-top: 10px;
   visibility: hidden;
+}
+
+#section-partner {
+  background-color: #F2F2F2;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#section-corporate-support {
+  background-color: inherit;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#section-partner .partner-logos, #section-corporate-support .partner-logos {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#section-partner .partner-logos a, #section-corporate-support .partner-logos a {
+  display: block;
+  text-align:center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media only screen and (max-width: 768px) {
