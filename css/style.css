@@ -120,6 +120,42 @@ header {
   font-weight: 600;
 }
 
+/* OpenMinds Customization - Footer */
+footer {
+  background: #4F4F4F;
+  color: #fff;
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+footer .quicklinks li {
+  font-size: 10px;
+}
+
+footer .social-buttons {
+  padding-bottom: 10px;
+}
+
+footer .copyright {
+  display: block;
+  padding-bottom: 10px;
+}
+
+footer a {
+  color: #fff;  
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+footer a:hover, footer a:focus, footer a:active {
+  text-decoration: underline !important;
+  color: #fff;
+}
+
+footer .social-buttons a:hover, footer .social-buttons a:active {
+  color: #007bff;
+}
+
 /* OpenMinds Customization - Team */
 
 #global-header {
@@ -223,6 +259,21 @@ header {
 .portfolio-contant h5 {
   padding-top: 10px;
   visibility: hidden;
+}
+
+.portfolio-contant .modal-content {
+  border-radius: 0px;
+}
+
+.portfolio-contant .modal-footer {
+  justify-content: center;
+  border-top: none;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.portfolio-contant .modal-footer .btn {
+  border-radius: 0px;
 }
 
 #section-partner {
