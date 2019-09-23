@@ -158,7 +158,7 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 
 /* OpenMinds Customization - Team */
 
-#global-header {
+ #global-header {
   background: url(../img/header-background-general.png) no-repeat;
   padding-top: 130px;
 }
@@ -261,15 +261,52 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   visibility: hidden;
 }
 
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 700px;
+  }
+}
+
+
 .portfolio-contant .modal-content {
   border-radius: 0px;
 }
 
+.portfolio-contant .modal-content .modal-body {
+  border: 1px solid #1A467E;
+  border-bottom: none;
+  margin: 15px 15px 0px 15px;
+  color: #4F4F4F;
+}
+
+.portfolio-contant .modal-content .modal-body .member-photo-name img {
+  display: block;
+  margin: 0px auto;
+}
+
+.portfolio-contant .modal-content .modal-body .member-photo-name span {
+  display: block;
+  color: #1A467E;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 0px;
+  text-align: center;
+}
+
 .portfolio-contant .modal-footer {
   justify-content: center;
-  border-top: none;
   border-bottom-right-radius: 0px;
   border-bottom-left-radius: 0px;
+  border: 1px solid #1A467E;
+  border-top: none;
+  margin: 0px 15px 15px 15px;
+}
+
+.portfolio-contant .modal-footer .btn {
+  text-transform: uppercase;
+  padding: 0.75rem 3rem;
+  background-color: #4F4F4F;
 }
 
 .portfolio-contant .modal-footer .btn {
@@ -306,6 +343,66 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
     visibility: visible;
   }
 
+}
+
+/* OpenMinds Customization - Blog */
+
+#blog-header {
+  background: url(../img/header-background-general.png) no-repeat;
+  padding-top: 130px;
+}
+
+#blog-header:before {
+  background: transparent;
+}
+
+#blog-header .block h1 {
+  color:#1A467E;
+  text-transform: uppercase;
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+}
+
+#blog-page-body .post-area {
+  display: flex;
+}
+
+#blog-page-body .post-area .post-area-content {
+  background: #F2F2F2;
+  padding: 20px 30px;
+  flex: 3;
+  display: flex;                 /* create nested flex container */
+  /*flex-wrap: wrap;       */        /* enable flex items to wrap */ 
+  flex-direction: column;
+  
+}
+
+#blog-page-body .post-area .post-area-content a.post-entry-title {
+  font-size: 20px;
+  color: #1A467E;
+  min-height: 95px;
+}
+
+
+#blog-page-body .post-area .post-excerpt {
+  
+}
+
+#blog-page-body .post-area .post-date {
+  display: block;
+  font-size: 11px;
+}
+
+#blog-page-body .post-area .btn-read-more {
+  background: #1A467E;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  display: inline-block;
+  margin: auto auto 0px;
+  align-self: flex-end;
 }
 
 /* OpenMinds Customization Ends */
