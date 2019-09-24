@@ -366,6 +366,7 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 
 #blog-page-body .post-area {
   display: flex;
+  border-bottom: none;
 }
 
 #blog-page-body .post-area .post-area-content {
@@ -375,22 +376,30 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   display: flex;                 /* create nested flex container */
   /*flex-wrap: wrap;       */        /* enable flex items to wrap */ 
   flex-direction: column;
-  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
 }
 
 #blog-page-body .post-area .post-area-content a.post-entry-title {
   font-size: 20px;
   color: #1A467E;
-  min-height: 95px;
+  display: inline-flex;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
 }
 
 
 #blog-page-body .post-area .post-excerpt {
-  
+  display: inline-flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #blog-page-body .post-area .post-date {
-  display: block;
+  display: inline-flex;
+  margin-top: auto;
+  margin-bottom: 10px;
   font-size: 11px;
 }
 
@@ -398,11 +407,16 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   background: #1A467E;
   text-transform: uppercase;
   color: #fff;
-  padding: 10px 20px;
+  padding: 10px 25px;
   font-size: 16px;
-  display: inline-block;
-  margin: auto auto 0px;
+  display: inline-flex;
+  margin: 10px auto;
   align-self: flex-end;
+  font-weight: bold;
+}
+
+#blog-page-body .post-area .btn-read-more:hover {
+  background: #4F4F4F;
 }
 
 /* OpenMinds Customization Ends */
