@@ -156,6 +156,64 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   color: #007bff;
 }
 
+/* OpenMinds Customization - Home */
+#slider {
+  background: url(../img/oax-home-banner-v2.jpg) no-repeat center top;
+  background-size: contain;
+}
+
+#slider:before {
+  display:none;
+}
+
+#timeline-title {
+  background: #F2F2F2;
+  padding: 35px 20px 20px;
+}
+
+#timeline-title h2 {
+  color: #1A467E;
+  font-size: 25px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#timeline-title p {
+  color: #4F4F4F;
+  font-size: 16px;
+  text-align: center;
+}
+
+#homepage-timeline {
+  padding: 50px 20px;
+}
+
+#homepage-timeline .timeline:before {
+  display: none;
+}
+
+#homepage-timeline .events a {
+  font-size: 1.2em;
+  letter-spacing: 2px;
+  color: #828282;
+  line-height: 1.05em;
+}
+
+#homepage-timeline .events a br {
+  /*
+  display: inline;
+  content: "";
+  padding: 0px 2px;
+  */
+}
+
+#homepage-timeline .events-content ol li {
+  list-style-type: none;
+  background: transparent;
+}
+
 /* OpenMinds Customization - Team */
 
  #global-header {
@@ -417,6 +475,84 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 
 #blog-page-body .post-area .btn-read-more:hover {
   background: #4F4F4F;
+}
+
+
+/* OpenMinds Customization - Resources */
+
+#resources-page-body {
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+#resources-page-body .category-title {
+  color: #1A467E;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 50px 25px 0px;
+}
+
+#resources-page-body .post-area {
+  border-bottom: none;
+}
+
+#resources-page-body .post-area .post-area-content {
+  background: #F2F2F2;
+  padding: 30px 35px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
+
+#resources-page-body .post-area .post-area-content h3.post-entry-title {
+  font-size: 20px;
+  color: #1A467E;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+#resources-page-body .post-area .post-excerpt {
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+
+#resources-page-body .post-area .post-note {
+  margin-top: auto;
+  margin-bottom: 0px;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+#resources-page-body a.download-link {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  color:#1A467E;
+}
+
+#resources-page-body a.download-link:hover {
+  font-weight: 400;
+}
+
+#resources-page-body a.download-button {
+  display: inline-block;
+  font-size: 16px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color:#1A467E;
+}
+
+#resources-page-body a.download-button::after {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: "\f0a9"; 
+  padding-left: 10px;
+}
+
+#resources-page-body a.download-button:hover {
+  text-decoration: underline;
 }
 
 /* OpenMinds Customization Ends */
