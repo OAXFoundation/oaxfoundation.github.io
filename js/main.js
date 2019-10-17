@@ -14,10 +14,11 @@ $(document).ready(function(){
 
 	// Homepage Timeline
 	$('#home-timeline').horizontalTimeline({
-		desktopDateIntervals: 300, 
+		
+		desktopDateIntervals: 200, 
 		tabletDateIntervals: 150, 
 		mobileDateIntervals: 120, 
-		minimalFirstDateInterval: true,  
+		minimalFirstDateInterval: false,  
 		dateDisplay: "monthYear", // dateTime, date, time, dayMonth, monthYear, year 
 		dateOrder: "normal", // normal, reverse  
 		autoplay: false, 
@@ -36,7 +37,7 @@ $(document).ready(function(){
 		prev_iconClass: "fa-chevron-left", 
 		next_iconClass: "fa-chevron-right", 
 		pause_iconClass: "fa-pause-circle", 
-		play_iconClass: "fa-play-circle"
+		play_iconClass: "fa-play-circle" 
 	});
 	
 

@@ -63,6 +63,27 @@ h2.section-title {
   color: #1A467E;
 }
 
+h2.section-title-left {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  text-align: left;
+  text-transform: uppercase;
+  color: #1A467E;
+}
+
+a.oax-learn-more-button {
+  background-color: #4F4F4F;
+  display: inline-block;
+  color: #F2F2F2;
+  padding: 20px 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
 /* OpenMinds Customization - header */
 
 header {
@@ -160,10 +181,18 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 #slider {
   background: url(../img/oax-home-banner-v2.jpg) no-repeat center top;
   background-size: contain;
+  padding-bottom: 100px;
 }
 
 #slider:before {
   display:none;
+}
+
+#intro .block p {
+  color: #4F4F4F;
+  line-height: 1.4em;
+  font-size: 16px;
+  margin-bottom: 0px;
 }
 
 #timeline-title {
@@ -194,24 +223,93 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   display: none;
 }
 
-#homepage-timeline .events a {
-  font-size: 1.2em;
-  letter-spacing: 2px;
-  color: #828282;
-  line-height: 1.05em;
+#homepage-timeline .milestone-container {
+  margin: 0px auto;
+  width: 90%;
+  max-width: 900px;
 }
 
-#homepage-timeline .events a br {
-  /*
-  display: inline;
-  content: "";
-  padding: 0px 2px;
-  */
+#homepage-timeline .events a {
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: #828282;
+  line-height: 1.2em;
+}
+
+#homepage-timeline .horizontal-timeline .events a::after {
+  height: 20px;
+  width: 20px;
+  background-color: #4F4F4F;
+  bottom: -8px;
+  left: 11px;
+}
+
+#homepage-timeline .horizontal-timeline .events a.older-event::after {
+  background-color: #1A467E;
+}
+
+#homepage-timeline .horizontal-timeline .events a.selected::after {
+  height: 28px;
+  width: 28px;
+  bottom: -13px;
+  left: 9px;
+  background-color: #F7CF64;
+}
+
+#homepage-timeline .horizontal-timeline .events {
+  background: #BDBDBD;
+  height: 3px;
+}
+
+#homepage-timeline .horizontal-timeline .filling-line {
+  background-color: #BDBDBD;
+  
 }
 
 #homepage-timeline .events-content ol li {
   list-style-type: none;
   background: transparent;
+}
+
+#homepage-timeline .events-content h3.milestone-title {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #1A467E;
+}
+
+#homepage-timeline .events-content .milestone-category {
+  font-size: 11px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  font-style: italic;
+  color: #1A467E;
+}
+
+#homepage-timeline .events-content h3.milestone-title.tech, #homepage-timeline .events-content .milestone-category.tech {
+  color: #F7CF64;
+}
+
+#homepage-timeline .events-content .milestone-content {
+  margin-top: 50px;
+}
+
+#homepage-timeline .events-content p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #4F4F4F;
+}
+
+#homepage-timeline .events-content .milestone-big-icon {
+  background: url(../img/oax-milestone-tech-image.png) no-repeat top center;
+  width: 100%;
+  height: 100%;
+  max-width: 180px;
+  min-height: 180px;
+  background-size: contain;
+  margin: 30px auto;
 }
 
 /* OpenMinds Customization - Team */
