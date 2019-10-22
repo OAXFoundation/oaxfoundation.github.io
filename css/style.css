@@ -179,13 +179,20 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 
 /* OpenMinds Customization - Home */
 #slider {
-  background: url(../img/oax-home-banner-v2.jpg) no-repeat center top;
+  background: url(../img/oax-home-banner-v4.jpg) no-repeat center top;
+  padding-bottom: 0px;
   background-size: contain;
-  padding-bottom: 100px;
 }
 
 #slider:before {
   display:none;
+}
+
+#slider .block p {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 40px; 
+  text-transform: uppercase;
 }
 
 #intro .block p {
@@ -194,6 +201,22 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   font-size: 16px;
   margin-bottom: 0px;
 }
+
+/* Homepage slider responsive optimization */
+@media screen and (min-width:1681px) { #slider { height: 689px; padding-top: 280px ; padding-bottom: 0px; } }
+@media screen and (min-width:1441px) and (max-width:1680px) { #slider { height: 620px; padding-top: 280px ; padding-bottom: 0px; } }
+@media screen and (min-width:1281px) and (max-width:1440px) { #slider { height: 520px; padding-top: 240px ; padding-bottom: 0px; } }
+@media screen and (min-width:1025px) and (max-width:1280px) { #slider { height: 470px; padding-top: 180px ; padding-bottom: 0px; } }
+@media screen and (min-width:961px) and (max-width:1024px) { #slider { height: 380px; padding-top: 140px ; padding-bottom: 0px; } }
+@media screen and (min-width:641px) and (max-width:960px)  { #slider { height: 300px; padding-top: 60px ; padding-bottom: 0px; } }
+@media screen and (min-width:481px) and (max-width:640px)  { #slider { height: 240px; padding-top: 70px ; padding-bottom:0px; } }
+@media screen and (min-width:321px) and (max-width:480px)  { #slider { height: 200px; padding-top: 60px !important; padding-bottom:0px !important; }  #slider .block p { font-size: 20px; line-height: 25px; text-align:center; } #intro { padding-top:0px; } }
+@media screen and (min-width:1px) and (max-width:320px)  { #slider { height: 120px; padding-top: 40px !important; padding-bottom:0px !important; }  #slider .block p { font-size: 14px; line-height: 18px; text-align:center; } #intro { padding-top:0px; } }
+
+
+
+
+
 
 #timeline-title {
   background: #F2F2F2;
@@ -236,6 +259,11 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   line-height: 1.2em;
 }
 
+#homepage-timeline .horizontal-timeline .events a.selected {
+  color: #1A467E;
+  font-weight: bold;
+}
+
 #homepage-timeline .horizontal-timeline .events a::after {
   height: 20px;
   width: 20px;
@@ -273,15 +301,15 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 
 #homepage-timeline .events-content h3.milestone-title {
   font-weight: bold;
-  font-size: 25px;
-  line-height: 30px;
+  font-size: 30px;
+  line-height: 1.2em;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: #1A467E;
 }
 
 #homepage-timeline .events-content .milestone-category {
-  font-size: 11px;
+  font-size: 13px;
   line-height: 12px;
   letter-spacing: 0.2em;
   font-style: italic;
@@ -293,30 +321,41 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 }
 
 #homepage-timeline .events-content .milestone-content {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 #homepage-timeline .events-content p {
   font-size: 16px;
-  line-height: 22px;
+  line-height: 1.5em;
   color: #4F4F4F;
 }
 
-#homepage-timeline .events-content .milestone-big-icon {
+#homepage-timeline .events-content .milestone-big-icon-tech {
   background: url(../img/oax-milestone-tech-image.png) no-repeat top center;
   width: 100%;
   height: 100%;
   max-width: 180px;
   min-height: 180px;
   background-size: contain;
-  margin: 30px auto;
+  margin: 50px auto 30px;
+}
+
+#homepage-timeline .events-content .milestone-big-icon-business {
+  background: url(../img/oax-milestone-business-image.png) no-repeat top center;
+  width: 100%;
+  height: 100%;
+  max-width: 180px;
+  min-height: 180px;
+  background-size: contain;
+  margin: 50px auto 30px;
 }
 
 /* OpenMinds Customization - Team */
 
  #global-header {
-  background: url(../img/header-background-general.png) no-repeat;
+  background: url(../img/header-background-general.png) no-repeat top center;
   padding-top: 130px;
+  background-size: cover;
 }
 
 #global-header:before {
@@ -368,6 +407,10 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 #portfolio-work .block .portfolio-contant ul img {
   border-radius: 0px !important;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#portfolio-work .block .portfolio-contant ul li div[align="middle"] {
+  text-align: center;
 }
 
 .portfolio-contant .team-overlay {
@@ -504,8 +547,9 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 /* OpenMinds Customization - Blog */
 
 #blog-header {
-  background: url(../img/header-background-general.png) no-repeat;
+  background: url(../img/header-background-general.png) no-repeat top center;
   padding-top: 130px;
+  background-size: cover;
 }
 
 #blog-header:before {
