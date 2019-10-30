@@ -52,6 +52,8 @@
   text-transform: uppercase;
   font-size: 2.4em;
   letter-spacing: 0.15em;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 h2.section-title {
@@ -202,11 +204,12 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 }
 
 #slider .block p {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px;
+  font-family: 'Open Sans';
   line-height: 27px; 
   color: #fff;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.5px;
 }
 
 #slider .block p span {
@@ -226,31 +229,27 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
 }
 
 /* Homepage slider responsive optimization */
-@media screen and (min-width:1681px) { #slider { height: 689px; padding-top: 220px ; padding-bottom: 0px; } #slider .block p { font-size: 22px; } }
+@media screen and (min-width:1681px) { #slider { height: 689px; padding-top: 200px ; padding-bottom: 0px; } #slider .block p { font-size: 22px; } }
 
-@media screen and (min-width:1441px) and (max-width:1680px) { #slider { height: 620px; padding-top: 210px ; padding-bottom: 0px; } }
+@media screen and (min-width:1441px) and (max-width:1680px) { #slider { height: 620px; padding-top: 190px ; padding-bottom: 0px; } }
 
-@media screen and (min-width:1281px) and (max-width:1440px) { #slider { height: 520px; padding-top: 170px ; padding-bottom: 0px; } }
+@media screen and (min-width:1281px) and (max-width:1440px) { #slider { height: 520px; padding-top: 150px ; padding-bottom: 0px; } }
 
-@media screen and (min-width:1200px) and (max-width:1280px) { #slider { height: 470px; padding-top: 150px ; padding-bottom: 0px; } }
+@media screen and (min-width:1200px) and (max-width:1280px) { #slider { height: 470px; padding-top: 130px ; padding-bottom: 0px; } }
 
-@media screen and (min-width:1025px) and (max-width:1199px) { #slider { height: 430px; padding-top: 90px ; padding-bottom: 0px; } #slider .block p { font-size: 20px; } #slider .block p span { font-size: 14px; } }
+@media screen and (min-width:1025px) and (max-width:1199px) { #slider { height: 430px; padding-top: 70px ; padding-bottom: 0px; } #slider .block p { font-size: 20px; } #slider .block p span { font-size: 14px; } }
 
 @media screen and (min-width:991px) and (max-width:1024px) { #slider { height: 380px; padding-top: 90px ; padding-bottom: 0px; } #slider .block p { font-size: 18px; } #slider .block p span { font-size: 12px; } }
 
 @media screen and (min-width:961px) and (max-width: 991px) { #slider { height: 380px; padding-top: 60px ; padding-bottom: 0px; } #slider .block p { font-size: 17px; } #slider .block p span { font-size: 11px; letter-spacing: 0.1em; } }
 
-@media screen and (min-width:768px) and (max-width:960px)  { #slider { height: 300px; padding-top: 50px ; padding-bottom: 0px; } #slider .block p { font-size: 16px; letter-spacing: 0.1em; } #slider .block p span { margin-top: 10px; font-size: 11px; letter-spacing: 0.1em; } }
+@media screen and (min-width:768px) and (max-width:960px)  { #slider { height: 300px; padding-top: 50px ; padding-bottom: 0px; } #slider .block p { font-size: 16px; letter-spacing: 0.5px; } #slider .block p span { margin-top: 10px; font-size: 11px; letter-spacing: 0.1em; } }
 
 @media screen and (min-width:481px) and (max-width:767px)  { #slider { height: 270px; padding-top: 70px ; padding-bottom:0px; } #slider .block p { display:none; } }
 
 @media screen and (min-width:321px) and (max-width:480px)  { #slider { height: 180px; padding-top: 60px !important; padding-bottom:0px !important; }  #slider .block p { display: none; } #intro { padding-top:0px; } }
 
 @media screen and (min-width:1px) and (max-width:320px)  { #slider { height: 120px; padding-top: 40px !important; padding-bottom:0px !important; }  #slider .block p { display: none; } #intro { padding-top:0px; } }
-
-
-
-
 
 
 #timeline-title {
@@ -732,7 +731,9 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   margin-top: auto;
   margin-bottom: 0px;
   font-size: 12px;
-  letter-spacing: 2px;
+  letter-spacing: 0.5px;
+  font-family: Roboto;
+  font-weight: 600;
 }
 
 #resources-page-body a.download-link {
@@ -742,6 +743,7 @@ footer .social-buttons a:hover, footer .social-buttons a:active {
   color:#1A467E;
   padding-top: 10px; 
   display: inline-block;
+  letter-spacing: 0.5px;
 }
 
 #resources-page-body a.download-link:hover {
