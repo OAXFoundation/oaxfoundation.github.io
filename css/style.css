@@ -40,3 +40,733 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* OpenMinds Customization Starts */
+
+* {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.block h1.page-main-title {
+  color:#1A467E;
+  text-transform: uppercase;
+  font-size: 2.4em;
+  letter-spacing: 0.15em;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h2.section-title {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #1A467E;
+}
+
+h2.section-title-left {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  text-align: left;
+  text-transform: uppercase;
+  color: #1A467E;
+}
+
+@media screen and (max-width:767px)  { 
+  h2.section-title-left { text-align:center; } 
+}
+
+a.oax-learn-more-button {
+  background-color: #4F4F4F;
+  display: inline-block;
+  color: #F2F2F2;
+  padding: 14px 22px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+a.oax-learn-more-button:hover {
+  background: #1A467E;
+}
+
+@media screen and (max-width:767px)  { 
+  .learn-more-button-container { text-align:center; } 
+}
+
+/* OpenMinds Customization - header */
+
+header {
+  background: #1A467E;
+  padding: 44px 0px;
+}
+
+#navbar-header .navbar-expand-md.bg-light { 
+  background-color: #1A467E !important; 
+  padding-left: 11%;
+  padding-right: 11%;
+}
+
+.navbar-brand img {
+  width: 100%;
+  max-width: 120px;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link {
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding-left: 25px;
+  padding-right: 25px;
+  /*border-bottom: 1px solid transparent;*/
+}
+
+.navbar-light .navbar-nav .nav-item:last-child .nav-link {
+  padding-right: 0px;
+}
+
+.navbar-light .navbar-nav .nav-item:first-child .nav-link {
+  padding-left: 0px;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-light .navbar-nav .nav-item .nav-link {
+    padding-left: 0px;
+  }
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(255,255,255,1);
+  border-color: rgba(255,255,255,1);
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(255,255,255,1);
+  /*border-color: #fff;*/
+  text-decoration: underline !important;
+  font-weight: 600;
+}
+
+/* OpenMinds Customization - Footer */
+footer {
+  background: #4F4F4F;
+  color: #fff;
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+footer .quicklinks li {
+  font-size: 10px;
+}
+
+footer .social-buttons {
+  padding-bottom: 10px;
+}
+
+footer .copyright {
+  display: block;
+  padding-bottom: 10px;
+}
+
+footer a {
+  color: #fff;  
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+footer a:hover, footer a:focus, footer a:active {
+  text-decoration: underline !important;
+  color: #fff;
+}
+
+footer .social-buttons a:hover, footer .social-buttons a:active {
+  color: #007bff;
+}
+
+/* OpenMinds Customization - Home */
+#slider {
+  background: url(../img/oax-home-banner-v6.jpg) no-repeat center top;
+  padding-bottom: 0px;
+  background-size: contain;
+}
+
+#slider:before {
+  display:none;
+}
+
+#slider .block p {
+  font-weight: normal;
+  font-size: 20px;
+  font-family: 'Open Sans';
+  line-height: 27px; 
+  color: #fff;
+  letter-spacing: 0.5px;
+}
+
+#slider .block p span {
+  display: block;
+  font-weight: normal;
+  text-align: right;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 20px;
+}
+
+#intro .block p {
+  color: #4F4F4F;
+  line-height: 1.4em;
+  font-size: 16px;
+  margin-bottom: 0px;
+}
+
+/* Homepage slider responsive optimization */
+@media screen and (min-width:1681px) { #slider { height: 689px; padding-top: 200px ; padding-bottom: 0px; } #slider .block p { font-size: 22px; } }
+
+@media screen and (min-width:1441px) and (max-width:1680px) { #slider { height: 620px; padding-top: 190px ; padding-bottom: 0px; } }
+
+@media screen and (min-width:1281px) and (max-width:1440px) { #slider { height: 520px; padding-top: 150px ; padding-bottom: 0px; } }
+
+@media screen and (min-width:1200px) and (max-width:1280px) { #slider { height: 470px; padding-top: 130px ; padding-bottom: 0px; } }
+
+@media screen and (min-width:1025px) and (max-width:1199px) { #slider { height: 430px; padding-top: 70px ; padding-bottom: 0px; } #slider .block p { font-size: 20px; } #slider .block p span { font-size: 14px; } }
+
+@media screen and (min-width:991px) and (max-width:1024px) { #slider { height: 380px; padding-top: 90px ; padding-bottom: 0px; } #slider .block p { font-size: 18px; } #slider .block p span { font-size: 12px; } }
+
+@media screen and (min-width:961px) and (max-width: 991px) { #slider { height: 380px; padding-top: 60px ; padding-bottom: 0px; } #slider .block p { font-size: 17px; } #slider .block p span { font-size: 11px; letter-spacing: 0.1em; } }
+
+@media screen and (min-width:768px) and (max-width:960px)  { #slider { height: 300px; padding-top: 50px ; padding-bottom: 0px; } #slider .block p { font-size: 16px; letter-spacing: 0.5px; } #slider .block p span { margin-top: 10px; font-size: 11px; letter-spacing: 0.1em; } }
+
+@media screen and (min-width:481px) and (max-width:767px)  { #slider { height: 270px; padding-top: 70px ; padding-bottom:0px; } #slider .block p { display:none; } }
+
+@media screen and (min-width:321px) and (max-width:480px)  { #slider { height: 180px; padding-top: 60px !important; padding-bottom:0px !important; }  #slider .block p { display: none; } #intro { padding-top:0px; } }
+
+@media screen and (min-width:1px) and (max-width:320px)  { #slider { height: 120px; padding-top: 40px !important; padding-bottom:0px !important; }  #slider .block p { display: none; } #intro { padding-top:0px; } }
+
+
+#timeline-title {
+  background: #F2F2F2;
+  padding: 35px 20px 20px;
+}
+
+#timeline-title h2 {
+  color: #1A467E;
+  font-size: 25px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#timeline-title p {
+  color: #4F4F4F;
+  font-size: 16px;
+  text-align: center;
+}
+
+#homepage-timeline {
+  padding: 50px 20px 47px;
+}
+
+#homepage-timeline .timeline:before {
+  display: none;
+}
+
+#homepage-timeline .milestone-container {
+  margin: 0px auto;
+  width: 90%;
+  max-width: 900px;
+}
+
+#homepage-timeline .events a {
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: #828282;
+  line-height: 1.2em;
+}
+
+#homepage-timeline .horizontal-timeline .events a.selected {
+  color: #1A467E;
+  font-weight: bold;
+}
+
+#homepage-timeline .horizontal-timeline .events a::after {
+  height: 20px;
+  width: 20px;
+  background-color: #4F4F4F;
+  bottom: -8px;
+  left: 11px;
+}
+
+#homepage-timeline .horizontal-timeline .events a.older-event::after {
+  background-color: #1A467E;
+}
+
+#homepage-timeline .horizontal-timeline .events a.selected::after {
+  height: 28px;
+  width: 28px;
+  bottom: -13px;
+  left: 9px;
+  background-color: #F7CF64;
+}
+
+#homepage-timeline .horizontal-timeline .events {
+  background: #BDBDBD;
+  height: 3px;
+}
+
+#homepage-timeline .horizontal-timeline .filling-line {
+  background-color: #BDBDBD;
+  
+}
+
+#homepage-timeline .events-content ol li {
+  list-style-type: none;
+  background: transparent;
+}
+
+#homepage-timeline .events-content h3.milestone-title {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 1.2em;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #1A467E;
+}
+
+#homepage-timeline .events-content .milestone-category {
+  font-size: 13px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  font-style: italic;
+  color: #1A467E;
+  display: block;
+}
+
+#homepage-timeline .events-content h3.milestone-title.tech, #homepage-timeline .events-content .milestone-category.tech {
+  color: #F7CF64;
+}
+
+#homepage-timeline .events-content .milestone-content {
+  margin-top: 30px;
+}
+
+#homepage-timeline .events-content p {
+  font-size: 16px;
+  line-height: 1.5em;
+  color: #4F4F4F;
+}
+
+#homepage-timeline .events-content .milestone-big-icon-tech {
+  background: url(../img/oax-milestone-tech-image.png) no-repeat top center;
+  width: 100%;
+  height: 100%;
+  max-width: 180px;
+  min-height: 180px;
+  background-size: contain;
+  margin: 50px auto 30px;
+}
+
+#homepage-timeline .events-content .milestone-big-icon-business {
+  background: url(../img/oax-milestone-business-image.png) no-repeat top center;
+  width: 100%;
+  height: 100%;
+  max-width: 180px;
+  min-height: 180px;
+  background-size: contain;
+  margin: 50px auto 30px;
+}
+
+@media screen and (max-width:767px)  { 
+  .milestone-big-icon-tech, .milestone-big-icon-business { display:none; } 
+  #homepage-timeline .events-content h3.milestone-title, #homepage-timeline .events-content .milestone-category, #homepage-timeline .events-content .milestone-content { text-align:center; }
+}
+
+
+/* OpenMinds Customization - Team */
+
+ #global-header {
+  background: url(../img/header-background-general.png) no-repeat top center;
+  padding-top: 130px;
+  background-size: cover;
+}
+
+#global-header:before {
+  background: transparent;
+}
+
+#global-header .block h1 {
+  color:#1A467E;
+  text-transform: uppercase;
+  font-size: 2.4em;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+}
+
+#portfolio-work h2 {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #1A467E;
+  padding-bottom: 50px;
+}
+
+#portfolio-work .block .portfolio-menu ul {
+  border: 1px solid #1A467E;
+
+}
+
+#portfolio-work .block .portfolio-menu ul li {
+  color: #828282;
+  padding: 10px 30px;
+  font-size: 20px;
+  letter-spacing: 20%;
+  font-weight: 400;
+}
+
+#portfolio-work .block .portfolio-menu ul .active, #portfolio-work .block .portfolio-menu ul li:hover {
+  color: #1A467E;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#portfolio-work .block .portfolio-menu ul .active:before, #portfolio-work .block .portfolio-menu ul li:hover:before {
+  content: "";
+}
+
+#portfolio-work .block .portfolio-contant ul img {
+  border-radius: 0px !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+  #portfolio-work .block .portfolio-contant ul li { width: 47.5%; }
+}
+
+#portfolio-work .block .portfolio-contant ul li div[align="middle"] {
+  text-align: center;
+}
+
+.portfolio-contant .team-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  
+}
+
+.portfolio-contant .team-overlay .team-overlay-text{
+  text-align: center;
+  margin:0px auto;
+  width:100%;
+  height: 100%;
+  line-height: 200px;
+  max-width: 200px;
+  max-height: 200px;
+  cursor: pointer;
+  background:rgba(26, 70, 126, 0.8);
+}
+
+.portfolio-contant .team-overlay:hover {
+  opacity: 1;
+  transition: opacity .5s ease-out;
+  -moz-transition: opacity .5s ease-out;
+  -webkit-transition: opacity .5s ease-out;
+  -o-transition: opacity .5s ease-out;
+}
+
+.portfolio-contant .team-overlay .team-overlay-text span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.portfolio-contant h5 {
+  padding-top: 10px;
+  visibility: hidden;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 700px;
+  }
+}
+
+
+.portfolio-contant .modal-content {
+  border-radius: 0px;
+}
+
+.portfolio-contant .modal-content .modal-body {
+  border: 1px solid #1A467E;
+  border-bottom: none;
+  margin: 15px 15px 0px 15px;
+  color: #4F4F4F;
+}
+
+.portfolio-contant .modal-content .modal-body .member-photo-name img {
+  display: block;
+  margin: 0px auto;
+}
+
+.portfolio-contant .modal-content .modal-body .member-photo-name span {
+  display: block;
+  color: #1A467E;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 0px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .portfolio-contant .modal-content .modal-body .member-photo-name span { text-align: left; }
+}
+
+.portfolio-contant .modal-footer {
+  justify-content: center;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border: 1px solid #1A467E;
+  border-top: none;
+  margin: 0px 15px 15px 15px;
+}
+
+.portfolio-contant .modal-footer .btn {
+  text-transform: uppercase;
+  padding: 0.75rem 3rem;
+  background-color: #4F4F4F;
+}
+
+.portfolio-contant .modal-footer .btn {
+  border-radius: 0px;
+}
+
+#section-partner {
+  background-color: #F2F2F2;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#section-corporate-support {
+  background-color: inherit;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#section-partner h2.section-title, #section-corporate-support h2.section-title {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+#section-partner .partner-logos, #section-corporate-support .partner-logos {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#section-partner .partner-logos a, #section-corporate-support .partner-logos a {
+  display: block;
+  text-align:center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#section-partner .partner-logos img, #section-corporate-support .partner-logos img {
+  max-width: 80%;
+}
+
+#section-partner .partner-logos .smaller-logo img {
+  max-width: 73%;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .portfolio-contant h5 {
+    visibility: visible;
+  }
+
+}
+
+/* OpenMinds Customization - Blog */
+
+#blog-header {
+  background: url(../img/header-background-general.png) no-repeat top center;
+  padding-top: 130px;
+  background-size: cover;
+}
+
+#blog-header:before {
+  background: transparent;
+}
+
+#blog-header .block h1 {
+  color:#1A467E;
+  text-transform: uppercase;
+  font-size: 2.4em;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+}
+
+#blog-page-body {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#blog-page-body .post-area {
+  display: flex;
+  border-bottom: none;
+}
+
+#blog-page-body .post-area .post-area-content {
+  background: #F2F2F2;
+  padding: 20px 30px;
+  flex: 3;
+  display: flex;                 /* create nested flex container */
+  /*flex-wrap: wrap;       */        /* enable flex items to wrap */ 
+  flex-direction: column;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
+
+#blog-page-body .post-area .post-area-content a.post-entry-title {
+  font-size: 20px;
+  color: #1A467E;
+  display: inline-flex;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+
+#blog-page-body .post-area .post-excerpt {
+  display: inline-flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#blog-page-body .post-area .post-date {
+  display: inline-flex;
+  margin-top: auto;
+  margin-bottom: 10px;
+  font-size: 11px;
+}
+
+#blog-page-body .post-area .btn-read-more {
+  background: #1A467E;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 10px 25px;
+  font-size: 16px;
+  display: inline-flex;
+  margin: 10px auto;
+  align-self: flex-end;
+  font-weight: bold;
+}
+
+#blog-page-body .post-area .btn-read-more:hover {
+  background: #4F4F4F;
+}
+
+
+/* OpenMinds Customization - Resources */
+
+#resources-page-body {
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+#resources-page-body .category-title {
+  color: #1A467E;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 50px 25px 0px;
+}
+
+#resources-page-body .post-area {
+  border-bottom: none;
+}
+
+#resources-page-body .post-area .post-area-content {
+  background: #F2F2F2;
+  padding: 30px 35px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
+
+#resources-page-body .post-area .post-area-content h3.post-entry-title {
+  font-size: 20px;
+  color: #1A467E;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+#resources-page-body .post-area .post-excerpt {
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+
+#resources-page-body .post-area .post-note {
+  margin-top: auto;
+  margin-bottom: 0px;
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  font-family: Roboto;
+  font-weight: 600;
+}
+
+#resources-page-body a.download-link {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: normal;
+  color:#1A467E;
+  padding-top: 10px; 
+  display: inline-block;
+  letter-spacing: 0.5px;
+}
+
+#resources-page-body a.download-link:hover {
+  font-weight: bold;
+}
+
+#resources-page-body a.download-button {
+  display: inline-block;
+  font-size: 16px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color:#1A467E;
+}
+
+#resources-page-body a.download-button::after {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: "\f0a9"; 
+  padding-left: 10px;
+}
+
+#resources-page-body a.download-button:hover {
+  text-decoration: underline;
+}
+
+/* OpenMinds Customization Ends */
