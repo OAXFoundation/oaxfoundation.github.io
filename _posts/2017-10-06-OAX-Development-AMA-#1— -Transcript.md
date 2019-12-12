@@ -238,7 +238,7 @@ Ooh, tough one for me to finish.
 
 Basically, I think that in retrospect, Binance listing as it did didn’t do us any favors. The inflated rise and the China market stuff afterward impact how people felt about the token, but not really how they felt about the project.
 
-The first round of backers in a new space are always speculators, with the value investors coming later. We think that by working hard on the project, hitting the milestones and showing that we are serious and not just some vapourware is the first step. We are also rebranding!
+The first round of backers in a new space are always speculators, with the value token holders coming later. We think that by working hard on the project, hitting the milestones and showing that we are serious and not just some vapourware is the first step. We are also rebranding!
 
 That’s the first part
 

@@ -33,7 +33,7 @@ A 5. When we started the OAX decentralized exchange (DEX) project, Sprites was t
 **Q 6. Could you elaborate more on “non-collateralized”? That sounds like someone can place an order to trade COIN_A for COIN_B while he/she doesn’t need to prove he/she has enough COIN_A and to lock the amount?**  
 A 6. By “non-collateralized” it’s meant that the exchange operator does not need collateral. The users must still deposit their funds into the smart contract before they can be traded.
 
-**Q 7. Will there be any instruction video to explain the software development kit (SDK)? I don’t see how it is valuable to non-tech investors like me.**  
+**Q 7. Will there be any instruction video to explain the software development kit (SDK)? I don’t see how it is valuable to non-tech token holders like me.**  
 A 7. The SDK isn’t intended for the “end user” audience. It’s a software development kit release that was intended for developers or other exchange operators who have interest in utilizing the decentralized exchange (DEX) technology we developed with Enuma.
 
 ##### DEX/Platform launch  
@@ -136,7 +136,7 @@ A 3. As OAX is a tech provider, we are looking for partners to operate a decentr
 A 4. It means that we’re open to working with other companies who would want to use our technology. For example, maybe a traditional cryptocurrency exchange wants to offer their customers the additional security of a decentralized exchange (DEX) but they don’t have the resources or time to develop one themselves. They can work with us and we’d provide them the technology to run a DEX.  
 That’s just one example. Cryptocurrency wallets, Anti-Money Laundering/Know Your Customer (AML/KYC) providers, transaction monitoring, trade surveillance are examples of the types of business can become “potential partners”.
 
-**Q 5. I feel like most decentralized exchanges (DEXs) in general are a mess, are you planning to team up with other DEXs for marketing and to educate the investors? And which country does the team prioritize for now since I saw the team went to JP, KA, HK, and CH as well.**  
+**Q 5. I feel like most decentralized exchanges (DEXs) in general are a mess, are you planning to team up with other DEXs for marketing and to educate the token holders? And which country does the team prioritize for now since I saw the team went to JP, KA, HK, and CH as well.**  
 A 5. Interesting question. Teaming up with other DEXs would do the market good, but it’s difficult when each project has competing product/interests. If you see our recent article ([What is Decentralization?](https://medium.com/@OAX_Foundation/what-is-decentralization-85a0fc993b5b)), it becomes apparent that every project can approach it in a different manner. How do you market that collectively?  
 Decentralization sees no borders. We visited those countries because of conferences or business meetings. We have no agenda for which countries we’re targeting (minus sanctioned countries of course). Having said that, we do have to use discretion and be financially responsible by taking costs into account.
 

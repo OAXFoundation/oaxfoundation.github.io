@@ -5,7 +5,7 @@ author: OAX Foundation
 
 Earlier this week, we hosted an AMA session on Reddit as a follow-up to last month’s release of the open source code for our Layer 2 Exchange (L2X) Protocol.The response was overwhelming and we’d like to thank everyone that participated in the discussion.  
 
-Before the AMA, we received quite a few questions from the community on what type of questions they could ask. “I’m not very technical, but I’m an investor, can I still participate?” For those that don’t know, AMA stands for “Ask Me Anything”!  
+Before the AMA, we received quite a few questions from the community on what type of questions they could ask. “I’m not very technical, but I’m a token holder, can I still participate?” For those that don’t know, AMA stands for “Ask Me Anything”!  
 
 
 ![]({{ site.baseurl }}/img/blog-images/sept-2019-ama-recap.jpeg)
@@ -25,7 +25,7 @@ Before signing off, many of you have also followed up after our competition on t
 The proposition of OAX has always been to build the next generation of decentralized exchanges. L2X protocol launch marks a significant milestone for us as we’re a step closer (hence one of the “problems solved” in a sense, as per your question) and we will continue to consolidate and improve on our approach and technology. :)
 You can take a look at our released open-source code [here](https://github.com/OAXFoundation/l2x-trustless-exchange)  
 
-**2. I think Investors are always important to the success of one project. Some of them only care about token prices, others care about technology and future of project. So is there any useful use case of OAX that can attract investors?** — u/asersada  
+**2. I think token holders are always important to the success of one project. Some of them only care about token prices, others care about technology and future of project. So is there any useful use case of OAX that can attract token holders?** — u/asersada  
 
 **Our reply:**
 We appreciate our token holders have different areas of concern. OAX has taken its role in developing something that will have a lasting impact very seriously, and have managed our resources with the same respect. The recent launch of L2X is a significant milestone that token holders should be able to see the efforts of the team from a technology standpoint. Please note that the intention has always been and continues to be for the primary demand of the OAX token to be driven by its use as a transaction fee for all of L2X transactions. We hope to include more utility for the token and will keep everyone updated when the time comes.
