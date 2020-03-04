@@ -1,4 +1,3 @@
-//TODO Wayland come back and clean out unused code
 
 $(document).ready(function(){
 
@@ -18,9 +17,9 @@ $(document).ready(function(){
 		desktopDateIntervals: 200, 
 		tabletDateIntervals: 150, 
 		mobileDateIntervals: 120, 
-		minimalFirstDateInterval: false,  
+		minimalFirstDateInterval: true,  
 		dateDisplay: "monthYear", // dateTime, date, time, dayMonth, monthYear, year 
-		dateOrder: "normal", // normal, reverse  
+		dateOrder: "reverse", // normal, reverse  
 		autoplay: false, 
 		autoplaySpeed: 8, 
 		autoplayPause_onHover: false,   
