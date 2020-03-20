@@ -22,11 +22,6 @@ The decision to build a parachain within the Polkadot network also underscores a
 OAX Foundation was created to explore the future of decentralized asset transactions and address their four main shortcomings: speed, scalability, interoperability and trust.  Digital asset trading is currently dominated by centralized exchanges, which are both counter-intuitive to the nature of blockchain and vulnerable to hacking.  Existing decentralized exchanges on the other hand, while tailored to the proposition of digital assets, have performance issues deep rooted in their technology.  OAX Foundation’s mission is to tackle these issues and in so doing help bring decentralization to the mainstream.
 
    
-For more information, please contact:
-Dan Bradley, Cognito
-dan.bradley@cognitomedia.com
-+852 6145 7455
-
 -----
 
 <i>Chinese version:</i>
