@@ -8,3 +8,4 @@ Gemfile.lock
 public
 # vscode 'local history' extension
 .history/*
+.jekyll-cache
