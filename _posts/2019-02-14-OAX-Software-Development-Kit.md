@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 ---
-![]({{ site.baseurl }}/img/blog-images/oax_dex_software_development_kit.jpeg)
+![]({{ site.baseurl }}/img/blog-images/oax_software_development_kit.jpeg)
 
 To coincide with [the recent release of our DEX platform to the Rinkeby testnet](https://cryptobriefing.com/oax-dex-mass-adoption/), we’re proud to [announce the availability of our software development kit (SDK)](https://www.oax.org/en/testnet-announcement).
 
