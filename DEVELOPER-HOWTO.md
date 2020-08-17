@@ -27,8 +27,8 @@ Open your Terminal.app and execute the following commands to clone a copy of the
 
 ```shell
 cd Documents
-git clone https://github.com/OAXFoundation/www.oax.org
-cd www.oax.org
+git clone git@github.com:OAXFoundation/oaxfoundation.github.io.git
+cd oaxfoundation.github.io
 bundle install
 ```
 
@@ -36,7 +36,7 @@ bundle install
 In the Terminal.app:
 
 ```shell
-cd ~/Documents/www.oax.org
+cd ~/Documents/oaxfoundation.github.io
 bundle exec jekyll serve
 ```
 
@@ -44,13 +44,13 @@ The first time may take a while as Jekyll generates all the files for our websit
 
 ```shell
  ✘ waylandchan@oax-dev  ~/work/oax/www.oax.org   master  bundle exec jekyll serve                                                          [12:00PM]
-Configuration file: /Users/waylandchan/work/oax/www.oax.org/_config.yml
-            Source: /Users/waylandchan/work/oax/www.oax.org
-       Destination: /Users/waylandchan/work/oax/www.oax.org/_site
+Configuration file: /Users/waylandchan/work/oax/oaxfoundation.github.io/_config.yml
+            Source: /Users/waylandchan/work/oax/oaxfoundation.github.io
+       Destination: /Users/waylandchan/work/oax/oaxfoundation.github.io/_site
  Incremental build: disabled. Enable with --incremental
       Generating...
                     done in 6.409 seconds.
- Auto-regeneration: enabled for '/Users/waylandchan/work/oax/www.oax.org'
+ Auto-regeneration: enabled for '/Users/waylandchan/work/oax/oaxfoundation.github.io'
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
 ```
