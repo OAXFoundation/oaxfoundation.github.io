@@ -8,6 +8,8 @@ author: OAX Foundation
 
 <b>OAX Parachain Testnet Released</b>
 
+<em>Update: As of October 27, 2020, OAX Testnet has been updated to include MultiTransfer.</em>
+
 <em>Update: As of October 9, 2020, OAX Testnet has been updated to include Atomic Swap.</em>
 
 Having released our <a href="https://github.com/OAXFoundation/parrot/" target="_blank">open source code</a> last month, OAX is now releasing the first testnet for our parachain with the key features: PRC20 Token Standard and Burn.  As the demos videos we’ve been releasing over the course of the last two months have demonstrated, users will gradually be able to try out the five features for themselves on the Testnet, with runtime updates for additional features in the future .
@@ -25,3 +27,5 @@ We’ve created demo videos over the course of our development, to demonstrate t
 <a href="https://www.oax.org/2020/08/27/A-Look-At-The-OAX-Parachain-Multitransfer-Feature.html" target="_blank"> MultiTransfer</a>
 
 <a href="https://www.oax.org/2020/09/17/A-Look-At-The-OAX-Parachain-Fee-Delegation-Feature.html" target="_blank"> Fee Delegation</a>
+
+<a href="https://www.oax.org/2020/10/20/Parachain-Features-Full-Demo.html" target="_blank"> Full Feature Demo</a>
