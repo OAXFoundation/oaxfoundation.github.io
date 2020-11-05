@@ -3,10 +3,12 @@ layout: post
 author: OAX Foundation
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Testnet-Announcement.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Testnet-Announcement.jpeg)
 
 
 <b>OAX Parachain Testnet Released</b>
+
+<em>Update: As of November 5, 2020, OAX Testnet has been updated to include Fee Delegation. Users can now go and test all our features <a href="http://testnet.oax.org" target="_blank">here</a>!</em>
 
 <em>Update: As of October 27, 2020, OAX Testnet has been updated to include MultiTransfer.</em>
 
