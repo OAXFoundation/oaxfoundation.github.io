@@ -1,0 +1,35 @@
+.layout-post {
+    article{
+        & *{
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 140.62%;
+        }
+
+        strong{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 140.62%;
+        }
+        
+        header{
+            h1{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 48px;
+                line-height: 135.12%;
+                /* or 65px */
+        
+                letter-spacing: 0.01em;
+            }
+        }
+
+        .post-content{
+            img{
+                max-width: 100%;
+            }
+        }
+    }
+}

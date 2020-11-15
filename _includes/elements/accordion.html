@@ -1,0 +1,55 @@
+{% for item in list %}    
+    <div class="mt-2">
+        <div class="content--title gradient4 px-3 py-2 corner2 d-flex flex-row">
+            <div class="flex-grow-1 d-flex flex-column">
+                {% if item.subtitle %}
+                    <div>{{ item.title }}</div>
+                    <div>{{ item.subtitle }}</div>
+                {% else %}
+                    <div>{{ item.title }}</div>
+                {% endif %}
+            </div>
+            <div class="tab--icon d-flex flex-row align-items-center">
+                <div>{% include icons/minus.svg %}</div>
+                <div>{% include icons/plus.svg %}</div>
+            </div>
+        </div>
+        <div class="d-none">
+            <div class="content--body p-3">{{ item.content | markdownify }}</div>
+            <div class="d-flex flex-row flex-wrap pb-2">
+                {% if item.annoucement_link %}
+                <a class="content--link btn btn-default" href="{{ item.annoucement_link }}">Announcement
+                </a>
+                {% endif %}
+                {% if item.sourcecode_link %}
+                <a class="content--link btn btn-default" href="{{ item.sourcecode_link }}">Source Code
+                </a>
+                {% endif %}
+                {% if item.summary_link %}
+                <a class="content--link btn btn-default" href="{{ item.summary_link }}">Summary
+                </a>
+                {% endif %}
+                {% if item.fullversion_link %}
+                <a class="content--link btn btn-default" href="{{ item.fullversion_link }}">Full Version
+                </a>
+                {% endif %}
+                {% if item.protocol_paper_link %}
+                <a class="content--link btn btn-default" href="{{ item.protocol_paper_link }}">Protocol Paper
+                </a>
+                {% endif %}
+                {% if item.abridged_version_link %}
+                <a class="content--link btn btn-default" href="{{ item.abridged_version_link }}">Abridged Version
+                </a>
+                {% endif %}
+                {% if item.part1_link %}
+                <a class="content--link btn btn-default" href="{{ item.part1_link }}">Part One Article
+                </a>
+                {% endif %}
+                {% if item.part2_link %}
+                <a class="content--link btn btn-default" href="{{ item.part2_link }}">Part Two Article
+                </a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endfor %}

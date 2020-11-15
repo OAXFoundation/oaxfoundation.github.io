@@ -1,0 +1,199 @@
+.layout-page{
+    &.index{
+        background: url(/assets/bg-gradient.1.jpg) top center no-repeat;
+        background-size: contain;
+    }
+}
+
+.page-home{
+    .quote1{
+        .quote1--background{
+            background: url('/assets/deco.2.png') left 0% no-repeat, 
+                url('/assets/deco.1.png') 142% 100% no-repeat;
+        }
+
+        .quote1--text{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 36px;
+            line-height: 55px;
+        
+            strong{
+                color: var(--blue1);
+            }
+
+            img{
+                vertical-align: baseline;
+            }
+        }
+        
+        .quote1--person{
+            strong{
+                font-family: 'Open Sans', sans-serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 14px;
+                line-height: 19px;
+            }
+        
+            small{
+                font-family: 'Open Sans', sans-serif;
+                font-style: normal;
+                font-weight: 300;
+                font-size: 14px;
+                line-height: 19px;
+            }
+        }
+    }
+    
+    .highlight-title{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 30px;
+        color: var(--blue1);
+    }
+    
+    .highlight-desc{
+        font-family: 'Open Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 193.18%;
+        color: var(--black2);
+    }
+
+    .oax-highlights{
+        background-image: url('/assets/bg.1.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .latest-updates{
+        padding-top: 125px;
+        padding-bottom: 205px;
+
+        .subheading{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 35px;
+            line-height: 41px;
+        }
+    
+        .next-subheading{
+            font-family: 'Open Sans', sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 25px;
+        }
+
+        .latest-updates--posts{            
+           & > div{
+                width: 32%;
+                background-color: #fff;
+
+                .latest-updates--post-image{
+                    img{
+                        width: 100%;
+                    }
+                }
+           }
+
+           .latest-updates--post-group{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 10px;
+                line-height: 112.12%;
+           }
+
+           .latest-updates--post-title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 135.12%;
+                /* or 32px */
+                
+                min-height: 95px;
+           }
+
+           .latest-updates--post-date{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 10px;
+                line-height: 112.12%;
+                /* or 11px */
+                
+                letter-spacing: 0.015em;
+           }
+
+           .latest-updates--post-author{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 12px;
+                line-height: 112.12%;
+                /* or 13px */
+
+                letter-spacing: -0.015em;
+           }
+        }
+
+    }
+
+    .contact-us{
+        background-image: url('/assets/bg-gradient.2.png');
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        margin-top: -200px;
+        padding-top: 150px;
+        padding-bottom: 150px;
+
+        .contact-us--title{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 48px;
+            line-height: 56px;
+            color: var(--blue1);
+        }
+
+        .contact-us--subtitle{
+            font-family: 'Open Sans', sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 24px;
+            line-height: 177.12%;
+            color: var(--black1);
+        }
+
+        .contact-us--connect-with-us{
+            font-family: 'Open Sans', sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 177.12%;
+            color: var(--blue1);
+        }
+
+        .contact-us--email{
+            font-family: 'Open Sans', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 177.12%;
+        }
+    }
+}
+
+@media (min-width: 1024px) {
+    .page-home{
+        .page-title{
+            font-size: 55px;
+        }
+    }
+
+}
+
+@import 'page-home-small';

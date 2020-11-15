@@ -1,0 +1,79 @@
+.layout-page.contactus{
+    .contact-us{
+        width: 33%;
+
+        .contact-us--title{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 48px;
+            line-height: 56px;
+
+            color: var(--blue1);
+            text-align: center;
+        }
+
+        .contact-us--subtitle{
+            font-style: normal;
+            font-weight: normal;
+            font-size: 24px;
+            line-height: 177.12%;
+
+            color: var(--blue1);
+            text-align: center;
+        }
+
+        .contact-us--consent{
+            font-style: normal;
+            font-size: 12px;
+            line-height: 166.18%;
+        }
+
+        input[type="email"],
+        input[type="text"],
+        textarea{
+            background-color: var(--blue3);
+        }
+
+        input[type="submit"]{
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .layout-page.contactus{
+        .contact-us{
+            width: 100%;
+            
+            .contact-us--title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 30px;
+                line-height: 35px;
+                text-align: center;
+            }
+
+            .contact-us--subtitle{
+                font-style: normal;
+                font-weight: normal;
+                font-size: 20px;
+                line-height: 177.12%;
+                /* or 35px */
+                text-align: center;
+            }
+
+            .contact-us--consent{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 10px;
+                line-height: 166.18%;
+            }
+
+            input[type="submit"]{
+                display: block;
+                margin: 0 auto;
+            }
+        }
+    }
+}

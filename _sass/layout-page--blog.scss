@@ -1,0 +1,159 @@
+.layout-page.blog.index{
+    .featured-post{
+        background-color: var(--black7);
+
+        .featured-post--meta{
+            & > div:first-child{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 12px;
+                line-height: 112.12%;
+            }
+
+            & > div:last-child{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 12px;
+                line-height: 112.12%;
+                /* or 13px */
+
+                letter-spacing: 0.015em;
+            }
+        }
+
+        .featured-post--title{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 32px;
+            line-height: 135.12%;
+        }
+
+        .featured-post--summary{
+            font-style: normal;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 135.12%;
+        }
+
+        .featured-post--author{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 112.12%;
+            /* or 13px */
+
+            letter-spacing: -0.015em;
+        }
+    }
+
+    .posts{
+        .post{
+            width: 32%;
+            overflow: hidden;
+
+            .post--image{
+                img{
+                    width: 100%;
+                    height: auto;
+                }
+            }
+
+            .post--meta{
+                & > div:first-child{
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 10px;
+                    line-height: 112.12%;
+                    /* or 11px */
+
+                    letter-spacing: 0.015em;
+                }
+
+                & > div:last-child{
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 10px;
+                    line-height: 112.12%;
+                    /* or 11px */
+
+                    letter-spacing: 0.015em;
+                }
+            }
+
+            .post--title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 28px;
+                line-height: 135.12%;
+                /* or 38px */
+
+                max-height: 110px;
+
+                overflow: hidden;
+                text-overflow: ellipsis;
+                display: -webkit-box;
+                -webkit-line-clamp: 3;
+                -webkit-box-orient: vertical;
+            }
+
+            .post--author{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 12px;
+                line-height: 112.12%;
+                /* or 13px */
+
+                letter-spacing: -0.015em;
+            }
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .layout-page.blog.index{
+        .featured-post{
+            .featured-post--title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 13px;
+                line-height: 135.12%;
+                /* or 18px */
+            }
+
+            & > div > div{
+                width: 50%;
+            }
+        }
+
+        .posts{
+            .post{
+                width: 47%;
+
+                &.box-shadow3{
+                    box-shadow: none;
+                }
+
+                .post--title{
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 12px;
+                    line-height: 135.12%;
+                    /* or 24px */
+                }
+
+                .post--meta{
+                    & > div:first-child,
+                    & > div:last-child{
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 56%;
+                        line-height: 112.12%;
+                        /* or 9px */
+    
+                        letter-spacing: 0.015em;
+                    }
+                }
+            }
+        }
+    }
+}

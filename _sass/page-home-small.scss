@@ -1,0 +1,152 @@
+@media (max-width: 768px) {
+    .layout-page{
+        &.index{
+            background-image: url(/assets/bg-gradient.1.xs.jpg);
+        }
+    }
+    
+    .page-home{
+        .quote1{
+            .quote1--text{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 16px;
+                line-height: 25px;
+                /* or 159% */
+
+                img{
+                    width: 33px;
+                }
+            }
+
+            .quote1--background{
+                background: none;
+            }
+        }
+
+        .oax-highlights{
+            background-image: url('/assets/bg.1.xs.jpg');
+        }
+
+        .latest-updates{
+            .subheading{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 22px;
+                line-height: 26px;
+            }
+
+            .nextsubheading{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 12px;
+                line-height: 16px;
+            }
+
+            .latest-updates--posts{
+                & > div{
+                    width: auto;
+                    background-color: transparent;
+                }
+                
+                & > div:not(:last-child) {
+                    border-bottom: 1px solid var(--black4);
+                }
+
+                & > div {
+
+                    & > div:nth-child(1){
+
+                        img{
+                            width: 153px;
+                            height: 100%;
+                            object-fit: cover;
+                        }
+                    }
+
+                    & > div:nth-child(2){
+                    }
+                }
+            }
+
+            .latest-updates--post-title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 14px;
+                line-height: 135.12%;
+                /* or 19px */
+            }
+
+            .latest-updates--post-group{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 10px;
+                line-height: 112.12%;
+                /* or 11px */
+
+                letter-spacing: 0.015em;
+
+                color: var(--blue2);
+
+                & + div{
+                    display: inline-flex;
+                }
+            }
+
+            .latest-updates--post-date{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 10px;
+                line-height: 112.12%;
+                /* or 11px */
+
+                letter-spacing: 0.015em;
+
+                color: var(--black3);
+            }
+
+            .latest-updates--post-author{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 10px;
+                line-height: 112.12%;
+                /* or 11px */
+
+                letter-spacing: -0.015em;
+
+                color: var(--black3);
+            }
+        }
+
+        .contact-us{
+            .contact-us--title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 30px;
+                line-height: 35px;
+                text-align: center;
+            }
+
+            .contact-us--subtitle{
+                font-style: normal;
+                font-weight: normal;
+                font-size: 20px;
+                line-height: 177.12%;
+                /* or 35px */
+                text-align: center;
+            }
+
+            .contact-us--consent{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 10px;
+                line-height: 166.18%;
+            }
+
+            input[type="submit"]{
+                display: block;
+                margin: 0 auto;
+            }
+        }
+    }
+}

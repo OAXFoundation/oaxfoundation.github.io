@@ -1,0 +1,13 @@
+{% if post.image %}
+{% capture post_first_image %}{{post.image}}{% endcapture %}
+{% else %}
+{% capture post_first_image %}
+    {% assign hero_image = post.content | markdownify | match_regex: '<img .*?src="([^"]+)"' %}
+    {% if hero_image %}
+    {% else %}
+        {% assign hero_image = "/assets/oax-placeholder.jpeg" | prepend: site.url %}
+    {% endif %}
+    {{ hero_image }}
+{% endcapture %}
+{% endif %}
+{{ post_first_image }}

@@ -1,11 +1,11 @@
-.bundle
-.sass-cache
-# _site is where jekyll builds the resulting site
 _site
-Gemfile.lock
-.DS_Store
-# public is directory specifically for gitlab pages. This public dir does not need to be deployed
-public
-# vscode 'local history' extension
-.history/*
+.sass-cache
 .jekyll-cache
+.jekyll-metadata
+vendor
+_config.yml
+public
+.history/*
+.DS_Store
+
+

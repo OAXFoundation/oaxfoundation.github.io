@@ -1,29 +1,55 @@
-<!-- Header Start -->
-<header>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="container-fluid">
-        <div id="navbar-header">
-          <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
-           
-              <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/img/oax-logo-white-v2.png" alt="Logo">
-              </a>
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-              </button>  
-              <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
-                <ul class="navbar-nav nav ml-auto">
-                  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/">Home <span class="sr-only">(current)</span></a></li>
-                  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/resources">Resources</a></li>
-                  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/blog">News</a></li>
-                  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/team">Team</a></li>
-                </ul>
-              </div>  
-             
-          </nav>       
-        </div>
-      </div>
+<div id="sidenav" class="sidenav d-flex flex-column align-items-center">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  {% assign ordered_pages = site.pages | sort: "order" %}
+  {%- for node in ordered_pages -%}
+    {%- if node.title and node.order -%}
+      <a class="nav-link {% if page.url == node.url %}active{% endif %}" href="{{ node.url | prepend: site.url }}">{{ node.title | escape }}
+      </a>
+    {%- endif -%}
+  {%- endfor -%}
+  <a class="nav-link {% if page.url == node.url %} active {% else %} border-gradient1 px-5 {% endif %}" href="{{ '/contactus/' | prepend: site.url }}">Contact
+  </a>
+</div>
+<script>
+  function openNav() {
+    document.getElementById("sidenav").style.width = "100%";
+  }
+  
+  function closeNav() {
+    document.getElementById("sidenav").style.width = "0";
+  }
+</script>
+
+<header class="header" id="main_header">
+  {%- assign default_paths = site.pages | map: "path" -%}
+  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  {%- if page_paths -%}
+  <nav class="container navbar navbar-expand-lg navbar-light">
+    <a class="navbar-brand" href="/">
+      <img src="{{ '/assets/oax-logo.png' | prepend: site.url }}" alt="">
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNav" 
+      onclick="openNav()"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse d-none d-lg-block" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
+      </ul>
+      <ul class="navbar-nav">
+        {% assign ordered_pages = site.pages | sort: "order" %}
+        {%- for node in ordered_pages -%}
+          {%- if node.title and node.order -%}
+            <li class="nav-item">
+              <a class="nav-link py-2 {% if page.url == node.url %} active border-gradient1 {% else %} {% endif %}" href="{{ node.url | prepend: site.url }}">{{ node.title | escape }}</a>
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+        <li class="nav-item ml-3">
+          <a class="nav-link py-2 {% if page.url contains 'contactus' %} active gradient8 {% else %} border-gradient1 {% endif %}" href="{{ '/contactus/' | prepend: site.url }}">Contact</a>
+        </li>
+      </ul>
     </div>
-  </div>
+  </nav>
+  {%- endif -%}
 </header>
