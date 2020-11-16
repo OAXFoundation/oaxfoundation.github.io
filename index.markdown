@@ -77,7 +77,7 @@ title: Home
     </div>
 
     <div class="latest-updates gradient1">
-        <div class="container">
+        <div class="container d-none">
             <div class="d-flex flex-row">
                 <div class="subheading flex-grow-1">Latest Updates</div>
                 <div class="next-subheading d-flex flex-row align-items-center">
