@@ -2,12 +2,15 @@
 {%- capture post_first_image -%}{{post.image}}{%- endcapture -%}
 {%- else -%}
 {%- capture post_first_image -%}
+    {% comment %}
     {%- assign hero_image = post.content | markdownify | match_regex: '<img .*?src="([^"]+)"' -%}
     {%- if hero_image -%}
     {% else if !(hero_image contains '<img') %}
     {%- else -%}
         {%- assign hero_image = "/assets/oax-placeholder.jpeg" | prepend: site.url -%}
     {%- endif -%}
+    {% endcomment %}
+    {%- assign hero_image = "/assets/oax-placeholder.jpeg" | prepend: site.url -%}
     {{ hero_image | strip }}
 {%- endcapture -%}
 {%- endif -%}
