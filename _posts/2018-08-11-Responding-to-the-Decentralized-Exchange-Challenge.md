@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Paul Li, General Counsel, OAX Foundation
+image: /img/blog-images/respond_to_dex_challenge.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/respond_to_dex_challenge.jpeg)

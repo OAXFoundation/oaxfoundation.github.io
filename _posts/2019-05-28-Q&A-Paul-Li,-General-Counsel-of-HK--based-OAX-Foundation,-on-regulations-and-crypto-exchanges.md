@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Tsering Namgyal
+image: /img/blog-images/paul-regulations-and-crypto-exchanges.jpeg
 ---
 ![]({{ site.baseurl }}/img/blog-images/paul-regulations-and-crypto-exchanges.jpeg)
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Wayland Chan, Technology Director, OAX Foundation
+image: /img/blog-images/what_is_decentralization.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/what_is_decentralization.jpeg)

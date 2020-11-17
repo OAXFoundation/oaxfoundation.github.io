@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Amanda Liu, General Manager, OAX Foundation
+image: /img/blog-images/bring_digital_asset_trading_to_mainstream_hk.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/bring_digital_asset_trading_to_mainstream_hk.jpeg)

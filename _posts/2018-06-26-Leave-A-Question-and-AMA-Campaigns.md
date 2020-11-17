@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/leave_question_and_ama_campaigns.png
 ---
 Thank you for testing the OAX prototype. We are hosting an online AMA (Ask Me Anything) on the OAX Telegram channel between 5:00 pm and 6:00 pm (Hong Kong Time), July 5, 2018 to gather feedback and answer questions from the community.
 

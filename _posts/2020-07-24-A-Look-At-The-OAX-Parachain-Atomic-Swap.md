@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/OAX-Parachain-Atomic-Swap.jpg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Parachain-Atomic-Swap.jpg)

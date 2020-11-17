@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Raphaël Tressieres, Director, Business Development, and Kelvin Wong, Senior Advisor, Marketing, OAX Foundation
+image: /img/blog-images/bringing_digital_asset_trading_to_mainstream_crypto_indices.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/bringing_digital_asset_trading_to_mainstream_crypto_indices.jpeg)

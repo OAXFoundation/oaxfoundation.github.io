@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Morgan Hiew
+image: /img/blog-images/summer_with_oax_intern.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/summer_with_oax_intern.jpeg)

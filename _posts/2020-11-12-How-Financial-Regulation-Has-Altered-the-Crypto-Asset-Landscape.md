@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/Syren-Financial-Regulation.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/Syren-Financial-Regulation.jpeg)

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Amanda Liu, General Manager and Kelvin Wong, Senior Marketing Advisor, OAX Foundation
+image: /img/blog-images/why_crypto_custody_matters_banner.png
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/why_crypto_custody_matters_banner.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/lecture_blockchain_and_dex.jpeg
 ---
 ![]({{ site.baseurl }}/img/blog-images/lecture_blockchain_and_dex.jpeg)
 

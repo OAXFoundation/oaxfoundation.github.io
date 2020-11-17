@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Winnie Mak, Executive Director, Corporate Finance; Raphaël Tressieres, Director, Business Development and Amanda Liu, General Manager, OAX Foundation
+image: /img/blog-images/bringing_digital_asset_trading_to_the_mainstream.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/bringing_digital_asset_trading_to_the_mainstream.jpeg)

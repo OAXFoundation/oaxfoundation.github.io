@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/giant_leap_for_decentralization.png
 ---
 ![]({{ site.baseurl }}/img/blog-images/giant_leap_for_decentralization.png)
 

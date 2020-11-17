@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/oax_and_blockpass_agreement_promote_regulatory_compliance.png
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/oax_and_blockpass_agreement_promote_regulatory_compliance.png)

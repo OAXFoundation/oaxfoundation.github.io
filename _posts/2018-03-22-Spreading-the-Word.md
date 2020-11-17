@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Amanda Liu, General Manager, OAX Foundation
+image: /img/blog-images/spreading_the_word.jpeg
 ---
 
 _Today we’re launching a new blog where members of the OAX management team will share their thoughts on industry issues, give insights into different aspects of our work and generally keep you updated on what’s going on behind the scenes. First up is our General Manager, Amanda Liu._

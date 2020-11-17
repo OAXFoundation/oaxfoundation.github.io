@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/OAX-August-2020-Community-Update.png
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-August-2020-Community-Update.png)

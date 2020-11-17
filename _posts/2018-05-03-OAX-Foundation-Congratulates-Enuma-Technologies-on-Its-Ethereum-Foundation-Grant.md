@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/oax_congratulates_enuma_tech_on_foundation_grant.png
 ---
 _Grant awarded for Sprites technology development; OAX project one of its first real-world applications_
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/second_working_group_dev_plans_and_policies.jpeg
 ---
 Last week we held our second Working Group meeting. For an overview of who’s in the Group and how they’re helping guide the success of the OAX project, take a look at our post about it last week [Here](https://medium.com/@OAX_Foundation/all-about-the-oax-working-group-70ba88aa3052). 
 

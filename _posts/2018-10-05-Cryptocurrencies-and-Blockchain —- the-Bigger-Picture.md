@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Amanda Liu, General Manager, OAX Foundation
+image: /img/blog-images/crypto_and-blockchain_bigger_picture.png
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/crypto_and-blockchain_bigger_picture.png)

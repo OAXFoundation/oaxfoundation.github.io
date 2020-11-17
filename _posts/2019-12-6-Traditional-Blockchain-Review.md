@@ -1,12 +1,14 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/OAX-Finance-Blockchain.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Finance-Blockchain.jpeg)
 
 <b>2019 In Review: Correlating Traditional Financial Markets with Blockchain</b>
-2019 was a year where the global economy was dominated by trade policy shocks, from tariff wars to uncertain Brexit conditions and general unrest in certain regions. While we’ve often looked at the digital asset space within its own confines, as part of our year-end review, we decided to explore its correlation with world market events. 
+
+2019 was a year where the global economy was dominated by trade policy shocks, from tariff wars to uncertain Brexit conditions and general unrest in certain regions. While we’ve often looked at the digital asset space within its own confines, as part of our year-end review, we decided to explore its correlation with world market events. 
 
 Equity markets began the year with a slight rise after their December slump, with the Dow Jones, S&P 500 and Nasdaq rising 7.2%, 7.9% and 9.7% respectively. With the same news insights, digital assets were a bit slower to respond. 
 

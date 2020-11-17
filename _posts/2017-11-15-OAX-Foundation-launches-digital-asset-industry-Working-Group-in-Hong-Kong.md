@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Liam Bussell
+image: /img/blog-images/oax_launches_digital_asset_industry_working_group_in_hk.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/oax_launches_digital_asset_industry_working_group_in_hk.jpeg)

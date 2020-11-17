@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Marketing Team
+image: /img/blog-images/sat_with_vitalik-1.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/sat_with_vitalik-1.jpeg)

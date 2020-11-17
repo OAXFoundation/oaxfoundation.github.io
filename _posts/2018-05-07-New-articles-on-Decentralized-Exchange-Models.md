@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/new_articles_on_dex_models.png
 ---
 
 The decentralized exchange concept is getting better known!

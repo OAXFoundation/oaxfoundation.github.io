@@ -1,12 +1,14 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/OAX-Thoughts-DeFi.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Thoughts-DeFi.jpeg)
 
 <b>More Thoughts on DeFi</b>
-January 2009 marked the birth of Bitcoin as Satoshi mined the genesis block – and the eleven short years that followed are a story of innovation, studded with milestone technical breakthroughs.   As we enter 2020 it’s becoming clearer all the time that Decentralized Finance (DeFi) is another major potential step forward in delivering on blockchain’s promise in the financial services arena.  
+
+January 2009 marked the birth of Bitcoin as Satoshi mined the genesis block – and the eleven short years that followed are a story of innovation, studded with milestone technical breakthroughs.   As we enter 2020 it’s becoming clearer all the time that Decentralized Finance (DeFi) is another major potential step forward in delivering on blockchain’s promise in the financial services arena.  
 
 Through its evolution, various solutions have been explored to increase blockchain’s constraining issues of scalability and cost, including sharding, proof of stake, and of course Layer 2 solutions. Our own OAX Layer 2 Protocol (L2X) helped to address fundamental issues within decentralized exchanges, namely speed, scalability and trust. 
 

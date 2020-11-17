@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/talking_crypto_at_hk_fintech_week.jpeg
 ---
 ![]({{ site.baseurl }}/img/blog-images/talking_crypto_at_hk_fintech_week.jpeg)
 

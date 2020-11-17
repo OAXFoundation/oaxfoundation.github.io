@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/take_oax_to_a_wider_audience.png
 ---
 Last week, our head of branding and communications, Kelvin Wong, was invited as guest speaker to a blockchain class organised by ANX Academy for the Hong Kong Federation of Trade Union. This was attended by about 30 people from a range of backgrounds, all keen to learn more about blockchain. The Academy is part of ANX International.
 

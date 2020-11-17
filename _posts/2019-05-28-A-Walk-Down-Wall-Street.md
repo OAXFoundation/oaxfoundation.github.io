@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/a_walk_down_wall_street.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/a_walk_down_wall_street.jpeg)

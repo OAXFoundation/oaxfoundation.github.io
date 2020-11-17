@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/steps_towards_regulating_crypto.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/steps_towards_regulating_crypto.jpeg)

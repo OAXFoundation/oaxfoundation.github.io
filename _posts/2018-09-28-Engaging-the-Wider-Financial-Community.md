@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/engaging_wider_financial_community.png
 ---
 ![]({{ site.baseurl }}/img/blog-images/engaging_wider_financial_community.png)
 

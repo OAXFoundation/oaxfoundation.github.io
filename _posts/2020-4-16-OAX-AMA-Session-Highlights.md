@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/AMA-Announcement Breakdown.png
 ---
 
 
@@ -71,7 +72,9 @@ We agree that a "sit and wait" approach isn't what drives the business forward, 
 
 OAX拥有并会继续开发出色的科技。然而，加密货币已经不再是「栽下梧桐树，自有凤凰来」的神话，为此，OAX找到有兴趣整合你们技术的伙伴与业务了吗？ 有的话可以跟我们透露详情吗？没有的话你们有什么计划？</i></b>
 
-A：您提及的挑战其实适用于任何企业和行业，大家都需要面对。我们时刻反思自省，借以确定我们的方向无误。我们的团队包括对区块链的未来充满热情期盼的开发人员，对团队而言，其中一个最大的挑战正是吸纳具备对区块链行业有同样的天赋、热情及知识的人才。我们同意「守株待兔」的态度不会让业务前进，所以团队经常与潜在伙伴商讨。这也是一个典型的「先有鸡还是先有蛋」的问题，我们并不能确保每一次对话能有成果。尽管如此，我们希望持续的对话能带领我们前往正确的方向，让团队更好准备去迎接整合的机遇。
+A：您提及的挑战其实适用于任何企业和行业，大家都需要面对。我们时刻反思自省，借以确定我们的方向无误。我们的团队包括对区块链的未来充满热情期盼的开发人员，对团队而言，其中一个最大的挑战正是吸纳具备对区块链行业有同样的天赋、热情及知识的人才。
+
+我们同意「守株待兔」的态度不会让业务前进，所以团队经常与潜在伙伴商讨。这也是一个典型的「先有鸡还是先有蛋」的问题，我们并不能确保每一次对话能有成果。尽管如此，我们希望持续的对话能带领我们前往正确的方向，让团队更好准备去迎接整合的机遇。
 
 <b><i>Q: Hi team, I wonder if the team believes the blockchain technology could have prevented or improved the coronavirus pandemic? If so, how could it help?  - u/MHWI-Master</i></b>
 

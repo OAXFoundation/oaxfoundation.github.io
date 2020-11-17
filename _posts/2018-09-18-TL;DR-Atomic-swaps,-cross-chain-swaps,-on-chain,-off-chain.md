@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Wayland Chan, Technology Director, OAX Foundation
+image: /img/blog-images/tech_terms_swaps_chains.jpeg
 ---
 ![]({{ site.baseurl }}/img/blog-images/tech_terms_swaps_chains.jpeg)
 

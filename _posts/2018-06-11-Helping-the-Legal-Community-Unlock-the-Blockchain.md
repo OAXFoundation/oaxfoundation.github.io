@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Paul Li, General Counsel, OAX Foundation
+image: /img/blog-images/help_legal_community_unlock_blockchain.jpeg
 ---
 
 Last week I was invited to give a speech and take part in a panel discussion at the Law Society of Hong Kong’s Annual Conference of In-House Lawyers. Much of the event centred around the legal implications of new technologies, with digital assets forming one of the main topics. My session was called “Unblock the Blockchain: Explore the Legal Minefields of Cryptocurrency.”

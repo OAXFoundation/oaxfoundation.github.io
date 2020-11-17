@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Liam Bussell
+image: /img/blog-images/becoming_oax-1.png
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/becoming_oax-1.png)

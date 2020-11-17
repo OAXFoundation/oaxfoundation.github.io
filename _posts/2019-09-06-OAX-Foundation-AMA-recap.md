@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/sept-2019-ama-recap.jpeg
 ---
 
 Earlier this week, we hosted an AMA session on Reddit as a follow-up to last month’s release of the open source code for our Layer 2 Exchange (L2X) Protocol.The response was overwhelming and we’d like to thank everyone that participated in the discussion.  

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Amanda Liu, General Manager, OAX Foundation
+image: /img/blog-images/building_for_the_future.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/building_for_the_future.jpeg)

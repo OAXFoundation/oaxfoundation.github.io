@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/moving_the_regulatory_debate_onwards.jpeg
 ---
 
 _“It was this focus on debate that made the event stand out for many of the attendees. There were no sales or marketing pitches to distract from the core aim of the morning.”_

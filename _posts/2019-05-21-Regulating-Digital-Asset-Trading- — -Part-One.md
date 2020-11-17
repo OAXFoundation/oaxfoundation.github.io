@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/regulating_digital_asset_trading_partI.png
 ---
 ![]({{ site.baseurl }}/img/blog-images/regulating_digital_asset_trading_partI.png)
 

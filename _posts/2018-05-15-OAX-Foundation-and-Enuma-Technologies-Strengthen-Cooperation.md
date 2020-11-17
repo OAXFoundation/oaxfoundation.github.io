@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/oax_enuma_tech_strengthen_cooperation.png
 ---
 
 **NEW YORK CITY — May 15, 2018** — OAX Foundation Limited and Enuma Technologies are pleased to announce they are further strengthening their cooperation in developing a new decentralized exchange platform for the trading of digital assets.

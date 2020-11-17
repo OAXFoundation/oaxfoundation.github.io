@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/OAX-January20-DeFi.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-January20-DeFi.jpeg)
@@ -10,7 +11,8 @@ author: OAX Foundation
 As blockchain has continued to evolve over the last few years, we’ve seen a progression of key trends. Having shifted focus from different forms of digital currency to exchanges, and ICOs to IEOs / STOs, more and more participants in the financial services sector have built their understanding of blockchain technology’s potential and are now exploring practical use cases for its deployment. For these parties, the way to fulfill blockchain’s promise of useable decentralized financial products and services is to adapt existing financial products and services into a decentralized format – creating tradeable assets and financial services run on large computing networks with no central control.  This process has become known as decentralized finance, or DeFi. 
 
 DeFi is the beginning of a peer-to-peer electronic financial structure leveraging cryptographic assets and blockchains to issue, trade and hold financial assets. Building on the fundamental qualities of blockchain, DeFi Dapps would have three main characteristics: 
-
+
+
 1. <b>Easy access:</b> a system that is open to anyone via the internet so that capital can flow freely around the globe.
 
 2. <b>Interoperable:</b> a critical building block to making interaction between blockchains simple and creating an ecosystem that can scale and become more sophisticated over time. 

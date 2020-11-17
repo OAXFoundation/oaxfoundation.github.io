@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Wayland Chan, Director, Technology, OAX Foundation
+image: /img/blog-images/ny_attorney_report_crypto_trading_dex_response.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/ny_attorney_report_crypto_trading_dex_response.jpeg)

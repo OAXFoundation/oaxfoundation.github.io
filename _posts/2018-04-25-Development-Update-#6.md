@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/dev_update_no6.png
 ---
 Hopefully you’ve been noticing the increased volume and variety of activities that we’ve been getting involved in over the last few months. These have been across areas including senior level appointments to drive key functions, raising our profile at industry events and educating the wider public about digital assets and what we do. But this doesn’t mean the technology has taken a back seat. Quite the opposite — in this latest development update we’re really excited to be able to give you a first look at the user interface for the OAX platform.
 

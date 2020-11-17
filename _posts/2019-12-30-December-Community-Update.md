@@ -1,12 +1,14 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/OAX-December-19-Community Update1.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-December-19-Community Update1.jpeg)
 
 <b>December 2019 Community Update</b>
-While we usually start our year-end reviews reflecting, we’re convinced “what’s next” is what you really want to hear about. As it’s also top of mind for the team, we begin our last 2019 community update providing a window into our thoughts and what we have been planning for. 
+
+While we usually start our year-end reviews reflecting, we’re convinced “what’s next” is what you really want to hear about. As it’s also top of mind for the team, we begin our last 2019 community update providing a window into our thoughts and what we have been planning for. 
 
 There is an outline — a navigational direction that we’re ready to set sail towards. Having long been steeped in the market and contemplating the possibilities of what the technology has to offer, we believe it makes sense as our next step. 
 

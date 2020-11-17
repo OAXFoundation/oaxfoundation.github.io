@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Liam Bussell
+image: /img/blog-images/new_partnership_and_advisor_new-1.png
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/new_partnership_and_advisor_new-1.png)

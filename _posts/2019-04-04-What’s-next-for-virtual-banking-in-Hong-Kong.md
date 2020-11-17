@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Amanda Liu, General Manager and Raphaël Tressieres, Director of Business Development, OAX Foundation
+image: /img/blog-images/whats_next_for_virtual_banking_in_hk.jpeg
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/whats_next_for_virtual_banking_in_hk.jpeg)

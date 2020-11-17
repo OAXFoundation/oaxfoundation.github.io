@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/oax_ama-no2.jpeg
 ---
 ## OAX Dev AMA #2 — Project Discussion “Roadmap and Development”
 
