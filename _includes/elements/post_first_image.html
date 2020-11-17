@@ -1,13 +1,18 @@
-{% if post.image %}
-{% capture post_first_image %}{{post.image}}{% endcapture %}
-{% else %}
-{% capture post_first_image %}
-    {% assign hero_image = post.content | markdownify | match_regex: '<img .*?src="([^"]+)"' %}
-    {% if hero_image %}
-    {% else %}
-        {% assign hero_image = "/assets/oax-placeholder.jpeg" | prepend: site.url %}
-    {% endif %}
-    {{ hero_image }}
-{% endcapture %}
-{% endif %}
-{{ post_first_image }}
+{%- if post.image -%}
+{%- capture post_first_image -%}{{post.image}}{%- endcapture -%}
+{%- else -%}
+{%- capture post_first_image -%}
+    {%- assign hero_image = post.content | markdownify | match_regex: '<img .*?src="([^"]+)"' -%}
+    {%- if hero_image -%}
+    {% else if !(hero_image contains '<img') %}
+    {%- else -%}
+        {%- assign hero_image = "/assets/oax-placeholder.jpeg" | prepend: site.url -%}
+    {%- endif -%}
+    {{ hero_image | strip }}
+{%- endcapture -%}
+{%- endif -%}
+{%- if post_first_image contains 'http' -%}
+{{ post_first_image | strip }}
+{%- else -%}
+{{ post_first_image | strip | prepend: site.url }}
+{%- endif -%}
