@@ -1,10 +1,10 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/Syren-Financial-Regulation.jpeg
+image: /assets/posts/2020-11-12-How-Financial-Regulation-Has-Altered-the-Crypto-Asset-Landscape.jpeg
 ---
 
-![]({{ site.baseurl }}/img/blog-images/Syren-Financial-Regulation.jpeg)
+![]({{ site.baseurl }}/assets/posts/2020-11-12-How-Financial-Regulation-Has-Altered-the-Crypto-Asset-Landscape.jpeg)
 
 
 <em>Having completed his third paper earlier this year "Inhabiting different realities: incrementalism, paradigms, and the New Prospect," we asked Professor Syren Johnstone to share a follow up on his thoughts as we near the end of 2020. </em>

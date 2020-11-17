@@ -26,10 +26,12 @@ layout: default
     </header>
     
     <div class="post-content container mb-5" itemprop="articleBody">
+      {% comment %}
       {% if page.image %}
       <img class="w-100 mb-3" src="{{ page.image | prepend: site.url }}" alt="image">
       {% endif %}
-
+      {% endcomment %}
+      
       {{ content }}
     </div>
 
