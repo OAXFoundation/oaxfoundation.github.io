@@ -39,12 +39,18 @@ jQuery(document).ready(function($) {
         $event.preventDefault();
         $event.stopPropagation();
 
+        let alreadyExpanded = $(this).hasClass('gradient5');
+        
         hideContentBody();
 
-        $(this).toggleClass('gradient4');
-        $(this).toggleClass('gradient5');
+        if( !alreadyExpanded ) {
 
-        $(this).next().toggleClass('d-none');
+            $(this).toggleClass('gradient4')
+                .toggleClass('gradient5')
+                .next().toggleClass('d-none');
+                
+        }
+
     });
 
     $('.go-to-anchor').click(function($event) {
