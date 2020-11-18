@@ -124,6 +124,11 @@ body *{
     border-image-source: linear-gradient(to right, #68F8E6, #6138D8);
 }
 
+.rotate-180{
+    transform-origin: center;
+    transform: rotate(180deg);
+}
+
 #gototopbtn_container{
     position: fixed;
     bottom: 110px;
@@ -249,7 +254,7 @@ footer{
     padding-top: 200px;
 }
 
-@media (min-width: 425px) {
+@media (max-width: 768px) {
     .pagination{
         & > a, & > em, & > span{
             font-style: normal;
@@ -262,6 +267,7 @@ footer{
             margin-left: 8px;
         }
     }
+
     header{
         .navbar-expand-lg{
             .navbar-nav{
@@ -285,6 +291,7 @@ footer{
 @import 'header';
 
 @import 'page-home';
+@import 'layout-page--about';
 @import 'layout-page--blog';
 @import 'layout-page--team';
 @import 'layout-page--resources';

@@ -17,10 +17,10 @@ title: Home
 
     <div class="quote1 gradient1 d-flex flex-row">
         <div class="quote1--background flex-grow-1 h-100 py-5">
-            <div class="container">
-                <div class="quote1--text"><img class="mr-1" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/><strong>Openness</strong>, <strong>trustlessness</strong> and <strong>strong governance</strong> are the foundations that will enable digital assets to flourish in today’s highly complex and regulated financial world.
+            <div class="container py-0 py-lg-5">
+                <div class="quote1--text"><img class="mr-1" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/><strong>Openness</strong>, <strong>trustlessness</strong> and <strong>strong governance</strong> are the foundations that will enable digital assets to flourish in today’s highly complex and regulated financial world.<img class="ml-1" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
                 </div>
-                <div class="quote1--person pt-4">
+                <div class="quote1--person pt-5">
                     <div>
                         <strong>- Hugh Madden
                         </strong>
@@ -34,27 +34,27 @@ title: Home
         </div>
     </div>
 
-    <div class="oax-highlights  box-shadow1 bg-white p-0 py-4 p-lg-5">
-        <div class="container">
+    <div class="oax-highlights  box-shadow1 bg-white p-0 py-5 p-lg-5">
+        <div class="container py-5">
             
             <div class="subheading">OAX Highlights
             </div>
-            <div class="d-flex flex-column flex-lg-row justify-content-between row mt-4">
-                <div class="d-flex flex-column text-center align-items-center bg-white col p-5 mr-0 mr-lg-3 mb-4 mb-lg-0">
+            <div class="d-flex flex-column flex-lg-row justify-content-between row mt-5">
+                <div class="d-flex flex-column text-center align-items-center bg-white col p-4 mr-0 mr-lg-4 mb-4 mb-lg-0">
                     <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" width="64px"/>
                     <div class="highlight-title my-2">OAX DeFi<br/>Parachain Features
                     </div>
                     <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX
                     </div>
                 </div>
-                <div class="d-flex flex-column text-center align-items-center bg-white col p-5 mx-0 mx-lg-3 mb-4 mb-lg-0">
+                <div class="d-flex flex-column text-center align-items-center bg-white col p-4 mx-0 mx-lg-4 mb-4 mb-lg-0">
                     <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" width="80px"/>
                     <div class="highlight-title my-2">OAX Layer 2<br/>Protocol
                     </div> 
                     <div class="highlight-desc">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
                     </div>
                 </div>
-                <div class="d-flex flex-column text-center align-items-center bg-white col p-5 ml-0 ml-lg-3">
+                <div class="d-flex flex-column text-center align-items-center bg-white col p-4 ml-0 ml-lg-4">
                     <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" width="74px"/>
                     <div class="highlight-title my-2">OAX Community &amp;<br/>Research
                     </div>

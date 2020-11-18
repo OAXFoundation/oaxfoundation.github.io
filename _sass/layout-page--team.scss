@@ -12,6 +12,14 @@
         line-height: 37px;
     }
 
+    .logos{
+        a:not(:hover){
+            img{
+                filter: grayscale(100%);
+            }
+        }
+    }
+
     .teams{
         .member{
             border: 1px solid var(--blue1);

@@ -39,7 +39,7 @@ order: 1
         </div>
     </div>
 
-    <div id="pillar1" class="container section mt-5">
+    <div id="pillar1" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse">
             <div class="d-flex flex-column col">
                 <div class="d-flex flex-row mt-5 mt-lg-0">
@@ -60,7 +60,7 @@ order: 1
         </div>
     </div>
 
-    <div id="pillar2" class="container section mt-5">
+    <div id="pillar2" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
@@ -80,7 +80,7 @@ order: 1
         </div>
     </div>
 
-    <div id="pillar3" class="container section mt-5">
+    <div id="pillar3" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
@@ -110,7 +110,7 @@ order: 1
         </div>
     </div>
 
-    <div id="pillar4" class="container section mt-5">
+    <div id="pillar4" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
