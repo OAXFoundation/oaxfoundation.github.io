@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
-order: 3
+pagination: 
+  enabled: true
 ---
 <div class="container d-flex flex-column">
     <div class="d-flex d-flex flex-column flex-lg-row flex-grow-1" style="z-index: 1;">
@@ -64,5 +64,31 @@ order: 3
                 {% endif %}
             {% endif %}
         {% endfor %}
+
+      {% if paginator.total_pages > 1 %}
+      <div class="pagination d-flex flex-row flex-wrap justify-content-end mt-5">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">Prev</a>
+        {% else %}
+        <span class="gradient9">Prev</span>
+        {% endif %}
+        
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <em class="gradient9">{{ page }}</em>
+        {% elsif page == 1 %}
+        <a href="{{ '/blog/' | relative_url }}">{{ page }}</a>
+        {% else %}
+        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+        {% endfor %}
+        
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+        {% else %}
+        <span class="gradient9">Next</span>
+        {% endif %}
+      </div>
+      {% endif %}
     </div>
 </div>

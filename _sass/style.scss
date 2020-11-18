@@ -115,6 +115,10 @@ body *{
     background: linear-gradient(to right, #68F8E6, #6138D8);
 }
 
+.gradient9{
+    background: linear-gradient(90deg, #4B86DF 25.32%, #724BDF 232.05%);
+}
+
 .border-gradient1,
 .nav-link.border-gradient1{
     border-image-source: linear-gradient(to right, #68F8E6, #6138D8);
@@ -132,6 +136,29 @@ body *{
         svg{
             color: #fff;
         }
+    }
+}
+
+.pagination{
+    & > a{
+        background-color: var(--blue3);
+        color: var(--black1);
+    }
+
+    & > em, & > span{
+        color: #fff;
+    }
+
+    & > a, & > em, & > span{
+        padding: 15px 20px;
+
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 140.62%;
+        /* or 25px */
+
+        margin-left: 17px;
     }
 }
 
@@ -223,6 +250,18 @@ footer{
 }
 
 @media (min-width: 425px) {
+    .pagination{
+        & > a, & > em, & > span{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 140.62%;
+            /* or 17px */
+
+            padding: 6px 10px;
+            margin-left: 8px;
+        }
+    }
     header{
         .navbar-expand-lg{
             .navbar-nav{

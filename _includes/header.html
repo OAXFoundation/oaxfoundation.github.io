@@ -2,11 +2,13 @@
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   {% assign ordered_pages = site.pages | sort: "order" %}
   {%- for node in ordered_pages -%}
-    {%- if node.title and node.order -%}
+    {%- if node.title and node.order and node.autogen == nil -%}
       <a class="nav-link {% if page.url == node.url %}active{% endif %}" href="{{ node.url | prepend: site.url }}">{{ node.title | escape }}
       </a>
     {%- endif -%}
   {%- endfor -%}
+  <a class="nav-link {% if page.url contains '/blog/' %}active{% endif %}" href="{{ '/blog/' | prepend: site.url }}">Blog
+  </a>
   <a class="nav-link {% if page.url == node.url %} active {% else %} border-gradient1 px-5 {% endif %}" href="{{ '/contactus/' | prepend: site.url }}">Contact
   </a>
 </div>
@@ -45,6 +47,9 @@
             </li>
           {%- endif -%}
         {%- endfor -%}
+        <li class="nav-item">
+          <a class="nav-link py-2 {% if page.url contains 'blog' %} active border-gradient1 {% else %} {% endif %}" href="{{ '/blog/' | prepend: site.url }}">Blog</a>
+        </li>
         <li class="nav-item ml-3">
           <a class="nav-link py-2 {% if page.url contains 'contactus' %} active gradient8 {% else %} border-gradient1 {% endif %}" href="{{ '/contactus/' | prepend: site.url }}">Contact</a>
         </li>
