@@ -42,15 +42,15 @@
         {% assign ordered_pages = site.pages | sort: "order" %}
         {%- for node in ordered_pages -%}
           {%- if node.title and node.order -%}
-            <li class="nav-item">
+            <li class="nav-item mr-5">
               <a class="nav-link py-2 {% if page.url == node.url %} active border-gradient1 {% else %} {% endif %}" href="{{ node.url | prepend: site.url }}">{{ node.title | escape }}</a>
             </li>
           {%- endif -%}
         {%- endfor -%}
-        <li class="nav-item">
+        <li class="nav-item mr-5">
           <a class="nav-link py-2 {% if page.url contains 'blog' %} active border-gradient1 {% else %} {% endif %}" href="{{ '/blog/' | prepend: site.url }}">Blog</a>
         </li>
-        <li class="nav-item ml-3">
+        <li class="nav-item">
           <a class="nav-link py-2 {% if page.url contains 'contactus' %} active gradient8 {% else %} border-gradient1 {% endif %}" href="{{ '/contactus/' | prepend: site.url }}">Contact</a>
         </li>
       </ul>
