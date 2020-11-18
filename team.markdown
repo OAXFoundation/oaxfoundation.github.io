@@ -58,11 +58,13 @@ order: 4
                         <img src="{{ '/assets/team/oax-partner-logo-blockpass 1.png' }}" alt="logo">
                     </a> 
                 </div>
+                {% comment %}
                 <div class="mr-3 mr-lg-5">
                     <a href="https://enuma.io/">
                         <img src="{{ '/assets/team/oax-partner-logo-enuma-technologies.png' }}" alt="logo">
                     </a>
                 </div>
+                {% endcomment %}
                 <div class="mr-3 mr-lg-5">
                     <a href="https://kyc-chain.com/">
                         <img src="{{ '/assets/team/oax-partner-logo-kyc-chain.png' }}" alt="logo">

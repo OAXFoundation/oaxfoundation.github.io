@@ -12,14 +12,6 @@
         line-height: 37px;
     }
 
-    .logos{
-        a:not(:hover){
-            img{
-                filter: grayscale(100%);
-            }
-        }
-    }
-
     .teams{
         .member{
             border: 1px solid var(--blue1);
@@ -107,6 +99,18 @@
         img{
             height: 90px;
             width: auto;
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .layout-page.team{
+        .logos{
+            a:not(:hover){
+                img{
+                    filter: grayscale(100%);
+                }
+            }
         }
     }
 }
