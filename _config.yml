@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 paginate: 30
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/:num/"
 
 collections:
   team_members:
