@@ -1,4 +1,35 @@
-.layout-page.blog.index{
+.layout-page.blog{
+    .tags{
+        a{
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 112.12%;
+            /* identical to box height, or 16px */
+
+            letter-spacing: 0.03em;
+
+            color: var(--black1);
+            margin-right: 20px;
+
+            position: relative;
+
+            &.active{
+                color: var(--black6);
+
+                &::after{
+                    content: "";
+                    left: 50%;
+                    bottom: -6px;
+                    width: 80%;
+                    height: 2px;
+                    transform: translateX(-50%);
+                    transform-origin: center;
+                    position: absolute;
+                }
+            }
+        }
+    }
     .featured-post{
         background-color: var(--black7);
 

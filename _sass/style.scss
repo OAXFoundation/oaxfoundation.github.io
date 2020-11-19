@@ -111,7 +111,8 @@ body *{
 }
 
 .gradient8,
-.nav-link.active.border-gradient1:after{
+.nav-link.border-gradient1:after,
+.layout-page.blog.index .tags a.border-gradient1::after{
     background: linear-gradient(to right, #68F8E6, #6138D8);
 }
 

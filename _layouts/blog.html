@@ -1,0 +1,109 @@
+---
+layout: page
+---
+<div class="container d-flex flex-column">
+    <div class="d-flex d-flex flex-column flex-lg-row flex-grow-1" style="z-index: 1;">
+        <h1 class="page-title blue1 w-100 w-lg-50">Updates on the Latest News</h1>
+    </div>
+</div>
+<div class="bg-white pt-5 mt-5 pb-5" style="min-height: 600px;">
+    <div class="container">
+        <div class="tags d-flex flex-row flex-wrap py-2 mb-5">
+            {%- capture targetRelativeUrl -%}/blog/{%- endcapture -%}
+            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">View All</a>
+            
+            {%- capture targetRelativeUrl -%}/tag/community-updates.html{%- endcapture -%}
+            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">Community Updates</a>
+            
+            {%- capture targetRelativeUrl -%}/tag/news.html{%- endcapture -%}
+            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">News</a>
+        </div>
+        {%- if page.tag -%}
+            {%- assign posts = site.tags[page.tag] -%}
+        {%- else -%}
+            {%- assign posts = paginator.posts -%}
+        {%- endif -%}
+
+        {% for post in posts %}
+
+            {% if forloop.index == 1 %}
+                <div class="featured-post box-shadow2 mb-3 mb-lg-5">
+                    <div class="d-flex flex-row">
+                        <div class="d-flex flex-column flex-grow-1 px-2 pt-2 pb-2 px-lg-5 pt-lg-5 pb-lg-3">
+                            <div class="featured-post--meta d-none d-lg-flex flex-row">
+                                <div class="mr-2">Community Updates</div>
+                                <div class="mr-2 d-flex flex-row align-items-center">
+                                    <img src="{{ '/assets/triangle.jpg' | prepend: site.url }}" alt="arrow">
+                                </div>
+                                <div>{{ post.date | date_to_string: "ordinal", "US" }}</div>
+                            </div>
+                            <div class="featured-post--title my-1 my-lg-3"><a class="blue1" href="{{ post.url }}">{{ post.title }}</a>
+                            </div>
+                            <div class="featured-post--summary flex-grow-1 black8 d-none d-lg-block">{{ post.summary }}</div>
+                            <div class="featured-post--author black8">By OAX Foundation </div>
+                        </div>
+                        <div class="flex-grow-1">
+                            <img src="{% include elements/post_first_image.html %}" alt="post image" 
+                            style="width: 100%; height: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                </div>
+            {% else %}
+                {% if forloop.index == 2 %}
+                <div class="d-flex flex-row flex-wrap justify-content-between posts">
+                {% endif %}
+
+                    <div class="post box-shadow3 d-flex flex-column mb-4 mt-lg-0">
+                        <div class="post--image">
+                            <img src="{% include elements/post_first_image.html %}" alt="post image" style="min-height: 195px; max-height: 195px; width: 100%; object-fit: cover"/>
+                        </div>
+                        <div class="d-flex flex-column py-2 p-lg-4">
+                            <div class="post--meta d-flex flex-row">
+                                <div class="mr-1 mr-lg-2 blue1">Community Update</div>
+                                <div class="mr-2 d-flex flex-row align-items-center">
+                                    <img src="{{ '/assets/triangle.jpg' | prepend: site.url }}" alt="arrow">
+                                </div>
+                                <div class="black8">{{ post.date | date_to_string: "ordinal", "US" }}
+                                </div>
+                            </div>
+                            <div class="post--title my-2 my-lg-3 black5"><a class="blue1" href="{{ post.url }}">{{ post.title }}</a>
+                            </div>
+                            {% if post.author %}
+                            <div class="post--author black8">{{ post.author }}</div>
+                            {% endif %}
+                        </div>
+                    </div>
+
+                {% if forloop.last %}
+                </div>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
+      {% if paginator.total_pages > 1 %}
+      <div class="pagination d-flex flex-row flex-wrap justify-content-end mt-5">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">Prev</a>
+        {% else %}
+        <span class="gradient9">Prev</span>
+        {% endif %}
+        
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <em class="gradient9">{{ page }}</em>
+        {% elsif page == 1 %}
+        <a href="{{ '/blog/' | relative_url }}">{{ page }}</a>
+        {% else %}
+        <a href="{{ '/blog/' | relative_url | append: page }}">{{ page }}</a>
+        {% endif %}
+        {% endfor %}
+        
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+        {% else %}
+        <span class="gradient9">Next</span>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+</div>
