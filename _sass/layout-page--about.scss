@@ -3,3 +3,13 @@
         margin-bottom: 250px;
     }
 }
+
+@media (max-width: 768px) {
+    .layout-page.blog, .layout-page.about {
+        background-size: 150%;
+
+        .section {
+            margin-bottom: 100px;
+        }
+    }
+}
