@@ -6,6 +6,15 @@
     }
     
     .page-home{
+        .cta1{
+            position: relative;
+            overflow: hidden;
+    
+            .animated1{
+                transform: rotate(-57deg) scale(1.4);  
+                right: -80%;              
+            }
+        }
         .quote1{
             .quote1--text{
                 font-style: normal;

@@ -1,0 +1,6 @@
+---
+layout: none
+permalink: /api/posts.csv
+---
+{% for post in site.posts limit:200 %}{{ post.url | prepend: site.url }}, {{ post.title }}
+{% endfor %}

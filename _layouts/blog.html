@@ -15,8 +15,11 @@ layout: page
             {%- capture targetRelativeUrl -%}/tag/community-updates.html{%- endcapture -%}
             <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">Community Updates</a>
             
-            {%- capture targetRelativeUrl -%}/tag/news.html{%- endcapture -%}
-            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">News</a>
+            {%- capture targetRelativeUrl -%}/tag/industry-business.html{%- endcapture -%}
+            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">Industry Business</a>
+
+            {%- capture targetRelativeUrl -%}/tag/tech-developments.html{%- endcapture -%}
+            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">Tech Developments</a>
         </div>
         {%- if page.tag -%}
             {%- assign posts = site.tags[page.tag] -%}

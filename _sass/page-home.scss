@@ -1,11 +1,31 @@
 .layout-page{
     &.index{
-        background: url(/assets/bg-gradient.1.jpg) top center no-repeat;
+        background: url('/assets/bg-gradient.1.jpg') top center no-repeat;
         background-size: contain;
     }
 }
 
 .page-home{
+    .cta1{
+        position: relative;
+
+        .animated1{
+            pointer-events: none;
+            background-image: url(/assets/animated2.png);
+            background-size: cover;
+            transform-origin: center;
+            transform: rotate(-57deg);
+            height: 700px;
+            width: 700px;
+            background-repeat: no-repeat;
+            background-position: 100% 100%;
+
+            position: absolute;
+            top: -500px;
+            right: -20%;
+        }
+    }
+
     .quote1{
         .quote1--background{
             background: url('/assets/deco.2.png') left 0% no-repeat, 

@@ -1,3 +1,3 @@
 {%- assign _targetRelativeUrl = targetRelativeUrl | prepend: site.url -%}
 {%- assign _currentUrl = page.url | prepend: site.url -%}
-{%- if _targetRelativeUrl == _currentUrl or site.url contains targetRelativeUrl -%}active{%- endif -%}
+{%- if _currentUrl contains targetRelativeUrl -%}active{%- endif -%}

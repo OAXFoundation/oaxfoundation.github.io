@@ -3,14 +3,20 @@ layout: default
 title: Home
 ---
 <div class="page-home">
-    <div class="container d-flex flex-column py-5">
-        <div class="w-75">
-            <div class="page-title blue1">Developing and promoting a sustainable digital asset ecosystem for the future
+    <div class="cta1">
+        <div class="container d-flex flex-column py-5">
+            <div class="w-75" style="z-index: 2;">
+                <div class="page-title blue1">Developing and promoting a sustainable digital asset ecosystem for the future
+                </div>
+                <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.
+                </div>
+                <div class="py-5">
+                    <img src="{{ '/assets/scroll-to-explore.png' }}"/>
+                </div>
             </div>
-            <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.
-            </div>
-            <div class="py-5">
-                <img src="{{ '/assets/scroll-to-explore.png' }}"/>
+            <div class="d-flex flex-row w-100 justify-content-end" style="position: relative;">
+                <div class="animated1 d-flex flex-row" style="mix-blend-mode: screen;">
+                </div>
             </div>
         </div>
     </div>
