@@ -45,7 +45,7 @@ title: Home
             
             <div class="subheading">OAX Highlights
             </div>
-            <div class="d-flex flex-column flex-lg-row justify-content-between row mt-5">
+            <div class="highlights d-flex flex-column flex-lg-row justify-content-between row mt-5">
                 <div class="d-flex flex-column text-center align-items-center bg-white col p-4 mr-0 mr-lg-4 mb-4 mb-lg-0">
                     <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" width="64px"/>
                     <div class="highlight-title my-2">OAX DeFi<br/>Parachain Features

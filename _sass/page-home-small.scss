@@ -35,6 +35,12 @@
 
         .oax-highlights{
             background-image: url('/assets/bg.1.xs.jpg');
+
+            .highlights{
+                & > div{
+                    min-height: 330px;
+                }
+            }
         }
 
         .latest-updates{
