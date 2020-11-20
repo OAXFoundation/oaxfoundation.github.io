@@ -14,9 +14,7 @@
 
             position: relative;
 
-            &:not(.active){
-                border: none;
-            }
+            border: none;
 
             &.active{
                 color: var(--black6);
