@@ -299,3 +299,7 @@ footer{
 @import 'layout-page--contactus';
 
 @import 'small';
+
+[class*="reverse"] > * {
+    flex: 1;
+}
