@@ -147,6 +147,7 @@
             .member--photo{
                 img{
                     width: 80%;
+                    object-fit: contain;
                 }
             }
 
