@@ -15,7 +15,7 @@ title: Home
                 </div>
             </div>
             <div class="d-flex flex-row w-100 justify-content-end" style="position: relative;">
-                <div class="animated1 d-flex flex-row" style="mix-blend-mode: screen; visibility: hidden;">
+                <div class="animated1 d-flex flex-row" style="mix-blend-mode: screen; visibility: hidden; right: -100%;">
                 </div>
             </div>
         </div>
