@@ -10,16 +10,16 @@ layout: page
     <div class="container">
         <div class="tags d-flex flex-row flex-wrap py-2 mb-5">
             {%- capture targetRelativeUrl -%}/blog/{%- endcapture -%}
-            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">View All</a>
+            <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">View All</a>
             
             {%- capture targetRelativeUrl -%}/tag/community-updates.html{%- endcapture -%}
-            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">Community Updates</a>
+            <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">Community Updates</a>
             
             {%- capture targetRelativeUrl -%}/tag/industry-business.html{%- endcapture -%}
-            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">Industry Business</a>
+            <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">Industry Business</a>
 
             {%- capture targetRelativeUrl -%}/tag/tech-developments.html{%- endcapture -%}
-            <a class="{% include elements/active.html %} border-gradient1" href="{{ targetRelativeUrl | prepend: site.url }}">Tech Developments</a>
+            <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">Tech Developments</a>
         </div>
         {%- if page.tag -%}
             {%- assign posts = site.tags[page.tag] -%}
