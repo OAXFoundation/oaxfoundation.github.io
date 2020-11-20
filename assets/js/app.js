@@ -1,70 +1,70 @@
 jQuery(document).ready(function($) {
-
     
-
+    
+    
     //---------------------------
     // Page: Team
     //---------------------------
-
+    
     function hideDescription() {
         $('.member--description:not(.d-none)').addClass('d-none');
     }
-
+    
     $('body').on('click', hideDescription);
-
+    
     $('.expand-button').click(function($event) {
         $event.preventDefault();
         $event.stopPropagation();
-
+        
         hideDescription();
-
+        
         $(this).parent().next().toggleClass('d-none');
-
+        
         if($(this).offset().left > window.outerWidth/2) {
             $(this).parent().next().addClass('left');
         }
     });
-
-
+    
+    
     //----------------------------------------
     // Page: Resources
     //----------------------------------------
     function hideContentBody() {
         $('.content--title.gradient5').toggleClass('gradient5').toggleClass('gradient4').next().addClass('d-none');
     }
-
+    
     $('body').on('click', hideContentBody);
-
+    
     $('.content--title').click(function($event) {
         $event.preventDefault();
         $event.stopPropagation();
-
+        
         let alreadyExpanded = $(this).hasClass('gradient5');
         
         hideContentBody();
-
+        
         if( !alreadyExpanded ) {
-
+            
             $(this).toggleClass('gradient4')
-                .toggleClass('gradient5')
-                .next().toggleClass('d-none');
-                
+            .toggleClass('gradient5')
+            .next().toggleClass('d-none');
+            
         }
-
+        
     });
-
+    
     $('.go-to-anchor').click(function($event) {
         $event.preventDefault();
         $event.stopPropagation();
-
+        
         let elem = $(
             $(this).attr('href')
-        )[0];
-
+            )[0];
+            
         if(!elem) {
             return;
         }
-
+        
         elem.scrollIntoView({
             behavior: 'auto',
             block: 'center',
@@ -72,7 +72,7 @@ jQuery(document).ready(function($) {
         });
     });
 });
-
+    
 gototopbtnContainer = document.getElementById("gototopbtn_container");
 
 function scrollFunction() {
@@ -103,11 +103,13 @@ var sticky = header.offsetTop;
 
 // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
 function stickyHeaderHandler() {
-  if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
-    header.classList.add("bg-white");
-  } else {
-    header.classList.remove("sticky");
-    header.classList.remove("bg-white");
-  }
+    if (window.outerWidth < 768) return;
+    
+    if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+        header.classList.add("bg-white");
+    } else {
+        header.classList.remove("sticky");
+        header.classList.remove("bg-white");
+    }
 }
