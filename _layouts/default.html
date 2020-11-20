@@ -3,8 +3,8 @@
 
   {%- include head.html -%}
 
-  <body class="{% if page.path contains '_posts' %}layout-post{%else%}layout-page{% endif %} {% if page.path contains 'blog' or 'tag' %} blog {% endif %}{{ page.name | split: "." | join: " "}}">
-
+  <body class="{% if page.path contains '_posts' %}layout-post{%else%}layout-page{% endif %} {{page.layout}} {{ page.name | split: "." | join: " "}}">
+    
     {%- include header.html -%}
 
     <main>

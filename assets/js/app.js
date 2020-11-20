@@ -1,6 +1,8 @@
 jQuery(document).ready(function($) {
     
-    
+    $('.animated1').css({
+        visibility: 'visible'
+    });
     
     //---------------------------
     // Page: Team

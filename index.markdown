@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="page-home">
     <div class="cta1">
-        <div class="container d-flex flex-column pb-0 py-lg-5">
+        <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 py-lg-5">
             <div class="w-75" style="z-index: 2;">
                 <div class="page-title blue1">Developing and promoting a sustainable digital asset ecosystem for the future
                 </div>
@@ -15,7 +15,7 @@ title: Home
                 </div>
             </div>
             <div class="d-flex flex-row w-100 justify-content-end" style="position: relative;">
-                <div class="animated1 d-flex flex-row" style="mix-blend-mode: screen;">
+                <div class="animated1 d-flex flex-row" style="mix-blend-mode: screen; visibility: hidden;">
                 </div>
             </div>
         </div>
