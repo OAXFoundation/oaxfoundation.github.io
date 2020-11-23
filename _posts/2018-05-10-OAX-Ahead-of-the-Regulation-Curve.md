@@ -2,6 +2,7 @@
 layout: post
 author: Paul Li, General Counsel, OAX Foundation
 image: /img/blog-images/oax_ahead_of_the_regulation_curve.jpeg
+tag: industry-business
 ---
 
 Nothing has focused attention on digital assets more than the incredible rise of bitcoin prices and other digital assets at the end of 2017 followed by their subsequent fall in January this year. Digital assets have become a popular (and less popular for others) subject of dinner party conversation and have rapidly become subject to speculation, with both retail and institutions looking to participate.
