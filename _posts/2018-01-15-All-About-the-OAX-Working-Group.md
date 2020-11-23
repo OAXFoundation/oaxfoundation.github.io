@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/oax_working-group.png
+tag: tech-developments
 ---
 This week sees the second of our Working Group meetings. We’ll be providing a summary of what was discussed shortly afterwards, but thought it worthwhile now posting a reminder of what the Working Group is and what its role is in the OAX Project.
 
