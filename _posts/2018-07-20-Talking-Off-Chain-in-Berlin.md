@@ -2,6 +2,7 @@
 layout: post
 author: Mathis Antony, Software Design Engineer, Enuma Technologies
 image: /img/blog-images/off_Chain_in_berlin.png
+tag: community-updates
 ---
 
 A couple of weeks back we were lucky enough to attend a blockchain workshop in Berlin organised by Binary District, a collaborative technology community. They organise events where community members come together to discuss the latest trends in new technologies and disruptive innovation.
