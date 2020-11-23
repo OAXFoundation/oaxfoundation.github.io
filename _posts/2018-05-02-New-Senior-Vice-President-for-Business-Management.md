@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/new_senior_vp_for_business_mgt.jpeg
+tag: community-updates
 ---
 
 We have made another important hire to help us promote our work at the OAX Foundation. Raphaël Tressieres is joining us as Senior Vice President for Business Management at just the right time, with the user interface of the OAX platform at an advanced stage and a full demo almost ready. He will be helping us with business development and will particularly be focusing on securing the right partners to accelerate our activities.
