@@ -2,6 +2,7 @@
 layout: post
 author: Liam Bussell
 image: /img/blog-images/new_partnership_and_advisor_new-1.png
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/new_partnership_and_advisor_new-1.png)

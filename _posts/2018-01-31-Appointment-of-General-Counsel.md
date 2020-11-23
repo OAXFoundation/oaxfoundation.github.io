@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+tag: community-updates
 ---
 Today we're pleased to announce the appointment of Paul Li as General Counsel  to the OAX Foundation, marking an important stage in the development of our legal and regulatory function. 
 

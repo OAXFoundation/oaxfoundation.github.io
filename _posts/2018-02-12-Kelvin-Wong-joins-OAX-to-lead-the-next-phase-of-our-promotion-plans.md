@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/kelvin_joins_oax.jpeg
+tag: community-updates
 ---
 We’re continuing to develop our team by bringing the best people together for each stage of the OAX Project. Following last week’s appointment of Paul Li as general counsel [Here](https://medium.com/@OAX_Foundation/appointment-of-general-counsel-c2d25e9aeb8e), we’re now welcoming Kelvin Wong to the OAX Foundation. He’s taking over from Liam Bussell who guided the marketing of the project during its launch phase and who is now moving on to other activities (though he’ll remain a part of the project team as an adviser).
 

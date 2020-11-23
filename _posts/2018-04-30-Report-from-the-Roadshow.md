@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/roadshow_report.jpeg
+tag: community-updates
 ---
 **Last week** we were invited to take part in an internal roadshow organised by HSBC’s digital team for their Global Markets team in Hong Kong. A group of us — including general manager Amanda, head of marketing Kelvin and lead developer Lio — headed to the bank’s HQ to present the OAX platform
 

@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/dev_update_no8.jpeg
+tag: tech-developments
 ---
 
 At Consensus in New York last month, we demo to attendees the preliminary version of the OAX platform prototype, which brought us a lot of useful insights and feedback.
