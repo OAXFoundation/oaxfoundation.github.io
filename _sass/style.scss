@@ -5,6 +5,8 @@
     --blue2: #4B86DF;
     --blue3: #E8EEEE;
     --blue4: #CCD7DB;
+    --blue5: #69D5F8;
+    --blue6: #12F3D8;
     --black1: #4C4C4C;
     --black2: #4F4F4F;
     --black3: #939393;
@@ -17,6 +19,7 @@
     --black10: #222;
     --gray1: #F2F2F2;
     --yellow: #E3CE61;
+    --purple1: #A368DA;
 }
 
 a{
@@ -120,14 +123,38 @@ body *{
     background: linear-gradient(90deg, #4B86DF 25.32%, #724BDF 232.05%);
 }
 
+.gradient10,
+.horizontal-timeline .events{
+    background: linear-gradient(90deg, #4BCDDF 14.06%, #9875FD 100%);
+}
+
 .border-gradient1,
 .nav-link.border-gradient1{
+    border-image-slice: 1;
     border-image-source: linear-gradient(to right, #68F8E6, #6138D8);
 }
 
 .rotate-180{
     transform-origin: center;
     transform: rotate(180deg);
+}
+
+.arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    
+    border-left: 10px solid #000;
+}
+
+.arrow-left {
+    width: 0; 
+    height: 0; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent; 
+    
+    border-right:10px solid #000; 
 }
 
 #gototopbtn_container{
@@ -196,9 +223,8 @@ header{
     position: relative;
 
     &:not(.active) {
-        border: 2px solid;
-        border-image-slice: 1;
-        border-image-source: linear-gradient(to right, #68F8E6, #6138D8);
+        border-width: 2px;
+        border-style: solid;
     }
 
     &.active:after{
@@ -299,6 +325,7 @@ footer{
 @import 'layout-page--contactus';
 
 @import 'small';
+@import 'horizontal-timeline';
 
 [class*="reverse"] > * {
     flex: 1;

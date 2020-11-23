@@ -74,6 +74,44 @@ jQuery(document).ready(function($) {
             inline: 'center'
         });
     });
+
+
+    $('#example').horizontalTimeline({
+        scrollLeft_iconClass: "fa-caret-left",
+        scrollRight_iconClass: "fa-caret-right",
+        prev_iconClass: "fa-caret-left",
+        next_iconClass: "fa-caret-right",
+
+        animation_baseClass: "animationSpeed", // Space separated class names
+        enter_animationClass: {
+            "left": "",
+            "right": ""
+        },
+        exit_animationClass: {
+            "left": "",
+            "right": ""
+        },
+    });
+
+    $('.events a').click(function() {
+        if (window.outerWidth < 768) return;
+        
+        const targetLeft = parseInt(
+            $(this).css('left')
+        );
+
+        const adjustLeft = 100;
+
+        if (targetLeft === 0) {
+            $('.events-content').removeClass('next-event');
+        } else {
+            $('.events-content').addClass('next-event');
+        }
+
+        $('.events-content').css({
+            left: (targetLeft - adjustLeft) + 'px'
+        });
+    });
 });
     
 gototopbtnContainer = document.getElementById("gototopbtn_container");

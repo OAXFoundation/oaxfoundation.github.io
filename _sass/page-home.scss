@@ -6,6 +6,104 @@
 }
 
 .page-home{
+
+    .events-content{
+        transition: left 1s;
+
+        &::before {
+            content: "";
+            background-image: url(/assets/animated2.gif);
+            height: 431px;
+            width: 431px;
+            position: absolute;
+            mix-blend-mode: screen;
+            background-repeat: no-repeat;
+            background-size: contain;
+
+            transition: left 2s;
+
+            top: -270px;
+            left: -64px;
+
+            pointer-events: none;
+        }
+    }
+
+    .timeline-navigation{
+        top: 0;
+    }
+
+    .our-journey{
+        background: url(/assets/bg-gradient.3.jpg) center center no-repeat;
+        background-size: cover;
+
+        .our-journey--timeline{
+            margin-top: 60px;
+
+            .events-content{
+                margin-top: 60px;
+            }
+        }
+        
+        .our-journey--content{
+
+            div{
+                & > div:first-child{
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 24px;
+                    line-height: 28px;
+                    letter-spacing: 0.01em;
+
+                    color: var(--blue1);
+                }
+
+                & > div:nth-child(2){
+                    font-family: "Open Sans", sans-serif;
+                    font-style: italic;
+                    font-weight: 600;
+                    font-size: 12px;
+                    line-height: 16px;
+                    letter-spacing: 0.01em;
+
+                    color: var(--blue1);
+                }
+
+                & > div:nth-child(3){
+                    font-family: "Open Sans", sans-serif;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 16px;
+                    line-height: 161.68%;
+                    /* or 26px */
+
+                    color: var(--blue1);
+                }
+
+                & > div:nth-child(4){
+                    font-family: "Open Sans", sans-serif;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 13px;
+                    line-height: 161.68%;
+                    /* or 21px */
+
+                    color: var(--black1);
+                }
+            }
+
+            .btn{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 134.77%;
+                /* identical to box height, or 19px */
+
+                color: var(--blue1);
+            }
+        }
+    }
+
     .cta1{
         position: relative;
 
@@ -210,6 +308,24 @@
     }
 }
 
+@media (min-width: 768px) {
+    .page-home{
+        .our-journey--content{
+            width: 285px;
+        }
+
+        .events-content{
+    
+            &:not(.next-event){
+                left: 0 !important;
+        
+                &::before{
+                    left: -164px;
+                }
+            }
+        }
+    }
+}
 @media (min-width: 1024px) {
     .page-home{
         .page-title{

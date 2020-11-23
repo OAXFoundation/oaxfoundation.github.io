@@ -2,6 +2,7 @@
     .layout-page{
         &.index{
             background-image: url(/assets/bg-gradient.1.xs.jpg);
+            background-size: 124%;
         }
 
         .page-title{
@@ -10,6 +11,73 @@
     }
     
     .page-home{
+        .timeline-navigation{
+            top: 3;
+        }
+
+        .our-journey{
+            background: url(/assets/bg-gradient.3.small.jpg) center center no-repeat;
+            background-size: 100%;
+
+            .our-journey--content{
+
+                div{
+                    & > div:first-child{
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 24px;
+                        line-height: 28px;
+                        letter-spacing: 0.01em;
+    
+                        color: var(--blue1);
+                    }
+    
+                    & > div:nth-child(2){
+                        font-family: "Open Sans", sans-serif;
+                        font-style: italic;
+                        font-weight: 600;
+                        font-size: 12px;
+                        line-height: 16px;
+                        letter-spacing: 0.01em;
+    
+                        color: var(--blue1);
+                    }
+    
+                    & > div:nth-child(3){
+                        font-family: "Open Sans", sans-serif;
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 16px;
+                        line-height: 161.68%;
+                        /* or 26px */
+    
+                        color: var(--blue1);
+                    }
+    
+                    & > div:nth-child(4){
+                        font-family: "Open Sans", sans-serif;
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 13px;
+                        line-height: 161.68%;
+                        /* or 21px */
+
+                        color: var(--black1);
+                    }
+                }
+
+                .btn{
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 14px;
+                    line-height: 134.77%;
+                    /* identical to box height, or 19px */
+
+                    color: var(--blue1);
+                }
+            }
+        }
+
         .cta1{
             position: relative;
             overflow: hidden;

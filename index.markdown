@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="page-home">
     <div class="cta1">
-        <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 py-lg-5">
+        <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 pt-lg-5">
             <div class="w-75" style="z-index: 2;">
                 <div class="page-title blue1">Developing and promoting a sustainable digital asset ecosystem for the future
                 </div>
@@ -70,14 +70,77 @@ title: Home
             </div>
         </div>
     </div>
-
-    <div class="our-journey d-none">
+    <style>
+        .events-content::before{
+            left: -500px;
+        }
+    </style>
+    <div class="our-journey">
         <div class="container py-5">
             <div class="subheading">Our Journey
             </div>
-            <div>timeline
-            </div>
-            <div>timeline content
+            <div class="our-journey--timeline">
+                <div class="horizontal-timeline" id="example">
+                    <div class="events-content">
+                        <ol>
+                            <li class="selected" data-horizontal-timeline='{"date": "1/6/2018"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>June 2018</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">DEX Prototype Launch</div>
+                                        <div class="mt-2">Launch of a new decentralized platform for the trading
+                                            of digital assets and made available for testing.
+                                            Refined using Continuous Delivery engineering
+                                            approach.</div>
+                                        <a href="https://www.oax.org/2018/06/22/OAX-Foundation-Revolutionizes-Digital-Asset-Trading-with-Launch-of-Decentralized-Platform-Prototype.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/7/2018"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Jul 2018</div>
+                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">AMA Session #2</div>
+                                        <div class="mt-2">The second AMA was hosted shortly after the launch of
+                                            the DEX prototype launch, giving the Telegram
+                                            community an opportunity to speak to the team on the
+                                            release.</div>
+                                        <a href="https://www.oax.org/2018/07/06/OAX-DEVELOPMENT-AMA-2.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/12/2018"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Dec 2018</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">1,000 Transactions per second</div>
+                                        <div class="mt-2">A breakthrough moment for the team in our quest to
+                                            address speed on DEX platforms. Over 1,000
+                                            transactions per second using only a single node
+                                            server!</div>
+                                        <a href="https://www.oax.org/2018/12/13/A-Giant-Leap-for-Decentralization.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/1/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Jan 2019</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">DEX hits testnet</div>
+                                        <div class="mt-2">Deployment to the Rinkeby Testnet allowing the OAX
+                                            team to evaluate the platform's performance in greater
+                                            detail. Don't forget to check out the video.</div>
+                                        <a href="https://www.oax.org/2019/01/25/OAX-Reaches-Major-Technology-Milestone;-Now-It's-Time-to-Partner-Up.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                        </ol>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
