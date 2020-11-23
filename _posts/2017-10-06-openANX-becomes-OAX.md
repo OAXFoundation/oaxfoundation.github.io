@@ -2,6 +2,7 @@
 layout: post
 author: Liam Bussell
 image: /img/blog-images/becoming_oax-1.png
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/becoming_oax-1.png)
