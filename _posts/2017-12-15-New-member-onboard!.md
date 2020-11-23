@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+tag: community-updates
 ---
 This is our honor to welcome new members, who will bring a variety of experience, into our OAX team!
  
