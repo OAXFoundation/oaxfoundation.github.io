@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/engaging_wider_financial_community.png
+tag: community-updates
 ---
 ![]({{ site.baseurl }}/img/blog-images/engaging_wider_financial_community.png)
 
