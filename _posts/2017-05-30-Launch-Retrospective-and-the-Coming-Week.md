@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+tag: community-updates
 ---
 Last week the openANX team was in NYC to announce the launch of the project at Consensus 2017, and to attend Token Summit, two great events that were hugely important to not only us, but the wider community as a whole. We saw a great number of announcements (including our own) and were gratified to see that much of the crypto and blockchain communities were in agreement with us regarding the move toward decentralization. It seems that more and more people agree in the path forward.
 
