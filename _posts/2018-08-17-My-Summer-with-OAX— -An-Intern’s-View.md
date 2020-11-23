@@ -2,6 +2,7 @@
 layout: post
 author: Morgan Hiew
 image: /img/blog-images/summer_with_oax_intern.jpeg
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/summer_with_oax_intern.jpeg)
