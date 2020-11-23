@@ -2,6 +2,7 @@
 layout: post
 author: Amanda Liu, General Manager, OAX Foundation
 image: /img/blog-images/building_for_the_future.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/building_for_the_future.jpeg)
