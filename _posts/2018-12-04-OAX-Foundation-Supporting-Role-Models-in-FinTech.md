@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/oax_supporting_role_models_in_fintech.jpeg
+tag: community-updates
 ---
 ![]({{ site.baseurl }}/img/blog-images/oax_supporting_role_models_in_fintech.jpeg)
 
