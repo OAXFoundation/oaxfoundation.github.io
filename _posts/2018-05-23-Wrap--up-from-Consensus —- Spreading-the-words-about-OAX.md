@@ -2,6 +2,7 @@
 layout: post
 author: OAX Marketing
 image: /img/blog-images/spread_words_abou_oax.jpeg
+tag: community-updates
 ---
 
 We’re back from a successful Consensus in New York. Over the three days we saw a huge number and variety of people, ranging from potential partners to service providers to industry peers wanting to know more about our platform and the technology behind it. We were particularly pleased to see many of our token holders and see their excitement at the progress we’ve made.
