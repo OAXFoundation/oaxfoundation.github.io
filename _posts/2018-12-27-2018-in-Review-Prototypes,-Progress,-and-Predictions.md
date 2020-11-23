@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/2018_in_Review_Prototypes.png
+tag: community-updates
 ---
 ![]({{ site.baseurl }}/img/blog-images/2018_in_Review_Prototypes.png)
 
