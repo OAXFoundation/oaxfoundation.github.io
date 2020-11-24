@@ -81,6 +81,10 @@
         .cta1{
             position: relative;
             overflow: hidden;
+
+            & > div:first-child > div{
+                width: 76%;
+            }
     
             .animated1{
                 transform: rotate(-57deg) scale(1.4);  

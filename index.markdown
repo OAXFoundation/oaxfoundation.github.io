@@ -5,7 +5,7 @@ title: Home
 <div class="page-home">
     <div class="cta1">
         <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 pt-lg-5">
-            <div class="w-75" style="z-index: 2;">
+            <div style="z-index: 2;">
                 <div class="page-title blue1">Developing and promoting a sustainable digital asset ecosystem for the future
                 </div>
                 <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.

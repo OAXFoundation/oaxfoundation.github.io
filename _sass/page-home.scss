@@ -134,6 +134,10 @@
     .cta1{
         position: relative;
 
+        & > div:first-child > div{
+            width: 60%;
+        }
+
         .animated1{
             pointer-events: none;
             background-image: url(/assets/animated.gif);
