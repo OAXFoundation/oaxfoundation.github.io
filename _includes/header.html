@@ -9,7 +9,7 @@
   {%- endfor -%}
   <a class="nav-link {% if page.url contains '/blog/' %}active{% endif %}" href="{{ '/blog/' | prepend: site.url }}">Blog
   </a>
-  <a class="nav-link {% if page.url == node.url %} active {% else %} border-gradient1 {% endif %} px-5" href="{{ '/contactus/' | prepend: site.url }}">Contact
+  <a class="nav-link px-5 {% if page.url == node.url %} active {% else %} border-gradient1 {% endif %}" href="{{ '/contactus/' | prepend: site.url }}">Contact
   </a>
 </div>
 <script>

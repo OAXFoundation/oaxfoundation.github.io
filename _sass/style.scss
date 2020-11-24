@@ -286,6 +286,19 @@ footer{
     padding-top: 200px;
 }
 
+.social-media--label{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    // line-height: 177.12%;
+    /* or 32px */
+
+    letter-spacing: -0.02em;
+
+    color: var(--black6);
+}
+
 @media (max-width: 768px) {
     .pagination{
         & > a, & > em, & > span{
