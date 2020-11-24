@@ -299,6 +299,10 @@ footer{
     color: var(--black6);
 }
 
+.tag-label{
+    text-transform: capitalize;
+}
+
 @media (max-width: 768px) {
     .pagination{
         & > a, & > em, & > span{

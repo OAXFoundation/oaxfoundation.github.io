@@ -312,7 +312,7 @@ title: Home
                     </div>
                     <div class="py-3 pr-3 pl-0 p-lg-3 flex-grow-1">
                         <div class="d-flex flex-row flex-wrap">
-                            <div class="latest-updates--post-group mr-2">Community Update</div>
+                            <div class="latest-updates--post-group mr-2">{%- include elements/tag-label.html -%}</div>
                             <div class="d-flex flex-row align-item-center mr-2"><img src="{{ '/assets/triangle.jpg' | prepend: site.url }}" alt="arrow"></div>
                             <div class="latest-updates--post-date mt-1 mt-lg-0">{{ post.date | date_to_string: "ordinal", "US" }}</div>
                         </div>

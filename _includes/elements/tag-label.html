@@ -1,0 +1,11 @@
+{%- capture tag -%}
+    {%- if post.tag -%}{{ post.tag | replace: '-', ' ' }}
+    {%- else if page.tag -%}{{ page.tag | replace: '-', ' ' }}
+    {%- endif -%}
+{%- endcapture -%}
+{% assign tag_size = tag | size %}
+<div class="tag-label">
+{%- if tag_size > 0 -%}{{ tag }}
+{%- else -%}Community Update
+{%- endif -%}
+</div>
