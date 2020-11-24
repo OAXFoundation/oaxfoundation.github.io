@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/oax_regulatory_breakfast_bridging_the_knowledge_gap_in_dex.jpeg
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/oax_regulatory_breakfast_bridging_the_knowledge_gap_in_dex.jpeg)
