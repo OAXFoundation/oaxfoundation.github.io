@@ -138,6 +138,126 @@ title: Home
                                     </div>
                                 </div>
                             </li>
+                            <li data-horizontal-timeline='{"date": "1/2/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Feb 2019</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">OAX DEX Software Development Kit Launched</div>
+                                        <div class="mt-2">Supplementing the release of our DEX platform on
+                                            testnet, we also released our SDK for community
+                                            partners, allowing for users to interact with our
+                                            platform using its built-in command link interface.</div>
+                                        <a href="https://www.oax.org/2019/02/14/OAX-DEX-Software-Development-Kit.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/3/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Mar 2019</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">Our first subReddit AMA. Topics ranging from legal
+                                            framework, marketing to BD, and joined by our
+                                            long-term partner, Eunma Technologies.</div>
+                                        <a href="https://www.oax.org/2019/03/07/OAX-Foundation-AMA-SDK-release-and-partnerships!.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "14/3/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Mar 2019</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">OAX Solidus Lab Partnership</div>
+                                        <div class="mt-2">Machine-learning powered market surveillance partner,
+                                            Solidus Lab, joins OAX's efforts to address market
+                                            manipulation across the industry.</div>
+                                        <a href="https://www.oax.org/2019/02/14/OAX-DEX-Software-Development-Kit.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "19/3/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Mar 2019</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">OAX - KYC-Chain Partnership</div>
+                                        <div class="mt-2">Bringing strong governance standards in digital asset
+                                            trading is instrumental in creating a foundation of
+                                            trust. Welcoming our new partner, KYC-Chain!</div>
+                                        <a href="https://www.oax.org/2019/03/19/OAX-Foundation-Announces-Partnership-with-KYC-Chain-to-Bring-Compliance-Controls-to-Digital-Asset-Trading.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/4/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Apr 2019</div>
+                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">OAX - Blockpass Partnership</div>
+                                        <div class="mt-2">A digital identity application and service that brings
+                                            control back to the user, fundamental to the era of
+                                            digital assets and blockchain. Blockpass working
+                                            together with us to improve adoption of standards needed
+                                            for the industry.</div>
+                                        <a href="https://www.oax.org/2019/04/29/OAX-Foundation-and-Blockpass-announce-new-agreement-to-promote-regulatory-compliance.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/6/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Jun 2019</div>
+                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">L2X Protocol Specification</div>
+                                        <div class="mt-2">A new paper, a new milestone. Setting out the
+                                            technical specifications of the L2X protocol, focusing
+                                            on four key interactions: clients, the exchange,
+                                            operators and a mediator smart contract.</div>
+                                        <a href="https://www.oax.org/2019/06/20/New-Paper,-New-Milestone.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/8/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>August 2019</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">L2X Protocol Launch</div>
+                                        <div class="mt-2">Long-awaited, the source code is open-source and here
+                                            for everyone. Addressing speed, scalability and trust.
+                                            By allowing the dispute resolution process to take
+                                            place on-chain, platform users can settle disputes
+                                            directly without having to use third-party custodians.</div>
+                                        <a href="https://www.oax.org/2019/08/12/OAX-Foundation-releases-new-exchange-protocol.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/9/2019"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Sep 2019</div>
+                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">AMA Session #4</div>
+                                        <div class="mt-2">Our community keeps growing! They came, they asked and
+                                            we answered. 110 questions over 24 hours.</div>
+                                        <a href="https://www.oax.org/2019/09/06/OAX-Foundation-AMA-recap.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "17/04/2020"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>August 2020</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">Features Open Source Release</div>
+                                        <div class="mt-2">The official release the code for the five features that would benefit parachains on the Polkadot network, open sourced and available on the OAX Github page.</div>
+                                        <a href="https://www.oax.org/2020/08/06/Parachain-Features-Open-Source-Code-Released.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
                         </ol>
                     </div>
                 </div>

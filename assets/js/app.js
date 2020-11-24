@@ -96,21 +96,83 @@ jQuery(document).ready(function($) {
     $('.events a').click(function() {
         if (window.outerWidth < 768) return;
         
-        const targetLeft = parseInt(
+        const sourceLeft = parseInt(
             $(this).css('left')
         );
 
-        const adjustLeft = 100;
+        let adjustLeft = 100;
 
-        if (targetLeft === 0) {
+        const finalLeft = (sourceLeft - adjustLeft);
+
+        const timelineWidth = parseInt(
+            $('.horizontal-timeline').width()
+        );
+
+        const currentEventContentLeft = parseInt(
+            $('.events-content').css('left')
+        );
+
+        const dx = (parseInt(
+            $(this).css('left')
+        ) - parseInt(
+            $(this).prev().css('left')
+        ));
+
+        const middleStateLeft = ((timelineWidth/2) - adjustLeft);
+
+        let reduce = 0;
+
+        if (window.outerWidth > 425 && window.outerWidth < 1024) {
+            reduce = -120;
+        }
+
+        if ($(this).hasClass('selected')) {
+            return;
+        }
+
+        if ($(this).hasClass('last') && !$(this).hasClass('selected')) {
+            console.log('last')
+
+            $('.events-content').css({
+                left: middleStateLeft + dx + dx + reduce + 'px'
+            });
+
+        } else if ($(this).next().hasClass('last') && $(this).next().hasClass('selected')) {
+            console.log(`2nd last`);
+
+            $('.events-content').css({
+                left: middleStateLeft + dx + reduce + 'px'
+            });
+
+        } else if ($(this).next().hasClass('last') || ($(this).hasClass('last'))) {
+            console.log(`2nd last (2)`);
+
+            $('.events-content').css({
+                left: (currentEventContentLeft + dx) + 'px'
+            });
+            
+        } else if (finalLeft > (timelineWidth/2) 
+            || ($(this).index() > 3 && currentEventContentLeft === 0)) {
+            console.log(`move than half  ${middleStateLeft}px`);
+
+            $('.events-content').css({
+                left: middleStateLeft + 'px'
+            });
+
+        }  else if (currentEventContentLeft < (timelineWidth/2)) {
+            console.log('move');
+
+            $('.events-content').css({
+                left: (sourceLeft - adjustLeft) + 'px'
+            });
+        }
+
+        if (sourceLeft === 0) {
             $('.events-content').removeClass('next-event');
         } else {
             $('.events-content').addClass('next-event');
         }
 
-        $('.events-content').css({
-            left: (targetLeft - adjustLeft) + 'px'
-        });
     });
 });
     
