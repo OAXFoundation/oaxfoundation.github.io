@@ -2,6 +2,7 @@
 layout: post
 author: Wayland Chan, Technology Director, OAX Foundation
 image: /img/blog-images/what_is_decentralization.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/what_is_decentralization.jpeg)
