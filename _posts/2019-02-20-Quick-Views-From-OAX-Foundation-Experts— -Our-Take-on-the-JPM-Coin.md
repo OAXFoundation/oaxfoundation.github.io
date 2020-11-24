@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/oax_take_on_the_jpm_coin.jpeg
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/oax_take_on_the_jpm_coin.jpeg)
