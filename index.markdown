@@ -247,7 +247,32 @@ title: Home
                                     </div>
                                 </div>
                             </li>
+                            <li data-horizontal-timeline='{"date": "11/2/2020"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>Feb 2020</div>
+                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">OAX-Polkadot Network Strategic Initiative Launched</div>
+                                        <div class="mt-2">OAX Foundation announces a strategic initiative to
+                                            build on the Polkadot Network, opening opportunities
+                                            for the future with DeFi.</div>
+                                        <a href="https://www.oax.org/2020/02/11/OAX-Foundation-to-Build-on-Polkadot-Network.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
                             <li data-horizontal-timeline='{"date": "17/04/2020"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                        <div>April 2020</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">AMA Session #5</div>
+                                        <div class="mt-2">Highlights of our AMA session, focusing on our plans
+                                            of building a parachain on the Polkadot Network.</div>
+                                        <a href="https://www.oax.org/2020/04/16/OAX-AMA-Session-Highlights.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "6/8/2020"}'>
                                 <div class="our-journey--content">
                                     <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
                                         <div>August 2020</div>
