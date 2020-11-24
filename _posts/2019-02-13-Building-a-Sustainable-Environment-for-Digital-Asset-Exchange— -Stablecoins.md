@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/sustainable_enviro_for_digital_asset_exchange.jpeg
+tag: industry-business
 ---
 ![]({{ site.baseurl }}/img/blog-images/sustainable_enviro_for_digital_asset_exchange.jpeg)
 
