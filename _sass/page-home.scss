@@ -91,7 +91,7 @@
                     line-height: 16px;
                     letter-spacing: 0.01em;
 
-                    &::not(.yellow){
+                    &:not(.yellow2){
                         color: var(--blue1);
                     }
                 }
