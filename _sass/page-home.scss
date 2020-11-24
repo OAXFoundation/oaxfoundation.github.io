@@ -44,6 +44,31 @@
                 margin-top: 60px;
             }
         }
+
+        .horizontal-timeline{
+            .events{
+
+                a:nth-child(2).selected::after,
+                a:nth-child(4).selected::after,
+                a:nth-child(5).selected::after,
+                a:nth-child(6).selected::after,
+                a:nth-child(7).selected::after,
+                a:nth-child(8).selected::after,
+                a:nth-child(9).selected::after,
+                a:nth-child(12).selected::after,
+                a:nth-child(14).selected::after{
+                    background-color: var(--blue1);
+                }
+
+                a:nth-child(3).selected::after,
+                a:nth-child(10).selected::after,
+                a:nth-child(11).selected::after,
+                a:nth-child(13).selected::after{
+                    background-color: var(--yellow);
+                }
+
+            }
+        }
         
         .our-journey--content{
 
@@ -66,7 +91,9 @@
                     line-height: 16px;
                     letter-spacing: 0.01em;
 
-                    color: var(--blue1);
+                    &::not(.yellow){
+                        color: var(--blue1);
+                    }
                 }
 
                 & > div:nth-child(3){

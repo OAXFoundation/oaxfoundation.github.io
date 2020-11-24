@@ -19,6 +19,7 @@
     --black10: #222;
     --gray1: #F2F2F2;
     --yellow: #E3CE61;
+    --yellow2: #BDA423;
     --purple1: #A368DA;
 }
 
@@ -57,6 +58,10 @@ body *{
 
 .black10{
     color: var(--black10);
+}
+
+.yellow2{
+    color: var(--yellow2);
 }
 
 .box-shadow1{

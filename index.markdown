@@ -101,7 +101,7 @@ title: Home
                                 <div class="our-journey--content">
                                     <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
                                         <div>Jul 2018</div>
-                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2 yellow2">Business Milestone</div>
                                         <div class="mt-2">AMA Session #2</div>
                                         <div class="mt-2">The second AMA was hosted shortly after the launch of
                                             the DEX prototype launch, giving the Telegram
@@ -157,7 +157,7 @@ title: Home
                                     <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
                                         <div>Mar 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
-                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">AMA Session #3</div>
                                         <div class="mt-2">Our first subReddit AMA. Topics ranging from legal
                                             framework, marketing to BD, and joined by our
                                             long-term partner, Eunma Technologies.</div>
@@ -195,7 +195,7 @@ title: Home
                                 <div class="our-journey--content">
                                     <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
                                         <div>Apr 2019</div>
-                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2 yellow2">Business Milestone</div>
                                         <div class="mt-2">OAX - Blockpass Partnership</div>
                                         <div class="mt-2">A digital identity application and service that brings
                                             control back to the user, fundamental to the era of
@@ -210,7 +210,7 @@ title: Home
                                 <div class="our-journey--content">
                                     <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
                                         <div>Jun 2019</div>
-                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2 yellow2">Business Milestone</div>
                                         <div class="mt-2">L2X Protocol Specification</div>
                                         <div class="mt-2">A new paper, a new milestone. Setting out the
                                             technical specifications of the L2X protocol, focusing
@@ -224,7 +224,7 @@ title: Home
                                 <div class="our-journey--content">
                                     <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
                                         <div>August 2019</div>
-                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2 yellow2">Tech Milestone</div>
                                         <div class="mt-2">L2X Protocol Launch</div>
                                         <div class="mt-2">Long-awaited, the source code is open-source and here
                                             for everyone. Addressing speed, scalability and trust.
@@ -239,7 +239,7 @@ title: Home
                                 <div class="our-journey--content">
                                     <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
                                         <div>Sep 2019</div>
-                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2 yellow2">Business Milestone</div>
                                         <div class="mt-2">AMA Session #4</div>
                                         <div class="mt-2">Our community keeps growing! They came, they asked and
                                             we answered. 110 questions over 24 hours.</div>

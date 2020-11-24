@@ -60,11 +60,11 @@
 
         a::after,
         a.older-event::after{
-            background-color: var(--blue1);
+            background-color: var(--blue5);
         }
         
         a.selected::after{
-            background-color: var(--blue5);
+            background-color: var(--blue1);
         }
     }
 
