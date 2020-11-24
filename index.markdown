@@ -329,7 +329,7 @@ title: Home
         <div class="container">
             <div class="d-flex flex-row row pb-5">
                 <div class="col d-none d-lg-block">
-                    <div class="contact-us--connect-with-us mt-5">Connect With Us
+                    <div class="contact-us--connect-with-us mt-5 pt-5">Connect With Us
                     </div>
                     <div class="contact-us--email py-3"><a class="black10" href="mailto:info@oax.org">info@oax.org</a></div>
                     <div class="d-flex flex-row">
