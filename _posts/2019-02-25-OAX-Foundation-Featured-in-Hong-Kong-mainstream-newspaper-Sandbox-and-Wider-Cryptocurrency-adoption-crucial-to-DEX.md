@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/oax_sandbox_and_wider_crypto_adoption.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/oax_sandbox_and_wider_crypto_adoption.jpeg)
