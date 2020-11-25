@@ -102,14 +102,14 @@ jQuery(document).ready(function($) {
         );
     }, 750);
 
-    $('.events a').click(function() {
-        if (window.outerWidth < 768) return;
-        
+    $('.events a').click(function() {        
         activateTimelineitem($(this));
     });
 });
 
 function activateTimelineitem(timelineItem) {
+    if (window.outerWidth < 768) return;
+
     const sourceLeft = parseInt(
         timelineItem.css('left')
     );
