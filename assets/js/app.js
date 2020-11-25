@@ -75,7 +75,6 @@ jQuery(document).ready(function($) {
         });
     });
 
-
     $('#example').horizontalTimeline({
         scrollLeft_iconClass: "fa-caret-left",
         scrollRight_iconClass: "fa-caret-right",
@@ -93,88 +92,101 @@ jQuery(document).ready(function($) {
         },
     });
 
+    setTimeout(() => {
+        activateTimelineitem(
+            $('.events a:last-child')
+        );
+
+        $('#example').horizontalTimeline('goTo',
+            $('.events a:last-child').data('horizontal-timeline').date
+        );
+    }, 750);
+
     $('.events a').click(function() {
         if (window.outerWidth < 768) return;
         
-        const sourceLeft = parseInt(
-            $(this).css('left')
-        );
-
-        let adjustLeft = 100;
-
-        const finalLeft = (sourceLeft - adjustLeft);
-
-        const timelineWidth = parseInt(
-            $('.horizontal-timeline').width()
-        );
-
-        const currentEventContentLeft = parseInt(
-            $('.events-content').css('left')
-        );
-
-        const dx = (parseInt(
-            $(this).css('left')
-        ) - parseInt(
-            $(this).prev().css('left')
-        ));
-
-        const middleStateLeft = ((timelineWidth/2) - adjustLeft);
-
-        let reduce = 0;
-
-        if (window.outerWidth > 425 && window.outerWidth < 1024) {
-            reduce = -120;
-        }
-
-        if ($(this).hasClass('selected')) {
-            return;
-        }
-
-        if ($(this).hasClass('last') && !$(this).hasClass('selected')) {
-            console.log('last')
-
-            $('.events-content').css({
-                left: middleStateLeft + dx + dx + reduce + 'px'
-            });
-
-        } else if ($(this).next().hasClass('last') && $(this).next().hasClass('selected')) {
-            console.log(`2nd last`);
-
-            $('.events-content').css({
-                left: middleStateLeft + dx + reduce + 'px'
-            });
-
-        } else if ($(this).next().hasClass('last') || ($(this).hasClass('last'))) {
-            console.log(`2nd last (2)`);
-
-            $('.events-content').css({
-                left: (currentEventContentLeft + dx) + 'px'
-            });
-            
-        } else if (finalLeft > (timelineWidth/2) 
-            || ($(this).index() > 3 && currentEventContentLeft === 0)) {
-            console.log(`move than half  ${middleStateLeft}px`);
-
-            $('.events-content').css({
-                left: middleStateLeft + 'px'
-            });
-
-        }  else if (currentEventContentLeft < (timelineWidth/2)) {
-            console.log('move');
-
-            $('.events-content').css({
-                left: (sourceLeft - adjustLeft) + 'px'
-            });
-        }
-
-        if (sourceLeft === 0) {
-            $('.events-content').removeClass('next-event');
-        } else {
-            $('.events-content').addClass('next-event');
-        }
-
+        activateTimelineitem($(this));
     });
 });
+
+function activateTimelineitem(timelineItem) {
+    const sourceLeft = parseInt(
+        timelineItem.css('left')
+    );
+
+    let adjustLeft = 100;
+
+    const finalLeft = (sourceLeft - adjustLeft);
+
+    const timelineWidth = parseInt(
+        jQuery('.horizontal-timeline').width()
+    );
+
+    const currentEventContentLeft = parseInt(
+        jQuery('.events-content').css('left')
+    );
+
+    const dx = (parseInt(
+        timelineItem.css('left')
+    ) - parseInt(
+        timelineItem.prev().css('left')
+    ));
+
+    const middleStateLeft = ((timelineWidth/2) - adjustLeft);
+
+    let reduce = 0;
+
+    if (window.outerWidth > 425 && window.outerWidth < 1024) {
+        reduce = -120;
+    }
+
+    if (timelineItem.hasClass('selected')) {
+        return;
+    }
+
+    if (timelineItem.hasClass('last') && !timelineItem.hasClass('selected')) {
+        console.log('last')
+
+        jQuery('.events-content').css({
+            left: middleStateLeft + dx + dx + reduce + 'px'
+        });
+
+    } else if (timelineItem.next().hasClass('last') && timelineItem.next().hasClass('selected')) {
+        console.log(`2nd last`);
+
+        jQuery('.events-content').css({
+            left: middleStateLeft + dx + reduce + 'px'
+        });
+
+    } else if (timelineItem.next().hasClass('last') || (timelineItem.hasClass('last'))) {
+        console.log(`2nd last (2)`);
+
+        jQuery('.events-content').css({
+            left: (currentEventContentLeft + dx) + 'px'
+        });
+        
+    } else if (finalLeft > (timelineWidth/2) 
+        || (timelineItem.index() > 3 && currentEventContentLeft === 0)) {
+        console.log(`move than half  ${middleStateLeft}px`);
+
+        jQuery('.events-content').css({
+            left: middleStateLeft + 'px'
+        });
+
+    }  else if (currentEventContentLeft < (timelineWidth/2)) {
+        console.log('move');
+
+        jQuery('.events-content').css({
+            left: (sourceLeft - adjustLeft) + 'px'
+        });
+    }
+
+    if (sourceLeft === 0) {
+        jQuery('.events-content').removeClass('next-event');
+    } else {
+        jQuery('.events-content').addClass('next-event');
+    }
+}
     
 gototopbtnContainer = document.getElementById("gototopbtn_container");
 
