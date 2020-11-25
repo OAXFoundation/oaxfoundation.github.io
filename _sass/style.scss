@@ -7,6 +7,7 @@
     --blue4: #CCD7DB;
     --blue5: #69D5F8;
     --blue6: #12F3D8;
+    --blue7: #3DAAA5;
     --black1: #4C4C4C;
     --black2: #4F4F4F;
     --black3: #939393;
@@ -62,6 +63,10 @@ body *{
 
 .yellow2{
     color: var(--yellow2);
+}
+
+.blue7{
+    color: var(--blue7);
 }
 
 .box-shadow1{
