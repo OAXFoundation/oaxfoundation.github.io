@@ -166,8 +166,9 @@
         .quote1--text{
             font-style: normal;
             font-weight: bold;
-            font-size: 35px;
+            font-size: 36px;
             line-height: 55px;
+            letter-spacing: 0.025em;
         
             strong{
                 color: var(--blue1);
@@ -224,7 +225,7 @@
     
     .latest-updates{
         padding-top: 125px;
-        padding-bottom: 205px;
+        padding-bottom: 305px;
 
         .subheading{
             font-style: normal;
@@ -299,9 +300,9 @@
         background-repeat: no-repeat;
         background-size: cover;
 
-        margin-top: -200px;
-        padding-top: 150px;
-        padding-bottom: 150px;
+        margin-top: -300px;
+        padding-top: 200px;
+        padding-bottom: 250px;
 
         .contact-us--title{
             font-style: normal;

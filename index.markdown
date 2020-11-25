@@ -24,7 +24,7 @@ title: Home
     <div class="quote1 gradient1 d-flex flex-row">
         <div class="quote1--background flex-grow-1 h-100 py-5">
             <div class="container py-0 py-lg-5">
-                <div class="quote1--text"><img class="mr-1" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/><strong>Openness</strong>, <strong>trustlessness</strong> and <strong>strong governance</strong> are the foundations that will enable digital assets to flourish in today’s highly complex and regulated financial world.<img class="ml-1" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
+                <div class="quote1--text"><img class="mr-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/><strong>Openness</strong>, <strong>trustlessness</strong> and <strong>strong governance</strong> are the foundations that will enable digital assets to flourish in today’s highly complex and regulated financial world.<img class="ml-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
                 </div>
                 <div class="quote1--person pt-5">
                     <div>
@@ -301,7 +301,7 @@ title: Home
             <div>
                 <img src="{{ '/assets/line.jpg' | prepend: site.url }}" alt="line" width="100%">
             </div>
-            <div class="latest-updates--posts d-flex flex-column flex-lg-row justify-content-between">
+            <div class="latest-updates--posts d-flex flex-column flex-lg-row justify-content-between mt-5">
                 {% for post in site.posts limit:3 %}
                 
                 <div class="d-flex flex-row-reverse flex-lg-column py-3 py-lg-0">
