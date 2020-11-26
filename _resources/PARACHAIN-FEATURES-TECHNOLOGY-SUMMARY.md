@@ -2,7 +2,7 @@
 title: Parachain Features Technology Summary
 summary_link: /2020/03/06/OAX-Parachain-Summary.html
 fullversion_link: /whitepapers/PolkadotTechPaper-v1.0.pdf
-group: OAX Parachain
+group: Parachain Features
 order: 2
 ---
 DeFi, built on the fundamental qualities of blockchain, has been demonstrating the potential of more practical use cases, with applications distributing rewards to stakeholders while remaining decentralized.
