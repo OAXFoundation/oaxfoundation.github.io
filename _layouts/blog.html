@@ -84,6 +84,11 @@ layout: page
                     </div>
 
                 {% if forloop.last %}
+                    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+                    {% if thecycle == 'even' %}
+                    <div class="post d-flex flex-column mb-4 mt-lg-0">
+                    </div>
+                    {% endif %}
                 </div>
                 {% endif %}
             {% endif %}
@@ -113,6 +118,8 @@ layout: page
         <span class="gradient9">Next</span>
         {% endif %}
       </div>
+      {% else %}
+      <div class="mt-5"></div>
       {% endif %}
     </div>
 </div>
