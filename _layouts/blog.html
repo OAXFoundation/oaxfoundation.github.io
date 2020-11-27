@@ -84,8 +84,8 @@ layout: page
                     </div>
 
                 {% if forloop.last %}
-                    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-                    {% if thecycle == 'even' %}
+                    {% assign remainder = 3 | modulo:2 %}
+                    {% if remainder > 0 %}
                     <div class="post d-flex flex-column mb-4 mt-lg-0">
                     </div>
                     {% endif %}
