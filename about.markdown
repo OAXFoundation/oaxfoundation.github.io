@@ -6,7 +6,10 @@ order: 1
 ---
 <div class="container d-flex flex-column">
     <div class="d-flex d-flex flex-column flex-lg-row row flex-grow-1" style="z-index: 1;">
-        <h1 class="page-title blue1 col">About OAX</h1>
+        <h1 class="page-title blue1 col">
+            <div class="animate__animated animate__fadeInUp">About OAX
+            </div> 
+        </h1>
         <p class="page-subheading col">OAX Foundation set out in 2017 with the conviction that decentralized finance and digital assets would be an integral part of the future of mainstream finance and commerce. The Foundation’s deep-seated beliefs for the collaborative nature of decentralized finance has served as a basis of engagement for working with key players in the space to explore and push the potential of technology.
         </p>
     </div>
