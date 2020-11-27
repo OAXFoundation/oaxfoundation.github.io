@@ -349,27 +349,35 @@
 }
 
 @media (min-width: 768px) {
-    .page-home{
-        .our-journey--content{
-            width: 285px;
+    .layout-page{
+        .page-subtitle{
+            width: 69%;
         }
 
-        .events-content{
+        .page-home{
+            .our-journey--content{
+                width: 285px;
+            }
     
-            &:not(.next-event){
-                left: 0 !important;
+            .events-content{
         
-                &::before{
-                    left: -164px;
+                &:not(.next-event){
+                    left: 0 !important;
+            
+                    &::before{
+                        left: -164px;
+                    }
                 }
             }
         }
     }
 }
 @media (min-width: 1024px) {
-    .page-home{
-        .page-title{
-            font-size: 55px;
+    .layout-page{
+        .page-home{
+            .page-title{
+                font-size: 55px;
+            }
         }
     }
 
