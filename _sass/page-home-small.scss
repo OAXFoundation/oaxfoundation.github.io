@@ -2,12 +2,13 @@
     .layout-page{
         &.index{
             background-image: url(/assets/bg-gradient.1.xs.jpg);
-            background-size: 124%;
+            background-size: 143%;
+
+            .page-title{
+                font-size: 202%;
+            }
         }
 
-        .page-title{
-            font-size: 37px;
-        }
     }
     
     .page-home{
@@ -17,7 +18,7 @@
 
         .our-journey{
             background: url(/assets/bg-gradient.3.small.jpg) center center no-repeat;
-            background-size: 100%;
+            background-size: 128%;
 
             .our-journey--content{
 
@@ -95,7 +96,7 @@
             .quote1--text{
                 font-style: normal;
                 font-weight: bold;
-                font-size: 16px;
+                font-size: 95%;
                 line-height: 25px;
                 /* or 159% */
 
