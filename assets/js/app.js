@@ -97,9 +97,14 @@ jQuery(document).ready(function($) {
             $('.events a:last-child')
         );
 
-        $('#example').horizontalTimeline('goTo',
-            $('.events a:last-child').data('horizontal-timeline').date
-        );
+        const lastTimlineChild = $('.events a:last-child').data('horizontal-timeline');
+
+        if (lastTimlineChild) {
+            $('#example').horizontalTimeline('goTo',
+                $('.events a:last-child').data('horizontal-timeline').date
+            );
+        }
+
     }, 750);
 
     $('.events a').click(function() {        
