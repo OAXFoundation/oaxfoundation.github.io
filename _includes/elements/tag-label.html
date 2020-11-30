@@ -5,7 +5,9 @@
 {%- endcapture -%}
 {% assign tag_size = tag | size %}
 <div class="tag-label">
-{%- if tag_size > 0 -%}{{ tag }}
-{%- else -%}Community Update
+{%- if tag_size > 0 -%}
+    <a class="black1" href="/tag/{{ tag | replace: ' ', '-' }}.html">{{ tag }}</a>
+{%- else -%}
+    <a class="black1" href="/tag/community-updates.html">Community Update</a>
 {%- endif -%}
 </div>
