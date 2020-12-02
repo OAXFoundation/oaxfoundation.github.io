@@ -1,3 +1,10 @@
+@media (max-width: 768px) and (min-width: 425px) {
+    .page-home .cta1 .animated1{
+        top: -361px;
+        right: -400px;
+    }
+}
+
 @media (max-width: 768px) {
     .layout-page{
         &.index{
@@ -112,12 +119,6 @@
 
         .oax-highlights{
             background-image: url('/assets/bg.1.xs.jpg');
-
-            .highlights{
-                & > div{
-                    min-height: 330px;
-                }
-            }
         }
 
         .latest-updates{
@@ -150,7 +151,6 @@
                     & > div:nth-child(1){
 
                         img{
-                            width: 153px;
                             height: 100%;
                             object-fit: cover;
                         }

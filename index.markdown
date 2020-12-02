@@ -10,7 +10,7 @@ title: Home
                 </div>
                 <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.
                 </div>
-                <div class="py-5">
+                <div class="py-5 mb-0 mb-lg-5">
                     <img src="{{ '/assets/scroll-to-explore.png' }}"/>
                 </div>
             </div>
@@ -22,11 +22,11 @@ title: Home
     </div>
 
     <div class="quote1 gradient1 d-flex flex-row">
-        <div class="quote1--background flex-grow-1 h-100 py-5">
-            <div class="container py-0 py-lg-5">
+        <div class="quote1--background flex-grow-1 h-100">
+            <div class="container py-5 mt-0 mt-lg-5">
                 <div class="quote1--text"><img class="mr-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/><strong>Openness</strong>, <strong>trustlessness</strong> and <strong>strong governance</strong> are the foundations that will enable digital assets to flourish in today’s highly complex and regulated financial world.<img class="ml-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
                 </div>
-                <div class="quote1--person pt-5">
+                <div class="quote1--person pt-5 mb-0 mb-lg-5">
                     <div>
                         <strong>- Hugh Madden
                         </strong>
@@ -45,24 +45,24 @@ title: Home
             
             <div class="subheading">OAX Highlights
             </div>
-            <div class="highlights d-flex flex-column flex-lg-row justify-content-between row mt-5">
-                <div class="d-flex flex-column text-center align-items-center bg-white col p-4 mr-0 mr-lg-4 mb-4 mb-lg-0">
+            <div class="highlights d-flex flex-column flex-lg-row justify-content-between row mt-5 mb-5">
+                <div class="d-flex flex-column text-center align-items-center bg-white col p-5 mr-0 mr-lg-4 mb-4 mb-lg-0">
                     <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" width="64px"/>
-                    <div class="highlight-title my-2">OAX DeFi<br/>Parachain Features
+                    <div class="highlight-title my-4">OAX DeFi<br/>Parachain Features
                     </div>
                     <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX
                     </div>
                 </div>
-                <div class="d-flex flex-column text-center align-items-center bg-white col p-4 mx-0 mx-lg-4 mb-4 mb-lg-0">
+                <div class="d-flex flex-column text-center align-items-center bg-white col p-5 mx-0 mx-lg-4 mb-4 mb-lg-0">
                     <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" width="80px"/>
-                    <div class="highlight-title my-2">OAX Layer 2<br/>Protocol
+                    <div class="highlight-title my-4">OAX Layer 2<br/>Protocol
                     </div> 
                     <div class="highlight-desc">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
                     </div>
                 </div>
-                <div class="d-flex flex-column text-center align-items-center bg-white col p-4 ml-0 ml-lg-4">
+                <div class="d-flex flex-column text-center align-items-center bg-white col p-5 ml-0 ml-lg-4">
                     <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" width="74px"/>
-                    <div class="highlight-title my-2">OAX Community &amp;<br/>Research
+                    <div class="highlight-title my-4">OAX Community &amp;<br/>Research
                     </div>
                     <div class="highlight-desc">Beyond development internally, support the industry is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations within this space.
                     </div>
@@ -77,9 +77,9 @@ title: Home
     </style>
     <div class="our-journey">
         <div class="container py-5">
-            <div class="subheading">Our Journey
+            <div class="subheading mt-5">Our Journey
             </div>
-            <div class="our-journey--timeline">
+            <div class="our-journey--timeline mb-5">
                 <div class="horizontal-timeline" id="example">
                     <div class="events-content">
                         <ol>
@@ -301,7 +301,7 @@ title: Home
             <div>
                 <img src="{{ '/assets/line.jpg' | prepend: site.url }}" alt="line" width="100%">
             </div>
-            <div class="latest-updates--posts d-flex flex-column flex-lg-row justify-content-between mt-5">
+            <div class="latest-updates--posts d-flex flex-column flex-lg-row justify-content-between mt-5 mb-5 pb-5">
                 {% for post in site.posts limit:3 %}
                 
                 <div class="d-flex flex-row-reverse flex-lg-column py-3 py-lg-0">

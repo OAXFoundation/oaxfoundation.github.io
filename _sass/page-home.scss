@@ -383,4 +383,23 @@
 
 }
 
+@media (min-width: 1440px) {
+    .layout-page{
+        .cta1{
+            .container{
+                & > div{
+                    margin-left: 120px;
+                }
+            }
+        }
+
+        .quote1{
+            .quote1--text,
+            .quote1--person{
+                margin-left: 120px;
+            }
+        }
+    }
+}
+
 @import 'page-home-small';
