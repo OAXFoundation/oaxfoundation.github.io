@@ -13,7 +13,7 @@ order: 4
 </div>
 <div class="bg-white pt-4 pt-lg-5 mb-5 pb-5">
     <div class="container">
-        <div class="d-flex flex-row">
+        <div class="d-flex flex-row mb-4 mt-5">
             <div class="member--group-title mr-3">Founders & Directors
             </div>
             <div class="flex-grow-1 d-flex flex-row align-items-center">
@@ -29,7 +29,7 @@ order: 4
             {% endfor %}
         </div>
         
-        <div class="d-flex flex-row mt-5">
+        <div class="d-flex flex-row mt-5 mb-4">
             <div class="member--group-title mr-3">Advisors
             </div>
             <div class="flex-grow-1 d-flex flex-row align-items-center">
@@ -46,8 +46,8 @@ order: 4
         </div>
     </div>
     <div class="section our-partners mt-5 py-3 py-lg-5">
-        <div class="container">
-            <div class="d-flex flex-row">
+        <div class="container my-5">
+            <div class="d-flex flex-row mb-3">
                 <div class="section--title mr-3">Our Partners
                 </div>
                 <div class="flex-grow-1 d-flex flex-row align-items-center">
@@ -82,15 +82,15 @@ order: 4
     </div>
 
     <div class="section mt-5">
-        <div class="container">
-            <div class="d-flex flex-row">
+        <div class="container py-5">
+            <div class="d-flex flex-row mb-3">
                 <div class="section--title mr-3">Corporate Support
                 </div>
                 <div class="flex-grow-1 d-flex flex-row align-items-center">
                     <div class="line w-25"></div>
                 </div>
             </div>
-            <div class="d-flex flex-row align-items-center mt-4 mt-lg-5 logos">
+            <div class="d-flex flex-row align-items-center mt-4 logos">
                 <div class="mr-3 mr-lg-5">
                     <a href="https://www.refinitiv.com/">
                         <img class="w-100" src="{{ '/assets/team/oax-corporate-support-logo-refinitiv.png' }}" alt="logo">

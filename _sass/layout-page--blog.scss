@@ -81,7 +81,7 @@
 
     .posts{
         .post{
-            width: 32%;
+            width: 31%;
             overflow: hidden;
 
             .post--image{
@@ -148,7 +148,7 @@
             .featured-post--title{
                 font-style: normal;
                 font-weight: bold;
-                font-size: 13px;
+                font-size: 145%;
                 line-height: 135.12%;
                 /* or 18px */
             }
@@ -169,7 +169,7 @@
                 .post--title{
                     font-style: normal;
                     font-weight: bold;
-                    font-size: 12px;
+                    font-size: 135%;
                     line-height: 135.12%;
                     /* or 24px */
                 }
@@ -179,7 +179,7 @@
                     & > div:last-child{
                         font-style: normal;
                         font-weight: 500;
-                        font-size: 56%;
+                        font-size: 97%;
                         line-height: 112.12%;
                         /* or 9px */
     

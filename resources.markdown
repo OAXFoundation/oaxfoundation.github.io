@@ -12,7 +12,7 @@ order: 2
     </div>
 </div>
 <div class="bg-white pt-4 pt-lg-5 mb-5 pb-5">
-    <div class="container">
+    <div class="container mb-5 pb-5">
         <div class="group corner1 box-shadow4 mb-4">
             <div class="group--title border-bottom px-5 py-2">Parachain Features</div>
             <div class="py-3 px-5">
