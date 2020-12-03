@@ -10,18 +10,30 @@ jQuery(document).ready(function($) {
     //---------------------------
     
     function hideDescription() {
-        $('.member--description:not(.d-none)').addClass('d-none');
+        $('.member--description:not(.d-none)').addClass('d-none')
+        .each(function() {
+            $(this).prev().find('.expand-button').html('+');
+        });
     }
     
     $('body').on('click', hideDescription);
     
     $('.expand-button').click(function($event) {
         $event.preventDefault();
-        $event.stopPropagation();
+        $event.stopPropagation();   
         
-        hideDescription();
+
+        if ($(this).parent().next().hasClass('d-none')) {
+            $(this).parent().next().removeClass('d-none');
+            $(this).html('-');
+        } else {
+            hideDescription();
+
+            $(this).parent().next().addClass('d-none');
+            $(this).html('+');
+        }
         
-        $(this).parent().next().toggleClass('d-none');
+        // $(this).parent().next().toggleClass('d-none');
         
         if($(this).offset().left > window.outerWidth/2) {
             $(this).parent().next().addClass('left');
