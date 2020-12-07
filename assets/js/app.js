@@ -88,6 +88,8 @@ jQuery(document).ready(function($) {
     });
 
     $('#example').horizontalTimeline({
+        dateOrder: "reverse",
+
         scrollLeft_iconClass: "fa-caret-left",
         scrollRight_iconClass: "fa-caret-right",
         prev_iconClass: "fa-caret-left",
@@ -105,15 +107,19 @@ jQuery(document).ready(function($) {
     });
 
     setTimeout(() => {
+
+        // const targetClass = '.events a:last-child'; // dateOrder: normal
+        const targetClass = '.events a:nth-child(2)'; // dateOrder: reverse
+
         activateTimelineitem(
-            $('.events a:last-child')
+            $(targetClass)
         );
 
-        const lastTimlineChild = $('.events a:last-child').data('horizontal-timeline');
+        const targetChild = $(targetClass).data('horizontal-timeline');
 
-        if (lastTimlineChild) {
+        if (targetChild) {
             $('#example').horizontalTimeline('goTo',
-                $('.events a:last-child').data('horizontal-timeline').date
+                $(targetClass).data('horizontal-timeline').date
             );
         }
 
@@ -125,6 +131,8 @@ jQuery(document).ready(function($) {
 });
 
 function activateTimelineitem(timelineItem) {
+    console.log(jQuery(timelineItem).index());
+    
     if (window.outerWidth < 768) return;
 
     const sourceLeft = parseInt(
@@ -183,7 +191,8 @@ function activateTimelineitem(timelineItem) {
         });
         
     } else if (finalLeft > (timelineWidth/2) 
-        || (timelineItem.index() > 3 && currentEventContentLeft === 0)) {
+        || (timelineItem.index() > 3 && currentEventContentLeft === 0)
+        || timelineItem.index() === 4) {
         console.log(`move than half  ${middleStateLeft}px`);
 
         jQuery('.events-content').css({
