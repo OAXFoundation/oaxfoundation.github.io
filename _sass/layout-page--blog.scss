@@ -1,4 +1,8 @@
 .layout-page.blog{
+    .page-title{
+        width: 50%;
+    }
+
     .tags{
         a{
             font-style: normal;
@@ -146,6 +150,10 @@
 
 @media (max-width: 768px) {
     .layout-page.blog{
+        .page-title{
+            width: 100%;
+        }
+        
         .featured-post{
             .featured-post--title{
                 font-style: normal;
