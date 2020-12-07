@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/moving_digital_asset_trading_to_the_mainstream.png
+tag: industry-business
 ---
 ![]({{ site.baseurl }}/img/blog-images/moving_digital_asset_trading_to_the_mainstream.png)
 
