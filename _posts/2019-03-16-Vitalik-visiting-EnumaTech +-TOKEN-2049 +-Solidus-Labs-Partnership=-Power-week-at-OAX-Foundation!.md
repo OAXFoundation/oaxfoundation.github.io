@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/vitalik_enuma_token_2049.png
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/vitalik_enuma_token_2049.png)
