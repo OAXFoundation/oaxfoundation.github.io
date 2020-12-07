@@ -2,6 +2,7 @@
 layout: post
 author: Wayland Chan, Director of Technology, OAX Foundation
 image: /img/blog-images/polkadot_meetup_01.png
+tag: community-updates
 ---
 ![]({{ site.baseurl }}/img/blog-images/polkadot_meetup_01.png)
 
