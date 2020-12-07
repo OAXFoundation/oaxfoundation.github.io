@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/celebrating_fintech_in_hk.jpeg
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/celebrating_fintech_in_hk.jpeg)
