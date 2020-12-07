@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/2020-11-12-How-Financial-Regulation-Has-Altered-the-Crypto-Asset-Landscape.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/2020-11-12-How-Financial-Regulation-Has-Altered-the-Crypto-Asset-Landscape.jpeg)
