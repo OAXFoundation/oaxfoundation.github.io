@@ -1,6 +1,6 @@
 {% for item in list %}    
     <div class="mt-2">
-        <div class="content--title gradient4 px-3 py-2 corner2 d-flex flex-row">
+        <div class="content--title gradient4 px-3 py-2 corner2 d-flex flex-row" style="cursor: pointer;">
             <div class="flex-grow-1 d-flex flex-column">
                 {% if item.subtitle %}
                     <div>{{ item.title }}</div>
@@ -9,7 +9,7 @@
                     <div>{{ item.title }}</div>
                 {% endif %}
             </div>
-            <div class="tab--icon d-flex flex-row align-items-center" style="cursor: pointer;">
+            <div class="tab--icon d-flex flex-row align-items-center">
                 <div>{% include icons/minus.svg %}</div>
                 <div>{% include icons/plus.svg %}</div>
             </div>
