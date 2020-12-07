@@ -67,7 +67,7 @@ order: 1
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
-                    <div class="section--title mb-4 mr-2">DeFi&nbsp;Application&nbsp;/ Development</div>
+                    <div class="section--title mb-4 mr-2">DeFi&nbsp;Ecosystem&nbsp; Advancement</div>
                     <div class="line mt-3 mt-lg-4"></div>
                 </div>
                 <div class="section--description">What the end goal looks like for digital assets remains unknown, and to spell it out may do a disservice of limiting its potential. OAX Foundation believes that the journey for digital assets includes DeFi and have been working to support its development.
