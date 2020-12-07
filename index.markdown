@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <div class="page-home">
-    <div class="cta1">
+    <div class="cta1 pt-4 pb-4">
         <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 pt-lg-5">
             <div style="z-index: 2;">
                 <div class="page-title blue1">Developing and promoting a sustainable digital asset ecosystem for the future
