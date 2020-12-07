@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/importance_of_mentoring.jpeg
+tag: community-updates
 ---
 ![]({{ site.baseurl }}/img/blog-images/importance_of_mentoring.jpeg)
 
