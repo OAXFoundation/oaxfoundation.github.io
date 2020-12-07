@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/are_you_hacked_off_with_hacking.jpeg
+tag: industry-business
 ---
 ![]({{ site.baseurl }}/img/blog-images/are_you_hacked_off_with_hacking.jpeg)
 
