@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/a_walk_down_wall_street.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/a_walk_down_wall_street.jpeg)
