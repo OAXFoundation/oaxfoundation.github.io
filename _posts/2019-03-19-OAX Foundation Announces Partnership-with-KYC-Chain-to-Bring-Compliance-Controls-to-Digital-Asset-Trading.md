@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/oax_partner_with_kyc_chain_to_bring_compliance_controls.jpeg
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/oax_partner_with_kyc_chain_to_bring_compliance_controls.jpeg)
