@@ -11,29 +11,39 @@ order: 2
         </h1>
     </div>
 </div>
-<div class="bg-white pt-4 pt-lg-5 mb-5 pb-5">
-    <div class="container mb-5 pb-5">
-        <div class="group corner1 box-shadow4 mb-4">
-            <div class="group--title border-bottom px-5 py-2">Parachain Features</div>
-            <div class="py-3 px-5">
+<div class="bg-white pt-4 pt-lg-5">
+    <div class="container">
+        <div class="group corner1 box-shadow4">
+            <div class="group--title border-bottom pl-4 pr-5 pb-3 pt-3">Parachain Features</div>
+            <div class="pb-3 pt-4 pl-4 pr-5">
                 {% assign list = site.resources | where: 'group', 'Parachain Features' %}
                 {% include elements/accordion.html %}
             </div>
         </div>
-        <div class="group corner1 box-shadow4 mt-5  mb-4">
-            <div class="group--title border-bottom px-5 py-2">Layer 2 Protocol</div>
-            <div class="py-3 px-5">
+        <div class="group corner1 box-shadow4">
+            <div class="group--title border-bottom pl-4 pr-5 pb-3 pt-3">Layer 2 Protocol</div>
+            <div class="pb-3 pt-4 pl-4 pr-5">
                 {% assign list = site.resources | where: 'group', 'Layer 2 Protocol' %}
                 {% include elements/accordion.html %}
             </div>
         </div>
-        <div class="group corner1 box-shadow4 mt-5 mb-4">
-            <div class="group--title border-bottom px-5 py-2 d-flex flex-column">
+        <div class="group corner1 box-shadow4">
+            <div class="group--title border-bottom pl-4 pr-5 pb-3 pt-3 d-flex flex-column">
                 <strong>Research Paper</strong>
                 <div>Professor Syren Johnstone Papers on Regulating Crypto</div>
             </div>
-            <div class="py-3 px-5">
+            <div class="pb-3 pt-4 pl-4 pr-5">
                 {% assign list = site.resources | where: 'group', 'Research Paper - Professor Syren Johnstone Papers on Regulating Crypto' %}
+                {% include elements/accordion.html %}
+            </div>
+        </div>
+        <div class="group corner1 box-shadow4">
+            <div class="group--title pl-4 pr-5 pb-3 pt-3 d-flex flex-column">
+                <strong></strong>
+                <div></div>
+            </div>
+            <div class="pb-3 pt-4 pl-4 pr-5">
+                {% assign list = site.resources | where: 'group', 'other' %}
                 {% include elements/accordion.html %}
             </div>
         </div>
