@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/Parachain Tech Summary-General.jpeg
+tag: tech-developments
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/Parachain Tech Summary-General.jpeg)
