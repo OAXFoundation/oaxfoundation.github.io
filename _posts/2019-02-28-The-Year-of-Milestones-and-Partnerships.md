@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/the_year_of_milestones_and_partnerships.jpeg
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/the_year_of_milestones_and_partnerships.jpeg)
