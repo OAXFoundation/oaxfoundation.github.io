@@ -2,6 +2,7 @@
 layout: post
 author: Tsering Namgyal
 image: /img/blog-images/paul-regulations-and-crypto-exchanges.jpeg
+tag: community-updates
 ---
 ![]({{ site.baseurl }}/img/blog-images/paul-regulations-and-crypto-exchanges.jpeg)
 
