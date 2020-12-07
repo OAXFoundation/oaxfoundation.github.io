@@ -2,6 +2,7 @@
 layout: post
 author: Raphael Tressieres, Business Development Director and Paul Li, General Counsel at OAX Foundation
 image: /img/blog-images/details_in_libra.jpeg
+tag: industry-business
 ---
 ![]({{ site.baseurl }}/img/blog-images/details_in_libra.jpeg)
 
