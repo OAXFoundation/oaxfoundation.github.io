@@ -7,7 +7,7 @@ order: 4
 <div class="d-flex flex-column">
     <div class="container d-flex flex-column flex-lg-row flex-grow-1 pb-0 pb-lg-4" style="z-index: 1;">
         <h1 class="page-title blue1 w-75 w-lg-50">
-            <div class="animate__animated animate__fadeInUp">Meet the Founders & Advisors</div>
+            <div class="animate__animated animate__fadeInUp">Meet the Founders <br/>& Advisors</div>
         </h1>
     </div>
 </div>
