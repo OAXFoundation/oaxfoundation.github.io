@@ -128,6 +128,14 @@ jQuery(document).ready(function($) {
     $('.events a').click(function() {        
         activateTimelineitem($(this));
     });
+
+    $('.horizontal-timeline .timeline-navigation:first-child').on('click', function() {
+        activateTimelineitem($('.events a.selected').prev())
+    });
+
+    $('.horizontal-timeline .timeline-navigation:last-child').on('click', function() {
+        activateTimelineitem($('.events a.selected').next())
+    });
 });
 
 function activateTimelineitem(timelineItem) {

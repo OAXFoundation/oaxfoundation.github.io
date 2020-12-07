@@ -77,7 +77,7 @@ title: Home
     </style>
     <div class="our-journey">
         <div class="container py-5">
-            <div class="subheading mt-5">Our Journey
+            <div class="subheading mt-5 pb-5">Our Journey
             </div>
             <div class="our-journey--timeline mb-5">
                 <div class="horizontal-timeline" id="example">
