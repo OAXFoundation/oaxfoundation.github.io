@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/OAX-Multitransfer-Feature.png
+tag: tech-developments
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Multitransfer-Feature.png)
