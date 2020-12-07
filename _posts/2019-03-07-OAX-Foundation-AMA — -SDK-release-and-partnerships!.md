@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/oax_ama_sdk_release_and_partnerships.jpeg
+tag: tech-developments
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/oax_ama_sdk_release_and_partnerships.jpeg)
