@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/making_a_difference_with_digital_assets.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/making_a_difference_with_digital_assets.jpeg)
