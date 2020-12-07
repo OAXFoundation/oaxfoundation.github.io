@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/cancel_order_in_trustless_setting.jpeg
+tag: tech-developments
 ---
 ![]({{ site.baseurl }}/img/blog-images/cancel_order_in_trustless_setting.jpeg)
 
