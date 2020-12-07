@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/trustless_noncustodial_exchange_prototype.jpeg
+tag: tech-developments
 ---
 ![]({{ site.baseurl }}/img/blog-images/trustless_noncustodial_exchange_prototype.jpeg)
 
