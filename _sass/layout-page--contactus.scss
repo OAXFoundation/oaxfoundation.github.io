@@ -38,6 +38,16 @@
             margin-top: 20px;
             margin-bottom: 40px;
         }
+
+        form {
+            & > div{
+                margin-top: 33px;
+
+                input, textarea{
+                    border: none;
+                }
+            }
+        }
     }
 }
 

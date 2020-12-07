@@ -25,7 +25,7 @@ order: 1
         style="pointer-events: none; position: absolute; transform: rotate(-6deg) translate(130px, -234px); left: 0;">
 </div>
 <div class="bg-white pt-5 mt-5 sections">
-    <div id="our-mission" class="container section">
+    <div id="our-mission" class="container section pt-5">
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
