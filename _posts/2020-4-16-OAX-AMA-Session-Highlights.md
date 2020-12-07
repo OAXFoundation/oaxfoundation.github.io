@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/AMA-Announcement Breakdown.png
+tag: community-updates
 ---
 
 
