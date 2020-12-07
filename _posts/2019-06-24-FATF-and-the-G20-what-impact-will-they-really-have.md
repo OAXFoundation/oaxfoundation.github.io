@@ -2,6 +2,7 @@
 layout: post
 author: Paul Li, General Counsel of OAX Foundation, and Adam Vaziri, CEO of Blockpass
 image: /img/blog-images/fatf_and _G20_impact.jpeg
+tag: industry-business
 ---
 ![]({{ site.baseurl }}/img/blog-images/fatf_and _G20_impact.jpeg)
 
