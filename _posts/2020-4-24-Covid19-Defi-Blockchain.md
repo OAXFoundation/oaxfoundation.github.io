@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/Defi-Blockchain-Covid.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/Defi-Blockchain-Covid.jpeg)
