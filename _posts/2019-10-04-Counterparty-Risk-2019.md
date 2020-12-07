@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/Counterparty-Risk.png
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/Counterparty-Risk.png)
