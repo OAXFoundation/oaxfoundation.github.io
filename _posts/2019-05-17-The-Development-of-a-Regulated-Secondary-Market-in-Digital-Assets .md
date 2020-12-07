@@ -2,6 +2,7 @@
 layout: post
 author: Prof. Syren Johnstone
 image: /img/blog-images/dev_of_a_regulated_secondary_market_in_digital_assets.jpeg
+tag: community-updates
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/dev_of_a_regulated_secondary_market_in_digital_assets.jpeg)
