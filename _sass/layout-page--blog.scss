@@ -34,6 +34,7 @@
     }
     .featured-post{
         background-color: var(--black7);
+        margin-bottom: 104px;
 
         .featured-post--meta{
             & > div:first-child{
@@ -83,6 +84,7 @@
         .post{
             width: 31%;
             overflow: hidden;
+            margin-bottom: 77px;
 
             .post--image{
                 img{
