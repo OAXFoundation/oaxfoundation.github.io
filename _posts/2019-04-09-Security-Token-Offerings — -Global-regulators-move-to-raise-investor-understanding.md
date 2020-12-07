@@ -2,6 +2,7 @@
 layout: post
 author: Winnie Mak, Executive Director, Corporate Finance, and Kelvin Wong, Senior Marketing Advisor, OAX Foundation
 image: /img/blog-images/security_token_offerings_to_raise_investor_understanding.jpeg
+tag: industry-business
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/security_token_offerings_to_raise_investor_understanding.jpeg)
