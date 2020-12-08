@@ -7,6 +7,24 @@
 
 .page-home{
 
+    .contact-us{
+        form {
+            & > div{
+                margin-top: 33px;
+
+                input, textarea{
+                    border: none;
+                    padding: 20px 20px;
+                }
+
+                input[type="submit"]{
+                    margin-top: 30px;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+
     .events-content{
         transition: left 1s;
 
