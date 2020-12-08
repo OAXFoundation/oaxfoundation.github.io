@@ -19,7 +19,8 @@
     }
     
     .page-home{
-        .timeline-navigation{
+        .timeline-navigation#leftNav,
+        .timeline-navigation#rightNav{
             top: -27px !important;
         }
 
