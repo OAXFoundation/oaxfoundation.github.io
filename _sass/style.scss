@@ -354,7 +354,6 @@ footer{
 @import 'small';
 @import 'horizontal-timeline';
 
-[class*="reverse"] > *,
-[class*="column"] > * {
+[class*="reverse"] > *{
     flex: 1;
 }

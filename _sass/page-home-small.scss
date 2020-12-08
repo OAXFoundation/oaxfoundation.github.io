@@ -118,6 +118,10 @@
             }
         }
 
+        .highlights .flex-column > *{
+            flex: 1;
+        }
+
         .oax-highlights{
             background-image: url('/assets/bg.1.xs.jpg');
         }
