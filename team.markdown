@@ -11,7 +11,7 @@ order: 4
         </h1>
     </div>
 </div>
-<div class="bg-white pt-4 pt-lg-5 mb-5 pb-5">
+<div class="bg-white pt-4 pt-lg-5">
     <div class="container">
         <div class="d-flex flex-row mb-4 mt-5">
             <div class="member--group-title mr-3">Founders & Directors
