@@ -26,7 +26,7 @@
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.header_pages | default: default_paths -%}
   {%- if page_paths -%}
-  <nav class="container navbar navbar-expand-lg navbar-light">
+  <nav class="container navbar navbar-expand-lg navbar-light mt-0 mt-lg-2">
     <a class="navbar-brand" href="/">
       <img src="{{ '/assets/oax-logo.png' | prepend: site.url }}" alt="">
     </a>
