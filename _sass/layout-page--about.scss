@@ -2,6 +2,12 @@
     .section{
         margin-bottom: 250px;
     }
+
+    #pillar1{
+        .section--title{
+            width: 217px;
+        }
+    }
 }
 
 @media (max-width: 768px) {
