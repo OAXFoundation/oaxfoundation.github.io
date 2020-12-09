@@ -6,6 +6,29 @@ jQuery(document).ready(function($) {
     });
     
     //---------------------------
+    // Page: About
+    //---------------------------
+
+    $('.go-to-anchor').click(function($event) {
+        $event.preventDefault();
+        $event.stopPropagation();
+
+        const target = $(this).attr('href');
+        
+        let elem = $(target)[0];
+            
+        if(!elem) {
+            return;
+        }
+        
+        elem.scrollIntoView({
+            behavior: 'smooth',
+            block: 'end',
+            inline: 'end'
+        });
+    });
+
+    //---------------------------
     // Page: Team
     //---------------------------
     
@@ -66,25 +89,6 @@ jQuery(document).ready(function($) {
             
         }
         
-    });
-    
-    $('.go-to-anchor').click(function($event) {
-        $event.preventDefault();
-        $event.stopPropagation();
-        
-        let elem = $(
-            $(this).attr('href')
-            )[0];
-            
-        if(!elem) {
-            return;
-        }
-        
-        elem.scrollIntoView({
-            behavior: 'auto',
-            block: 'center',
-            inline: 'center'
-        });
     });
 
     $('#example').horizontalTimeline({
