@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+image: /img/blog-images/OAX-Financial-System-1.jpeg
 tag: industry-business
 ---
 
