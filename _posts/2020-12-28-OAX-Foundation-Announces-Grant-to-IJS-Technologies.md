@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/blog-images/OAX-IJS-Grant.jpg
+image: /img/blog-images/OAX-IJS-Grant.jpg
 tag: community-updates
 ---
 
@@ -17,5 +17,7 @@ IJS’ platform is built using the open-sourced DeFi based concept of token swap
 
 IJS Technologies is nearing the completion of their open source release and has a third-party audit underway. We look forward to hearing updates from the IJS team!
 
-<i>About IJS Technologies:
-Founded in 2017, IJS Technologies is an award-winning blockchain and fintech solutions provider based in Hong Kong. With a commitment to open source and decentralization, IJS strives to make the digital asset and blockchain ecosystem a safer place for everyone. Global organizations choose IJS Technologies to guide them into the age of crypto-commerce. For more information, visit their website <a href="https://www.ijs.network">here</a>.</i>
+
+About IJS Technologies:
+
+Founded in 2017, IJS Technologies is an award-winning blockchain and fintech solutions provider based in Hong Kong. With a commitment to open source and decentralization, IJS strives to make the digital asset and blockchain ecosystem a safer place for everyone. Global organizations choose IJS Technologies to guide them into the age of crypto-commerce. For more information, visit their website <a href="https://www.ijs.network">here</a>.
