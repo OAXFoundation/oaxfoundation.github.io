@@ -14,9 +14,11 @@ Welcome to the beginning of 2021!
 Anyone paying attention to the digital asset market this month has been on one rollercoaster ride. Having reached its peak earlier this month of over $58,000, BTC then nearly lost 17% of its value earlier this week. Likewise, Ether hit an all-time high, passing the $2000 mark before pulling back and crossing below the $1400 line.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-BTC-Feb-21.jpeg)
+
 Coindesk BTC Chart Source: <a href="https://www.coindesk.com/price/bitcoin">Coindesk</a>
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-BTC-Feb-21.jpeg)
+
 Coindesk ETH Chart Source: <a href="https://www.coindesk.com/price/ethereum">Coindesk</a>
 
 The market is buzzing right now with their theories: is it a natural market pullback after a rise? Was it the result of a market influencer’s tweets? Or perhaps it fell to the comments from US regulators? Regardless of the reason for the market fluctuations, we expect many people to be taking advantage of the market changes. 
