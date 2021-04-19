@@ -168,11 +168,14 @@ body *{
 }
 
 #gototopbtn_container{
+    pointer-events: none;
     position: fixed;
     bottom: 110px;
     width: 100%;
 
     .go-to-top-btn{
+        pointer-events: auto;
+        cursor: pointer;
         width: 32px;
         height: 32px;
     
