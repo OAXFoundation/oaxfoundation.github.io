@@ -7,11 +7,11 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-IJS-Partner.jpeg)
 
-<i>This week, we asked IJS Technologies to write a blog post about their last few months. With a grant announcement late last year and an upcoming AMA, we wanted the OAX community to learn more about the project: what it started as when we first spoke to them and how it has evolved over time post-grant.</i>
+<br><i>This week, we asked IJS Technologies to write a blog post about their last few months. With a grant announcement late last year and an upcoming AMA, we wanted the OAX community to learn more about the project: what it started as when we first spoke to them and how it has evolved over time post-grant.</i>
 
 <i>When we first started learning about IJS’ project, we were impressed with their ideas of building an open-sourced DeFi based concept of token swaps and their dedication to decentralized governance resonated with the team. Here’s a peek at how things started (from their perspective), and we look forward to seeing you in our upcoming joint AMA. Come with questions!</i>
 
-<b>OAX Foundation X IJS Technologies: So, What’s Next?</b>
+<br><b>OAX Foundation X IJS Technologies: So, What’s Next?</b>
 
 The summer of 2020 sparked a lot of interest in the DeFi space with the launch of the COMP token leading to the yield farming craze and a spike in the trading volume on the leading DEX UniSwap. On the heels of a defunct yield bearing stablecoin project based on the CDP concept of MakerDAO, we shifted our attention towards the DEX and its automated market maker (AMM) model. The simplicity of the Constant Function Market Maker (CFMM) of UniSwap provided an elegant solution to the pricing of swaps and captured the imaginations of our dev team to help solve the issue of slippage and impermanent loss experienced by users at the time.
 

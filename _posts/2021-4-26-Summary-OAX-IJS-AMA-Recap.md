@@ -79,6 +79,4 @@ One aspect of the grant that we ask our grant applicants to consider is how the 
 
 Furthermore, the team has recently announced that we have made our token available in a BEP-20 standard. This direction was also in thanks to the many conversations we've been having with members of the community and also through interactions with industry members. We believe cause and effect doesn't necessarily have to be linear, but through the network of conversations, opportunities open up that earlier would not have been considered.<br>
 
-
-
-<i>Disclaimer: Questions and answers may be amended slightly for clarity.</i>
+<br><i>Disclaimer: Questions and answers may be amended slightly for clarity.</i>
