@@ -168,11 +168,14 @@ body *{
 }
 
 #gototopbtn_container{
+    pointer-events: none;
     position: fixed;
     bottom: 110px;
     width: 100%;
 
     .go-to-top-btn{
+        pointer-events: auto;
+        cursor: pointer;
         width: 32px;
         height: 32px;
     
@@ -337,6 +340,14 @@ footer{
         border-image-slice: 1;
         border-width: 1px;
     }
+}
+
+.oax-links--footer{
+    font-size: 14px;
+    font-weight: bold;
+    color: #22236f;
+    margin-top: 12px;
+    margin-bottom: 6px;
 }
 
 @import 'layout-page';
