@@ -48,7 +48,7 @@ order: 4
     <div class="section our-partners mt-5 py-3 py-lg-5">
         <div class="container my-5">
             <div class="d-flex flex-row mb-3">
-                <div class="section--title mr-3">Our Partners
+                <div class="section--title mr-3">Working With
                 </div>
                 <div class="flex-grow-1 d-flex flex-row align-items-center">
                     <div class="line w-25"></div>
@@ -72,9 +72,14 @@ order: 4
                         <img src="{{ '/assets/team/oax-partner-logo-kyc-chain.png' }}" alt="logo">
                     </a>
                 </div>
-                <div>
+                <div class="mr-3 mr-lg-5">
                     <a href="https://www.soliduslabs.com/">
                         <img src="{{ '/assets/team/oax-partner-logo-solidus-labs 1.png' }}" alt="logo">
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.openswap.xyz/#/">
+                        <img src="{{ '/assets/team/OpenSwap.png' }}" alt="logo" height="38px">
                     </a>
                 </div>
             </div>
