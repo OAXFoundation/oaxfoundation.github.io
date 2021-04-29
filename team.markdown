@@ -78,8 +78,8 @@ order: 4
                     </a>
                 </div>
                 <div>
-                    <a href="https://www.openswap.xyz/#/">
-                        <img src="{{ '/assets/team/OpenSwap.png' }}" alt="logo" height="38px">
+                    <a href="https://www.ijs.network/">
+                        <img src="{{ '/assets/team/IJS.png' }}" alt="logo">
                     </a>
                 </div>
             </div>
