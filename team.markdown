@@ -55,6 +55,11 @@ order: 4
                 </div>
             </div>
             <div class="d-flex flex-row align-items-center mt-4 mt-lg-5 logos">
+               <div class="mr-3 mr-lg-5">
+                    <a href="https://www.ijs.network/">
+                        <img src="{{ '/assets/team/IJS.png' }}" alt="logo">
+                    </a>
+                </div>
                 <div class="mr-3 mr-lg-5">
                     <a href="https://www.blockpass.org/">
                         <img src="{{ '/assets/team/oax-partner-logo-blockpass 1.png' }}" alt="logo">
@@ -75,11 +80,6 @@ order: 4
                 <div class="mr-3 mr-lg-5">
                     <a href="https://www.soliduslabs.com/">
                         <img src="{{ '/assets/team/oax-partner-logo-solidus-labs 1.png' }}" alt="logo">
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.ijs.network/">
-                        <img src="{{ '/assets/team/IJS.png' }}" alt="logo">
                     </a>
                 </div>
             </div>
