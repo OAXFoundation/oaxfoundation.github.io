@@ -2,6 +2,8 @@
 title: Paper 3
 subtitle: "Inhabiting Different Realities: Incrementalism, Paradigms And The New Prospect"
 fullversion_link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605107
+qa_part1_link: /2020/07/08/Syren-Johnstone-Inhabiting-Different-Realities-Incrementalism-Paradigms-And-The-New-Prospect-Part-1.html
+qa_part2_link: /2020/07/16/Syren-Johnstone-Inhabiting-Different-Realities-Incrementalism-Paradigms-and-the-New-Prospect-Part-2.html
 group: Research Paper - Professor Syren Johnstone Papers on Regulating Crypto
 order: 3
 ---

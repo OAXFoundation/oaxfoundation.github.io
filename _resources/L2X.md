@@ -3,6 +3,7 @@ title: L2X
 annoucement_link: /2019/08/12/OAX-Foundation-releases-new-exchange-protocol.html
 protocol_paper_link: https://github.com/OAXFoundation/l2x-trustless-exchange/blob/master/docs/l2x-specification.pdf
 sourcecode_link: https://github.com/OAXFoundation/l2x-trustless-exchange
+l2x_video_link: https://www.youtube.com/watch?v=t6o-H_zHjSU
 group: Layer 2 Protocol
 order: 1
 ---

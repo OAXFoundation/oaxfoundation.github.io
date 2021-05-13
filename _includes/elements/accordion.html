@@ -89,8 +89,28 @@
                 <a class="content--link btn btn-default" href="{{ item.protocol_paper_link }}">Protocol Paper
                 </a>
                 {% endif %}
+                {% if item.l2x_video_link %}
+                <a class="content--link btn btn-default" href="{{ item.l2x_video_link }}">L2X Video
+                </a>
+                {% endif %}
                 {% if item.abridged_version_link %}
                 <a class="content--link btn btn-default" href="{{ item.abridged_version_link }}">Abridged Version
+                </a>
+                {% endif %}
+                {% if item.summary_post_part1_link %}
+                <a class="content--link btn btn-default" href="{{ item.summary_post_part1_link }}">Summary Post Part One
+                </a>
+                {% endif %}
+                {% if item.summary_post_part2_link %}
+                <a class="content--link btn btn-default" href="{{ item.summary_post_part2_link }}">Summary Post Part Two
+                </a>
+                {% endif %}
+                {% if item.qa_part1_link %}
+                <a class="content--link btn btn-default" href="{{ item.qa_part1_link }}">Q&A Part One
+                </a>
+                {% endif %}
+                {% if item.qa_part2_link %}
+                <a class="content--link btn btn-default" href="{{ item.qa_part2_link }}">Q&A Part Two
                 </a>
                 {% endif %}
                 {% if item.part1_link %}
