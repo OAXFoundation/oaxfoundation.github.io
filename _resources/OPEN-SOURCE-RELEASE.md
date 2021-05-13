@@ -2,6 +2,7 @@
 title: Open Source Release
 annoucement_link: /2020/08/06/Parachain-Features-Open-Source-Code-Released.html
 sourcecode_link: https://github.com/OAXFoundation/parrot/
+testnet_announcement_link: /2020/09/11/OAX-Parachain-Testnet-Released.html
 group: Parachain Features
 order: 1
 ---
