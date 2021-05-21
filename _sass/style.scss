@@ -8,6 +8,7 @@
     --blue5: #69D5F8;
     --blue6: #12F3D8;
     --blue7: #3DAAA5;
+    --blue8: #6CCACE;;
     --black1: #4C4C4C;
     --black2: #4F4F4F;
     --black3: #939393;
@@ -37,6 +38,8 @@ body *{
     font-family: 'Roboto', sans-serif;
 }
 
+.hide{ display: none; }
+
 .blue1{
     color:var(--blue1);
 }
@@ -47,6 +50,10 @@ body *{
 
 .black1{
     color:var(--black1);
+}
+
+.black2{
+    color:var(--black2);
 }
 
 .black5{
@@ -138,6 +145,15 @@ body *{
     background: linear-gradient(90deg, #4BCDDF 14.06%, #9875FD 100%);
 }
 
+.gradient11,
+.layout-page.grant-program{
+    background: linear-gradient(359.78deg, #FFFFFF 13.78%, #EDEBEB 89.71%);
+}
+
+.gradient12{
+    background: linear-gradient(180deg, #FFFFFF 14.58%, rgba(255, 255, 255, 0.15) 100%);
+}
+
 .border-gradient1,
 .nav-link.border-gradient1{
     border-image-slice: 1;
@@ -198,7 +214,7 @@ body *{
     & > a, & > em, & > span{
         padding: 15px 20px;
 
-        font-style: normal;
+    font-style: normal;
         font-weight: bold;
         font-size: 18px;
         line-height: 140.62%;
@@ -352,6 +368,7 @@ footer{
 
 @import 'layout-page';
 @import 'layout-post';
+@import 'accordion';
 @import 'sidenav';
 @import 'header';
 
@@ -361,6 +378,7 @@ footer{
 @import 'layout-page--team';
 @import 'layout-page--resources';
 @import 'layout-page--contactus';
+@import 'layout-page--grant-program';
 
 @import 'small';
 @import 'horizontal-timeline';

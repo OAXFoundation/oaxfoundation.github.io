@@ -1,0 +1,77 @@
+.layout-page.grant-program{
+    #areas-of-evaluation,
+    #grant-recipients{
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #areas-of-evaluation{
+        background-image: url('/assets/grant-program/bg.jpg');
+    }
+
+    #grant-recipients{
+        background-image: url('/assets/grant-program/bg2.jpg');
+    }
+
+    #welcome{
+        > div:first-child {
+            background: transparent url(/assets/grant-program/deco1.png) no-repeat right center;
+        }
+        
+        > div:nth-child(2) {
+            background: transparent url(/assets/grant-program/deco2.png) no-repeat left center;
+        }
+    }
+
+    #faq{
+        background: url(/assets/grant-program/deco3.png) no-repeat left top, url(/assets/grant-program/deco4.png) no-repeat right bottom;
+    }
+
+    .icon--caption{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    ul{
+        li{
+            .list--title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 20px;
+                color: var(--black1);
+            }
+
+            .list--content{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 20px;
+                color: var(--blue1);
+                padding: 20px 0;
+            }
+
+            list-style: none;
+            margin-bottom: 20px;
+
+            &.blue-arrow {
+                position: relative;
+                cursor: pointer;
+            }
+            
+            &.blue-arrow:before{
+                content: "";
+                position: absolute;
+                left: -37px;
+                top: 5px;
+                border-top: 10px solid transparent;
+                border-right: 10px solid transparent;
+                border-bottom: 10px solid transparent;
+                border-left: 17px solid var(--blue8)
+            }
+        }
+    }
+    
+    .font-26{ font-size: 26px; line-height: 26px; }
+    .font-18{ font-size: 18px; }
+    .font-14{ font-size: 14px; }
+}
