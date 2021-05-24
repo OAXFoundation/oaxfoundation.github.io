@@ -91,3 +91,27 @@
         color: var(--blue1);
     }
 }
+
+@media (max-width: 425px) {
+    .group{
+        .content--title{
+            > div > div > img{
+                width: 25px;
+            }
+
+            .content--title-text{
+                font-size: 13px;
+            }
+
+            .tab--icon{
+                svg{
+                    transform: scale(0.5);
+                }
+            }
+        }
+
+        .content--body{
+            font-size: 15px;
+        }
+    }
+}
