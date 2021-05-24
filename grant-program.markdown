@@ -149,7 +149,7 @@ permalink: /grant-program/preview/
                     <div class="px-3 px-lg-5 py-3 black2 font-18">The official application is a written English proposal submission, however, if the applicant would like to supplement with a video to support their application we’ll take the additional material into consideration. 
                     </div>
                     <div class="pb-2 pt-4 px-3 px-lg-5">
-                        {% assign list = site.application_process %}
+                        {% assign list = site.application_process | sort: "order" %}
                         {% include elements/accordion.html %}
                     </div>
                 </div>
