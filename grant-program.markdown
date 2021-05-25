@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Grant Program
-permalink: /grant-program/preview/
+permalink: /grant-program/
+order: 3
 ---
 <div class="container d-flex flex-column">
     <div class="d-flex d-flex flex-column flex-lg-row row flex-grow-1" style="z-index: 1;">
