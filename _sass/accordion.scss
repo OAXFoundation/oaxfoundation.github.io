@@ -1,0 +1,117 @@
+.group{
+    margin-bottom: 104px;
+
+    .group--title{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 135.12%;
+        /* or 35px */
+
+        letter-spacing: 0.01em;
+
+        & > div{
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 135.12%;
+            /* or 22px */
+
+            letter-spacing: 0.01em;
+        }
+    }
+    
+    .content--title{
+        
+        .content--title-text{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 135.12%;
+            /* or 24px */
+    
+            letter-spacing: 0.01em;
+        }
+
+        .content--subtitle-text{
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 135.12%;
+            /* or 22px */
+            
+            letter-spacing: 0.01em;
+        }
+
+        .tab--icon{
+            svg{
+                transform: scale(0.7);
+            }
+        }
+
+        &.gradient4{
+            color: var(--black1);
+
+            .tab--icon div:first-child{
+                display: none;
+            }
+
+        }
+
+        &.gradient5{
+            color: #fff;
+
+            .tab--icon {
+                div:last-child{
+                    display: none;
+                }
+            }
+        }
+    }
+
+    .content--body{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 156.13%;
+        /* or 28px */
+
+        letter-spacing: 0.01em;
+    }
+
+    .content--link{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 135.12%;
+        /* or 24px */
+
+        letter-spacing: 0.01em;
+
+        color: var(--blue1);
+    }
+}
+
+@media (max-width: 425px) {
+    .group{
+        .content--title{
+            > div > div > img{
+                width: 25px;
+            }
+
+            .content--title-text{
+                font-size: 13px;
+            }
+
+            .tab--icon{
+                svg{
+                    transform: scale(0.5);
+                }
+            }
+        }
+
+        .content--body{
+            font-size: 15px;
+        }
+    }
+}

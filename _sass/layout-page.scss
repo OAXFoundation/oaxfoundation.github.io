@@ -25,7 +25,8 @@
     }
 }
 
-.layout-page.about{
+.layout-page.about,
+.layout-page.grant-program{
     background: url('/assets/header-bg.2.jpg') top center no-repeat;
     background-size: 200%;
 }
@@ -42,7 +43,8 @@
 }
 
 .layout-page.blog,
-.layout-page.about{
+.layout-page.about,
+.layout-page.grant-program{
 
     .anchors{
         a{
@@ -56,7 +58,7 @@
 
     .sections{
         .section:first-child{
-            .section--title{
+            .section--title:not(.style-2){
                 font-style: normal;
                 font-weight: bold;
                 font-size: 18px;
@@ -65,13 +67,28 @@
                 color: var(--yellow);
             }
 
-            .section--description{
+            .section--title.style2{
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 36px;
+
+                color: var(--blue1);
+            }
+
+            .section--description:not(.style-2){
                 font-style: normal;
                 font-weight: bold;
                 font-size: 20px;
                 line-height: 146.62%;
                 
                 color: var(--blue1);
+            }
+
+            .section--description.style-2{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 18px;
             }
         }
 
@@ -105,19 +122,20 @@
 }
 
 @media (min-width: 1024px) {
-    .layout-page.blog .anchors a, .layout-page.about .anchors a{
+    .layout-page.blog .anchors a, .layout-page.about .anchors a, .layout-page.grant-program .anchors a{
         font-size: 90%;
     }
 }
 
 @media (max-width: 1024px) {
-    .layout-page.blog .anchors a, .layout-page.about .anchors a{
+    .layout-page.blog .anchors a, .layout-page.about .anchors a, .layout-page.grant-program .anchors a{
         font-size: 80%;
     }
 }
 
 @media (max-width: 768px) {
-    .layout-page.about{
+    .layout-page.about,
+    .layout-page.grant-program{
         background: url('/assets/header-bg.2.small.jpg') top center no-repeat;
     }
     
@@ -132,7 +150,8 @@
     }
 
     .layout-page.blog,
-    .layout-page.about{
+    .layout-page.about,
+    .layout-page.grant-program{
         background-size: contain;
     
         .sections{

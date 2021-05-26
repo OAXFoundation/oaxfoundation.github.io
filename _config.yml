@@ -32,6 +32,8 @@ collections:
     group: true
   resources:
     group: true
+  application_process:
+    sort_by: order
 
 
 # Build settings

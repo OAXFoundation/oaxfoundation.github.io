@@ -4,6 +4,16 @@ jQuery(document).ready(function($) {
         visibility: 'visible',
         right: ''
     });
+
+    //---------------------------
+    // Page: Grant Program
+    //---------------------------
+    $('li.blue-arrow').on('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+
+        $(this).find('.list--content').toggleClass('hide');
+    });
     
     //---------------------------
     // Page: About
