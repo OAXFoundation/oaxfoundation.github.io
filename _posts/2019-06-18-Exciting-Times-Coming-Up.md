@@ -20,26 +20,3 @@ We hope the upcoming release of the paper will offer our community members, inte
 The paper may be too technical for regular readers, but not to worry, as we will also publish a summary on our Medium page. Apart from the paper, Enuma has also released some tech-related posts on their [official blog](https://blog.enuma.io/), which may be worth checking out.
 
 The next few weeks will be an exciting time for OAX Foundation, as we are also hard at work on releasing the source code for Layer 2 Solution, deploying the latest code to the testnet, a full website revamp and more updates in the pipeline. We are thankful for all your support so far, and we would like to thank all our supporters who have journeyed with us throughout our milestones!
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

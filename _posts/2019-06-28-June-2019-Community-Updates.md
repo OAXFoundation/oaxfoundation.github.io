@@ -23,26 +23,3 @@ At the same time, we have also kept up our work updating the community and shari
 Continuing our work promoting the wider role of FinTech in society, Paul Li, our General Counsel, appeared on a panel at the 2019 Conference of In-House Lawyers organized by the Law Society of Hong Kong. This is the second time Paul has been asked to speak at the event: this time around he was promoting the importance of open and diverse workplaces — something our General Manager, Amanda Liu, has also spoken about several times.
 
 Last but not least, we also took part in the celebration of the [second anniversary](https://medium.com/@OAX_Foundation/celebrating-fintech-in-hong-kong-b7721bff551e) of the Fintech Association of Hong Kong, an organization that has worked tirelessly to bring companies and people in this community together. With Amanda, Paul and Winnie Mak (our Corporate Finance Director) having joined various sub committees, we can expect OAX to work more closely with the Association and its other members to help bring digital asset trading to the mainstream.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

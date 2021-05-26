@@ -27,4 +27,4 @@ While Professor Johnstone notes this may be some way off, we at OAX Foundation k
 
 You can download a copy of the full research paper, “Requisites for Development of a Regulated Secondary Market in Digital Assets,” [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3379623). Professor Johnstone’s other papers are available [here](http://keelc.com/recent-publications/). (N.B. you do not need an SSRN account to download the paper — scroll to the bottom of the SSRN page to download for free.)
 
-The previous paper in the series, “Regulating cryptographic consensus technology: Oxymoron or Necessity?”, is also available <a href="http://bit.ly/SyrenJohnstonerp1">here</a>
+The previous paper in the series, “Regulating cryptographic consensus technology: Oxymoron or Necessity?”, is also available <a href="http://bit.ly/SyrenJohnstonerp1">here</a>.

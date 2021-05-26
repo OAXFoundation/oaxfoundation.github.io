@@ -19,26 +19,3 @@ But in the digital asset industry, the risk of hacking and all the inconvenience
 Of course, there are benefits to centralization — not least the transaction speeds and governance controls. But at OAX Foundation we believe these are totally overshadowed by the threat of hacking. This threat can only be properly mitigated by a trustless exchange system, and one with leading governance and controls integrated. And that’s exactly what we’re on the cusp of presenting to the community with our Layer 2 crypto exchange protocol.
 
 We’ve paved the way for this by publishing a [paper](https://github.com/OAXFoundation/l2x-trustless-exchange/blob/master/docs/l2x-specification.pdf) setting out the protocol specifications, and will soon be releasing the source code to the public. We hope that this will bring the industry a whole lot closer to moving away from centralization and all the issues that brings, to decentralization and the rightful place that digital assets have in the mainstream.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

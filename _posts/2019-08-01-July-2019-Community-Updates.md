@@ -17,26 +17,3 @@ To those of you who’re not familiar with Polkadot, it is one of the most highl
 Earlier in the month, Amanda also attended the Hong Kong leg of RISE, one of the world’s biggest tech and startup conference, at the invitation from our partner Blockpass. Just like years past, the conference featured a large number of insightful discussion as well as networking opportunities.
 
 Last but not least, our team has continued to provide the community with insights to things that are happening in the world of blockchain. We followed the [analysis](https://medium.com/@OAX_Foundation/libra-the-devil-is-in-the-details-c137c996c589) on Facebook’s Libra project in June with a [piece](https://medium.com/@OAX_Foundation/are-you-hacked-off-with-hacking-6536b7b77873) on the US$4.2 million loss to hacking by Singapore-based cryptocurrency exchange Bitrue. News like these serve as a reminder of the importance of moving the industry towards trustlessness — one of the key principles the OAX Foundation tries to uphold.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

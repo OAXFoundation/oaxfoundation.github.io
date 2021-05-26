@@ -19,27 +19,3 @@ The Layer 2 protocol centres around the interaction of four kinds of entity: the
 As such, the protocol is designed to enable a set of clients to perform fast, trustless, non-custodial, off-chain exchange of digital assets. This is what’s so exciting about it, and why we’re proud to be presenting it to you, as it brings to public attention the details behind what we believe is the next evolution in bringing decentralized trading to the mainstream.
 
 For those of you who want to take a closer look, you can download a copy of the paper [here](https://github.com/OAXFoundation/l2x-trustless-exchange/blob/master/docs/l2x-specification.pdf).
-
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

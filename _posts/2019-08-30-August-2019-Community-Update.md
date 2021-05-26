@@ -32,7 +32,7 @@ Asset Review .
 All-in-all, we think this a major breakthrough for the industry and a significant advance
 towards digital asset trading becoming a part of mainstream financial services.
 While we’ve been focused on the release, we’ve also continued to set our work within the
-wider industry context. At the beginning of the month we wrote an [article]({{ site.baseurl }}/2019/08/07/Reseach-reveals-increased-confidence-in-decentralized-exchanges.html) about the
+wider industry context. At the beginning of the month we wrote an [article]({{ site.baseurl }}/2019/08/07/Research-reveals-increased-confidence-in-decentralized-exchanges.html) about the
 increased confidence being placed in decentralized exchanges, as demonstrated by the
 tripling of trade volume in the first half of this year. We believe our L2X protocol, once fully
 implemented, will only help boost those volumes further.

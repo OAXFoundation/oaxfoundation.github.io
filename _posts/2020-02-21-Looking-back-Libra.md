@@ -9,7 +9,7 @@ tag: industry-business
 
 <b>OAX: February – looking back: where are they now?</b>
 
-We often discuss major industry news, but in our attempt to constantly push forward, we don’t often look back to see the status. In June last year, we <a href="https://www.oax.org/2019/06/27/Libra-the-Devil-is-in-the-details.html">discussed</a> Facebook’s intention to develop its own digital currency, Libra, with some scepticism.  Based on the information available at announcement, we felt that while the enthusiastic response to the Libra announcement signalled a welcome rise in institutional focus on cryptocurrencies, there were too many unknowns and flaws in the plan to give it our wholehearted endorsement.  
+We often discuss major industry news, but in our attempt to constantly push forward, we don’t often look back to see the status. In June last year, we <a href="/2019/06/27/Libra-the-Devil-is-in-the-Details.html">discussed</a> Facebook’s intention to develop its own digital currency, Libra, with some scepticism.  Based on the information available at announcement, we felt that while the enthusiastic response to the Libra announcement signalled a welcome rise in institutional focus on cryptocurrencies, there were too many unknowns and flaws in the plan to give it our wholehearted endorsement.  
 
 In particular, we felt that the dominance of large US-based traditional payments players in the permissioned consensus process meant Libra was not truly decentralized; that its ability to be shut down meant it was not autonomous; and that Facebook’s notorious inability to secure users’ private data, not to mention exercising censorship on its platform, made the proposed network less than secure. 
 

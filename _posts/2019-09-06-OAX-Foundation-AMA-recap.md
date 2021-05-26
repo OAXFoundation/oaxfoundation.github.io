@@ -43,28 +43,3 @@ Congratulations to the winners! They will also be notified separately by a priva
 For those of you new to our project or those who’d like to continue the conversation, feel free to send us questions or comments through our social media channels. Platforms such as our Telegram group and Reddit allow you to engage other community members in meaningful discussions. If you prefer a more tech-centric community, try our Discord group.  
 
 For the link to the full AMA session on Reddit, please click [here](https://www.reddit.com/r/OpenANX/comments/cyyi8q/our_24hour_ama_askmeanything_session_is_now_live/).
-#OAX #DEX #Decentralized #Blockchain #Layer2 #Transparent #AMA
-
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  
