@@ -7,7 +7,7 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-April-21-Community-Update.jpeg)
 
-<b>April 2021 Community Update</b>
+<b>April 2021 Community Updates</b>
 
 <br>Wow! What a start to Q2 it’s been for us!
 
