@@ -37,7 +37,3 @@ We sat down with the guys and talked about the crypto-space, exchanges and their
 
 ##### T — 10 Until Launch!
 The big day is getting closer! This week we will be launching the technical white paper on Wednesday 14 June, and will be doing so via our Slack channel first! Don’t forget to sign up to get an early look!
-
-[SLACK](https://join.slack.com/openanx/shared_invite/MTk1NjQ2NjI2MTEyLTE0OTcyNzY3MjEtMTA3YTFkM2Q3ZA)
-
-A newsletter will be going out to all subscribers today with updates and another on Friday with User Guides about how to participate, so keep an eye on your mailbox.

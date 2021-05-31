@@ -10,5 +10,3 @@ We had a very busy week, meeting people, discussing the project and talking to p
 This week will be no less busy. We will be launching the white paper in multiple languages, starting with Chinese. We will also be posting a few short videos featuring the projects CTO, Hugh Madden, discussing various aspects of the market structure and the project itself. We’ll be providing more information on our bounty program for those who are interested, and bringing on a number of new advisors and backers.
 
 This week we will also be working hard to provide more details to the Russian and Korean communities about the project and how they can get involved. We will also be sending out a update with some surprise details to our subscribers, so sign up to our mailing list at [www.openanx.org](www.openanx.org).
-
-You can also join our Slack channel [here](https://join.slack.com/openanx/shared_invite/MTg5MzA2ODcwMTE0LTE0OTYwNTEyMzItNDI5ZmU2NmFlNg).
