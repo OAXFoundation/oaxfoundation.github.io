@@ -18,26 +18,3 @@ Another important development for [OAX Foundation](https://www.linkedin.com/auth
 February also sees us wrapping up the OAX [airdrop](https://medium.com/@OAX_Foundation/oax-airdrop-closed-bfea7351357a). At the time of publication, our team has successfully finished the distribution of the airdrop tokens to all eligible participants. Once again, we would like to thank all our loyal supporters for taking part in the campaign!
 
 And last but not least, next week we’ll be hosting the third OAX Ask-Me-Anything (AMA) on [Reddit](https://www.reddit.com/r/OpenANX/). For more details and how you can submit questions, read our announcement [here](https://medium.com/@OAX_Foundation/oax-foundation-and-enuma-technologies-to-host-ama-on-reddit-8bafa0dd5b10).
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

@@ -24,26 +24,3 @@ From the regulatory aspect, the additional [transparency](https://www.theice.com
 One thing for certain is that we will see index providers constantly adjusting and adapting as the market keeps changing. At the moment, trading volume is dominated by [three major cryptocurrencies](https://www.fxempire.com/education/article/bitcoin-ethereum-and-ripple-the-differences-480465) and this is reflected by the components of the main indices. Yet as other cryptocurrencies emerge and account for more trading volume, this will also likely change.
 
 [The growth of cryptocurrency indices](https://www.newsbtc.com/2018/07/11/cryptocurrency-indices-a-new-crypto-market-trend-that-cryptoindex-is-all-set-to-embrace/) is yet another sign of the industry maturing. The transparency they bring will not only lead to new products coming to market, but also allow [institutional](https://investmentbank.com/crypto-growth/) money to flow in. And that can only be welcomed by those — like us at OAX Foundation — whose mission is to see digital asset trading move to the mainstream.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

@@ -28,26 +28,3 @@ But blockchain, the technology underlying cryptocurrencies, is here to stay. Its
 These examples point to the fact that projects using innovations like blockchain to bring genuine benefits to the wider community will succeed where others fail. These projects are not interested in short term gains but are instead focused on building strong and sustainable products for the future.
 
 That’s what we’re focused on doing at OAX Foundation. Regardless of the latest moves in the price of bitcoin or how regulations will eventually evolve, we are set firm on building a decentralized exchange platform that will bring stability, transparency and speed to cryptocurrency trading.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

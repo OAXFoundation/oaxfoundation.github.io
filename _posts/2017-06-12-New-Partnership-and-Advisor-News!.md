@@ -41,22 +41,3 @@ The big day is getting closer! This week we will be launching the technical whit
 [SLACK](https://join.slack.com/openanx/shared_invite/MTk1NjQ2NjI2MTEyLTE0OTcyNzY3MjEtMTA3YTFkM2Q3ZA)
 
 A newsletter will be going out to all subscribers today with updates and another on Friday with User Guides about how to participate, so keep an eye on your mailbox.
-
-Don’t forget to follow us!
-
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

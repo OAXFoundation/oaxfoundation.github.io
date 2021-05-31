@@ -23,26 +23,3 @@ Now that digital banks are finally setting up shop, what’s next for Hong Kong�
 This will also focus attention on the need for high scalability, and we believe that the majority of IoT transactions and contracts will occur on second-layer networks, with the opportunity to settle payment channels and transaction disputes on-chain. At [OAX Foundation](https://twitter.com/OAX_Foundation), we’re developing just such a [layer 2 protocol](https://github.com/OAXFoundation/oax-client), which could be applied to this use-case later on.
 
 [Hong Kong](https://ftahk.org) is undoubtedly entering an exciting phase of development in its financial services industry — and the coming of digital banks is just the start. We believe it’s heralding a new era where advanced [blockchain applications](http://fintechnews.hk/8603/blockchain/blockchain-hong-kong-ecosystem-map-2019/) will open up [a new world of possibilities](https://www.whub.io/fintech-toolboxv) for businesses and consumers alike.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

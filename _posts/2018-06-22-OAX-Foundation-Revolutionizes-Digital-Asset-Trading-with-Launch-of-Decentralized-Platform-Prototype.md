@@ -20,6 +20,4 @@ OAX Foundation will announce a series of campaigns in the coming weeks to encour
 
 Amanda Liu, General Manager of OAX Foundation, said, “The launch today of the OAX platform prototype is a significant milestone in our mission to revolutionize digital asset trading. Since we first launched the project, we have put in place the people, systems and technology that together have brought about the successful delivery of this crucial stage, on time and on budget. We remain focused on delivering greater technology and standards for the digital asset industry.”
 
-The prototype is now accessible at the following URL: [https://dex.demo.oax.org/](https://dex.demo.oax.org/)
-
 Contact us at: [info@oax.org](mailto:info@oax.org)

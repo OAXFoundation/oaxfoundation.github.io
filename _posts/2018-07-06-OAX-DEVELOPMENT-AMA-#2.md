@@ -47,7 +47,7 @@ Here is the transcript of the Q&A.
 
 **Kirsten:** Both the traditional centralised exchange and existing decentralised exchange models have inherent weaknesses limiting their potential to service the rapidly developing digital asset market. These weaknesses are also a hindrance to widespread acceptance of tokens as an asset class. The OAX platform addresses these shortcomings whilst combining the best elements of both trading systems.
 
-We launched our prototype on 22 June and you are welcome to test trading on it. Please visit [https://dex.demo.oax.org/](https://dex.demo.oax.org/)
+We launched our prototype on 22 June and you are welcome to test trading on it. 
 
 ###### Q: I use binance since long time. i m new with oax. how is your platform different?
 

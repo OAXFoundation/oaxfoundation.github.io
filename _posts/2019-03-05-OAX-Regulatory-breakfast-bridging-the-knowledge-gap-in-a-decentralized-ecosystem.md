@@ -34,26 +34,3 @@ One of the other major topic areas discussed at the breakfast was [the incentive
 _OAX Foundation General Manager Amanda Liu_
 
 All this added up to a lively discussion which could have lasted much longer than the hour we had available. We’re looking forward now to the next in Professor Johnstone’s series of papers, and will be using it to keep on raising awareness of the role regulations should play in helping our industry develop.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

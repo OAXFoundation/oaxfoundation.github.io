@@ -32,26 +32,3 @@ There was a real buzz to this conference, and not least around the OAX booth whi
 We even had a visit from a representative of the Ethereum Community Fund. He came over especially to express his appreciation for the non-profit nature of our project, as well as our commitment to building a decentralized exchange platform that will bring transparency and high governance standards to the industry. It’s great to be receiving this recognition for our work, particularly since the Ethereum Community Fund was co-founded by Vitalik himself.
 
 The cream of the Ethereum community was out in force on Saturday and we were honoured to be there with them!
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  
