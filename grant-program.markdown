@@ -33,8 +33,8 @@ order: 3
                         <div class="section--title style-2 mr-4">Grant Program!</div>
                         <div class="line mt-1 mt-lg-2"></div>
                     </div>
-                    <div class="section--description style-2">
-                        <p>The OAX Foundation Grant is one of the many ways we want to give back to this community, by supporting and developing teams large and small. Whether it’s through research, DApps, platforms and portals or more, we look forward to hearing your ideas.</p>
+                    <div class="section--description style-2 mt-4">
+                        <p class="mb-4">The OAX Foundation Grant is one of the many ways we want to give back to this community, by supporting and developing teams large and small. Whether it’s through research, DApps, platforms and portals or more, we look forward to hearing your ideas.</p>
                         <p>While the grant is provided only upon the sole discretion of OAX Foundation, there are certain parameters that the team focuses on generally when evaluating proposals.</p>
                     </div>
                 </div>
