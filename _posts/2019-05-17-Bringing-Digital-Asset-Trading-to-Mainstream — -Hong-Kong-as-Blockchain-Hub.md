@@ -23,26 +23,3 @@ Similarly, Hong Kong is home to some of the leading lights in the debate around 
 In many of our previous blog posts, we’ve mentioned our vision that before long, digital asset trading will become a more established part of the mainstream financial ecosystem. For this to happen, it needs a combination of regulatory rigour, technological knowhow and business acumen. These qualities are what Hong Kong is known for the world over, and why we think it will play a key role in helping digital assets fulfil their potential.
 
 That’s why we chose to base ourselves here, and why we continue to believe it represents the ideal location for an ambitious organization like ours with big ideas for the future.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

@@ -17,12 +17,14 @@ I’ve always posited that decentralization can come in many shapes and sizes. F
 
 ![]({{ site.baseurl }}/img/blog-images/its-not-even-decentralised.png)
 
-#### Decentralized custody of assets
+<b> Decentralized custody of assets</b><br>
+
 The biggest argument for [decentralized exchanges (DEX)](https://hackernoon.com/decentralized-cryptocurrency-exchanges-a-comprehensive-overview-e23b4a45be82) is not requiring users to trust exchange operators to [custodize the users’ assets](https://hackernoon.com/importance-of-digital-asset-custody-bad3f90c3446). The majority of [crypto exchanges run on a centralized model (CEX)](https://hackernoon.com/importance-of-digital-asset-custody-bad3f90c3446) in which users send their funds to the exchange to hold in custody, so the user can trade on their platform. This centralized location for the [custody](https://www.forbes.com/sites/rachelwolfson/2018/11/07/why-centralized-cryptocurrency-exchanges-make-terrible-custodians-for-crypto-assets/#302dd45e2e18) of such large amounts of digital assets has always created a tempting target for attacks. The cry for DEXs comes from the repeated hacks against exchanges in which users have lost in excess of $1 billion.
 
 DEXs have sprung up by allowing users to keep their funds within their own [private wallets](https://bitcoinmagazine.com/articles/op-ed-why-its-unsafe-to-store-private-crypto-keys-in-the-cloud/) but still enable them to [trade](https://www.tradingview.com/symbols/OAXUSD/?exchange=BINANCE) via their platforms.
 
-#### Decentralized order matching
+<b> Decentralized order matching</b><br>
+
 [Order matching](https://www.investopedia.com/terms/m/matchingorders.asp) is when an exchange finds a buyer/seller willing to complete your order. Traders have an expectation that exchanges will fill their orders with the best [price](https://www.coingecko.com/en/coins/openanx), quickly and in a fair manner (first come, first served). With centralized exchanges, we have no guarantee that this actually happens.
 
 Here’s an example of what _could_ happen on a CEX:
@@ -33,7 +35,8 @@ Let’s assume the price of Bitcoin was trading at $3,600 USD. Jerry wants to bu
 
 [In the summer of 2018](https://www.youtube.com/watch?v=EIfhsTBzkaM&feature=youtu.be), [OAX released a prototype DEX that had such a decentralized order book](https://medium.com/@OAX_Foundation/oax-platform-prototype-demo-video-1161b8aa5af0). The sharing (or broadcasting) of orders was done using [Ethereum](https://www.ethereum.org)’s Whisper protocol. As a Proof-of-Concept (PoC), this was a great achievement towards “decentralization”. However, we quickly discovered that Whisper was unsuitable for a trading platform due to its high latency. We also debated the [privacy issues](https://news.bitcoin.com/the-crucible-of-privacy-why-decentralized-exchange-is-the-only-way/) of a fully open order book such as the one we prototyped. It was at this point that we decided to re-prioritize our goals. Rather than coming up with a faster and decentralized way of broadcasting orders (for the sake of openness), we decided that faster settlement was more important at this stage.
 
-#### Decentralized settlement
+<b> Decentralized settlement</b><br>
+
 [Settlement](https://www.bis.org/publ/arpdf/ar2018e5.pdf) is the delivery of assets upon payment. When does settlement happen in a CEX? It depends. Your trade might have executed and your exchange wallet will show an updated balance but that information is only within the realm of the CEX. The transfer of ownership as recorded on the actual blockchain doesn’t occur until you withdraw your assets from the CEX. So, on the surface, it may seem that your trade was settled because you’re able to turn around and trade them from your exchange wallet. The truth is, until you successfully withdraw from the CEX, those coins aren’t truly yours as there’s no record of it on the blockchain.
 
 DEXs can provide decentralized settlement by enabling P2P trading where both sides of a trade is settled (written to each respective blockchain) immediately via an [atomic swap](https://blockgeeks.com/guides/atomic-swaps/).
@@ -45,26 +48,3 @@ This sounds eerily familiar to what I just described for CEX settlement, doesn�
 With a CEX, imagine if the CEX had a data outage and lost all record of the trades you made? You would have no recourse to recover all the trades you’d performed. In our L2 model, having signed messages as proof of each trade removes that operational risk. With OAX’s DEX, the user is able to withdraw at their choosing, without the need to wait for approval from an exchange. Although the final settlement isn’t immediate, it’s still guaranteed and fully within the user’s control. The delayed settlement is a characteristic of all off-chain Layer 2 solutions and is what enables us to perform significantly more transactions per second than Ethereum.
 
 These three areas of Custody, Order Matching, and Settlement are only scratching the surface of what can be “decentralized” in an exchange trading platform. It’s possible that in the future, we will also be able to wave the magical “Wand of Decentralization” over other elements of digital asset trading, such as token listings, transaction monitoring, AML, KYC, etc. Maybe then, we could realize [Vitalik’s vision](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/) of a [Decentralized Autonomous Organization (DAO)](https://blockchainhub.net/dao-decentralized-autonomous-organization/). But until then, if someone tells you they’re decentralized, ask them exactly what they’re decentralizing.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

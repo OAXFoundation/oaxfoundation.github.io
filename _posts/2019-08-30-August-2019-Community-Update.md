@@ -32,7 +32,7 @@ Asset Review .
 All-in-all, we think this a major breakthrough for the industry and a significant advance
 towards digital asset trading becoming a part of mainstream financial services.
 While we’ve been focused on the release, we’ve also continued to set our work within the
-wider industry context. At the beginning of the month we wrote an [article]({{ site.baseurl }}/2019/08/07/Reseach-reveals-increased-confidence-in-decentralized-exchanges.html) about the
+wider industry context. At the beginning of the month we wrote an [article]({{ site.baseurl }}/2019/08/07/Research-reveals-increased-confidence-in-decentralized-exchanges.html) about the
 increased confidence being placed in decentralized exchanges, as demonstrated by the
 tripling of trade volume in the first half of this year. We believe our L2X protocol, once fully
 implemented, will only help boost those volumes further.
@@ -43,26 +43,3 @@ With the completion of our L2X protocol, demonstration of the growth in decentra
 trading, and promotion of new regulatory standards, August has been a stand-out month for
 OAX Foundation. We’re fully focused on continuing to solve the major challenges the
 industry faces!
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

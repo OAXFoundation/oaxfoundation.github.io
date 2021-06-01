@@ -24,26 +24,3 @@ It was this focus on debate that made the event stand out for many of the attend
 One major question that was looked at was whether the current approach to regulating digital asset trading was helping or holding back the industry. Two things emerged from this discussion — firstly, that regulators the world over are not getting the credit they deserve for doing a good job in difficult circumstances, and secondly that events like Saturday’s are of crucial importance in getting us to a place where regulation is balanced with innovation.
 
 We’re proud to have been a part of this event, especially one that stood out so much from all the noise and distraction that exist around the topic. It’s not too fanciful to say that it really helped move the regulatory conversation on, and we plan to get involved in more like it and continue playing a leading role in forming the future of our industry.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

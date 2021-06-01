@@ -29,4 +29,4 @@ When our order engine matches the two orders, clicking “Submit” on the MetaM
 
 The order will then be settled on chain, with the filled order reflected in the “History” section. The trading data for all settled orders is displayed in the price chart.
 
-We’re looking forward to the next stage of the project, readying the OAX Platform to go fully live in 2019. Keep following us for updates!
+We’re looking forward to the next stage of the project. Keep following us for updates!

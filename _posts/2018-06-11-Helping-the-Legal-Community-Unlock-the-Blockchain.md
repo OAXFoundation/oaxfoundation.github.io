@@ -22,16 +22,3 @@ One of the main points I made in both my speech and the panel discussion was tha
 Traditional markets focus on centralized sources for trust and validation, and the current regulatory focus mirrors that. To merely approach the new digital asset market in the same way will not be effective and will result in unsatisfactory outcomes for both the participants and regulators. It is only with a shift in mindset that digital assets will become an accepted part of the financial mainstream and bring benefits to society as a whole.
 
 More importantly, the conference’s focus showed how seriously the world is taking the developments in blockchain and digital assets, with hundreds of lawyers keen to learn more about how they are becoming part of everyday legal work and experience. It was a welcome opportunity for us to assist with this education and to promote the shift in mindset that is required. We are confident that events like this will continue to establish our reputation as a firm closely involved in bringing digital assets into the mainstream through our focus on transparency and high governance standards.
-
----
-
-**IMPORTANT NOTICE** — We will only ever communicate news and updates about the OAX project via the OAX Foundation’s official channels. Please make sure you are following these:
-
-Website: [www.oax.org](www.oax.org)  
-Twitter: [twitter.com/OAX_Foundation](twitter.com/OAX_Foundation)  
-Medium: [medium.com/@OAX_Foundation](medium.com/@OAX_Foundation)  
-Telegram: [t.me/openanxteam](t.me/openanxteam) and [t.me/oaxcnt](t.me/oaxcnt)  
-Slack: [openanx.slack.com](openanx.slack.com)  
-QQ: 651355919  
-
-Any other channels purporting to be OAX are false and the information they provide should be disregarded. We’re regularly monitoring for false channels and actively working to have them shut down. To report any false channels you find, please contact us: [projectstallman@oax.org](mailto:projectstallman@oax.org).

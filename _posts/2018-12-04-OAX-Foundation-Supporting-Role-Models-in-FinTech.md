@@ -19,26 +19,3 @@ Amanda was joined on her panel by representatives from Microsoft, Edge Technolog
 One question that came up several times during the evening was how you can move into FinTech without a technology background. As Amanda pointed out (and as she’s described [before](https://medium.com/@OAX_Foundation/building-for-the-future-c7c8835c040a)), you need people with all sorts of skillsets to build a successful team. But what resonated most of all was the panellists’ personal experiences — and Amanda’s belief in FinTech’s potential to take mankind to the next level made it clear why talented people should consider it for a career.
 
 Over 2018 we’ve steadily been building our profile on the speaker circuit about important industry issues like technology developments and regulatory change. Last night showed our commitment to building a successful and diverse industry where all talents are recognised and rewarded. Seeing so many people wanting to learn about this can only bode well for the future!
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

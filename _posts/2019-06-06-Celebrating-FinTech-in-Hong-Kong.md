@@ -7,7 +7,7 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/celebrating_fintech_in_hk.jpeg)
 
-Last night the [FinTech Association of Hong Kong](https://ftahk.org/) hosted an event to mark its second anniversary. This is the organization that represents the companies and people making up Hong Kong’s FinTech community, from established global players to local start-up firms like us.
+Last night the FinTech Association of Hong Kong hosted an event to mark its second anniversary. This is the organization that represents the companies and people making up Hong Kong’s FinTech community, from established global players to local start-up firms like us.
 
 Its aims are to advocate on behalf of the community, to help its members collaborate, and to educate the next generation of FinTech talent. As such, it’s closely aligned to our goals at OAX Foundation which is why some of our leadership team have been busy getting involved in its activities.
 
@@ -18,26 +18,3 @@ Paul Li, General Counsel, is on the Policy & Advocacy and RegTech committees. He
 Through initiatives like this FTAHK has been going from strength to strength over the last two years. Just on Monday it announced that it was joining forces with the Singapore and Japan FinTech associations to launch the [APAC RegTech Network](https://www.regulationasia.com/hk-singapore-japan-associations-launch-apac-regtech-network/). This new initiative is designed to improve cross-border collaboration on RegTech related issues across the region, and is something we wholeheartedly support.
 
 Last night’s event was a great showcase of how vibrant the Hong Kong FinTech community is, and how well its development is being supported by the Association. We’re looking forward to working together more over the next two years!
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

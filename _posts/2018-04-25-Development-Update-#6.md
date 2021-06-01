@@ -13,16 +13,3 @@ During the first phase of the development, the back end obviously took priority.
 Of course, one of the reasons for getting the UI in place is that we are promoting the project much more. We aim to have a full demo ready for Consensus next month and are looking forward to giving delegates there a tour of the project!
 
 Putting in place the UI is also allowing us to undertake testing. A fully functioning, safe platform is obviously our aim and we will be testing it thoroughly by bringing in some expert traders to put it through its paces. We’re also making sure that it’s robust and conforms to the high governance standards we’re committed to promoting at the OAX Foundation. To that end, we are examining all procedures on the platform so that transparent and proper use is stuck to by all potential users.
-
----
-
-**IMPORTANT NOTICE** — We will only ever communicate news and updates about the OAX project via the OAX Foundation’s official channels. Please make sure you are following these:
-
-Website: [www.oax.org](www.oax.org)  
-Twitter: [twitter.com/OAX_Foundation](twitter.com/OAX_Foundation)  
-Medium: [medium.com/@OAX_Foundation](medium.com/@OAX_Foundation)  
-Telegram: [t.me/openanxteam](t.me/openanxteam) and [t.me/oaxcnt](t.me/oaxcnt)  
-Slack: [openanx.slack.com](openanx.slack.com)  
-QQ: 651355919  
-
-Any other channels purporting to be OAX are false and the information they provide should be disregarded. We’re regularly monitoring for false channels and actively working to have them shut down. To report any false channels you find, please contact us: [projectstallman@oax.org](mailto:projectstallman@oax.org).]

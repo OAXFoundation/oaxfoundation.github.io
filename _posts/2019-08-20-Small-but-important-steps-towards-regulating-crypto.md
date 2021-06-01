@@ -31,26 +31,3 @@ In fact, the FCA has shown itself to be forward thinking in its approach to regu
 This is something that we at OAX Foundation have been keen to stress, and also forms the basis of much of [the work we funded](http://keelc.com/recent-publications/) by Professor Johnstone from the University of Hong Kong. As you’ll remember, his thesis is that digital assets are unique and complex, and require new approaches unimpaired by regulations designed for a previous era.
 
 What’s been announced by the FCA may seem like small steps on the way to a fully-functioning, appropriately-designed regulatory system — but, asofficial definitions formally laid out by a major regulator,they’re nonetheless important. We look forward to seeing more steps coming soon from other regulators around the world, and will continue playing a part in fostering the discussions that will help create them.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

@@ -13,26 +13,3 @@ As pointed out in the blog, to properly implement an order cancellation, a third
 The blog then goes on to elaborate the possible fixes to the problem, which includes having the exchange provide a signed cancellation note with information about how much of the cancelled order has already been filled. It also explains the dispute mechanism which uses a smart contract to address disagreement between clients and the exchange operator by considering evidence submitted by both sides. Finally, the blog talks about how a trustless order cancellation can be implemented “fully” by combining both off-chain and on-chain cancellation mechanism.
 
 Click here to check out what else the Enuma team have been talking about on their [official blog](https://blog.enuma.io/).
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

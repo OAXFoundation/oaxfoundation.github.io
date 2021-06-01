@@ -7,7 +7,7 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Feb-Update-1.jpeg)
 
-<b>February Community Update</b>
+<b>February 2020 Community Updates</b>
 
 Lo and behold! If you haven’t heard the news yet, then it’s good that you’re getting another update now. 
 
@@ -29,4 +29,4 @@ Since it was the first meeting, a broader overview of the platform, the relation
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Feb-Update-2.jpeg)
 
-We believe that the community plays a massive role in the success of any project. Find out more about the teams working on <a href="polkaproject.com/">Polkadot</a>, and we hope to see everyone at more events in future as we work with the community. Stay tuned!
+We believe that the community plays a massive role in the success of any project. Find out more about the teams working on <a href="https://www.polkaproject.com/">Polkadot</a>, and we hope to see everyone at more events in future as we work with the community. Stay tuned!

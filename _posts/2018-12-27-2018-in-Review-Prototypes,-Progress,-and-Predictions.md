@@ -29,26 +29,3 @@ Of course, we couldn’t achieve all this without the hard work and commitment o
 So after a busy 2018, what’s next? An even busier 2019 is on the cards — both for us and for the industry. Our General Manager, Amanda Liu, recently wrote about her [vision](https://medium.com/@OAX_Foundation/a-view-of-the-future-d2a675a9c1bb) for the next twelve months, which will see an even greater focus on regulation and compliance as well as market consolidation. As Amanda said in her article, OAX’s clear focus on building a platform that combines strict governance standards with liquidity and speed matches exactly the direction the industry is moving in.
 
 This time next year the picture will be very different again from how it is now, but we’re confident that we will be there playing a central part in it. We look forward to sharing more of our work with you in 2019!
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

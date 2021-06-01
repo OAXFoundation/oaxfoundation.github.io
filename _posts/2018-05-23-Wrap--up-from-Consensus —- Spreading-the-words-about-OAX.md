@@ -19,16 +19,3 @@ _The OAX team_
 Consensus was also a chance for us to get to know what others in the world of digital assets and blockchain are doing. The attendees represented the best of the best of the community. Our management will be spending the next few weeks reviewing the feedback we received and opportunities we identified, as well as everyone’s observations — particularly on other decentralized exchanges — to help inform the next stages of the project.
 
 We’ve returned to Hong Kong full of energy and ideas for the next stages of the project. The next big event for us will be the launch of the prototype, and we’re very much looking forward to updating you on progress!
-
----
-
-**IMPORTANT NOTICE** — We will only ever communicate news and updates about the OAX project via the OAX Foundation’s official channels. Please make sure you are following these:
-
-Website: [www.oax.org](www.oax.org)  
-Twitter: [twitter.com/OAX_Foundation](twitter.com/OAX_Foundation)  
-Medium: [medium.com/@OAX_Foundation](medium.com/@OAX_Foundation)  
-Telegram: [t.me/openanxteam](t.me/openanxteam) and [t.me/oaxcnt](t.me/oaxcnt)  
-Slack: [openanx.slack.com](openanx.slack.com)  
-QQ: 651355919  
-
-Any other channels purporting to be OAX are false and the information they provide should be disregarded. We’re regularly monitoring for false channels and actively working to have them shut down. To report any false channels you find, please contact us: [projectstallman@oax.org](mailto:projectstallman@oax.org).]

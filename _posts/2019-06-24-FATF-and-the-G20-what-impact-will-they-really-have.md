@@ -31,29 +31,6 @@ Finally, any immediate concerns about the ability for this industry to appropria
 **About OAX Foundation**  
 OAX Foundation Limited (the “Foundation”) is a Hong Kong-based, not-for-profit entity set up to promote the real-world application of the OAX platform, an open, transparent and decentralized exchange for digital assets. It aims to build a sustainable digital asset industry based on principles of strong governance.
 
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  
-
 **About Blockpass IDN**  
 The goal of [Blockpass IDN](http://www.blockpass.org/) is the global realization of identity for the Internet of Everything. Through the use of blockchain technology and smart contracts, Blockpass is a production-ready Regtech platform offering shared regulatory and compliance services for humans, businesses, objects and devices. As this identity system supports verification of humans (KYC), objects (KYO) and connected devices (KYD), it will enable the development of new applications that rely on a trusted connection between human, corporate, and device identities. Registered in Hong Kong, Blockpass IDN is a joint venture of Infinity Blockchain Labs and Chain of Things. Blockpass IDN licenses its technology from the non-profit Blockpass Foundation, registered in the Isle of Man.
 

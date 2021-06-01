@@ -20,26 +20,3 @@ The idea is simple — residents earn Belfast Coin in return for shopping lo
 Belfast isn’t the first city to do this sort of thing. Many other cities around the world have introduced, or are thinking of introducing, their own digital currency — [Tel Aviv in Israel](https://www.smartcitiesworld.net/governance/governance/tel-aviv-launches-digital-city-currency-pilot) recently trialled one, and at the end of 2018 [Calgary in Canada](http://www.calgarydollars.ca/) digitised the local currency it first launched some years back. And [Dubai in the United Arab Emirates](https://www.prnewswire.com/news-releases/dubai-to-offer-digital-payments-on-pundi-x-technology-300726736.html) recently launched Emcash, a digital currency that citizens and residents can use to pay for good and services from school fees to utility bills.
 
 These are just examples from three areas — banking, social media and social welfare — where digital assets are making a difference, and we expect many more examples to come in new areas and countries. At OAX Foundation we firmly believe in the positive impact the adoption of digital assets can have across many aspects of our lives. That’s why it’s our mission to help bring them into the mainstream.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

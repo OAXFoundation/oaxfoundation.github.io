@@ -7,7 +7,7 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/oax_partner_with_kyc_chain_to_bring_compliance_controls.jpeg)
 
-**HONG KONG — 19th March 2019** — [OAX Foundation](https://www.oax.org/en) and [KYC-Chain](https://kyc-chain.com) have today announced an agreement to promote strong governance standard in digital asset trading. Partnering with one of the world’s leading KYC solutions is another important step for OAX towards bringing digital asset trading to the mainstream of financial markets.
+**HONG KONG — 19th March 2019** — OAX Foundation and KYC-Chain have today announced an agreement to promote strong governance standard in digital asset trading. Partnering with one of the world’s leading KYC solutions is another important step for OAX towards bringing digital asset trading to the mainstream of financial markets.
 
 Strict compliance standards, including Know Your Customer (KYC) and Anti Money Laundering (AML) controls, are critical to the successful development of the digital asset industry. Since its launch, OAX Foundation has worked with leading law firms and consultancies to develop the best approach to promote strong governance. The agreement with KYC-Chain is a part of this process and demonstrates the Foundation’s commitment to upholding the highest standards.
 
@@ -38,26 +38,3 @@ Chris Grundy
 Dan Bradley  
 [dan.bradley@cognitomedia.com](dan.bradley@cognitomedia.com)  
 +852 6145 7455  
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  
