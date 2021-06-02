@@ -7,7 +7,7 @@ tag: industry-business
 
 ![]({{ site.baseurl }}/img/blog-images/bringing_digital_asset_trading_to_mainstream_crypto_indices.jpeg)
 
-_Last week, [we](https://www.oax.org/en) discussed how strengthening [trade surveillance](https://www.tradingview.com/ideas/oax/) can be critical to the mass adoption of digital asset trading. This week we highlight another growing feature of the industry that may help boost transparency and pave the way for more institutional money to come into the sector._
+_Last week, we discussed how strengthening [trade surveillance](https://www.tradingview.com/ideas/oax/) can be critical to the mass adoption of digital asset trading. This week we highlight another growing feature of the industry that may help boost transparency and pave the way for more institutional money to come into the sector._
 
 On March 4, the [media](https://www.coindesk.com/tradingview-adds-first-crypto-index-to-charts-and-analysis-platform) reported that [TradingView](https://www.coindesk.com/tradingview-adds-first-crypto-index-to-charts-and-analysis-platform), a popular U.S.-based financial data platform, has added a [cryptocurrency index](https://cointelegraph.com/explained/cryptocurrency-price-indexes-explained) to its platform for the first time. Launched by [Huobi](https://coinmarketcap.com/exchanges/huobi-global/), the [HB10 Index](https://www.hbg.com/en-us/markets/hb_index/) currently tracks nine major cryptocurrencies traded on the exchange in real-time against the [stablecoin](https://medium.com/@OAX_Foundation/bringing-digital-asset-trading-to-mainstream-crypto-indices-fdf0997dd0a9) Tether ([USDT](https://coinmarketcap.com/currencies/tether/)).
 

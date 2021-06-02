@@ -9,7 +9,7 @@ tag: community-updates
 
 _Partnerships are at the core of promoting OAX Foundation’s vision of an open, transparent, decentralized digital asset industry ruled by strong governance. (Photo credit: Shutterstock)_
 
-At [OAX Foundation](https://www.oax.org/en), our mission is to promote the mainstream adoption of digital assets and the last few weeks have seen us make some important moves towards achieving this goal. These have all revolved around our belief that a sustainable industry needs to be underpinned by strong governance, and have involved us partnering with some of the biggest and most innovative companies in financial services today.
+At OAX Foundation, our mission is to promote the mainstream adoption of digital assets and the last few weeks have seen us make some important moves towards achieving this goal. These have all revolved around our belief that a sustainable industry needs to be underpinned by strong governance, and have involved us partnering with some of the biggest and most innovative companies in financial services today.
 
 World class Know Your Customer (KYC) and Anti Money Laundering (AML) standards are critical to ensuring the safety of any digital asset trading network. They’re equally important for the wider industry to help make it an accepted part of the financial system. Trust and confidence are essential for any organization to succeed, and this is particularly the case in our industry. That’s why we’re now working with two leading firms in these areas to help [promote the highest standards in compliance](https://medium.com/@OAX_Foundation/moving-the-regulatory-debate-onwards-531478215d29).
 

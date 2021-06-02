@@ -5,7 +5,7 @@ image: /img/blog-images/oax_dex_testnet_release_performance_testing.png
 ---
 ![]({{ site.baseurl }}/img/blog-images/oax_dex_testnet_release_performance_testing.png)
 
-Today, [OAX Foundation](https://www.oax.org/en) issued a press release announcing the deployment of the OAX platform’s layer 2 solution in a [testnet environment](https://www.oax.org/en/testnet-announcement). At the same time, we’re going to be stepping up our efforts to work with potential industry partners in operating the platform and in building up a decentralized exchange ecosystem.
+Today, OAX Foundation issued a press release announcing the deployment of the OAX platform’s layer 2 solution in a [testnet environment](https://www.oax.org/en/testnet-announcement). At the same time, we’re going to be stepping up our efforts to work with potential industry partners in operating the platform and in building up a decentralized exchange ecosystem.
 
 The deployment to the Rinkeby Testnet is another major milestone for the OAX project, and follows hot-on-the heels of December’s completion of a layer 2 solution [capable of handling over 1,000 trades per second (TPS) in testing on a single node](https://medium.com/@OAX_Foundation/a-giant-leap-for-decentralization-47a01c17084a). Our aim with the testnet launch is to allow the OAX technology team to scrutinize the platform’s performance in greater detail and ensure that the finished product runs smoothly.
 

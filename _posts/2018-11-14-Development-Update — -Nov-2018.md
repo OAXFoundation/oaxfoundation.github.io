@@ -15,26 +15,3 @@ This will continue to be our major focus over the next few months or so, part of
 Coming up with a scalable DEX isn’t easy. The blockchain community have been working on the scaling issue for years, several projects have made progress but it’s too early to say whether those developments will work or not. At OAX Foundation, we’ve been working on something that we believe will push the bar.
 
 As Amanda, our General Manager, pointed out recently, the current economic environment is tough for many projects and this situation looks set to continue into 2019. OAX Foundation, however, is in a healthy state thanks to careful management of the funds raised from our token sale. In summary, we are in a strong position to deliver a DEX that has an off-chain order book, off-chain order execution and no custody of user assets, meeting the needs of the crypto community.
-
----
-
-**Got a Question?**  
-**Want to know the latest from OAX Foundation?**  
-
-**More about OAX Foundation**  
-[www.oax.org](https://www.oax.org)  
-[Medium](https://medium.com/@OAX_Foundation)  
-
-**Reach out to OAX Foundation via e-mail:**  
-Collaboration Proposals: [ProjectStallman@oax.org](mailto:ProjectStallman@oax.org)  
-Other Inquiries: [Info@oax.org](mailto:Info@oax.org)  
-
-**Social Media:**  
-[Discord](https://discordapp.com/invite/ZH5YHkb)  
-[Youtube](https://bit.ly/2Bvsk73)  
-[Twitter](https://twitter.com/OAX_Foundation)  
-[LinkedIn](https://www.linkedin.com/company/oax-foundation/)  
-[BitcoinTalk](http://bitcointalk.org/index.php?topic=1943946)  
-[Reddit](https://www.reddit.com/r/OpenANX/)  
-[Telegram English](https://t.me/openanxteam)  
-[Telegram Chinese](https://t.me/oax_cn)  

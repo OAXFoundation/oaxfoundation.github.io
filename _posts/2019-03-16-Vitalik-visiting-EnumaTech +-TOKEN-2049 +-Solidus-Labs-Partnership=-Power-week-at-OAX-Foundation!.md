@@ -9,7 +9,7 @@ tag: community-updates
 
 _Vitalik Buterin visiting Enuma Technologies to discuss the Layer 2 solution currently being developed along with OAX Foundation (photo courtesy of Enuma Technologies)_
 
-It’s been an exciting week for [OAX Foundation](https://www.oax.org/en) as well as for our partners!
+It’s been an exciting week for OAX Foundation as well as for our partners!
 
 ##### Vitalik visiting Enuma Technologies to discuss Layer 2  
 [Vitalik Buterin](https://vitalik.ca) was in town for [TOKEN 2049](https://coinsutra.com/token2049/) and [Ethereum SuperMeetUp](https://www.chipin.com/ethereum-supermeetup-hong-kong/) and, during the keynote speech, not only mentioned about our technology development partner [Enuma Technologies](https://enuma.io), but also [visited their office](https://twitter.com/enumatech/status/1106483426314452993) and had extensive discussions on the [Layer 2 solution](https://medium.com/@OAX_Foundation/trustless-noncustodial-exchange-prototype-5842a15ae682) currently being developed for [decentralized](https://medium.com/@OAX_Foundation/what-is-decentralization-85a0fc993b5b) digital asset trading platforms along with OAX Foundation (read more on and download our SDK [here](https://medium.com/@OAX_Foundation/oax-dex-software-development-kit-8faba46981d1)). As one of the most revolutionary technologies that is leading us into the future, blockchain’s development comes with its ups and downs; we are truly excited and happy to have seen [the progress of reaching 1,000 TPS](https://medium.com/@OAX_Foundation/oax-reaches-major-technology-milestone-now-its-time-to-partner-up-20aaee18ddcd) thus far!

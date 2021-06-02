@@ -7,7 +7,7 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/the_year_of_milestones_and_partnerships.jpeg)
 
-We began 2019 with one of the most exciting milestones yet for the [OAX](https://www.oax.org/en) project. After much anticipation, last month our technology team deployed the layer 2 solution they have been working on over the past year onto the [Rinkeby testnet](https://www.rinkeby.io/#stats).
+We began 2019 with one of the most exciting milestones yet for the OAX project. After much anticipation, last month our technology team deployed the layer 2 solution they have been working on over the past year onto the [Rinkeby testnet](https://www.rinkeby.io/#stats).
 
 This is a significant development as the solution is now available for the rest of the industry to [test](https://medium.com/@OAX_Foundation/oax-dex-software-development-kit-8faba46981d1)! It addresses one of the biggest challenges facing the development of digital asset trading — [performance](https://medium.com/@OAX_Foundation/oax-reaches-major-technology-milestone-now-its-time-to-partner-up-20aaee18ddcd). The demo we released earlier shows it is able to handle over 1,000 transactions per second on a single node. For more details, click [here](https://github.com/OAXFoundation/oax-client).
 

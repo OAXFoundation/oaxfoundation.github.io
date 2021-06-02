@@ -31,7 +31,6 @@ In addition, [Will Warren](https://www.linkedin.com/in/will-warren-92aab62b/) an
 
 **As the token space continues to develop, the need to exchange these assets will be compounded. 0x protocol will act as a critical piece of infrastructure for the token economy, allowing Ethereum smart contracts to programmatically and seamlessly exchange Ethereum-based assets.**
 
-You can read the [White Paper](https://www.0xproject.com/pdfs/0x_white_paper.pdf) here.
 
 We sat down with the guys and talked about the crypto-space, exchanges and their thoughts. It was awesome! You can check out [Part 1](https://www.youtube.com/watch?v=i2PboMAJwcI) and [Part 2](https://www.youtube.com/watch?v=oxN0Rh8L_Y8) of the video.
 

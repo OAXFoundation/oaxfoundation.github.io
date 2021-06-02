@@ -7,7 +7,7 @@ tag: tech-developments
 
 ![]({{ site.baseurl }}/img/blog-images/oax_ama_sdk_release_and_partnerships.jpeg)
 
-[OAX Foundation](https://www.oax.org/en) held a [2-day-Ask-Me-Anything (AMA)](https://www.reddit.com/r/OpenANX/comments/ax3prs/this_is_the_official_qa_thread_for_the_oax/) session between the 4th and 6th of March, 2019.
+OAX Foundation held a [2-day-Ask-Me-Anything (AMA)](https://www.reddit.com/r/OpenANX/comments/ax3prs/this_is_the_official_qa_thread_for_the_oax/) session between the 4th and 6th of March, 2019.
 
 Our recent launch of the [testnet](https://www.oax.org/en/testnet-announcement) and [SDK](https://medium.com/@OAX_Foundation/oax-dex-software-development-kit-8faba46981d1) leading to our [decentralized](https://medium.com/@OAX_Foundation/what-is-decentralization-85a0fc993b5b) exchange (DEX) platform were the main focus of the AMA; however, other questions pertaining to various aspects of OAX Foundation were also raised, including the [legal framework](https://medium.com/@OAX_Foundation/oax-regulatory-breakfast-bridging-the-knowledge-gap-in-a-decentralized-ecosystem-3939790c41cf), [finance](https://medium.com/@OAX_Foundation/quick-views-from-oax-foundation-experts-our-take-on-the-jpm-coin-4c1007be859b), [business development](https://medium.com/@OAX_Foundation/the-year-of-milestones-and-partnerships-4868e1a3db9b), and [marketing](https://medium.com/@OAX_Foundation/oax-foundation-featured-in-hong-kong-mainstream-newspaper-sandbox-and-wider-bitcoin-adoption-to-c6623cc0ad01).
 

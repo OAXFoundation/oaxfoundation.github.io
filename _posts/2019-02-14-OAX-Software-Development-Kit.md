@@ -20,8 +20,3 @@ Requirements:
 Current version of [NodeJS](https://nodejs.org/en/) (v11.9.0 at time of writing).
 
 Here’s a video demonstrating the installation of use of the client:[https://www.youtube.com/watch?time_continue=288&v=KxcgBZJpOww](https://www.youtube.com/watch?time_continue=288&v=KxcgBZJpOww)
-
-
-Feel free to join our Discord if you have development-related questions:[https://discord.gg/ZH5YHkb](https://discord.gg/ZH5YHkb)
-
-To discuss partnership opportunities, please contact our Director of Business Development, Raphael Tressieres ([raphael@oax.org](mailto:raphael@oax.org)).
