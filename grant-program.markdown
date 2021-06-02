@@ -10,7 +10,7 @@ order: 3
             <div class="animate__animated animate__fadeInUp">Grant Program
             </div> 
         </h1>
-        <p class="page-subheading col font-18 black2">OAX Foundation was created with the belief that decentralization holds the key to the future of the digital asset world. Nothing has pleased us more than to see the strong drive towards DeFi over the last two years, and the progress that so many teams have made within this space. Advancements large and small make a difference in developing this space and in the true nature of decentralization we believe that we must make progress as a collective group.
+        <p class="page-subheading col">OAX Foundation was created with the belief that decentralization holds the key to the future of the digital asset world. Nothing has pleased us more than to see the strong drive towards DeFi over the last two years, and the progress that so many teams have made within this space. Advancements large and small make a difference in developing this space and in the true nature of decentralization we believe that we must make progress as a collective group.
         </p>
     </div>
     <div class="d-none d-lg-flex flex-row flex-wrap anchors w-50 align-items-center" style="z-index: 1;">
@@ -73,7 +73,7 @@ order: 3
                     </div>
                     <div class="line"></div>
                 </div>
-                <div class="d-flex flex-row flex-wrap mt-5 mt-lg-0">
+                <div class="d-flex flex-row flex-wrap mt-5 mt-lg-5">
                     <div class="col-6 col-lg-4 text-center mb-5">
                         <img class="col-11 col-lg-6" src="{{ '/assets/grant-program/areas-of-evaluation/track-record.png' }}" alt="track record">
                         <div class="icon--caption">1. Track Record</div>

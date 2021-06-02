@@ -85,7 +85,7 @@ title: Home
                         <ol>
                             <li class="selected" data-horizontal-timeline='{"date": "1/6/2018"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>June 2018</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">DEX Prototype Launch</div>
@@ -99,7 +99,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/7/2018"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Jul 2018</div>
                                         <div class="mt-2 blue7">Business Milestone</div>
                                         <div class="mt-2">AMA Session #2</div>
@@ -113,7 +113,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/12/2018"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Dec 2018</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">1,000 Transactions per second</div>
@@ -127,7 +127,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/1/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Jan 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">DEX hits testnet</div>
@@ -140,7 +140,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/2/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Feb 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">OAX DEX Software Development Kit Launched</div>
@@ -154,7 +154,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/3/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Mar 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">AMA Session #3</div>
@@ -167,7 +167,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "14/3/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Mar 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">OAX Solidus Lab Partnership</div>
@@ -180,7 +180,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "19/3/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Mar 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">OAX - KYC-Chain Partnership</div>
@@ -193,7 +193,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/4/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Apr 2019</div>
                                         <div class="mt-2 blue7">Business Milestone</div>
                                         <div class="mt-2">OAX - Blockpass Partnership</div>
@@ -208,7 +208,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/6/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Jun 2019</div>
                                         <div class="mt-2 blue7">Business Milestone</div>
                                         <div class="mt-2">L2X Protocol Specification</div>
@@ -222,7 +222,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/8/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>August 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">L2X Protocol Launch</div>
@@ -237,7 +237,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "1/9/2019"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Sep 2019</div>
                                         <div class="mt-2 blue7">Business Milestone</div>
                                         <div class="mt-2">AMA Session #4</div>
@@ -262,7 +262,7 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "17/04/2020"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>April 2020</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">AMA Session #5</div>
@@ -274,12 +274,48 @@ title: Home
                             </li>
                             <li data-horizontal-timeline='{"date": "6/8/2020"}'>
                                 <div class="our-journey--content">
-                                    <div class="d-flex flex-column align-items-start border p-4 py-5" style="border-color: var(--blue1) !important;">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>August 2020</div>
                                         <div class="mt-2">Tech Milestone</div>
                                         <div class="mt-2">Features Open Source Release</div>
                                         <div class="mt-2">The official release the code for the five features that would benefit parachains on the Polkadot network, open sourced and available on the OAX Github page.</div>
                                         <a href="https://www.oax.org/2020/08/06/Parachain-Features-Open-Source-Code-Released.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/12/2020"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
+                                        <div>December 2020</div>
+                                        <div class="mt-2 blue7">Business Milestone</div>
+                                        <div class="mt-2">Grant Given To IJS Technologies</div>
+                                        <div class="mt-2">OAX Foundation announces a grant given to IJS Technologies for their community-driven open source DeFi swap platform.
+                                        </div>
+                                        <a href="https://www.oax.org/2020/12/28/OAX-Foundation-Announces-Grant-to-IJS-Technologies.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "1/4/2021"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
+                                        <div>April 2021</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">OAX BEP20 Token Wrap - Binance Smart Chain Ready</div>
+                                        <div class="mt-2">OAX tokens are now also available as a wrapped BEP-20 standard, allowing users to explore the potential of exchanges that sit on the Binance Smart Chain (BSC) network.
+                                        </div>
+                                        <a href="https://www.oax.org/2021/04/08/OAX-BEP-20-Token-and-Working-on-Binance-Smart-Chain.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-horizontal-timeline='{"date": "30/4/2021"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
+                                        <div>April 2021</div>
+                                        <div class="mt-2 blue7">Business Milestone</div>
+                                        <div class="mt-2">OAX X IJS Technologies AMA Recap</div>
+                                        <div class="mt-2">Summary of our joint AMA with IJS Technologies, mainly featuring aspects of the grant provided to the IJS team and current progress on the DeFi swap platform. 
+                                        </div>
+                                        <a href="https://www.oax.org/2021/04/26/OAX-x-IJS-AMA-Summary-Recap.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
                                     </div>
                                 </div>
                             </li>
