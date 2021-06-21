@@ -33,7 +33,8 @@ Also, if you use Metamask for both ETH and BSC Exchanges, be sure you’re using
 
 <br> For Step 3, the details of the network can be found on <a href="https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain">Binance</a> or <a href="https://chainlist.org/">Chainlist</a>.
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Metamask-Step3.png)
+<br>![]({{ site.baseurl }}/img/blog-images/OAX-Metamask-Step3.PNG)
+
 <br><i>Source: <a href="https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain">Binance</a></i>
 
 <br><b>Creating (Adding) a OAX Token Category to Your Metamask Wallet</b>
