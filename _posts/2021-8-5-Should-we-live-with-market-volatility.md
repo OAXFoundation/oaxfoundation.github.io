@@ -9,7 +9,7 @@ tag: industry-business
 
 <br><b>Should we live with market volatility? </b>
 
-<br>No-one can be unaware of the recent influence of Elon Musk on cryptocurrency markets: a tweet in February caused the bitcoin price to soar, then another in May induced a massive correction when he stated that bitcoin’s environmental impact meant he would not use it for payments. The recent BTC revival came shortly after another tweet from Musk. And he’s not alone: in May, Sergei Buterin moved his Dogecoin holdings which sent the price down 10%. 
+<br>No-one can be unaware of the recent influence of Elon Musk on cryptocurrency markets: a tweet in February caused the bitcoin price to soar, then another in May induced a massive correction when he stated that bitcoin’s environmental impact meant he would not use it for payments. The recent BTC revival came shortly after another tweet from Musk. And he’s not alone: in May, Vitalik Buterin moved his Dogecoin holdings which sent the price down 10%. 
 
 This disproportionate influence exerted by high-profile individuals suggests that markets in cryptocurrencies are not ‘efficient’. Or perhaps a reflection of the full decentralized market theory not realized. Under the best of circumstances, the decentralized space should demonstrate decisions and conclusions of individuals not just following the advice of one. According to a 1970 theory by economist Eugene Fama, markets are deemed efficient when all information relevant to investment decisions is reflected in the price. 
 
