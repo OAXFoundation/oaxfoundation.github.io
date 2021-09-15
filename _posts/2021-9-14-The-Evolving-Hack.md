@@ -13,13 +13,13 @@ tag: industry-business
 
 Our original post wanted to focus on the various hacks that have happened through the years: the historical Mt Gox, and the snowball effect of ones that would come in the years thereafter.
 
-<br>![]({{ site.baseurl }}/img/blog-images/OAX-Hack-3.jpeg)<br>
+<br>![]({{ site.baseurl }}/img/blog-images/OAX-Hack-2.jpeg)<br>
 
 <br>Initially these hacks were met with large price fluctuations after each headline story, but soon after, the smaller hacks seemed to quietly pass by without much fanfare. Perhaps the ongoing rollercoaster ride resulted in investors becoming jaded; or perhaps as the general population became increasingly aware of cryptocurrency, confidence wasn’t so easily shaken by these breaches.
 
 Then in 2020, the industry reached the “Summer of DeFi”, and with it, DeFi related hacks. Binance Smart Chain (BSC) launched September 1, 2020 to provide an alternative smart contract-enabled chain that would further promote the DeFi space with a cheaper option to the increasing ETH prices. While the community responded with hunger towards the food related DeXes that joined the space, the DeFi hacks were soon to come. 
 
-<br>![]({{ site.baseurl }}/img/blog-images/OAX-Hack-2.jpeg)<br>
+<br>![]({{ site.baseurl }}/img/blog-images/OAX-Hack-3.jpeg)<br>
 
 <br>Unfortunately the rocket-like shift and adoption of BSC also encouraged certain players to find the loopholes within this space. Cheaper fees meant lower barriers of entry, which may have resulted in traders that spent less time doing KYC and understanding what they were partaking in. Nefarious agents followed the trends and the money. Developers rushed to push out platforms and services in an attempt to catch the booming interest. Audit companies were (and still are) swamped by the tidal wave of projects asking for security checks. But perhaps more than anything else, front runners of a new developing space will experience unforeseen challenges, and only through the experience of trial and error will the loopholes slowly narrow and a secure system be developed.
 
