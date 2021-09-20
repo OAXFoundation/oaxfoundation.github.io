@@ -323,7 +323,7 @@ title: Home
                                 <div class="our-journey--content">
                                     <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>June 2021</div>
-                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2 blue7">Business Milestone</div>
                                         <div class="mt-2">OAX Foundation Signs MoU with IJS Technologies</div>
                                         <div class="mt-2">For the promotion and cooperation of DeFi adoption, community education, and technology advancement.
                                         </div>
