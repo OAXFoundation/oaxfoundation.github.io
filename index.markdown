@@ -319,6 +319,18 @@ title: Home
                                     </div>
                                 </div>
                             </li>
+                            <li data-horizontal-timeline='{"date": "30/6/2021"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
+                                        <div>June 2021</div>
+                                        <div class="mt-2">Business Milestone</div>
+                                        <div class="mt-2">OAX Foundation Signs MoU with IJS Technologies</div>
+                                        <div class="mt-2">For the promotion and cooperation of DeFi adoption, community education, and technology advancement.
+                                        </div>
+                                        <a href="https://www.oax.org/2021/06/30/OAX-Foundation-signs-MoU-with-IJS-Technologies.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
                         </ol>
                     </div>
                 </div>
