@@ -7,8 +7,8 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Polkadot-Announcement.jpeg)
 
-<b>OAX Foundation to Build on Polkadot Network
-Opening Opportunities for Future with DeFi</b>
+<br><b>OAX Foundation to Build on Polkadot Network
+Opening Opportunities for Future with DeFi</b><br>
 
 HONG KONG, 11 FEBRUARY 2020 – OAX Foundation is pleased to announce a strategic initiative to build a parachain within the Polkadot network, opening doors to DeFi opportunities and expanding the potential that decentralized exchanges hold in digital asset trading.
 
@@ -18,15 +18,15 @@ Having released OAX Layer 2 Protocol (L2X) during the course of last year, which
 
 With a strong belief that the future of digital assets goes beyond cryptocurrencies and even the exchange of digital assets, OAX believes the future lies with DeFi and the consideration of how digital assets can truly play a part in integrating with the larger financial network. The strong developer network, outlook on security, and potential opportunities with Substrate all resonate with the future that OAX sees within this space.
 
-The decision to build a parachain within the Polkadot network also underscores a crucial objective by the OAX team – increasing utility for the OAX token. The parachain will serve as one of the first key milestone by the OAX team, and will bring a broad range of opportunities that exist within the DeFi market, with its rise fueled by an explosive growth in lending with more than USD1bn worth of ETH locked in lending smart contracts according to DeFi Pulse.
+The decision to build a parachain within the Polkadot network also underscores a crucial objective by the OAX team – increasing utility for the OAX token. The parachain will serve as one of the first key milestone by the OAX team, and will bring a broad range of opportunities that exist within the DeFi market, with its rise fueled by an explosive growth in lending with more than USD1bn worth of ETH locked in lending smart contracts according to DeFi Pulse.<br>
 
-<b>About OAX Foundation</b>
-OAX Foundation was created to explore the future of decentralized asset transactions and address their four main shortcomings: speed, scalability, interoperability and trust.  Digital asset trading is currently dominated by centralized exchanges, which are both counter-intuitive to the nature of blockchain and vulnerable to hacking.  Existing decentralized exchanges on the other hand, while tailored to the proposition of digital assets, have performance issues deep rooted in their technology.  OAX Foundation’s mission is to tackle these issues and in so doing help bring decentralization to the mainstream.
+<br><b>About OAX Foundation</b>
+OAX Foundation was created to explore the future of decentralized asset transactions and address their four main shortcomings: speed, scalability, interoperability and trust.  Digital asset trading is currently dominated by centralized exchanges, which are both counter-intuitive to the nature of blockchain and vulnerable to hacking.  Existing decentralized exchanges on the other hand, while tailored to the proposition of digital assets, have performance issues deep rooted in their technology.  OAX Foundation’s mission is to tackle these issues and in so doing help bring decentralization to the mainstream.<br><br>
 
    
 -----
 
-<i>Chinese version:</i>
+<br><i>Chinese version:</i><br>
 <b>迎来去中心化金融新机遇</b>
 
 香港時間2020年2月11日 - OAX Foundation欣然宣佈，将以在波卡网络上发展平行 链为策略方向，敞开去中心化金融的大门，并继续为提升去中心化交易所在數字資產交易的地位发掘新动力。
@@ -39,6 +39,6 @@ OAX坚信数字资产的未来不止于虚拟货币与交易，关键在于去�
 
 OAX团队作出于波卡网络构筑平行链的决定时，也剑指增加OAX Token实用性的目标 。 平行链将会成为OAX团队的其中一个重要的里程碑，将带来去中心化金融市场中各种各样的机会。 其中与其相辅相成的借贷业正在爆炸性增长，根据DeFi Pulse，该类借贷智能合约已经锁定超过10亿美元的以太币。
 
-<b>关于OAX Foundation</b>
+<br><b>关于OAX Foundation</b>
 
 OAX Foundation 致力探索去中心化资产交易的未来，并且改善四个核心难题：速度、扩展性、互通性 以及信任。数字资产交易现正是由中心化交易所主导，与区块链的特性逆道而 行，并且容易受到入侵。另一方面，市场上现存的去中心化交易所，虽然以数码资产为本，但其性能问题往往受制于现有技术。 OAX Foundation的任务是解决以上的问题，从而协助将去中心化带到主流。

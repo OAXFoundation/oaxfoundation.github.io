@@ -7,5 +7,6 @@ _config.yml
 public
 .history/*
 .DS_Store
+.test
 
 
