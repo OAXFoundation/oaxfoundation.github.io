@@ -130,7 +130,7 @@ title: Home
                                     <div class="d-flex flex-column align-items-start border p-4 py-5">
                                         <div>Jan 2019</div>
                                         <div class="mt-2">Tech Milestone</div>
-                                        <div class="mt-2">DEX hits testnet</div>
+                                        <div class="mt-2">DEX hits Testnet</div>
                                         <div class="mt-2">Deployment to the Rinkeby Testnet allowing the OAX
                                             team to evaluate the platform's performance in greater
                                             detail. Don't forget to check out the video.</div>
@@ -148,7 +148,7 @@ title: Home
                                             testnet, we also released our SDK for community
                                             partners, allowing for users to interact with our
                                             platform using its built-in command link interface.</div>
-                                        <a href="https://www.oax.org/2019/02/14/OAX-DEX-Software-Development-Kit.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                        <a href="https://www.oax.org/2019/02/14/OAX-Software-Development-Kit.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
                                     </div>
                                 </div>
                             </li>
@@ -174,7 +174,7 @@ title: Home
                                         <div class="mt-2">Machine-learning powered market surveillance partner,
                                             Solidus Lab, joins OAX's efforts to address market
                                             manipulation across the industry.</div>
-                                        <a href="https://www.oax.org/2019/02/14/OAX-DEX-Software-Development-Kit.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                        <a href="https://www.oax.org/2019/03/14/OAX-Foundation-and-Solidus-Labs-Announce-Partnership.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
                                     </div>
                                 </div>
                             </li>
