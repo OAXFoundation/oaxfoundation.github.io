@@ -19,7 +19,7 @@ So what are some key topics we see floating in the space and trends that will li
 
 Let’s be real-- for most, NFTs over the last year have been a largely speculative market. Not to say that they haven’t played a HUGE role in the market and taken the industry by a storm. But for many, beauty lies in the eyes of the beholder, and there’s been a raised eyebrow or two at the pieces sold and the prices they’ve garnered.<br> 
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Blockchain-Trends-Rock.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Blockchain-Trends-Rock.PNG)
 <br><i>Source: <a href="https://twitter.com/etherrockprice/status/1458122870492737543">Twitter</a></i>
 
 <br>But we’ve only scratched the surface on the potential of NFTs and we can expect to see it taking a much stronger foothold in the market in future. 
@@ -32,7 +32,7 @@ Just as digital assets have had to go through many years of development to find 
 
 How many of our community members remember what Web 1.0 looked like? Before the Web 2.0 of user created content and social media, we had largely one-way push information portals (and 56k modems). The advancement between Web 1.0 to 2.0 didn’t happen overnight, and as we step into the new age, the roll-out will be subtle and gradual as well. In fact as we discuss this and start defining the parameters of what Web 3.0 will be, it becomes clear that we’re well on our way.<br> 
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Blockchain-Trends-Evolution.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Blockchain-Trends-Evolution.PNG)
 <br><i><a href="https://www.baselynk.com/web-3-0-explained/">Source</a></i>
 
 <br>Discussions of Web 3.0 have been picking up steam: topics such as the data that ought to belong to the consumer and user; to artificial intelligence systems that will be integrating with all the smart homes and devices that have been adopted by consumers around the world. Others will look at Web 3.0 as how it integrates with other topics in this list with the mainstream day-to-day life integration: metaverse and virtual land, wallet addresses, websites and data stored on the blockchain. And in certain ways it will be ensuring that it becomes more user friendly for mass adoption (i.e simplified wallet addresses for transactions). The migration into Web 3.0 will definitely take more time, but the market is already well on its way with certain components.<br><br> 
