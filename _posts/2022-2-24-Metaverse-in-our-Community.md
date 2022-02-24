@@ -7,7 +7,7 @@ tag: industry-business
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Metaverse-Popularity.png)
 
-<b>Metaverse in our community</b>
+<b>Metaverse in our Community</b>
 
 The idea of a Metaverse has got so much buzz over the last few months, we were curious what our community thought would be the Metaverse to watch for the future.
 
