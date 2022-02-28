@@ -30,7 +30,7 @@ Another developing space that we’ve discussed in some detail this month is als
 
 We’d like to thank our community members that participated in the Binance trading and staking competition.
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Feb-22-Binance-Staking.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Feb-22-Binance-Staking.PNG)
 
 This is the second time we hosted such a campaign with Binance, and have adjusted the mechanics based on the feedback we received from the first round. Hope everyone enjoyed themselves and best of luck for the random draw! 
 
