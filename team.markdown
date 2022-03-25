@@ -2,6 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
+published: false
 order: 4
 ---
 <div class="d-flex flex-column">
