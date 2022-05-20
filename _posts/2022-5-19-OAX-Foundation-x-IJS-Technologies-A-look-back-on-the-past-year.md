@@ -15,6 +15,7 @@ tag: community-updates
 
 *****
 
+<br>As the DeFi universe continues to expand, on-chain liquidity becomes increasingly scattered and less efficient across multiple chains and the situation is poised to get increasingly worse as new chains emerge with individual DEXs on each chain. IJS Technologies’ main objective in helping launch OpenSwap is to solve these challenges by positioning OpenSwap as every crypto project’s BFF that provides a set of core technologies to empower different project teams to establish sustained token health and attract liquidity from different chains. With OpenSwap’s technologies, token projects and their team members are enabled to focus on what they do best, #BUIDL!<br>
 
 <b>Germination</b>
 
