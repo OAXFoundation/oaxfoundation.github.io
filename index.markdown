@@ -331,6 +331,19 @@ title: Home
                                     </div>
                                 </div>
                             </li>
+                            <li data-horizontal-timeline='{"date": "3/1/2023"}'>
+                                <div class="our-journey--content">
+                                    <div class="d-flex flex-column align-items-start border p-4 py-5">
+                                        <div>January 2023</div>
+                                        <div class="mt-2">Tech Milestone</div>
+                                        <div class="mt-2">Notifs App Launch</div>
+                                        <div class="mt-2">Helping our community keep track of their DeFi portfolios with Notifs.
+                                        </div>
+                                        <a href="https://www.oax.org/2023/01/03/OAX-Launches-Notifs.html" class="btn btn-default border-gradient1 mt-3 mt-lg-4 px-4">Learn More</a>
+                                    </div>
+                                </div>
+                            </li>
+
                         </ol>
                     </div>
                 </div>
