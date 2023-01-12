@@ -13,7 +13,7 @@ As we brace ourselves for what will be sure to be another dynamic year in digita
 
 As is often the case, the trends are quite broad, but we expect movement and progress being made on multiple levels for different audiences. We’re excited to see the progress in the coming months, as always bear markets are great times for development!
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Infographic-Trends-2023.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Infographic-Trends-2023.png)<br><br>
 
 ***
 
@@ -25,7 +25,7 @@ While DeFi has often been linked to decentralized exchanges, it is far from the 
 
 We’ve constantly reminded our community members in the past to explore a variety of different wallet options, and to refrain from keeping their tokens solely in their exchange wallets. While there’s a slew of different hot wallets that allow you to hold your own key (names such as Metamask and Trust Wallet) there’s even safer cold wallet options such as Ledger and Trezor. The move towards owning your own keys and holding custody for your tokens surely can be considered the first step for those that want to understand the digital asset market more. And with people like Tony Fadell joining Ledger, it hopefully will be only a matter of time before the intimidating “technical” things like a cold wallet become user-friendly enough to be integrated into daily use. 
 
-Naturally we’ve spoken of DeFi for years already, and we believe the trend will continue on. Centralized exchanges are great until things go wrong– and as history has shown, it can go very wrong. So while those that are more comfortable in the space are left to develop and strengthen the technical side of decentralization, we look forward to companies making inroads to developing user-centric consumer friendly solutions allowing for greater adoption.
+Naturally we’ve spoken of DeFi for years already, and we believe the trend will continue on. Centralized exchanges are great until things go wrong– and as history has shown, it can go very wrong. So while those that are more comfortable in the space are left to develop and strengthen the technical side of decentralization, we look forward to companies making inroads to developing user-centric consumer friendly solutions allowing for greater adoption.<br><br>
 
 ***
 
@@ -35,7 +35,7 @@ Aside from the crypto market, there’s the blockchain technology that often get
 
 Much of the conversation surrounding Web3 at the moment first began with emphasis on data privacy, a shift from big data to decentralized platforms. The discussion then moved to Metaverses and logging in with wallet addresses and more in the shift to Web 3.0. Yet when the proposition of Web 3.0 is to tie one’s identity to their wallet address, and it all exists on the blockchain, much of the information can be linked together. Rather than data mining from enclosed platforms, much of the information will be available on a public blockchain. 
 
-The bridge that Web3 can offer with the security and privacy to the world of Web 3.0 relies heavily on building the technology surrounding data privacy and zero knowledge. The future of Web 3.0 will (or should) depend on the industry finding ways to ensure data privacy; moving it from a marketing endeavor to a truly useful tool for users.
+The bridge that Web3 can offer with the security and privacy to the world of Web 3.0 relies heavily on building the technology surrounding data privacy and zero knowledge. The future of Web 3.0 will (or should) depend on the industry finding ways to ensure data privacy; moving it from a marketing endeavor to a truly useful tool for users.<br><br>
 
 ***
 
@@ -45,7 +45,7 @@ Unfortunately the evolution of technology and the social factors that surround i
 
 After the issues that the market faced from Terra Luna and FTX, governments and regulators around the world have been facing pressure from the general public to clamp down on the crypto space and enforce stricter regulations. And as we’ve shared in the past, we believe that clearer regulations are beneficial to developers as well as the general public. However, if the regulatory measures taken are so restrictive that it doesn’t allow for growth in the space, we worry it will stifle innovation. 
 
-Many regulators have felt the pressure and ultimately, blame, for not properly regulating the crypto industry. We may expect regulators to move in a more conservative direction, and in some jurisdictions an extreme crackdown to demonstrate their eagerness to prevent a second crisis. While this may be difficult for the market and developers during this period of time, there’s hope that with time, a deeper understanding and rollback of the rules, such as in the case with Hong Kong, will provide more opportunities for the market then.
+Many regulators have felt the pressure and ultimately, blame, for not properly regulating the crypto industry. We may expect regulators to move in a more conservative direction, and in some jurisdictions an extreme crackdown to demonstrate their eagerness to prevent a second crisis. While this may be difficult for the market and developers during this period of time, there’s hope that with time, a deeper understanding and rollback of the rules, such as in the case with Hong Kong, will provide more opportunities for the market then.<br><br>
 
 ***
 
@@ -55,7 +55,7 @@ While games like Axie Infinity have cooled down this space over the latter half 
 
 And we expect things to start to move in the coming months, between Daniel Agegre from Activision Blizzard being named CEO of Yuga Labs, to the gaming software company, Animoca Brands announcing a $2B investment fund for the metaverse.
 
-Naturally with big name players and talent investing in this space, we do expect higher quality games and metaverse platforms that will offer a vision for what the future of this space holds. With any development timeline though, it's more than likely that we’ll need to wait for the better part of the year before we begin to see hints of the fruits of labor from these announcements. 
+Naturally with big name players and talent investing in this space, we do expect higher quality games and metaverse platforms that will offer a vision for what the future of this space holds. With any development timeline though, it's more than likely that we’ll need to wait for the better part of the year before we begin to see hints of the fruits of labor from these announcements.<br><br>
 
 
 ***
