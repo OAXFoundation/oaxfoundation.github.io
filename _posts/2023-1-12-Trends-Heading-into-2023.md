@@ -14,7 +14,8 @@ As we brace ourselves for what will be sure to be another dynamic year in digita
 As is often the case, the trends are quite broad, but we expect movement and progress being made on multiple levels for different audiences. We’re excited to see the progress in the coming months, as always bear markets are great times for development!
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Infographic-Trends-2023.png)
-<br><br>
+
+
 <b>DeFi</b>
 
 Trading volume on DEXes went up nearly 11% immediately after the FTX collapse in November last year. Many in the industry understood that the collapse of FTX and the use of user funds was only possible in a centralized exchange, and saw it as a reminder of the benefits that decentralization had to offer. We expect DeFi exchanges to continue to run strong, while focusing more on fine tuning the smart contracts, increasing security measures and finding ways to bridge the decentralized and centralized divide. 
