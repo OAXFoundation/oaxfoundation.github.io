@@ -17,7 +17,7 @@ As is often the case, the trends are quite broad, but we expect movement and pro
 
 ***
 
-<b>DeFi</b>
+<br><b>DeFi</b>
 
 Trading volume on DEXes went up nearly 11% immediately after the FTX collapse in November last year. Many in the industry understood that the collapse of FTX and the use of user funds was only possible in a centralized exchange, and saw it as a reminder of the benefits that decentralization had to offer. We expect DeFi exchanges to continue to run strong, while focusing more on fine tuning the smart contracts, increasing security measures and finding ways to bridge the decentralized and centralized divide. 
 
@@ -29,7 +29,7 @@ Naturally we’ve spoken of DeFi for years already, and we believe the trend wil
 
 ***
 
-<b>Zero Knowledge Technology</b>
+<br><b>Zero Knowledge Technology</b>
 
 Aside from the crypto market, there’s the blockchain technology that often gets overshadowed when it comes to conversation. But zero knowledge technology is also the backbone to what might make Web 3.0 a success. 
 
@@ -39,7 +39,7 @@ The bridge that Web3 can offer with the security and privacy to the world of Web
 
 ***
 
-<b>Regulatory Extremes</b>
+<br><b>Regulatory Extremes</b>
 
 Unfortunately the evolution of technology and the social factors that surround it are not always on a linear pathway. Sometimes it may require one step back before taking two steps forward. 
 
@@ -49,7 +49,7 @@ Many regulators have felt the pressure and ultimately, blame, for not properly r
 
 ***
 
-<b>GameFi</b>
+<br><b>GameFi</b>
 
 While games like Axie Infinity have cooled down this space over the latter half of 2022, the correlation between gaming, blockchain and digital assets like NFTs still remain strong. Whether it is established games bridging over to the GameFi space, or new games created for blockchain being developed, 2023 continues to offer opportunities for GameFi, and for some, a need. 
 
@@ -61,4 +61,4 @@ Naturally with big name players and talent investing in this space, we do expect
 ***
 
 
-With our longstanding belief in the opportunity that DeFi brings, our latest <a href="http://www.notifs.co">Notifs announcement</a> will be continuing to explore how we can bring information and customization to our community members, while exploring how we can integrate aspects of Web3 and NFTs into our offerings! We’re excited to see the development work that will be coming out from the market in the next few months and expect these to be milestone moments that will push the boundaries of digital assets in the years to come.
+<br>With our longstanding belief in the opportunity that DeFi brings, our latest <a href="http://www.notifs.co">Notifs announcement</a> will be continuing to explore how we can bring information and customization to our community members, while exploring how we can integrate aspects of Web3 and NFTs into our offerings! We’re excited to see the development work that will be coming out from the market in the next few months and expect these to be milestone moments that will push the boundaries of digital assets in the years to come.
