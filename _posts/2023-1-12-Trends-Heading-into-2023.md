@@ -15,6 +15,7 @@ As is often the case, the trends are quite broad, but we expect movement and pro
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Infographic-Trends-2023.png)
 
+***
 
 <b>DeFi</b>
 
@@ -26,6 +27,7 @@ We’ve constantly reminded our community members in the past to explore a varie
 
 Naturally we’ve spoken of DeFi for years already, and we believe the trend will continue on. Centralized exchanges are great until things go wrong– and as history has shown, it can go very wrong. So while those that are more comfortable in the space are left to develop and strengthen the technical side of decentralization, we look forward to companies making inroads to developing user-centric consumer friendly solutions allowing for greater adoption.
 
+***
 
 <b>Zero Knowledge Technology</b>
 
@@ -35,6 +37,7 @@ Much of the conversation surrounding Web3 at the moment first began with emphasi
 
 The bridge that Web3 can offer with the security and privacy to the world of Web 3.0 relies heavily on building the technology surrounding data privacy and zero knowledge. The future of Web 3.0 will (or should) depend on the industry finding ways to ensure data privacy; moving it from a marketing endeavor to a truly useful tool for users.
 
+***
 
 <b>Regulatory Extremes</b>
 
@@ -44,6 +47,7 @@ After the issues that the market faced from Terra Luna and FTX, governments and 
 
 Many regulators have felt the pressure and ultimately, blame, for not properly regulating the crypto industry. We may expect regulators to move in a more conservative direction, and in some jurisdictions an extreme crackdown to demonstrate their eagerness to prevent a second crisis. While this may be difficult for the market and developers during this period of time, there’s hope that with time, a deeper understanding and rollback of the rules, such as in the case with Hong Kong, will provide more opportunities for the market then.
 
+***
 
 <b>GameFi</b>
 
