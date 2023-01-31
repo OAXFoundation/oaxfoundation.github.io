@@ -1,7 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-Trends-2023.png
+image: /img/blog-images/Jan-2023-Community-Update.png
 tag: community-updates
 ---
 
