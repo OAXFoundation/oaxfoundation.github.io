@@ -9,7 +9,7 @@ tag: community-updates
 
 <br><b>January 2023 Community Update</b>
 
-<b><i>Welcome to 2023!</b></i>
+<i>Welcome to 2023!</i>
 
 Of course the headliner of this month’s community update is the launch of the team’s portfolio app Notfis. We launched Notifs at the beginning of the month, and it has been a little project the team has been working on for the better part of last year. Aside from this, January has been an awesome month for the crypto assets space for sure - with Bitcoin successfully breaking 20,000! 
 
