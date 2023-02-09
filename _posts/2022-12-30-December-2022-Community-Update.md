@@ -50,7 +50,7 @@ Nearly “Oxford’s Word of the Year”, Metaverse was another trend this year 
 
 <br>That being said, the number of companies that have invested in securing space in these virtual lands may be a potential driving force in the longer run for these platforms. Development within the space surely continues behind the scenes, and we get glimpses of it on occasion. Perhaps with the longer turnaround time of development for larger companies, we can expect a pick up in user experience propelling the future of these platforms soon, but as with many other ‘metaverse’ experiences that we’ve seen so far, the social interconnectivity experience is one area that requires a lot more resources to improve.<br><br>
 
-![]({{ site.baseurl }}/img/blog-images/OAX-HSBC-Winterverse.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-HSBC-Winterverse.PNG)
 <br><i>Source: HSBC Winterverse</i><br><br>
 
 ***
