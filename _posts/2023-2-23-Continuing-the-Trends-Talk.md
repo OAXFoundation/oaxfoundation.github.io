@@ -15,7 +15,7 @@ We posted what we think (and hope) the trends for the next year will be (primari
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Trends-FollowUp-Poll.png)
 
-<br><br>But one of the larger conversations that has been taking place over the last few months is around A.I. with ChatGBTs dominance in the market and Google’s response with Bard (and their unfortunate launch just earlier this month). This A.I. rush has led to conversations and questions in the digital asset space as to how the likes of ChatGPT can help cryptocurrency users make decisions regarding the market or use it to develop codes. 
+<br><br>But one of the larger conversations that has been taking place over the last few months is around A.I. with ChatGPT's dominance in the market and Google’s response with Bard (and their unfortunate launch just earlier this month). This A.I. rush has led to conversations and questions in the digital asset space as to how the likes of ChatGPT can help cryptocurrency users make decisions regarding the market or use it to develop codes. 
 
 We’ll definitely be exploring the A.I. role in cryptocurrency (the good and bad) in the months to come but beside it being the new shiny toy in the room, we hope it becomes a tool that will support the development and advancement of the trends we mentioned before. 
 
