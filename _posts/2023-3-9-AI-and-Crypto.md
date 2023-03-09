@@ -35,8 +35,8 @@ Of course we’re also expecting A.I. to play a huge role in the development and
 
 Depending on the autonomy that’s given in the coding to adapt answers and the database of learning, A.I. bots will change and evolve. While employees can be held accountable for their actions while representing the company and the potential negative impact begs the question, who would be liable if it was A.I. that harmed a company’s reputation?
 
-![]({{ site.baseurl }}/img/blog-images/OAX-AI-Bing.png)
-<i>Source: https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams</i>
+![]({{ site.baseurl }}/img/blog-images/OAX-AI-Bing.PNG)
+Source: <a href="https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams">The Verge</a>
 
 Assuming that the details of the conversation are fictional and just to play up to the idea that the user is speaking to someone with a bot with a personality, the question remains, what happens when the “isolated incident” causes corporate reputation harm? 
 
