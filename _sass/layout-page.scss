@@ -27,19 +27,19 @@
 
 .layout-page.about,
 .layout-page.grant-program{
-    background: url('/assets/header-bg.2.jpg') top center no-repeat;
-    background-size: 200%;
+    // background: url('/assets/header-bg.2.jpg') top center no-repeat;
+    // background-size: 200%;
 }
 
 .layout-page.blog{
-    background: url('/assets/header-bg.3.jpg') top center no-repeat;
-    background-size: contain;
+    // background: url('/assets/header-bg.3.jpg') top center no-repeat;
+    // background-size: contain;
 }
 
 .layout-page.team,
 .layout-page.resources{
-    background: url('/assets/header-bg.4.jpg') top center no-repeat;
-    background-size: 100%;
+    // background: url('/assets/header-bg.4.jpg') top center no-repeat;
+    // background-size: 100%;
 }
 
 .layout-page.blog,
@@ -61,10 +61,10 @@
             .section--title:not(.style-2){
                 font-style: normal;
                 font-weight: bold;
-                font-size: 18px;
+                font-size: 36px;
                 line-height: 21px;
 
-                color: var(--yellow);
+                // color: var(--yellow);
             }
 
             .section--title.style2{
@@ -78,17 +78,17 @@
 
             .section--description:not(.style-2){
                 font-style: normal;
-                font-weight: bold;
-                font-size: 20px;
+                // font-weight: bold;
+                // font-size: 20px;
                 line-height: 146.62%;
                 
-                color: var(--blue1);
+                // color: var(--blue1);
             }
 
             .section--description.style-2{
                 font-style: normal;
                 font-weight: 500;
-                font-size: 18px;
+                font-size: 16px;
             }
         }
 
@@ -104,8 +104,8 @@
         
             .section--description{
                 font-style: normal;
-                font-weight: 500;
-                font-size: 18px;
+                font-weight: 400;
+                font-size: 16px;
                 line-height: 155.19%;
         
                 color: var(--black1);
@@ -133,20 +133,32 @@
     }
 }
 
+@media (max-width: 992px) {
+    .layout-page{
+        .page-title{
+            margin-bottom: 14px;
+        }
+    }
+
+    .home-item-2 {
+        display: none;
+    }
+}
+
 @media (max-width: 768px) {
     .layout-page.about,
     .layout-page.grant-program{
-        background: url('/assets/header-bg.2.small.jpg') top center no-repeat;
+        // background: url('/assets/header-bg.2.small.jpg') top center no-repeat;
     }
     
     .layout-page.blog{
-        background: url('/assets/header-bg.3.small.jpg') top center no-repeat;
+        // background: url('/assets/header-bg.3.small.jpg') top center no-repeat;
     }
 
     .layout-page.team,
     .layout-page.resources{
-        background: url('/assets/header-bg.4.small.jpg') top center no-repeat;
-        background-size: 105%;
+        // background: url('/assets/header-bg.4.small.jpg') top center no-repeat;
+        // background-size: 105%;
     }
 
     .layout-page.blog,
@@ -165,7 +177,7 @@
             
                 .section--description{
                     font-style: normal;
-                    font-weight: bold;
+                    font-weight: 400;
                     font-size: 16px;
                     line-height: 146.62%;
                 }

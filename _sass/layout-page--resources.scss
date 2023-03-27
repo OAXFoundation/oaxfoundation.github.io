@@ -1,5 +1,33 @@
 .layout-page.resources{
     .page-title{
-        margin-bottom: 188px;
+        // margin-bottom: 188px;
+    }
+}
+
+.resources-hero {
+    background: url(/assets/resources/bg.resources.top.jpg) center center no-repeat;
+    background-size: cover;
+    min-height: 36vw;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 1200px) {
+    .page-title div{
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 991px) {
+    .page-title div{
+        font-size: 36px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .resources-hero {
+        background: url(/assets/resources/bg.resources.top.mobile.jpg) center top no-repeat;
+        background-size: cover;
+        min-height: 200vw;
     }
 }

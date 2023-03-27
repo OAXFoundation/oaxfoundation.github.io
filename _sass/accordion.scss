@@ -50,7 +50,10 @@
         }
 
         &.gradient4{
-            color: var(--black1);
+            // color: var(--black1);
+            color: #14345E;
+            font-size: 24px;
+            font-weight: 800;
 
             .tab--icon div:first-child{
                 display: none;
@@ -113,5 +116,16 @@
         .content--body{
             font-size: 15px;
         }
+    }
+}
+
+
+.resources .gradient4.content--subtitle-text{
+    color: #121212 !important;
+}
+
+@media (max-width: 991px) {
+    .group {
+        margin-bottom: 48px !important;
     }
 }

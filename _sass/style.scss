@@ -113,27 +113,30 @@ body *{
 }
 
 .gradient4{
-    background: linear-gradient(90.54deg, #EEFDFF 3.5%, #D9E5F9 163.16%);
+    // background: linear-gradient(90.54deg, #EEFDFF 3.5%, #D9E5F9 163.16%);
+    background: linear-gradient(180deg, #E4F0FF 0%, #CBE1FF 100%);
 }
 
 .gradient5{
-    background: linear-gradient(90.54deg, #1A467E 3.5%, #724BDF 163.16%);
+    // background: linear-gradient(90.54deg, #1A467E 3.5%, #724BDF 163.16%);
+    background-color: #14345E;
 }
 
 .gradient6,
 .layout-page.contactus input[type="submit"]{
-    background: linear-gradient(90.54deg, #0CCFEA -27.24%, #4B86DF 163.16%);
+    // background: linear-gradient(90.54deg, #0CCFEA -27.24%, #4B86DF 163.16%);
+    background: #14345E;
 }
 
 .gradient7,
 .layout-page.contactus{
-    background: linear-gradient(0deg, #ECE9E9 -3.08%, #FFFFFF 110.89%);
+    background: linear-gradient(136.25deg, #FFFEFB 23.48%, #C7EBF1 110.99%);
 }
 
 .gradient8,
 .nav-link.border-gradient1:after,
 .layout-page.blog .tags a.border-gradient1::after{
-    background: linear-gradient(to right, #68F8E6, #6138D8);
+    // background: linear-gradient(to right, #68F8E6, #6138D8);
 }
 
 .gradient9{
@@ -147,7 +150,7 @@ body *{
 
 .gradient11,
 .layout-page.grant-program{
-    background: linear-gradient(359.78deg, #FFFFFF 13.78%, #EDEBEB 89.71%);
+    // background: linear-gradient(359.78deg, #FFFFFF 13.78%, #EDEBEB 89.71%);
 }
 
 .gradient12{
@@ -203,8 +206,8 @@ body *{
 
 .pagination{
     & > a{
-        background-color: var(--blue3);
-        color: var(--black1);
+        // background-color: var(--blue3);
+        color: #4F4F4F;
     }
 
     & > em, & > span{
@@ -220,7 +223,7 @@ body *{
         line-height: 140.62%;
         /* or 25px */
 
-        margin-left: 17px;
+        margin-left: 7px;
     }
 }
 
@@ -296,18 +299,25 @@ header{
 }
 
 body article {
-    padding-top: 130px;
-    margin-bottom: 204px;
+    // padding-top: 130px;
+    // margin-bottom: 204px;
+}
+
+body.about article {
+    padding-top: 0;
+}
+
+body.resources article {
+    padding-top: 0;
 }
 
 footer{
-    background-image: url('/assets/bg-footer.1.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
 
-    margin-top: -300px;
-    padding-top: 200px;
+    // margin-top: -300px;
+    // padding-top: 200px;
 }
 
 .social-media--label{

@@ -1,8 +1,8 @@
 ---
 title: Track Record
-icon: /assets/grant-program/areas-of-evaluation/track-record.50px.png
+# icon: /assets/grant-program/areas-of-evaluation/track-record.50px.png
 order: 1
-show_order: true
+# show_order: true
 ---
 Does the applicant have any history in the crypto / digital asset / blockchain space? Depending on the proposal, we’ll be looking for a demonstration of relevant experience and technical expertise. 
 

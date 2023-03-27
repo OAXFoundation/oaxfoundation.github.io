@@ -1,8 +1,8 @@
 ---
 title: Terms of Funding
-icon: /assets/grant-program/areas-of-evaluation/terms-of-funding.50px.png
+# icon: /assets/grant-program/areas-of-evaluation/terms-of-funding.50px.png
 order: 3
-show_order: true
+# show_order: true
 ---
 Financial considerations for the grant request should be provided. What is the total amount, and/or how will the payment be distributed? For larger grant requests, the team will likely use staggered distribution of funds tagged to key milestones and deliverables. 
 

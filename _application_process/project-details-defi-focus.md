@@ -1,8 +1,8 @@
 ---
 title: "Project Details: DeFi Focus"
-icon: /assets/grant-program/areas-of-evaluation/project-details-defi-focus.50px.png
+# icon: /assets/grant-program/areas-of-evaluation/project-details-defi-focus.50px.png
 order: 2
-show_order: true
+# show_order: true
 ---
 Are you considering the implications of DeFi from an academic perspective and exploring how it can affect the larger digital asset environment? Does your project focus on the security concerns of DeFi development? Explain how your project will help to move the needle and strengthen the decentralized finance space. What do you envision your project accomplishing and how will that make a difference? 
 

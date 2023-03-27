@@ -1,10 +1,10 @@
 .layout-page.contactus{
     main{
-        margin-bottom: -150px;
+        // margin-bottom: -150px;
     }
     
     .contact-us{
-        width: 33%;
+        width: 100%;
 
         .contact-us--title{
             font-style: normal;
@@ -43,6 +43,7 @@
         input[type="submit"]{
             margin-top: 20px;
             margin-bottom: 40px;
+            color: white;
         }
 
         form {
@@ -53,6 +54,13 @@
                     border: none;
                 }
             }
+
+            textarea, input[type="text"], input[type="email"] {
+                background-color: white;
+                border-radius: 8px;
+                border: 2px solid #14345E !important;
+                padding: 20px;
+            }            
         }
     }
 }
@@ -92,4 +100,38 @@
             }
         }
     }
+}
+
+
+.contact-hero {
+    background: url(/assets/contact/bg0.jpg) center center no-repeat;
+    background-size: cover;
+    min-height: 520px;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 991px) {
+    .contact-hero {
+        background: url(/assets/contact/bg0.mobile.jpg) center top no-repeat;
+        background-size: cover;
+        min-height: 780px;
+    }
+
+    .contact-social {
+        align-items: center;
+        padding-left: 0 !important;
+    }
+
+    .contact-social-container {
+        border-left: 0 !important;        
+    }
+}
+
+.contact-social {
+    align-items: left;
+    padding-left: 100px;
+}
+
+.contact-social-container {
+    border-left: 1px solid #1A467E;
 }

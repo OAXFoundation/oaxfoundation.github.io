@@ -1,11 +1,18 @@
 ---
 layout: page
 ---
-<div class="container d-flex flex-column">
+<!-- <div class="container d-flex flex-column">
     <div class="d-flex d-flex flex-column flex-lg-row flex-grow-1" style="z-index: 1;">
         <h1 class="page-title blue1">
             <div class="animate__animated animate__fadeInUp">Updates on the Latest News
             </div>
+        </h1>
+    </div>
+</div> -->
+<div class="d-flex flex-column blog-hero">
+    <div class="container d-flex flex-column flex-lg-row flex-grow-1 pb-0 pb-lg-4" style="z-index: 1; justify-content: center; align-items: center;">
+        <h1 class="page-title blue1 w-100 w-lg-50">
+            <div class="animate__animated animate__fadeInUp" style="text-align: center; color: #14345E; font-weight: bold;">Updates on the Latest News</div>
         </h1>
     </div>
 </div>
@@ -13,7 +20,7 @@ layout: page
     <div class="container">
         <div class="tags d-flex flex-row flex-wrap py-2 mb-5">
             {%- capture targetRelativeUrl -%}/blog/{%- endcapture -%}
-            <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">View All</a>
+            <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">All</a>
             
             {%- capture targetRelativeUrl -%}/tag/community-updates.html{%- endcapture -%}
             <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">Community Updates</a>
@@ -97,16 +104,16 @@ layout: page
         {% endfor %}
 
       {% if paginator.total_pages > 1 %}
-      <div class="pagination d-flex flex-row flex-wrap justify-content-end my-5">
+      <div class="pagination d-flex flex-row flex-wrap justify-content-center align-items-center justify-content-lg-end my-5">
         {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | relative_url }}">Prev</a>
+        <a href="{{ paginator.previous_page_path | relative_url }}"><img src="/assets/svgs/previous.svg"/></a>
         {% else %}
-        <span class="gradient9">Prev</span>
+        <span><img src="/assets/svgs/previous.svg"/></span>
         {% endif %}
         
         {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
-        <em class="gradient9">{{ page }}</em>
+        <em class="blog-page-number-active">{{ page }}</em>
         {% elsif page == 1 %}
         <a href="{{ '/blog/' | relative_url }}">{{ page }}</a>
         {% else %}
@@ -115,9 +122,9 @@ layout: page
         {% endfor %}
         
         {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+        <a href="{{ paginator.next_page_path | relative_url }}"><img src="/assets/svgs/next.svg"/></a>
         {% else %}
-        <span class="gradient9">Next</span>
+        <span><img src="/assets/svgs/next.svg"/></span>
         {% endif %}
       </div>
       {% else %}

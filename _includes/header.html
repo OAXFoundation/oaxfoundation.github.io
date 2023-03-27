@@ -22,13 +22,14 @@
   }
 </script>
 
-<header class="header" id="main_header">
+<header class="header" id="main_header" style="background-color: white; position: relative">
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.header_pages | default: default_paths -%}
   {%- if page_paths -%}
   <nav class="container navbar navbar-expand-lg navbar-light mt-0 mt-lg-2">
     <a class="navbar-brand" href="/">
-      <img src="{{ '/assets/oax-logo.png' | prepend: site.url }}" alt="">
+      <img src="{{ '/assets/oax-logo.png' | prepend: site.url }}" alt="" style="width: 156px;">
+      <!-- <img src="{{ '/assets/oax-logo_old.png' | prepend: site.url }}" alt=""> -->
     </a>
     <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNav" 
       onclick="openNav()"
@@ -38,7 +39,7 @@
     <div class="collapse navbar-collapse d-none d-lg-block" id="navbarNav">
       <ul class="navbar-nav mr-auto">
       </ul>
-      <ul class="navbar-nav">
+      <ul class="navbar-nav" style="align-items: center;">
         {% assign ordered_pages = site.pages | sort: "order" %}
         {%- for node in ordered_pages -%}
           {%- if node.title and node.order -%}
@@ -51,7 +52,7 @@
           <a class="nav-link py-2 {% if page.url contains 'blog' %} active border-gradient1 {% else %} {% endif %}" href="{{ '/blog/' | prepend: site.url }}">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link py-2 px-5 {% if page.url contains 'contactus' %} active gradient8 {% else %} border-gradient1 {% endif %}" href="{{ '/contactus/' | prepend: site.url }}">Contact</a>
+          <a class="nav-link py-2 px-5" href="{{ '/contactus/' | prepend: site.url }}" style="padding-left: 32px !important; padding-right: 32px !important; padding-top: 16px !important; padding-bottom: 16px !important; background-color: #14345E; color: white; border-radius: 8px;">Contact</a>
         </li>
       </ul>
     </div>

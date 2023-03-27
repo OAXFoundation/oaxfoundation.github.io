@@ -1,5 +1,5 @@
 ---
-title: "REGULATING DIGITAL ASSET TRADING"
+title: "Regulating Digital Asset Trading"
 part1_link: https://www.oax.org/2019/05/21/Regulating-Digital-Asset-Trading-Part-One.html
 part2_link: https://www.oax.org/2019/06/04/Regulating-Digital-Asset-Trading-Part-II.html
 group: other

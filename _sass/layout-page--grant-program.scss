@@ -8,25 +8,26 @@
     }
 
     #areas-of-evaluation{
-        background-image: url('/assets/grant-program/bg.jpg');
+        background: url('/assets/grant-program/bg4.jpg') center center;
+        background-size: cover;;
     }
 
     #grant-recipients{
-        background-image: url('/assets/grant-program/bg2.jpg');
-
+        // background-image: url('/assets/grant-program/bg2.jpg');
+        background-color: white;
         a, a:hover, a:visited{
             color: var(--black1);
         }
     }
 
     #faq{
-        background: url(/assets/grant-program/deco3.png) no-repeat left top, url(/assets/grant-program/deco4.png) no-repeat right bottom;
+        // background: url(/assets/grant-program/deco3.png) no-repeat left top, url(/assets/grant-program/deco4.png) no-repeat right bottom;
     }   
 
     .icon--caption{
         font-style: normal;
         font-weight: bold;
-        font-size: 20px;
+        font-size: 24px;
     }
 
     ul{
@@ -78,15 +79,88 @@
 
 @media (min-width: 426px) {
     .layout-page.grant-program{
-        #welcome{
-            > div:first-child {
-                background: transparent url(/assets/grant-program/deco1.png) no-repeat right center;
-            }
+        // #welcome{
+        //     > div:first-child {
+        //         background: transparent url(/assets/grant-program/deco1.png) no-repeat right center;
+        //     }
             
-            > div:nth-child(2) {
-                background: transparent url(/assets/grant-program/deco2.png) no-repeat left center;
-            }
-        } 
+        //     > div:nth-child(2) {
+        //         background: transparent url(/assets/grant-program/deco2.png) no-repeat left center;
+        //     }
+        // } 
+    }
+}
+
+#grant-recipients {
+    .section--title{
+        font-size: 56px;
+    }
+}
+
+#areas-of-evaluation {
+    .section--title{
+        font-size: 56px;
+    }
+}
+
+.grant-welcome-img {
+    height: 85%;
+    width: auto;
+}
+
+.grant-hero {
+    background: url(/assets/grant-program/bg0.jpg) center center no-repeat;
+    background-size: cover;
+    min-height: 36vw;
+}
+
+.grant-hero-sub {
+    width: 50%;
+}
+
+@media (max-width: 1620px) {
+    .grant-hero {
+        background: url(/assets/grant-program/bg0.large.jpg) no-repeat;
+    }
+}
+
+@media (max-width: 991px) {
+    .grant-welcome-img {
+        width: 75%;
+        height: auto;
+    }   
+    #grant-recipients{
+        .section--title{
+            font-size: 40px;
+        }
+    }
+    #areas-of-evaluation {
+        .section--title{
+            font-size: 40px;
+        }
+    }
+
+    #welcome {
+        .section--title{
+            font-size: 24px;
+            line-height: 1.3;
+        }
+    }
+
+    .grant-hero {
+        background: url(/assets/grant-program/bg0.mobile.jpg) no-repeat;
+        background-size: contain;
+        min-height: 200vw;
+    }
+
+    .grant-hero-sub {
+        width: 100%;
+    }
+
+    .grant-hero {
+        .container {
+            padding-bottom: 30vw;
+        }
     }
 }
 
@@ -98,11 +172,6 @@
         
         #areas-of-evaluation,
         #faq,
-        #grant-recipients{
-            .section--title{
-                font-size: 20px;
-            }
-        }
 
         ul{
             li{

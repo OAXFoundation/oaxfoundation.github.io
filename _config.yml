@@ -34,7 +34,8 @@ collections:
     group: true
   application_process:
     sort_by: order
-
+  grant_faq:
+    sort_by: order
 
 # Build settings
 theme: minima

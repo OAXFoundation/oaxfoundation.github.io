@@ -5,11 +5,40 @@
     }
 }
 
+@media (max-width: 991px) {
+    .latest-updates{     
+        .latest-updates--posts{
+            & > div{
+                width: 100% !important;
+                background-color: transparent;
+            }
+            
+            & > div:not(:last-child) {
+                border-bottom: 1px solid var(--black4);
+            }
+    
+            & > div {
+    
+                & > div:nth-child(1){
+    
+                    img{
+                        height: 100%;
+                        object-fit: cover;
+                    }
+                }
+    
+                & > div:nth-child(2){
+                }
+            }
+        }    
+    }
+}
+
 @media (max-width: 768px) {
     .layout-page{
         &.index{
-            background-image: url(/assets/bg-gradient.1.xs.jpg);
-            background-size: 143%;
+            // background-image: url(/assets/bg-gradient.1.xs.jpg);
+            // background-size: 143%;
 
             .page-title{
                 font-size: 202%;
@@ -25,8 +54,8 @@
         }
 
         .our-journey{
-            background: url(/assets/bg-gradient.3.small.jpg) center center no-repeat;
-            background-size: 128%;
+            // background: url(/assets/bg-gradient.3.small.jpg) center center no-repeat;
+            // background-size: 128%;
 
             .our-journey--content{
 
@@ -114,7 +143,7 @@
             }
 
             .quote1--background{
-                background: none;
+                // background: none;
             }
         }
 
@@ -123,7 +152,7 @@
         }
 
         .oax-highlights{
-            background-image: url('/assets/bg.1.xs.jpg');
+            // background-image: url('/assets/bg.1.xs.jpg');
         }
 
         .latest-updates{

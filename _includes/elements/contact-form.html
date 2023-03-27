@@ -1,14 +1,19 @@
-<div class="contact-us--title">Contact us</div>
-<div class="contact-us--subtitle mb2">Fill out the contact form below</div>
+<div class="contact-us--subtitle mb2" style="font-weight: bold;">Fill in the form below and we’ll get<br/>back to you as soon as we can!</div>
+<style>
+    textarea::placeholder, input[type="text"]::placeholder, input[type="email"]::placeholder {
+                color: #14345E !important;
+                font-style: italic;
+    }
+</style>
 <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfZBr4jOXlKwv2ytaZ8VH4ZhMS8lQfD5NEAwp9UJP-Rcw5S5Q/formResponse" method="POST">
     <div class="input-group"><input type="text" name="entry.1407423255" placeholder="Name" class="form-control"/>
     </div>
     <div class="input-group"><input type="email" name="emailAddress" placeholder="Email Address" class="form-control"/>
     </div>
     <div class="input-group">
-        <textarea name="entry.1230842183" id="message" cols="30" rows="10" placeholder="Message" class="form-control"></textarea>
+        <textarea name="entry.1230842183" id="message" cols="30" rows="10" placeholder="Your Message" class="form-control"></textarea>
     </div>
-    <div>
+    <div style="text-align: center !important;">
         <input type="submit" value="Submit" class="btn btn-default button-primary px-5 py-3"/>
     </div>
 </form>
