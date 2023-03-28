@@ -23,7 +23,7 @@ As we expect this to be quite a landmark year of proposals and approvals of regu
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-23-Regulations-Europe.png)
 
-<b>Europe:</b>
+<b>Europe</b>
 
 We began our recap first with the EU, who has continued to defer the vote on MiCA, the latest date being set at April 2023. The framework is expected to be on track for being approved and serving as the first “comprehensive” crypto framework. But as often mentioned in the past, regulations take a long time to be established; a delay that can be felt even more when compared to the speed of which the digital asset economy changes. That being said, the EU with its 44 countries will likely be the first to step into the space of providing a wider regulatory framework for companies and investors in their market. Should the regulation get approved in April, it’s only expected to take effect in 2024. 
 
@@ -36,7 +36,7 @@ Flexibility to ensure that the market can still continue to thrive is necessary 
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-23-Regulations-UK.png)
 
-<b>UK:</b>
+<b>UK</b>
 
 Despite many hoping that a lenient regulatory framework would be underway, spearheaded by PM Sunak, it appears that post-FTX has dealt quite the blow to the space. Despite the PM’s pro-crypto stance, the Financial Conduct Authority which is expected to take the responsibility of regulating the crypto markets has a much more conservative view. This gap of opinion towards digital assets is a good snapshot of the varying opinions that exist around the world. Beincrypto recently published an <a href="https://beincrypto.com/uk-crypto-regulation-lisa-cameron-mp/">article</a> interviewing the Head of the All-Party Parliamentary Group (APPG) on Crypto and Digital Assets, Dr Lisa Cameron MP outlining the challenges of bridging the divide, but even more so the necessity of education that is required for those looking to regulate. 
 
@@ -47,7 +47,7 @@ Despite many hoping that a lenient regulatory framework would be underway, spear
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-23-Regulations-USA.png)
 
-<b>US:</b>
+<b>US</b>
 
 The debate surrounding stablecoins and staking has been heating up in the US over the last few months, with the debate of whether digital assets were considered securities at the heart of the discussion. But over the last two months, there should be no doubt left in the industry with regards to SEC’s stance.
 
@@ -60,7 +60,7 @@ The lack of clarity and willingness to take a more balanced approach has also le
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-23-Regulations-HK.png)
 
-<b>Hong Kong:</b>
+<b>Hong Kong</b>
 
 We end our regulatory Q1 update in Hong Kong, our home base. Having published a 361-page regulatory framework last month, the consultation paper is currently being presented for feedback. In addition to the framework, everyone is also preparing for the new licensing regime to take effect in June when licensed cryptocurrency exchanges are allowed to accept retail investors trading certain tokens. We’re also expecting updates and more clarity surrounding the regulation of stablecoins by 2024 that will regulate not only the issuance of stablecoins, but how HKMA will decide to oversee this particular area. 
 
