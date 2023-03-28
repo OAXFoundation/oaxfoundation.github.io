@@ -17,7 +17,7 @@ Regulatory concerns were always one of the primary areas of consideration for th
 
 As we expect this to be quite a landmark year of proposals and approvals of regulatory frameworks, we want to pay particular attention to the happenings from regulators around the world. 
 
-<br><br>
+
 ***
 <br><br>
 
@@ -30,7 +30,8 @@ We began our recap first with the EU, who has continued to defer the vote on MiC
 Despite many in the market that believe the regulatory framework will be too outdated to protect investors from another FTX event, it’s unlikely that any framework at this stage will be (or should be) so detailed as to predict any and every scenario that will arise.
 
 Flexibility to ensure that the market can still continue to thrive is necessary during the development of a new industry. Not to mention the fact in a new space it will be difficult to anticipate the natural direction and course the path to development takes. 
-<br><br>
+
+
 ***
 <br><br>
 
@@ -41,7 +42,8 @@ Flexibility to ensure that the market can still continue to thrive is necessary 
 Despite many hoping that a lenient regulatory framework would be underway, spearheaded by PM Sunak, it appears that post-FTX has dealt quite the blow to the space. Despite the PM’s pro-crypto stance, the Financial Conduct Authority which is expected to take the responsibility of regulating the crypto markets has a much more conservative view. This gap of opinion towards digital assets is a good snapshot of the varying opinions that exist around the world. Beincrypto recently published an <a href="https://beincrypto.com/uk-crypto-regulation-lisa-cameron-mp/">article</a> interviewing the Head of the All-Party Parliamentary Group (APPG) on Crypto and Digital Assets, Dr Lisa Cameron MP outlining the challenges of bridging the divide, but even more so the necessity of education that is required for those looking to regulate. 
 
 “This sector is not something that you can just pick up a handout and speak in Parliament about. You need an educational program first.” - Dr Lisa Cameron MP
-<br><br>
+
+
 ***
 <br><br>
 
@@ -54,7 +56,8 @@ The debate surrounding stablecoins and staking has been heating up in the US ove
 From focusing on Paxos for issuing BUSD, alleging that the stablecoin was considered an unregistered security (and Coinbase announcing the withdrawal of BUSD shortly after), to Kraken also announcing that they would be closing their crypto staking program after paying a $30 million fine, it’s clear in the market that US regulators are cracking down. Further implications that crypto exchanges will not be “qualified custodians” leaves questions as to the future of US based exchanges, so much so that the likes of Binance’s chief strategy officer has gone on record to warn that recent crackdowns may suffocate the industry and cost investors over time. The increased hiring of staff within the SEC points to a crackdown in this space, even before regulations are entirely clear. By raising issues with staking features leaves companies uncertain– at which point when will there be a sudden 180° change and face hefty fines as a result? Furthermore with the issues that recently arose with Silvergate Bank, Signature Bank and Silicon Valley Bank, three banks known for their crypto-friendly stance, the industry will encounter further issues with their expanding and operating their day-to-day business. 
 
 The lack of clarity and willingness to take a more balanced approach has also led to additional conversations in the industry surrounding the shift of labor and talent from the US to other markets. Most recently, Coinbase shared their intentions of looking to diversify by moving some of their units to outside the US and to more crypto-friendly regulatory spaces. With the tech industry woes as a backdrop, it seems quite likely that industry players will shift their focus elsewhere. We’ve seen such trends in the past being based in Hong Kong when regulators first began discussions of strict regulatory frameworks that left quite a bit up to interpretation. Many of the startups that were based in Hong Kong began making a shift– but we’ll get more to Hong Kong in the section below!
-<br><br>
+
+
 ***
 <br><br>
 
@@ -66,7 +69,7 @@ We end our regulatory Q1 update in Hong Kong, our home base. Having published a 
 
 The overall HK market has been garnering a lot of attention from the crypto space in Asia over the last few months, and likewise the government has been doing a fair bit to engage further with Web 3.0 companies to drive development. By setting aside HK$50 million, the city is looking to support innovation and expand the sector, and perhaps revive it once again when we first launched in the market. 
 
-<br><br>
+
 ****
 <br><br>
 
