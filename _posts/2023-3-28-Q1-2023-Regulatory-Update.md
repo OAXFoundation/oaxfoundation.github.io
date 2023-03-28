@@ -7,7 +7,7 @@ tag: industry-business
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-23-Regulations-Update.png)
 
-<br>Q1 2023 Regulatory Update</b>
+<br><b>Q1 2023 Regulatory Update</b>
 
 We discussed the large pendulum of back and forth between the digital asset stance that many regulators have taken around the world. Just as the technology and development of the digital asset market has often been a two steps forward, one step backward type of momentum, it seems only fair to expect the same for the regulation covering it. 
 
