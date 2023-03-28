@@ -50,8 +50,8 @@ title: Home
                     <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">Notifs App
                     </div>
-                    <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX
-                    </div>
+                    <div class="highlight-desc">Launched in 2023, Notifs is a DeFi Portfolio Tracker - helping users get visibility and updates relevant to their portfolio
+                </div>
                 </div>
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mx-0 mx-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
                     <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" height="100px"/>
