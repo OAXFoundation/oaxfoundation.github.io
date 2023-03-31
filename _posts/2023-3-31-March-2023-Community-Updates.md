@@ -11,7 +11,7 @@ tag: community-updates
 
 Big news for us at OAX! As many of you in our community are aware, Binance listed an additional trading pair for the OAX token– OAX/USDT!
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Binance-USDT.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Binance-USDT-new.png)
 
 We know many of you have been eagerly awaiting a stablecoin pairing on Binance and it’s finally happened. We hope everyone gets to make use of the pairing and continues to support the OAX team. To those that are new to OAX and Notifs, welcome to our community!
 
