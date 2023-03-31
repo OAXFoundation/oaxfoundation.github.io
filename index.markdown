@@ -98,6 +98,17 @@ title: Home
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>March 2023</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.1 - 1.1.3</div>
+                                            <div class="mt-2">Bringing new key features and UI/UX updates for a better user experience</div>
+                                            <a href="https://www.oax.org/2023/03/31/March-2023-Community-Updates.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
                                             <div>January 2023</div>
                                             <div class="mt-2 eventCardPostTitle">Notifs App Launch</div>
                                             <div class="mt-2">Helping our community keep track of their DeFi portfolios with Notifs.</div>
