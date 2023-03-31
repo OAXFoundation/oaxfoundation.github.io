@@ -7,7 +7,7 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-March-2023.png)
 
-<br>March 2023 Community Update</b>
+<b>March 2023 Community Update</b>
 
 Big news for us at OAX! As many of you in our community are aware, Binance listed an additional trading pair for the OAX token– OAX/USDT!
 
