@@ -50,21 +50,21 @@ title: Home
                     <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">Notifs App
                     </div>
-                    <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX
-                    </div>
+                    <div class="highlight-desc">Launched in 2023, Notifs is a DeFi Portfolio Tracker - helping users get visibility and updates relevant to their portfolio.
+                </div>
                 </div>
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mx-0 mx-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
                     <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">OAX DeFi<br/>Parachain Features
                     </div>
-                    <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX
+                    <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX.
                     </div>
                 </div>
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 rx-0 mx-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
                     <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">OAX Layer 2<br/>Protocol
                     </div> 
-                    <div class="highlight-desc">Launched in 2023, Notifs is a DeFi portfolio tracker– helping users get visibility and updates relevant to their portfolio.
+                    <div class="highlight-desc">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
                     </div>
                 </div>
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 ml-0 ml-lg-2" style="border-radius: 8px;">
@@ -94,6 +94,17 @@ title: Home
                 <div class="timeline" style="max-width: 1140px">
                     <div class="timeline__wrap">
                         <div class="timeline__items">
+                            <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>March 2023</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.1 - 1.1.3</div>
+                                            <div class="mt-2">Bringing new key features and UI/UX updates for a better user experience</div>
+                                            <a href="https://www.oax.org/2023/03/31/March-2023-Community-Updates.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
                             <div class="timeline__item">
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
