@@ -28,5 +28,5 @@ This feature allows you to monitor your digital assets not just on Ethereum, but
 
 We are dedicated to continuing to bring valuable features to the ecosystem and appreciate your support.
 
-Best,
+Best,<br>
 OAX Team
