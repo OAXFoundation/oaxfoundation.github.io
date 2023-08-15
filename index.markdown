@@ -94,6 +94,27 @@ title: Home
                 <div class="timeline" style="max-width: 1140px">
                     <div class="timeline__wrap">
                         <div class="timeline__items">
+                              <div class="timeline__item">
+                                     <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>August 2023</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.2 - 1.2.7</div>
+                                            <div class="mt-2">Integrated EVM Wallet Import, launched Multi-Portfolio feature and Beta version of AI News feed</div>
+                                            <a href="https://twitter.com/Notifs_app/status/1691284061044789248">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>June 2023</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.9</div>
+                                            <div class="mt-2">Launched Light Mode, completed first Referrral Campaign & AMA</div>
+                                            <a href="https://notifs.co/blog/notifs-ama-campaign">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
                             <div class="timeline__item">
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
