@@ -21,7 +21,7 @@ Twenty years ago, the idea of digital payments was obscure: globally, many peopl
 
 In China, cash was the primary option. Credit cards were scarcely used, cheques hardly seen, and the idea of P2P digital payments was unheard of. But then WeChat Pay came onto the scene in 2013, rolling out to 270 million people who already used WeChat daily as their go-to mobile social media and messaging app. 
 
-By adding seamless, secure payment capability, the company created an ecosystem where overnight the platform became easy to use commercially. Rather than being a feature, WeChat Pay became a major growth driver: a href="https://www.chinainternetwatch.com/31608/wechat-statistics/#:~:text=WeChat%20MAU,and%20120%20million%20publish%20updates.">end of 2021/a> monthly active users (MAU) of the app’s raft of services totalled more than 1.27 billion. 
+By adding seamless, secure payment capability, the company created an ecosystem where overnight the platform became easy to use commercially. Rather than being a feature, WeChat Pay became a major growth driver: <a href="https://www.chinainternetwatch.com/31608/wechat-statistics/#:~:text=WeChat%20MAU,and%20120%20million%20publish%20updates.">end of 2021</a> monthly active users (MAU) of the app’s raft of services totalled more than 1.27 billion. 
 
 Based on users’ spending patterns and preferences and merchants’ feedback on the features that would help their business, WeChat rapidly added functionality, extending the utility of their initial offering. The time for listening was while the technology was scaling up and the market was transitioning to a new way of operating, when factors like accessibility and automation become key to uptake.
 
