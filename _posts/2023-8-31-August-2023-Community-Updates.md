@@ -35,7 +35,7 @@ And along with our presence in Token2049, we’re equally excited for something 
 
 Together, let's shape the future of a decentralized ecosystem and build use cases that's more seamless and personalized than ever before.
 
-Best,
+Best,<br>
 OAX team
 
 
