@@ -7,7 +7,7 @@ tag: community-updates
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-July-23-Update.png)
 
-<br><b>How Institutional Adoption is Changing the Future Digital Assets</b>
+<br><b>July 2023 Community Updates</b>
 
 Hey OAX community,
 
