@@ -12,6 +12,7 @@ tag: industry-business
 Worldcoin, a pioneering cryptocurrency project co-founded by Sam Altman, CEO of OpenAI, and led by CEO Alex Blania, has garnered attention and sparked discussions with its innovative approach to solving global identity system problems through decentralized technology. In this article, we aim to explore Worldcoin's vision for a decentralized future with AI playing a critical role and its controversies. 
 
 <b>The Essence of Worldcoin:</b>
+
 Worldcoin is a cryptocurrency and digital identity project aimed at building a global identity and financial system. The project's main <a href="https://decrypt.co/resources/what-is-worldcoin-the-app-and-token-that-protects-your-personhood">feature</a> is World ID, which aims to address the challenges posed by artificial intelligence (AI) and deepfakes by introducing a concept called 'proof of personhood.' Users verify their personhood by having their irises scanned by a device called the Orb, which generates a unique identification code based on the structure of the irises. This code is stored on Worldcoin's decentralized blockchain to prevent fraud. Once verified, users receive a WorldID and can participate in Worldcoin's global financial network.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Worldcoin-Overview.png)
@@ -22,6 +23,7 @@ The project was officially launched in July this year, and to date, almost 2.3 m
 The project’s tokenomics have been a catalyst for recent traction. The native token of Worldcoin is called WLD, and it incentivizes people who perform the scan. As such the project has certainly generated both interest and controversy.
 
 <b>Risks and Challenges Ahead:</b>
+
 Its method of verifying human identity through iris scanning has raised concerns about privacy and centralization. By collecting biometric data from individuals in underserved areas, Worldcoin risks <a href="https://cointelegraph.com/news/worldcoin-launch-sparks-debate-over-data-privacy-and-future-of-ai">privacy</a> violations and potential exploitation of the data. Centralizing such sensitive information also makes it a target for hackers and poses the risk of identity theft. Moreover, the project's involvement in AI development and its potential impact on democratic processes and sovereignty have raised further concerns. 
 
 From a <a href="https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/">regulatory</a> perspective, Worldcoin has encountered roadblocks in various jurisdictions. In the United States, restrictions prevent citizens and residents from purchasing or trading Worldcoin tokens. Similarly, European countries like Germany and France have expressed reservations about the legality of collecting biometric data. These challenges highlight the importance of engaging with regulatory bodies to establish compliance frameworks that align with the project's goals.
