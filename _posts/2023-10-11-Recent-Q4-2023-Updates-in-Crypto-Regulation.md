@@ -12,6 +12,7 @@ tag: industry-business
 In the rapidly evolving world of cryptocurrencies, governments and regulatory bodies worldwide are actively updating their regulatory frameworks to adapt to the growing presence and complexity of digital assets. This article aims to provide notable updates on recent regulatory developments around the world, including delays in digital asset ETFs in the US, strengthened regulations in Hong Kong, and transaction restrictions in the UK.
 
 <b>Delays in BTC ETF Approvals:</b>
+
 The U.S. Securities and Exchange Commission (SEC) has once again postponed its decision on four prominent Bitcoin exchange-traded fund (ETF) filings. The applications from BlackRock, Bitwise, Invesco Galaxy Digital, and Valkyrie are under consideration. The SEC is following a formal process as per the Securities Exchange Act of 1934, and public comments on the proposals are still being collected. The decision was delayed due to an anticipated government shutdown, which temporarily halted several federal agencies, including the SEC. This delay adds to the ongoing pattern of postponements in approving Bitcoin ETFs, despite Grayscale's recent ETF conversion approval, which remains a positive sign for future approvals.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Q4-Regulations-HK.png)
