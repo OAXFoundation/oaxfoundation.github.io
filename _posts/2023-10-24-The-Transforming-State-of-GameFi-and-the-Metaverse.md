@@ -25,6 +25,7 @@ Meanwhile, Tencent dominates the mobile gaming space, capitalizing on the increa
 One compelling aspect of blockchain gaming is the ability to link time and value to in-game assets such as weapons or a game pass that has to be hard earned with skills and time spent. The concept of transferring value from one player to another and establishing clear utility for game assets has given rise to auction houses and peer-to-peer secondary markets - this use case was one of the factors that drove the hype in the gaming NFT market throughout 2021-2022. This notion of digital property rights and ownership to build the open metaverse has been championed by Animoca CEO Yat Siu, who envisions the creation of microeconomies within games to incentivise users in new ways. The gaming industry seems to provide an ideal use case for cryptocurrencies and decentralized assets adoption.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-GameFi-Market Cap.png)
+<i>The evolution of GameFi’s market cap over the recent years.</i>
 
 <b>The Rise and Fall of GameFi:</b>
 
