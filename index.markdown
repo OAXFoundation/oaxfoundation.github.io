@@ -94,6 +94,40 @@ title: Home
                 <div class="timeline" style="max-width: 1140px">
                     <div class="timeline__wrap">
                         <div class="timeline__items">
+                         <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>Coming Soon: Dec '23 & Q1 '24</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.4</div>
+                                            <div class="mt-2">Notifs App Notifs Rewards and Notifs Gazer Features</div>
+                                            <a href="https://twitter.com/Notifs_app" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                          <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>November 2023</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.4</div>
+                                            <div class="mt-2">Notifs App AI News now available in Simplified and Traditional Chinese<br> 
+Supported Notifs HK Fintech Week Side Event</div>
+                                            <a href="https://www.notifs.co/blog/october-23-community" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>October 2023</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.4</div>
+                                            <div class="mt-2">Add on language options: Simplified and Traditional Chinese</div>
+                                            <a href="https://twitter.com/Notifs_app/status/1722229419660714461" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
                             <div class="timeline__item">
                                      <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
@@ -101,7 +135,7 @@ title: Home
                                             <div>August 2023</div>
                                             <div class="mt-2 eventCardPostTitle">Notifs Update 1.2 - 1.2.7</div>
                                             <div class="mt-2">Integrated EVM Wallet Import, launched Multi-Portfolio feature and Beta version of AI News feed</div>
-                                            <a href="https://twitter.com/Notifs_app/status/1691284061044789248">Learn More</a>
+                                              <a href="https://twitter.com/Notifs_app/status/1691284061044789248" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
                             </div>
@@ -112,6 +146,7 @@ title: Home
                                             <div>June 2023</div>
                                             <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.9</div>
                                             <div class="mt-2">Launched Light Mode, completed first Referrral Campaign & AMA</div>
+  <a href="https://notifs.co/blog/notifs-ama-campaign" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                             <a href="https://notifs.co/blog/notifs-ama-campaign">Learn More</a>
                                         </div>
                                 </div>
