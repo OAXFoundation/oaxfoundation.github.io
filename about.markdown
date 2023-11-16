@@ -24,8 +24,7 @@ order: 1
                 <div class="d-flex flex-row">
                     <div class="section--title mb-4 mr-2">Our Mission</div>                                 
                 </div>
-                <div class="section--description">As the space evolves and the market matures to offer comparable options to those looking for alternatives from traditional financial ecosystems, the need to develop the technology and address the limitations of this new industry is imperative to its success. Such was the need to address the four main shortcomings identified by the Foundation: speed, scalability, interoperability and trust.
-                    From decentralized or centralized exchanges, to the days of ICOs and STOs and the budding seeds of DeFi, the exploration of these technologies require pioneers within the space to work together to address these challenges. OAX Foundation strives to provide support within this space, through tools, technology, applications and community support.</div>
+                <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also community and ecosystem support. Read on below to see the full scope of our Foundation's mission, values and work.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
                 <div>
@@ -42,12 +41,10 @@ order: 1
                     <div class="section--title mb-4 mr-2">Blockchain Technology</div>
                     <!-- <div class="line mt-3 mt-lg-4"></div> -->
                 </div>
-                <div class="section--description">From the very beginning of OAX Foundation’s inception, we’ve placed the highest regard to promoting the technology that is required for
-                    digital assets to flourish. While roadmaps and timelines constantly shift, we believe that the work often needs to be offered with transparency, ensuring that it’s being driven in the right direction and with the feedback of the community.
+                <div class="section--description">From the very beginning of OAX Foundation’s inception, we’ve placed the highest regard to promoting the technology that is required for digital assets to flourish. While roadmaps and timelines constantly shift, we believe that the work often needs to be offered with transparency, ensuring that it’s being driven in the right direction and with the feedback of the community.
                     <br/>
                     <br/>
-                    Link to our Github to review our open source work that has been done for OAX Layer 2 Protocol (L2X) and the feature development for
-                    parachains in the Polkadot Network.</div>
+                    The launch of our latest Notifs app pulls information available from blockchain and in the public domain to consolidate and provide relevant information to your specific portfolio. You can also link to our Github page to review the open source work that has been done in the past for OAX Layer 2 Protocol (L2X) and the feature development for parachins in the Polkadot Network.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left">
                 <div><img class="w-75" src="{{ '/assets/about/pillar.1.png' }}" alt="our mission">
@@ -113,8 +110,9 @@ order: 1
                     <div class="section--title mb-4 mr-2">Building Tools</div>
                     <!-- <div class="line mt-3 mt-lg-4"></div> -->
                 </div>
-                <div class="section--description">As the space evolves and the market matures to offer comparable options to those looking for alternatives from traditional financial ecosystems, the need to develop the technology and address the limitations of this new industry is imperative to its success. Such was the need to address the four main shortcomings identified by the Foundation: speed, scalability, interoperability and trust.
-                    From decentralized or centralized exchanges, to the days of ICOs and STOs and the budding seeds of DeFi, the exploration of these technologies require pioneers within the space to work together to address these challenges. OAX Foundation strives to provide support within this space, through tools, technology, applications and community support.</div>
+                <div class="section--description">As the space evolves and the market matures to offer comparable options from traditional financial ecosystems, the need to develop technology and address the limitations of this new industry is imperative to its success. 2022 demonstrated the need to take ownership of your assets, and the strengths that DeFi can in the digital asset industry. 
+We continue to strive to bring tools that leverage decentralization and working with partners to drive a stronger use case. 
+</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
                 <div><img class="w-75" src="{{ '/assets/about/pillar.4.jpg' }}" alt="our mission">
