@@ -99,7 +99,7 @@ title: Home
                                     <div class="eventCardTitle">Tech Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
                                             <div>Coming Soon: Dec '23 & Q1 '24</div>
-                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.4</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Upcoming Updates</div>
                                             <div class="mt-2">Notifs App Notifs Rewards and Notifs Gazer Features</div>
                                             <a href="https://twitter.com/Notifs_app" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
@@ -110,7 +110,7 @@ title: Home
                                     <div class="eventCardTitle">Tech Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
                                             <div>November 2023</div>
-                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.4</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.2.18</div>
                                             <div class="mt-2">Notifs App AI News now available in Simplified and Traditional Chinese<br> 
 Supported Notifs HK Fintech Week Side Event</div>
                                             <a href="https://www.notifs.co/blog/october-23-community" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
@@ -122,7 +122,7 @@ Supported Notifs HK Fintech Week Side Event</div>
                                     <div class="eventCardTitle">Tech Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
                                             <div>October 2023</div>
-                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.1.4</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Update 1.2.16</div>
                                             <div class="mt-2">Add on language options: Simplified and Traditional Chinese</div>
                                             <a href="https://twitter.com/Notifs_app/status/1722229419660714461" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
