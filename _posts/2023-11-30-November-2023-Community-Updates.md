@@ -20,7 +20,7 @@ The market is abuzz with positive signals of Bitcoin ETF approval, driving incre
 During Hong Kong Fintech Week beginning this month, our comprehensive <a href="https://www.oax.org/2023/11/13/The-Hong-Kong-FinTech-Week-2023-Recap.html">coverage</a> focused on the tangible applications of blockchain technology in our everyday lives. We delved into various use cases, examined integration possibilities, and highlighted the increasing momentum towards adoption. A particular area of emphasis was payments, as we conducted an in-depth exploration of <a href="https://www.oax.org/2023/11/20/Payments-As-a-New-Driver-of-Crypto-Adoption.html">payment</a> solutions, use cases, and integration opportunities. This deep dive 
 garnered substantial attention and interest, underscoring the rising potential for blockchain-based payment systems.
 
-![]({{ site.baseurl }}/img/blog-images/OAX-AINews-Chinese-Twitter.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-AINews-Chinese-Twitter.jpg)
 
 We are excited to inform you about the latest updates regarding our supporting project: <a href="https://www.notifs.co/">Notifs</a> app. The recent release of new features in the Chinese language, expanding the accessibility of our app to a wider audience. Users can now enjoy the app and receive AI news summary in their native language, enhancing their overall experience. Additionally, a rewards program is scheduled to release early December to encourage active user participation within our ecosystem. More details about this upcoming launch will be shared soon.
 
