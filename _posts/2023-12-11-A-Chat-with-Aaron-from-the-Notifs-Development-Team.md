@@ -1,7 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-QnA-Notifss.png
+image: /img/blog-images/OAX-QnA-Notifs.png
 tag: community-updates
 ---
 
