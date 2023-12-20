@@ -1,7 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-NFTs-2023-Headers.png
+image: /img/blog-images/OAX-NFTs-2023-Header.png
 tag: industry-business
 ---
 
