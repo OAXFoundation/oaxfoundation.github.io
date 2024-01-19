@@ -1,7 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-Trends-2024-Header.png
+image: /img/blog-images/OAX-Bitcoin-ETFs-Header.png
 tag: industry-business
 ---
 
