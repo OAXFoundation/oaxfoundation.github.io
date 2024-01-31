@@ -26,5 +26,5 @@ Ethereum experienced a strong finish to 2023, witnessing renewed market sentimen
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Jan-2024-L2-Transactions.png)
 
-<b>Looking Ahead</b>
+<b>Looking Ahead</b><br>
 We're excited to see an eventful start of the year. The OAX Foundation, headquartered in Hong Kong, is delighted to witness these industry advancements as we embrace the web3 movement. We are actively seeking partnerships to further expand our ecosystem and contribute to the crypto space. Additionally, our portfolio project, the Notifs app, remains attuned to the latest developments. We're thrilled about the soon to be released ETF tracking feature, so stay tuned for updates!
