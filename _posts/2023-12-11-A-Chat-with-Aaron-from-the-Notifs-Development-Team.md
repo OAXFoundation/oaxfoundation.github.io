@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/OAX-QnA-Notifs.png
-tag: community-updates
+tag: tech-developments
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-QnA-Notifs.png)
