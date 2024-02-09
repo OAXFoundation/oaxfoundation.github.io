@@ -32,3 +32,7 @@ As discussed above, there are concerns around the potential division between hol
 
 <b>Closing thoughts</b><br>
 The Bitcoin ETFs have certainly ignited a diverse range of viewpoints within the crypto industry, encompassing both positive and critical perspectives on various aspects such as Bitcoin's original mission, cultural identity, custodial solutions, and market dynamics. While the long-term implications of these sentiments remain to be seen, it is crucial to comprehend the underlying backdrop that sets the stage for this ongoing evolution. It could be argued that the acceptance of ETFs is a natural progression for Bitcoin, as it brings awareness through institutional support and regulatory compliance, indirectly fostering adoption. However, whether Bitcoin remains true to its mission ultimately rests in the hands of its users, who will have the autonomy to decide their preferred path towards self-custody and true ownership of crypto assets in the years to come.
+
+![]({{ site.baseurl }}/img/blog-images/OAX-LunarNewYear-2024.png)
+
+Last but not least, we would like to wish everyone a happy and prosperous Lunar New Year in this year of the Dragon. We are excited for the year to come and we hope you are too - greater things are certainly ahead! 
