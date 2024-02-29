@@ -31,6 +31,6 @@ As the OAX foundation, we are pleased to witness the latest developments in the 
 
 Lastly, we’d like to thank everyone who joined, supported or shared our Lunar New Year <a href="https://gleam.io/Y6AbC/880-usdt-prize-pool-oax-and-notifs-lunar-new-year-2024-campaign">Gleam campaign</a> - response has been great and we can’t wait to bring more exciting activities to you! In the meantime, we’re sure you’re looking forward to the winner announcements. Please stay tuned and keep an eye out for it over the next few days across our <a href="https://linktr.ee/oax_foundation">official channels</a>. 
 
-Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.
+<i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
 
 
