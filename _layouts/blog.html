@@ -30,6 +30,9 @@ layout: page
 
             {%- capture targetRelativeUrl -%}/tag/tech-developments.html{%- endcapture -%}
             <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">Tech Developments</a>
+
+            {%- capture targetRelativeUrl -%}/tag/oax-academy.html{%- endcapture -%}
+            <a class="{% include elements/active.html %} border-gradient1 mb-2" href="{{ targetRelativeUrl | prepend: site.url }}">OAX Academy</a>
         </div>
         {%- if page.tag -%}
             {%- assign posts = site.tags[page.tag] -%}
