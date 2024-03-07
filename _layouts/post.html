@@ -3,7 +3,6 @@ layout: default
 ---
 <article itemscope itemtype="http://schema.org/BlogPosting">
   <div class="d-flex flex-column">
-    
     <header>
       <div class="container d-flex flex-row">
         <div class="mr-1">
@@ -20,7 +19,13 @@ layout: default
         </div>
       </div>
       <div class="container">
-        <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+        {%- assign page_path = page.relative_path |  split: '/' | last | split: '.md' | first | split: '-' -%}
+        {%- assign page_title = "" -%}
+        {% for path in page_path offset: 3 %}
+          {%- assign page_title = page_title | append: path | append: " " -%}
+        {% endfor %}
+        {% assign page_title = page_title | strip %}
+        <h1 itemprop="name headline">{{ page_title | escape }}</h1>
         <div style="margin-top: 30px; margin-bottom: 60px;">
           {% include elements/seperator.html %}
         </div>
