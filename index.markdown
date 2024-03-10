@@ -111,8 +111,7 @@ title: Home
                                         <div class="d-flex flex-column align-items-start pt-4">
                                             <div>February & March 2024</div>
                                             <div class="mt-2 eventCardPostTitle">Notifs Gazer Updates</div>
-                                            <div class="mt-2">Notifs Gazer - improved and updated UI for better overall view, Crypto ETF performances and Whale/Institutional tracking<br> 
-Supported Notifs HK Fintech Week Side Event</div>
+                                            <div class="mt-2">Notifs Gazer - improved and updated UI for better overall view, Crypto ETF performances and Whale/Institutional tracking.</div>
                                             <a href="https://twitter.com/Notifs_app/status/1765650324050911282" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
