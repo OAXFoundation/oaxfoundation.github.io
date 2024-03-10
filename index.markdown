@@ -94,14 +94,37 @@ title: Home
                 <div class="timeline" style="max-width: 1140px">
                     <div class="timeline__wrap">
                         <div class="timeline__items">
+                              <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>March 2024</div>
+                                            <div class="mt-2 eventCardPostTitle">OAX Launches OAX Academy</div>
+                                            <div class="mt-2">Kickstart OAX Academy, an initiative to further provide newcomers and existing users of the digital assets ecosystem with useful resources.</div>
+                                            <a href="https://www.oax.org/tag/oax-academy.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                              <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>February & March 2024</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Gazer Updates</div>
+                                            <div class="mt-2">Notifs Gazer - improved and updated UI for better overall view, Crypto ETF performances and Whale/Institutional tracking<br> 
+Supported Notifs HK Fintech Week Side Event</div>
+                                            <a href="https://twitter.com/Notifs_app/status/1765650324050911282" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
                          <div class="timeline__item">
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
-                                            <div>Coming Soon: Dec '23 & Q1 '24</div>
-                                            <div class="mt-2 eventCardPostTitle">Notifs Upcoming Updates</div>
+                                            <div>December 2023</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs New Features</div>
                                             <div class="mt-2">Notifs App Notifs Rewards and Notifs Gazer Features</div>
-                                            <a href="https://twitter.com/Notifs_app" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                            <a href="[https://twitter.com/Notifs_app](https://www.notifs.co/blog/february-24-community-highlights)" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
                             </div>
