@@ -50,7 +50,7 @@ title: Home
                     <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">Notifs App
                     </div>
-                    <div class="highlight-desc">Launched in 2023, Notifs is a DeFi Portfolio Tracker - helping users get visibility and updates relevant to their portfolio.
+                    <div class="highlight-desc">The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs. It combines advanced features such as AI news and a on-chain whale tracker, enabling you to elevate your web3 portfolio management experience.
                 </div>
                 </div>
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mx-0 mx-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
