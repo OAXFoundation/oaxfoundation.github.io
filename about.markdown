@@ -24,7 +24,7 @@ order: 1
                 <div class="d-flex flex-row">
                     <div class="section--title mb-4 mr-2">Our Mission</div>                                 
                 </div>
-                <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also community and ecosystem support. Read on below to see the full scope of our Foundation's mission, values and work.</div>
+                <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also community and ecosystem support. In early 2024, we’ve successfully launched the OAX Academy initiative to further provide newcomers and existing users of the digital assets space with useful resources, support and guides.  Read on below to see the full scope of our Foundation's mission, values and work.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
                 <div>
