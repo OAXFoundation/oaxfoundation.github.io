@@ -120,4 +120,22 @@ We continue to strive to bring tools that leverage decentralization and working 
             </div>
         </div>
     </div>
+ <div id="pillar5" class="section" style="background-image: url(/assets/about/pillar.1.bg.jpg); display: flex; justify-content: center; background-size: cover;">
+        <div class="d-flex flex-column-reverse flex-lg-row-reverse container">
+            <div class="d-flex flex-column col">
+                <div class="d-flex flex-row mt-5 mt-lg-0">
+                    <div class="section--title mb-4 mr-2">OAX Academy</div>
+                    <!-- <div class="line mt-3 mt-lg-4"></div> -->
+                </div>
+                <div class="section--description">An initiative launched in 2024, OAX Academy is OAX Foundation's latest forray in providing support and nurturement to the community and digital assets ecosystem at large. 
+                    <br/>
+                    <br/>
+                    With regular resources, guides and insights on the growing blockchain and Web3 ecosystem, OAX Academy helps to lower the barrier of entry for newcomers to the space while providing existing users another outlet for receiving useful insights.</div>
+            </div>
+            <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left">
+                <div><img class="w-75" src="{{ '/assets/about/OAXAcademyPillar.png' }}" alt="our mission">
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
