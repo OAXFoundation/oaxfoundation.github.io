@@ -2,7 +2,6 @@
 title: "OAX Academy"
 Read_all_posts: https://www.oax.org/tag/oax-academy.html
 Social_media_for_micro_content: https://linktr.ee/oax_foundation
-notifs_play_store: https://play.google.com/store/apps/details?id=com.oax.notifs
 group: oax-academy
 order: 1
 ---
