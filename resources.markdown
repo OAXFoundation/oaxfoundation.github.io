@@ -14,7 +14,7 @@ order: 2
 <div class="bg-white pt-4 pt-lg-5">
     <div class="container">
         <div class="group corner1 box-shadow4" style="border: 2px solid #14345E;">
-            <div class="group--title border-bottom pr-5 pb-3 pt-3" style="color: #14345E; font-size: 36px; font-weight: 700; margin-left: 1.5rem; margin-right: 3rem;">Portfolio Aggregator</div>
+            <div class="group--title border-bottom pr-5 pb-3 pt-3" style="color: #14345E; font-size: 36px; font-weight: 700; margin-left: 1.5rem; margin-right: 3rem;">Notifs Mobile App</div>
             <div class="pb-3 pt-4 pl-4 pr-5">
                 {% assign list = site.resources | where: 'group', 'portfolio-aggregator' %}
                 {% include elements/accordion.html %}
