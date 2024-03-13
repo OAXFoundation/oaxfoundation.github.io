@@ -1,7 +1,6 @@
 ---
 title: "OAX Academy"
 Read_all_posts_link: https://www.oax.org/tag/oax-academy.html
-Social_media_for_micro_content_link: https://linktr.ee/oax_foundation
 group: oax-academy
 order: 1
 ---
