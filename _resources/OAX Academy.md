@@ -1,6 +1,6 @@
 ---
 title: "OAX Academy"
-Read_all_posts_link: https://www.oax.org/tag/oax-academy.html
+read_now: https://www.oax.org/tag/oax-academy.html
 group: oax-academy
 order: 1
 ---
