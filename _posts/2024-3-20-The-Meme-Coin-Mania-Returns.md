@@ -5,7 +5,7 @@ image: /img/blog-images/OAX-Memecoin-2024.png
 tag: industry-business
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Academy-Depin.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Memecoin-2024.png)
 
 <br><b>The Meme Mania Returns: A Macro View and Rational Lens on Meme Coins</b>
 
