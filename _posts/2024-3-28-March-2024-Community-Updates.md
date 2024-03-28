@@ -15,8 +15,6 @@ What an incredibly active week it has been in the crypto market! Despite encount
 
 Bitcoin's price has surged past $71,000, showcasing a remarkable 3% gain after briefly dropping to $63,000 over the weekend. Furthermore, Bitcoin ETFs have experienced a positive turnaround after facing losses of nearly $1 billion last week, indicating a strong recovery. This surge in price is occurring just ahead of the highly anticipated Bitcoin <a href="https://www.oax.org/2024/02/21/Unraveling-the-Impact-of-Bitcoin-Halving-on-the-Industry.html">halving</a>, scheduled for April 19. As the halving approaches, investors are closely monitoring the market, leading to increased volatility as they speculate on its potential impact.
 
-<a href="https://www.oax.org/2024/03/20/The-Meme-Coin-Mania-Returns.html">Meme</a>
-
 ![]({{ site.baseurl }}/img/blog-images/OAX-March-2024-BTC-Halving.png)
 
 Following Bitcoin's lead, Ethereum has also displayed positive momentum. However, the SEC has delayed its decision on converting the Grayscale Ethereum Trust into a spot Ethereum ETF, extending the timeline until May 30. Industry executives believe that launching Ethereum ETFs in December would attract more assets compared to a May launch, highlighting their strategic considerations.
