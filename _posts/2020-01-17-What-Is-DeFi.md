@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/OAX-January20-DeFi.jpeg
-tag: industry-business
+tag: oax-academy
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-January20-DeFi.jpeg)
