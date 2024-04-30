@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-Base-Header.png
+image: /img/blog-images/OAX-April-2024-Community.png
 tag: community-updates
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Base-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-April-2024-Community.png)
 
 <br><b>OAX April Community Updates</b>
 
