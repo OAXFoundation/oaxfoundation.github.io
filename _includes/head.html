@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.url }}?{{ site.time | date: '%s%N' }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- if jekyll.environment == 'production' -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
