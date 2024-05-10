@@ -20,7 +20,7 @@ Most people would agree that the continued development of Bitcoin is a good thin
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Bitcoin-Layer2-Overview.png)
 
-<b>Examples of prominent Bitcoin Layer 2 protocols:</b>
+<b>Examples of prominent Bitcoin Layer 2 protocols:</b><br>
 These Layer-2 solutions showcase innovative approaches to scalability, interoperability, and economic opportunities in the Bitcoin ecosystem. They represent the growing interest in unlocking the full potential of Bitcoin and enhancing its functionality and connectivity with other blockchains. 
 
 It's important to understand that there is a difference in decentralization between Bitcoin's base layer and Layer-2 solutions like Liquid Network. Bitcoin's base layer relies on a large number of distributed miners who work together to produce blocks and secure the network. On the other hand, Layer-2 solutions like Liquid Network operate with a smaller group of 15 functionaries who are responsible for signing transactions and keeping the network running. This means that Liquid Network is more centralized compared to Bitcoin's base layer because it relies on a smaller number of trusted entities to operate.
