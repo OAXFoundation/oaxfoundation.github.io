@@ -87,7 +87,13 @@ layout: page
                                 <div class="black8">{{ post.date | date_to_string: "ordinal", "US" }}
                                 </div>
                             </div>
-                            <div class="post--title my-2 my-lg-3 black5"><a class="blue1" href="{{ post.url }}">{{ post.title }}</a>
+                            {%- assign page_path = post.url |  split: '/' | last | split: '.md' | first | split: '-' -%}
+                            {%- assign page_title = "" -%}
+                            {% for path in page_path offset: 3 %}
+                              {%- assign page_title = page_title | append: path | append: " " -%}
+                            {% endfor %}
+                            {% assign page_title = page_title | strip %}
+                            <div class="post--title my-2 my-lg-3 black5"><a class="blue1" href="{{ post.url }}">{{ page_title | escape }}</a>
                             </div>
                             {% if post.author %}
                             <div class="post--author black8">{{ post.author }}</div>
