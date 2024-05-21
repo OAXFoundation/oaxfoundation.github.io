@@ -11,6 +11,8 @@ tag: oax-academy
 
 An innovative concept at the intersection of "social media" and "finance" that has taken the Web3 landscape by storm. By enabling content creators to monetize their social capital and influence through smart contracts, SocialFi has reshaped our interaction with on-chain digital platforms. The OAX Foundation has been closely monitoring this emerging space, recognizing its potential in driving new use cases for the industry. Now, with the recent launches of FriendTech V2 and FantasyTop this month, the SocialFi sector is once again in the spotlight. FantasyTop has already achieved multimillion-dollar volume days, while FriendTech's Clubs feature has generated an impressive $40 million in trading volume. In this two-part series, we invite you on a journey into the world of SocialFi. In this first article, we aim to provide an overview of the sector, setting the stage for a deeper exploration of its possibilities.
 
+![]({{ site.baseurl }}/img/blog-images/OAX-SocialFi-FriendTech.png)
+
 <b>What is SocialFi</b>
 
 Platforms like Friend.Tech and FantasyTop introduce tradable components, such as NFTs or tokens, linked to social content creators' profiles, enabling users to speculate on their future activity or attention on the platform. This innovative approach provides creators with new revenue streams, addressing the limitations of traditional monetization frameworks where many small to medium-sized creators struggle to earn a viable income on traditional social platforms in the likes of Twitter / X and YouTube. 
