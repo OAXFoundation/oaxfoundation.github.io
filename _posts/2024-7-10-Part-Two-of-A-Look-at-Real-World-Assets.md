@@ -7,9 +7,7 @@ tag: oax-academy
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-RWA-Part-2-Header.png)
 
-<br><b>Real World Assets: Part Two</b>
-
-<b>Part 2 of A Look At Real World Assets</b>
+<br><b>Part 2 of A Look At Real World Assets</b>
 
 In our previous <a href="https://www.oax.org/2024/06/21/Part-One-of-A-Look-at-Real-World-Assets.html">article</a>, we introduced the concept of Real World Assets (RWAs) and discussed the challenges and opportunities associated with them. In this follow-up piece, we will delve deeper into the mechanics of how RWAs work, explore the key players in the ecosystem, and examine what this emerging trend means for users.
 
