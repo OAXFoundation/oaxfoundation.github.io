@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-RWA-Part-2-Header.png
+image: /img/blog-images/OAX-DeFi-2024-Header.png
 tag: oax-academy
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-RWA-Part-2-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-DeFi-2024-Header.png)
 
 <br><b>DeFi 2024: Positioned for Sustainable Growth</b>
 
