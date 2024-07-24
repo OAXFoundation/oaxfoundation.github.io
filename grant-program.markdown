@@ -120,6 +120,15 @@ order: 3
                 </div>
             </div>
             <div class="d-flex flex-column flex-lg-row" style="max-width: 700px;">
+ <div class="col-12 col-lg-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
+box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
+                    <div>
+                        <a href="https://www.notifs.co">
+                            <img width="166px" src="{{ '/assets/notifs-logo.png' }}" alt="our mission">
+                        </a>
+                    </div>
+                    <div class="font-14 pt-3 mt-1">Notifs is a portfolio tracking app that keeps track of your digital assets with AI technology.</div>
+                </div>
                 <div class="col-12 col-lg-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
 box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                     <div>
@@ -127,7 +136,7 @@ box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                             <img width="166px" src="{{ '/assets/grant-program/IJS_Techologies_Logo_20190218_Black text_Tech_Font_IJS.Works_Gradient_1 copy_IJS-1.png' }}" alt="our mission">
                         </a>
                     </div>
-                    <div class="font-14 pt-3 mt-1">Community-driven open source DeFi swap platform</div>
+                    <div class="font-14 pt-3 mt-1">Community-driven open source DeFi swap platform.</div>
                 </div>
                 <div class="col-12 col-lg-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
 box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
@@ -137,7 +146,7 @@ box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                             <div class="font-18 blue1">University of Hong Kong</div>
                         </a>
                     </div>
-                    <div class="font-14 pt-3 mt-1">Three-part Research Paper focused on Crypto Regulation</div>
+                    <div class="font-14 pt-3 mt-1">Three-part Research Paper focused on Crypto Regulation.</div>
                 </div>
             </div>            
         </div>
