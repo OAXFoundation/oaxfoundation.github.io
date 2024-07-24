@@ -17,7 +17,7 @@ title: Home
                 </div>
                 <div class="d-flex flex-row w-100 col-12 col-lg-5">
                     <div class="d-flex flex-row" style="position: relative;">
-                        <img src="{{ '/assets/coins-1.png' }}" class="home-hero-image" style="position: absolute; top: -150px; max-height: 650px;"/>
+                        <img src="{{ '/assets/coins-2.png' }}" class="home-hero-image" style="position: absolute; top: -150px; max-height: 650px;"/>
                     </div>
                 </div>
             </div>            
