@@ -98,6 +98,16 @@ title: Home
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Business Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>August 2024</div>
+                                            <div class="mt-2 eventCardPostTitle">Incorporation of Notifs Ltd</div>
+                                            <div class="mt-2">Notifs branches out as a supported project into Notifs Ltd, while maintaining a close business relationship with the Foundation.</div>
+                                            <a href="https://www.notifs.co/about" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div><div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
                                             <div>March 2024</div>
                                             <div class="mt-2 eventCardPostTitle">OAX Launches OAX Academy</div>
                                             <div class="mt-2">Kickstart OAX Academy, an initiative to further provide newcomers and existing users of the digital assets ecosystem with useful resources.</div>
