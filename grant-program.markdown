@@ -114,13 +114,13 @@ order: 3
                 </div>
             </div>
         </div>        
-        <div class="d-flex flex-column justify-content-center">
+        <div class="d-flex flex-column justify-content-center" style="width: 100%">
             <div class="col-12 pr-0 mb-5 bm-lg-0 d-flex justify-content-center p-0">
                 <div class="section--description" style="max-width: 550px; text-align: center;">Learn more about some of our past grantees and the work they’ve done in supporting the various areas of the digital asset ecosystem.
                 </div>
             </div>
             <div class="d-flex flex-column flex-lg-row" style="max-width: 700px;">
- <div class="col-12 col-lg-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
+ <div class="col-12 col-lg-5 col-xl-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
 box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                     <div>
                         <a href="https://www.notifs.co">
@@ -129,7 +129,7 @@ box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                     </div>
                     <div class="font-14 pt-3 mt-1">Notifs is a portfolio tracking app that keeps track of your digital assets with AI technology.</div>
                 </div>
-                <div class="col-12 col-lg-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
+                <div class="col-12 col-lg-5 col-xl-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
 box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                     <div>
                         <a href="https://www.oax.org/2020/12/28/OAX-Foundation-Announces-Grant-to-IJS-Technologies.html">
@@ -138,7 +138,7 @@ box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                     </div>
                     <div class="font-14 pt-3 mt-1">Community-driven open source DeFi swap platform.</div>
                 </div>
-                <div class="col-12 col-lg-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
+                <div class="col-12 col-lg-5 col-xl-6 d-flex flex-column gradient12 p-4 mx-0 mx-lg-2 text-center mb-5 mb-lg-0" style="border: 4px solid #14345E;
 box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25); border-radius: 16px;">
                     <div>
                         <a href="https://www.oax.org/resources/">
