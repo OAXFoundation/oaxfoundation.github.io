@@ -45,7 +45,6 @@ Trump's comments drew parallels to El Salvador's approach to digital assets. In 
 <b>Macro events and volatility</b>
 
 Let alone the comments from amid the US presidency election, the digital asset landscape has become increasingly intertwined with broader macroeconomic forces in recent years. Events in the traditional financial markets and global economy are now directly impacting the crypto ecosystem. We've seen how factors like Japan's market crash since the 1980s, failing to carry trade strategies with the Japanese Yen rally and geopolitical tensions in the Middle East have triggered major pullbacks in digital asset prices in the past week. Most notably, the Federal Reserve's interest rate hikes and persistent high inflation have sent shockwaves through markets, causing significant volatility. This underscores how the fortunes of digital assets are now tightly coupled with the overall macroeconomic climate as institutional involvement has amplified these interdependencies.
-navigate their web3 journey.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Trump-Stocks.png)
 
