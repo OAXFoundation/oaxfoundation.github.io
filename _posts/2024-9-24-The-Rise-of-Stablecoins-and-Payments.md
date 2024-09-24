@@ -59,5 +59,8 @@ The key question remains: will stablecoins cement their position as mainstream p
 With the OAX Foundation headquartered in Hong Kong, a key financial hub, we are closely monitoring regulatory developments and sandbox initiatives to identify potential collaborations that will drive this space forward. Yet, for these digital assets to realize their full potential, clearer regulatory frameworks and improved user experiences are essential.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Stablecoins-Historical-Transactions.png)
-Based on a <a href="https://x.com/coinmarketcap/status/1819138568079429739?s=48">report</a> by K33 Research, Stablecoin transactions are now comparable to - and potentially surpassing Visa. 
+<i>Based on a <a href="https://x.com/coinmarketcap/status/1819138568079429739?s=48">report</a> by K33 Research, Stablecoin transactions are now comparable to - and potentially surpassing Visa.</i>
+
+<i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
+
 
