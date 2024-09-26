@@ -16,7 +16,7 @@ It has come to light that another project has been impersonating OAX Foundation,
 In particular, we wish to highlight that we are in no way associated with the project: Omnipotence ANX, which has misused our logo and project name without our permission or knowledge. 
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Security-Impersonation-omnipotence.png)
-<br><i>Please note the above project is NOT affiliated with us nor endorsed by us in any way, the project has been misusing our logo across their website and social media channels.<i>
+<br><i>Please note the above project is NOT affiliated with us nor endorsed by us in any way, the project has been misusing our logo across their website and social media channels.</i>
 
 We want to use this opportunity to remind all our stakeholders that all our official channels are listed on our LinkTree: https://linktr.ee/oaxfoundation 
 Any other channel or website does not belong to us nor are we affiliated to in any way. 
