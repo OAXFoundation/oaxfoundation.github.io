@@ -19,7 +19,7 @@ In particular, we wish to highlight that we are in no way associated with the pr
 <br><i>Please note the above project is NOT affiliated with us nor endorsed by us in any way, the project has been misusing our logo across their website and social media channels.</i>
 
 We want to use this opportunity to remind all our stakeholders that all our official channels are listed on our LinkTree: https://linktr.ee/oaxfoundation 
-Any other channel or website does not belong to us nor are we affiliated to in any way. 
+<br>Any other channel or website does not belong to us nor are we affiliated to in any way. 
 
 Please be extra cautious, especially when it comes to any activities that involve any form of transactions. Do DYOR - always better to be safe than sorry. 
 
