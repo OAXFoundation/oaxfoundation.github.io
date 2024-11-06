@@ -104,6 +104,7 @@ title: Home
                                             <a href="https://www.notifs.co/about" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
+                            </div>
                               <div class="timeline__item">
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Business Milestone</div>
