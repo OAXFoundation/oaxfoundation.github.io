@@ -94,6 +94,16 @@ title: Home
                 <div class="timeline" style="max-width: 1140px">
                     <div class="timeline__wrap">
                         <div class="timeline__items">
+                            <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>November 2024</div>
+                                            <div class="mt-2 eventCardPostTitle">Notifs Shortlisted for Cyberport Fund</div>
+                                            <div class="mt-2">Notifs is shortlisted for an interview for the Cyberport Creative Micro Fund (CCMF)</div>
+                                            <a href="https://www.notifs.co/about" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
                               <div class="timeline__item">
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Business Milestone</div>
