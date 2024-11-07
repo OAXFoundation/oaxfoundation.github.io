@@ -6,7 +6,13 @@
 {% assign tag_size = tag | size %}
 <div class="tag-label">
 {%- if tag_size > 0 -%}
-    <a class="black1" href="/tag/{{ tag | replace: ' ', '-' }}.html">{{ tag }}</a>
+    <a class="black1" href="/tag/{{ tag | replace: ' ', '-' }}.html">
+        {%- if tag == "oax academy" -%}
+            OAX Learn
+        {%- else -%}
+            {{ tag }}
+        {%- endif -%}
+    </a>
 {%- else -%}
     <a class="black1" href="/tag/community-updates.html">Community Update</a>
 {%- endif -%}
