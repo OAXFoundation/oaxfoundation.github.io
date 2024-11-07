@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/OAX-Bitcoin-ETFs-Header.png
-tag: oax-academy
+tag: oax-learn
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Bitcoin-ETFs-Header.png)

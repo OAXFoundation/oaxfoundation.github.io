@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/OAX-payments-future.jpg
-tag: oax-academy
+tag: oax-learn
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-payments-future.jpg)

@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/CEX-DEX-Header.png
-tag: oax-academy
+tag: oax-learn
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/CEX-DEX-Header.png)

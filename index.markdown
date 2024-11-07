@@ -120,9 +120,9 @@ title: Home
                                     <div class="eventCardTitle">Business Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
                                             <div>March 2024</div>
-                                            <div class="mt-2 eventCardPostTitle">OAX Launches OAX Academy</div>
-                                            <div class="mt-2">Kickstart OAX Academy, an initiative to further provide newcomers and existing users of the digital assets ecosystem with useful resources.</div>
-                                            <a href="https://www.oax.org/tag/oax-academy.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                            <div class="mt-2 eventCardPostTitle">OAX Launches OAX Learn</div>
+                                            <div class="mt-2">Kickstart OAX Learn, an initiative to further provide newcomers and existing users of the digital assets ecosystem with useful resources.</div>
+                                            <a href="https://www.oax.org/tag/oax-learn.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
                             </div>
