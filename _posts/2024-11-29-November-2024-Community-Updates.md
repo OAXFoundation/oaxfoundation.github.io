@@ -12,7 +12,7 @@ tag: community-updates
 As another month draws to a close, we find ourselves standing at the nexus of opportunity and momentum in the ever-evolving world of Web3. The post-U.S. election landscape has brought fresh energy to the markets, Gary Gensler SEC chair resigning, Bitcoin hovering tantalizingly close to the historic $100,000 mark, and Elon Musk’s foray into political discourse has added another layer to the intriguing interplay between technology and policy. These moments are not just headlines—they are signals of a broader shift, a rallying cry for Web3 builders to harness the optimism and press forward in driving meaningful adoption. With positive sentiments seen following the <a href="https://www.oax.org/2024/11/20/Implications-of-Trump's-Election-Win-on-the-Crypto-Industry.html">election implications</a>, we are anticipating a ripple effect of developments around the world. 
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-BTC-Poll.png)
-
+<br>
 <b>The Highly Anticipated Bitcoin Milestone</b>
 
 We are thrilled to see momentum for Bitcoin taking great strides, closely hitting the much-anticipated $100k mark. We launched a community poll last week and community sentiment was overwhelmingly bullish though many acknowledged the resistance near this historic level. With just one month left in 2024, the countdown is on.
