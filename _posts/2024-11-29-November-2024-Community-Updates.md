@@ -13,7 +13,6 @@ As another month draws to a close, we find ourselves standing at the nexus of op
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-BTC-Poll.png)
 
-<br>
 <b>The Highly Anticipated Bitcoin Milestone</b>
 
 We are thrilled to see momentum for Bitcoin taking great strides, closely hitting the much-anticipated $100k mark. We launched a community poll last week and community sentiment was overwhelmingly bullish though many acknowledged the resistance near this historic level. With just one month left in 2024, the countdown is on.
