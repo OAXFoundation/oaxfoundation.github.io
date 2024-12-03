@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/OAX-Bitcoin-Halving-Infographic-Header.png
-tag: industry-business
+tag: oax-learn
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Bitcoin-Halving-Infographic-Header.png)
