@@ -31,17 +31,17 @@ NEAR’s ecosystem continues to expand at an impressive pace, fueled by consumer
 
 NEAR is capturing atypical crypto users by focusing on social and gaming applications. This approach drives demand from Web2 users, reducing friction from traditional users. 
 
-<b>KAIKAI.ai:</b> With ~19 million unique active wallets in just 30 days, KAIKAI.ai is a shining example of NEAR’s ability to onboard mainstream users.
-Sweat Economy: Boasting ~14 million Sweat Wallets, this fitness-focused app demonstrates how NEAR is driving adoption through gamified, real-world use cases.
-<b>DapDap:</b> As another consumer-driven app, DapDap highlights NEAR’s potential to support user-friendly, mainstream blockchain adoption.
+-<b>KAIKAI.ai:</b> With ~19 million unique active wallets in just 30 days, KAIKAI.ai is a shining example of NEAR’s ability to onboard mainstream users.
+<b>- Sweat Economy:</b> Boasting ~14 million Sweat Wallets, this fitness-focused app demonstrates how NEAR is driving adoption through gamified, real-world use cases.
+<b>- DapDap:</b> As another consumer-driven app, DapDap highlights NEAR’s potential to support user-friendly, mainstream blockchain adoption.
 
 <b>DeFi Expansion</b>
 
 NEAR’s DeFi ecosystem saw steady growth in Q3 2024, with Total Value Locked (TVL) reaching ~$251.44 million. Key contributors include:
 
-<b>Burrow:</b> The leading protocol by TVL (~$178.47 million), reflecting a ~13.69% QoQ increase.
-<b>Ref Finance:</b> Continue to be the flagship DEX to drive liquidity and boasts the highest volume ($6.45 million).
-<b>Allstake:</b> This omnichain restaking protocol launched in mid-2024 and quickly gained traction, ending the quarter with ~$18.49 million in TVL.
+<b>- Burrow:</b> The leading protocol by TVL (~$178.47 million), reflecting a ~13.69% QoQ increase.
+<b>- Ref Finance:</b> Continue to be the flagship DEX to drive liquidity and boasts the highest volume ($6.45 million).
+<b>- Allstake:</b> This omnichain restaking protocol launched in mid-2024 and quickly gained traction, ending the quarter with ~$18.49 million in TVL.
 
 <b>Real-World Applications</b>
 
@@ -51,18 +51,18 @@ Projects like <b>Libre</b> and <b>Open Forest Protocol</b> are leveraging NEAR�
 
 NEAR is at the forefront of integrating AI with blockchain, focusing on User-Owned AI to empower users and democratize AI development. In Q3 2024, NEAR made significant strides in this area:
 
-<b>AI Accelerator Programs:</b> In collaboration with Delphi Labs and Betaworks, NEAR launched accelerator programs to foster AI-driven solutions.
-<b>Bitte.ai:</b> A standout project, Bitte.ai allows users to execute on-chain tasks with natural language commands, showcasing the potential of AI-powered blockchain interactions.
-<b>Nillion Partnership:</b> This collaboration introduced advanced “blind compute” and secure storage capabilities, further enhancing NEAR’s AI infrastructure.
+<b>- AI Accelerator Programs:</b> In collaboration with Delphi Labs and Betaworks, NEAR launched accelerator programs to foster AI-driven solutions.
+<b>- Bitte.ai:</b> A standout project, Bitte.ai allows users to execute on-chain tasks with natural language commands, showcasing the potential of AI-powered blockchain interactions.
+<b>- Nillion Partnership:</b> This collaboration introduced advanced “blind compute” and secure storage capabilities, further enhancing NEAR’s AI infrastructure.
 NEAR’s commitment to AI is reflected in its growing ecosystem, with over 50 teams building at every layer of the User-Owned AI stack. Notably, NEAR has become a key component of <bg>Grayscale’s Decentralized AI Fund</b>, demonstrating investor confidence in its AI vision.
 
 <b>4. Developer Ecosystem</b>
 
 NEAR continues to prioritize community-driven governance and robust developer support to ensure long-term sustainability and growth. Having a developer-centric approach continues to attract talent through:
 
-<b>Fee-Sharing Model:</b> Allocating 30% of transaction fees to smart contract creators.
-<b>Comprehensive Tools:</b> SDKs, sandbox environments, and the NEAR CLI make it easier for developers to build on NEAR.
-<b>Interoperability:</b> The launch of TokenBridge, connecting NEAR to Solana, underscores NEAR’s commitment to cross-chain collaboration.
+<b>- Fee-Sharing Model:</b> Allocating 30% of transaction fees to smart contract creators.
+<b>- Comprehensive Tools:</b> SDKs, sandbox environments, and the NEAR CLI make it easier for developers to build on NEAR.
+<b>- Interoperability:</b> The launch of TokenBridge, connecting NEAR to Solana, underscores NEAR’s commitment to cross-chain collaboration.
 
 The <b>NEAR Dev Hub</b> serves as a central repository for knowledge and collaboration, fostering innovation and driving ecosystem growth.
 
