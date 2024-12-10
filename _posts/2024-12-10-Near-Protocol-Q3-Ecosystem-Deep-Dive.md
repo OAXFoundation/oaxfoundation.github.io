@@ -31,7 +31,7 @@ NEAR’s ecosystem continues to expand at an impressive pace, fueled by consumer
 
 NEAR is capturing atypical crypto users by focusing on social and gaming applications. This approach drives demand from Web2 users, reducing friction from traditional users. 
 
--<b>KAIKAI.ai:</b> With ~19 million unique active wallets in just 30 days, KAIKAI.ai is a shining example of NEAR’s ability to onboard mainstream users.<br>
+<b>- KAIKAI.ai:</b> With ~19 million unique active wallets in just 30 days, KAIKAI.ai is a shining example of NEAR’s ability to onboard mainstream users.<br>
 <b>- Sweat Economy:</b> Boasting ~14 million Sweat Wallets, this fitness-focused app demonstrates how NEAR is driving adoption through gamified, real-world use cases.<br>
 <b>- DapDap:</b> As another consumer-driven app, DapDap highlights NEAR’s potential to support user-friendly, mainstream blockchain adoption.
 
