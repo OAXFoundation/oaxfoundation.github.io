@@ -66,7 +66,7 @@ As we prepare for 2024, we’re thrilled to announce the launch of our <b>2025 T
 Thank you for being part of this transformative year. Here’s to another chapter of progress, innovation, and community success!
 
 
-With gratitude,
+With gratitude,<br>
 Team OAX
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
