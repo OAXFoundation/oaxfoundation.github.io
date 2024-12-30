@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-NFTs-2024-Header.png
+image: /img/blog-images/OAX-Dec-2024-Community.png
 tag: community-updates
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-NFTs-2024-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Dec-2024-Community.png)
 
 <br><b>Community Update 2024: Reflecting on a Transformative Year</b>
 
