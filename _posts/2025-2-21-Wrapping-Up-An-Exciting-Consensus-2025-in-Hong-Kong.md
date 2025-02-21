@@ -23,7 +23,7 @@ Hong Kong has positioned itself as a global digital asset hub, balancing opportu
 
 For those looking ahead, Hong Kong might just be the key to unlock the floodgates for crypto in Asia—and beyond.
 
-Why We’re Here: Your Eyes and Ears
+<b>Why We’re Here: Your Eyes and Ears</b>
 
 As a foundation, our mission is simple: to bring you <b>insights that matter</b>. 
 
