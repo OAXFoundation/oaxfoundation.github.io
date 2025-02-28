@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-Consensus-2025-Header.png
+image: /img/blog-images/OAX-Feb-2025-Community.png
 tag: community-updates
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Consensus-2025-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Feb-2025-Community.png)
 
 <br><b>February 2025 Community Updates</b>
 
