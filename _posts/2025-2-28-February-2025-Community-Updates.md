@@ -69,7 +69,7 @@ Here at OAX, we’re committed to giving you a front-row seat to the most impact
 
 Stay sharp, stay involved.
 
-<b><i>The OAX Foundation Team</b></i>
+<b>The OAX Foundation Team</b>
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
 
