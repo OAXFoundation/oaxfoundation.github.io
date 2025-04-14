@@ -42,6 +42,13 @@ layout: page
 
         {% for post in posts %}
 
+            {%- assign page_path = post.url |  split: '/' | last | split: '.html' | first | split: '-' -%}
+            {%- assign page_title = "" -%}
+            {% for path in page_path %}
+            {%- assign page_title = page_title | append: path | append: " " -%}
+            {% endfor %}
+            {% assign page_title = page_title | strip %}
+            
             {% if forloop.index == 1 %}
                 <div class="featured-post box-shadow2">
                     <div class="d-flex flex-column-reverse flex-lg-row">
@@ -55,7 +62,7 @@ layout: page
                                 </div>
                                 <div>{{ post.date | date_to_string: "ordinal", "US" }}</div>
                             </div>
-                            <div class="featured-post--title my-1 my-lg-3"><a class="blue1" href="{{ post.url }}">{{ post.title }}</a>
+                            <div class="featured-post--title my-1 my-lg-3"><a class="blue1" href="{{ post.url }}">{{ page_title | escape }}</a>
                             </div>
                             <div class="featured-post--summary flex-grow-1 black8 d-none d-lg-block">{{ post.summary }}</div>
                             <div class="featured-post--author black8">By OAX Foundation </div>
@@ -87,12 +94,6 @@ layout: page
                                 <div class="black8">{{ post.date | date_to_string: "ordinal", "US" }}
                                 </div>
                             </div>                            
-                            {%- assign page_path = post.url |  split: '/' | last | split: '.html' | first | split: '-' -%}
-                            {%- assign page_title = "" -%}
-                            {% for path in page_path %}
-                              {%- assign page_title = page_title | append: path | append: " " -%}
-                            {% endfor %}
-                            {% assign page_title = page_title | strip %}
                             <div class="post--title my-2 my-lg-3 black5"><a class="blue1" href="{{ post.url }}">{{ page_title | escape }}</a>
                             </div>
                             {% if post.author %}
