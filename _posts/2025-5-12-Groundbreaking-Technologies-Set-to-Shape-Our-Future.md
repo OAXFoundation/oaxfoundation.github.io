@@ -19,7 +19,7 @@ As we step into Q2 of the 21st century, we predict <b>four technology sectors</b
 
 <b>1. Robotics: The New Industrial Workforce</b>
 
-<b>NVIDIA’s CEO, Jensen Huang</b>, recently emphasized robotics’ transformative potential, stating, “If AI is the brain, robots are the body.” Robotics is set to revolutionize industries, with <b>Tesla’s Optimus</b> robot leading the charge. In 2025, Optimus aims to automate repetitive factory tasks with AI-driven precision. Chinese companies like <b>BYD</b> and Unitree are also advancing, leveraging their electric vehicle expertise to produce affordable industrial robots.
+<b>NVIDIA’s CEO, Jensen Huang</b>, recently emphasized robotics’ transformative potential, stating, <i>“If AI is the brain, robots are the body.”<i> Robotics is set to revolutionize industries, with <b>Tesla’s Optimus</b> robot leading the charge. In 2025, Optimus aims to automate repetitive factory tasks with AI-driven precision. Chinese companies like <b>BYD</b> and Unitree are also advancing, leveraging their electric vehicle expertise to produce affordable industrial robots.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Groundbreaking-Tech-Logistics.png)
 
@@ -55,7 +55,7 @@ Blockchain has birthed decentralized digital currencies, with <b>Bitcoin</b> cha
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Groundbreaking-Tech-Blockchain.png)
 
-With the USD strained by debt and inflation, Bitcoin emerges as “digital gold.” ETF adoption by firms like BlackRock and strategic moves by governments signal its potential as a reserve asset. Ray Dalio’s currency cycle theory suggests fiat currencies’ decline could pave the way for alternatives. While Dalio has pointed to China’s CNY, Bitcoin’s decentralized nature makes it a compelling dark horse, free from centralized control.
+With the USD strained by debt and inflation, Bitcoin emerges as <i>“digital gold.”<i> ETF adoption by firms like BlackRock and strategic moves by governments signal its potential as a reserve asset. Ray Dalio’s currency cycle theory suggests fiat currencies’ decline could pave the way for alternatives. While Dalio has pointed to China’s CNY, Bitcoin’s decentralized nature makes it a compelling dark horse, free from centralized control.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Groundbreaking-Tech-Sovereign.png)
 
