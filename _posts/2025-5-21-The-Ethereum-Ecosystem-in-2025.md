@@ -15,7 +15,7 @@ The <b>Pectra Upgrade</b>, which went live on May 7, 2025, marks Ethereum’s la
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Eth-2025-Market-Share.png)
 
-Ethereum’s Journey: From Visionary to Vulnerable
+<b>Ethereum’s Journey: From Visionary to Vulnerable</b>
 
 Ethereum’s history is one of bold innovation. Its introduction of smart contracts in 2015 established it as the “<i>world computer</i>,” powering everything from decentralized exchanges to tokenized assets. Over time, it evolved to meet new challenges:
 
@@ -53,7 +53,7 @@ The Pectra Upgrade tackles Ethereum’s most pressing pain points, aiming to str
 
 While Pectra addresses Ethereum’s technical challenges, recent whale activity has emerged as one of the key drivers behind ETH’s price surge.
 
-Whale Activity Highlights:
+<b>Whale Activity Highlights:</b>
 
 Between <b>May 1 and May 6, 2025</b>, significant whale activity fueled bullish sentiment:
 - <b>May 1:</b> A whale purchased <b>$9.9M of ETH</b>, sparking speculation about a “utility season.”
@@ -113,7 +113,7 @@ Ethereum faces fierce competition in the blockchain space and must execute its r
 
 While there’s some contradiction in allowing gas payments with ERC-20 stablecoins (potentially reducing ETH’s utility as a gas token), the influx of new users, increased transaction volume, and resulting gas income may outweigh this downside, fostering broader adoption. 
 
-Just weeks after the upgrade, market hype is evident, with early data showing signs of increased staking and hodling, reflecting growing confidence in Ethereum’s ecosystem. However, the full impact of Pectra remains to be seen, as data on L2 adoption, transaction cost reductions, and user growth will emerge in the coming months. Pectra is not an immediate game-changer but a foundational step toward a more user-friendly and inclusive ecosystem. Ethereum will continue to grapple with its identity crisis as both “ultrasound money” and a utility token, a balance that will shape its long-term trajectory. 
+Just weeks after the upgrade, market hype is evident, with early data showing signs of increased staking and hodling, reflecting growing confidence in Ethereum’s ecosystem. However, the full impact of Pectra remains to be seen, as data on L2 adoption, transaction cost reductions, and user growth will emerge in the coming months. Pectra is not an immediate game-changer but a foundational step toward a more user-friendly and inclusive ecosystem. Ethereum will continue to grapple with its identity crisis as both <i>“ultrasound money”</i> and a utility token, a balance that will shape its long-term trajectory. 
 
 The <b>OAX token</b>, an <b>ERC-20</b> token on Ethereum, leverages the blockchain’s unmatched security and smart contract capabilities, reflecting our trust in its robust technology to power innovative decentralised solutions. The combination of technical innovation, institutional adoption, and market confidence signals that Ethereum’s story is progressive. We're excited to further review the impact of Ethereum’s developments in the coming months. 
 
