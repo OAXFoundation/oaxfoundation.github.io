@@ -71,12 +71,10 @@ Decentralized stablecoins, once the lifeblood of DeFi, now risk becoming niche p
 
 <b>Conclusion:</b>
 
-The GENIUS Act has brought stablecoins closer to the financial mainstream, but the cost may be a market tilted toward centralized giants like USDC and USDT. 
+Institutions and governments welcome the stability, the crypto community grapples with the partial erosion of decentralization. Hybrid models like DAI, balancing decentralized governance with centralized collateral, may offer a path forward, though their success hinges on navigating regulatory constraints without compromising their decentralized ethos.
 
-While institutions and governments welcome the stability, the crypto community grapples with the partial erosion of decentralization. Hybrid models like DAI, balancing decentralized governance with centralized collateral, may offer a path forward, though their success hinges on navigating regulatory constraints without compromising their decentralized ethos.
+The GENIUS Act has brought stablecoins closer to the financial mainstream, but the cost may be a market tilted toward centralized giants like USDC and USDT. From the OAX Foundation’s perspective, while it’s positive to see progress in stablecoin regulation, it seems increasingly tailored toward those large enough to navigate the policies, there is caution in this expanding ecosystem. 
 
-While the future of stablecoins appears promising, it seems increasingly tailored toward those large enough to navigate the new regulatory landscape. 
-
-From the OAX Foundation’s perspective, while it’s positive to see progress in stablecoin regulation, there is caution in this expanding ecosystem. As of June 2025, over <b>200 stablecoins exist</b>, from <b>fiat-backed giants</b> like USDT and USDC to <b>hybrid models</b> like DAI and niche players like LUSD and RAI. The community must evaluate risks of centralized stablecoins and backing mechanisms. Choosing without understanding these risks invites exposure in a regulated market. 
+As of June 2025, over <b>200 stablecoins</b> exist, from <b>fiat-backed</b> giants like USDT and USDC to <b>hybrid models</b> like DAI and niche players like LUSD and RAI. The community must evaluate 
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
