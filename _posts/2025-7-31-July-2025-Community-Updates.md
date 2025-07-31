@@ -5,7 +5,7 @@ image: /img/blog-images/OAX-July-2025-Community.png
 tag: community-updates
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Stablecoins-Asia-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-July-2025-Community.png)
 
 <br><b>July 2025 Community Updates</b>
 
