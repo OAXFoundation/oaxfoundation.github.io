@@ -2,7 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/OAX-initiative-header.png
-tag: community-updates
+tag: tech-developments
 ---
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-initiative-header.png)
@@ -86,4 +86,5 @@ Stay tuned for updates, and let’s take this next step together.
 <i>The OAX Foundation Team</i>
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
+
 
