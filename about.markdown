@@ -52,7 +52,7 @@ order: 1
             </div>
         </div>
     </div>
-</div>
+
 
     <div id="pillar2" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
