@@ -1,5 +1,5 @@
 ---
-title: "OAX Academy"
+title: "OAX Learn"
 link_link: https://www.oax.org/tag/oax-learn.html
 group: oax-learn
 order: 1
