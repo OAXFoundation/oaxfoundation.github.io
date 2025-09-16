@@ -17,7 +17,7 @@ title: Home
                 </div>
                 <div class="d-flex flex-row w-100 col-12 col-lg-5">
                     <div class="d-flex flex-row" style="position: relative;">
-                        <img src="{{ '/assets/coins-2.png' }}" class="home-hero-image" style="position: absolute; top: -150px; max-height: 650px;"/>
+                        <img src="{{ '/assets/hologram-1.png' }}" class="home-hero-image" style="position: absolute; top: -150px; max-height: 650px;"/>
                     </div>
                 </div>
             </div>            
@@ -43,7 +43,7 @@ title: Home
     </div>
     <div class="oax-highlights bg-white p-0 py-2 p-lg-5">
         <div class="container py-5">
-            <img src="{{ '/assets/home/item-1.png' }}" class="home-item-1" style="position: absolute; transform: translate(-50px, -150px); width: 150px;"/>
+            <img src="{{ '/assets/home/hologram-element-1.png' }}" class="home-item-1" style="position: absolute; transform: translate(-50px, -150px); width: 150px;"/>
             <div class="subheading" style="text-align: center; padding-top: 30px">OAX Highlights</div>
             <div class="highlights d-flex flex-column flex-lg-row justify-content-between row mt-5">
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mr-0 mr-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
@@ -87,7 +87,7 @@ title: Home
     </style>
     <div class="our-journey">
         <div class="container py-5">        
-            <img src="{{ '/assets/home/item-2.png' }}" class="home-item-2" style="position: absolute; transform: translateY(-150px); width: 150px; right: 120px"/>        
+            <img src="{{ '/assets/home/hologram-element-2.png' }}" class="home-item-2" style="position: absolute; transform: translateY(-150px); width: 150px; right: 120px"/>        
             <div class="subheading mt-5 pb-5" style="text-align: center; font-size: 45px; color: #14345E">Our Journey
             </div>
             <div class="our-journey--timeline mb-5">
@@ -779,7 +779,7 @@ Supported Notifs HK Fintech Week Side Event</div>
     </div>
     <div class="latest-updates" style="background: linear-gradient(180deg, #F7FCFF -5.99%, #A0C9FF 100%);">
         <div class="container">
-            <img src="{{ '/assets/home/item-3.png' }}" class="home-item-3" style="position: absolute; transform: translateY(-150px); width: 200px; left: -90px"/>
+            <img src="{{ '/assets/home/hologram-element-3.png' }}" class="home-item-3" style="position: absolute; transform: translateY(-150px); width: 200px; left: -90px"/>
             <div class="d-flex flex-row justify-content-center justify-content-lg-start">
                 <div class="subheading mt-5 pb-5" style="text-align: center; font-size: 45px; color: #14345E; line-height: 1.2 !important">Latest Updates
                 </div>
