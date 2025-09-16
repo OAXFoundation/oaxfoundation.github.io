@@ -38,20 +38,21 @@ order: 1
         <div class="d-flex flex-column-reverse flex-lg-row-reverse container">
             <div class="d-flex flex-column col">
                 <div class="d-flex flex-row mt-5 mt-lg-0">
-                    <div class="section--title mb-4 mr-2">Blockchain Technology</div>
+                    <div class="section--title mb-4 mr-2">OAX Learn</div>
                     <!-- <div class="line mt-3 mt-lg-4"></div> -->
                 </div>
-                <div class="section--description">From the very beginning of OAX Foundation’s inception, we’ve placed the highest regard to promoting the technology that is required for digital assets to flourish. While roadmaps and timelines constantly shift, we believe that the work often needs to be offered with transparency, ensuring that it’s being driven in the right direction and with the feedback of the community.
+                <div class="section--description">At the core of our foundation, one of our goals is to provide newcomers and users of the space with support  and knowledge. Hence, OAX Learn was created to lower the barrier of entry into the digital assets ecosystem with regular support  articles, guides, and industry know-hows to help our community better navigate the ever-changing environment.
                     <br/>
                     <br/>
-                    The launch of our latest Notifs app pulls information available from blockchain and in the public domain to consolidate and provide relevant information to your specific portfolio. You can also link to our Github page to review the open source work that has been done in the past for OAX Layer 2 Protocol (L2X) and the feature development for parachins in the Polkadot Network.</div>
+                    If you would like to also contribute to this growing space, please reach out to us via any of our channels! To stay updated with OAX Learn's content rollouts, please follow us on our Social Media channels and subscribe to the OAX Foundation Newsletter.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left">
-                <div><img class="w-75" src="{{ '/assets/about/pillar.1.png' }}" alt="our mission">
+                <div><img class="w-75" src="{{ '/assets/about/OAXAcademyPillar2.png' }}" alt="our mission">
                 </div>
             </div>
         </div>
     </div>
+</div>
 
     <div id="pillar2" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
@@ -120,22 +121,22 @@ We continue to strive to bring tools that leverage decentralization and working 
             </div>
         </div>
     </div>
- <div id="pillar5" class="section" style="background-image: url(/assets/about/pillar.1.bg.jpg); display: flex; justify-content: center; background-size: cover;">
+      <div id="pillar5" class="section" style="background-image: url(/assets/about/pillar.1.bg.jpg); display: flex; justify-content: center; background-size: cover;">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse container">
             <div class="d-flex flex-column col">
                 <div class="d-flex flex-row mt-5 mt-lg-0">
-                    <div class="section--title mb-4 mr-2">OAX Learn</div>
+                    <div class="section--title mb-4 mr-2">Blockchain Technology</div>
                     <!-- <div class="line mt-3 mt-lg-4"></div> -->
                 </div>
-                <div class="section--description">At the core of our foundation, one of our goals is to provide newcomers and users of the space with support  and knowledge. Hence, OAX Learn was created to lower the barrier of entry into the digital assets ecosystem with regular support  articles, guides, and industry know-hows to help our community better navigate the ever-changing environment.
+                <div class="section--description">From the very beginning of OAX Foundation’s inception, we’ve placed the highest regard to promoting the technology that is required for digital assets to flourish. While roadmaps and timelines constantly shift, we believe that the work often needs to be offered with transparency, ensuring that it’s being driven in the right direction and with the feedback of the community.
                     <br/>
                     <br/>
-                    If you would like to also contribute to this growing space, please reach out to us via any of our channels! To stay updated with OAX Learn's content rollouts, please follow us on our Social Media channels and subscribe to the OAX Foundation Newsletter.</div>
+                    The launch of our latest Notifs app pulls information available from blockchain and in the public domain to consolidate and provide relevant information to your specific portfolio. You can also link to our Github page to review the open source work that has been done in the past for OAX Layer 2 Protocol (L2X) and the feature development for parachins in the Polkadot Network.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left">
-                <div><img class="w-75" src="{{ '/assets/about/OAXAcademyPillar2.png' }}" alt="our mission">
+                <div><img class="w-75" src="{{ '/assets/about/pillar.1.png' }}" alt="our mission">
                 </div>
             </div>
         </div>
     </div>
-</div>
+
