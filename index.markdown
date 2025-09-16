@@ -94,6 +94,29 @@ title: Home
                 <div class="timeline" style="max-width: 1140px">
                     <div class="timeline__wrap">
                         <div class="timeline__items">
+                        <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>August 2025</div>
+                                            <div class="mt-2 eventCardPostTitle">OAX Team Joins Bitcoin Asia 2025</div>
+                                            <div class="mt-2">The team had the honour of attending Bitcoin Asia 2025, the conference's 2nd forray in Asia, featuring notable industry leaders like CZ and Eric Trump.</div>
+                                            <a href="https://www.oax.org/2025/09/01/August-2025-Community-Updates.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+
+                            <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>February 2025</div>
+                                            <div class="mt-2 eventCardPostTitle">OAX Team Joins Consensus Hong Kong</div>
+                                            <div class="mt-2">Attended Consensus Hong Kong by CoinDesk, a vibrant conference connecting global Blockchain, Web3, and AI communities.</div>
+                                            <a href="https://www.oax.org/2025/02/21/Wrapping-Up-An-Exciting-Consensus-2025-in-Hong-Kong.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
                              <div class="timeline__item">
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Business Milestone</div>
