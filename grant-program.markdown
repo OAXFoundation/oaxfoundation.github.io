@@ -34,7 +34,7 @@ order: 3
                     </div>
                 </div>
                 <div class="col d-flex flex-row justify-content-center align-items-top ml-lg-0">                    
-                    <img class="grant-welcome-img" src="{{ '/assets/grant-program/grant-program.png' }}" alt="grant program"/>
+                    <img class="grant-welcome-img" src="{{ '/assets/grant-program/Grant-Page-block-1.png' }}" alt="grant program"/>
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@ order: 3
                     </div>
                 </div>
                 <div class="col d-flex flex-row justify-content-center align-items-top mt-5 ml-lg-0">
-                    <img class="grant-welcome-img" src="{{ '/assets/grant-program/grant-program-2.png' }}" alt="grant program">                    
+                    <img class="grant-welcome-img" src="{{ '/assets/grant-program/Grant-Page-block-2.png' }}" alt="grant program">                    
                 </div>
             </div>
         </div>
