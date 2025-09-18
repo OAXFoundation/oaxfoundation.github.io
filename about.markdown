@@ -27,11 +27,11 @@ order: 1
                 </div>
                 <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also research, community and ecosystem support. <br><br> We empower innovators to thrive in Web3, joining a mission to build a secure, scalable, digital finance ecosystem with AI-driven tools and regulatory-grade infrastructure, bridging the gap between TradFi and DeFi. <br><br>Read on below to see the full scope of our Foundation's values and work.</div>
             </div>
-            <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
-                <div>
-                    <img class="w-85" src="{{ '/assets/about/About-Page-1.png' }}" alt="our mission">
-                </div>
-            </div>
+          <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right" style="align-items: flex-start;">
+    <div>
+        <img class="w-85" src="{{ '/assets/about/About-Page-1.png' }}" alt="our mission">
+    </div>
+</div>
         </div>
     </div>
 
