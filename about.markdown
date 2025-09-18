@@ -38,10 +38,10 @@ order: 1
     <div id="pillar1" class="section" style="background-image: url(/assets/about/pillar.1.bg.jpg); display: flex; justify-content: center; background-size: cover;">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse container">
             <div class="d-flex flex-column col">
-               <div class="d-flex flex-row mt-5 mt-lg-0">
-<div class="section--title mb-4 mr-2" style="font-size: 2rem; line-height: 1.2; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-align: center; max-width: 100%;">Break Barriers with OAX Learn</div>
-<!-- <div class="line mt-3 mt-lg-4"></div> -->
-</div>
+                <div class="d-flex flex-row mt-5 mt-lg-0">
+                    <div class="section--title mb-4 mr-2">Break Barriers with OAX Learn</div>
+                    <!-- <div class="line mt-3 mt-lg-4"></div> -->
+                </div>
                 <div class="section--description">At the core of our foundation, we aim to empower both new and experienced users with support and knowledge. OAX Learn was created to reduce barriers to entering the digital assets ecosystem and enhance financial literacy through research articles, guides, and industry insights, enabling our community to navigate an ever-evolving regulatory landscape.
                     <br/>
                     <br/>
