@@ -28,7 +28,7 @@ order: 1
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
                 <div>
-                    <img class="w-75" src="{{ '/assets/about/our-mission.jpg' }}" alt="our mission">
+                    <img class="w-75" src="{{ '/assets/about/About-Page-1.png' }}" alt="our mission">
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@ order: 1
                     If you would like to also contribute to this growing space, please reach out to us via any of our channels! To stay updated with OAX Learn's content rollouts, please follow us on our Social Media channels and subscribe to the OAX Foundation Newsletter.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left">
-                <div><img class="w-75" src="{{ '/assets/about/OAXAcademyPillar2.png' }}" alt="our mission">
+                <div><img class="w-75" src="{{ '/assets/about/About-Page-2.png' }}" alt="our mission">
                 </div>
             </div>
         </div>
