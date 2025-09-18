@@ -12,7 +12,7 @@ order: 3
             </h1>
         </div>
         <div class="d-flex flex-row flex-wrap anchors align-items-center grant-hero-sub" style="z-index: 1;">
-            <p class="page-subheading col" style="margin-left: -15px;">OAX Foundation was created with the belief that decentralization holds the key to the future of the digital asset world. Nothing has pleased us more than to see the strong drive towards DeFi over the last two years, and the progress that so many teams have made within this space. Advancements large and small make a difference in developing this space and in the true nature of decentralization we believe that we must make progress as a collective group.
+            <p class="page-subheading col" style="margin-left: -15px;">OAX Foundation was created with the belief that decentralization holds the key to the future of the digital asset world. Nothing has pleased us more than to see the strong drive towards DeFi and “Web3 AI” over the past year, and the progress that so many teams have made within this space. Advancements large and small make a difference in developing this space and in the true nature of decentralization we believe that we must make progress as a collective group.
             </p>
         </div>
     </div>
@@ -72,7 +72,7 @@ order: 3
                     <div class="col-12 col-lg-4 text-center">
                         <div class="d-flex justify-content-center align-items-center py-4" style="background-color: white; flex-direction: column; border-radius: 8px; min-height: 300px; margin-bottom: 30px;">
                             <img class="col-6 col-lg-6" src="{{ '/assets/grant-program/areas-of-evaluation/project-details-defi-focus.png' }}" alt="project details defi focus">
-                            <div class="icon--caption" style="padding-top: 16px; color: #14345E">Project Details:<br/>DeFi Focus</div>
+                            <div class="icon--caption" style="padding-top: 16px; color: #14345E">Project Details:<br/>Web3, AI</div>
                         </div>
                     </div>
                     <div class="col-12 col-lg-4 text-center">
