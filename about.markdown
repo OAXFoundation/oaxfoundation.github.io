@@ -16,7 +16,24 @@ order: 1
             </div>
         </div>
     </div>
-</div>    
+</div>
+
+<div class="bg-white pt-5 mt-5 sections">
+    <div id="our-mission" class="container section pt-5">
+        <div class="d-flex flex-column-reverse flex-lg-row row">
+            <div class="d-flex flex-column col mt-5 mt-lg-0">
+                <div class="d-flex flex-row">
+                    <div class="section--title mb-4 mr-2">Compliance Meets Innovation</div>                                 
+                </div>
+                <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also research, community and ecosystem support. We empower innovators to thrive in Web3, joining a mission to build a secure, scalable, digital finance ecosystem with AI-driven tools and regulatory-grade infrastructure, bridging the gap between TradFi and DeFi. Read on below to see the full scope of our Foundation's values and work.</div>
+            </div>
+            <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
+                <div>
+                    <img class="w-85" src="{{ '/assets/about/About-Page-1.png' }}" alt="our mission">
+                </div>
+            </div>
+        </div>
+    </div>
     <div id="pillar1" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
