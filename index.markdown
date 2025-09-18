@@ -7,7 +7,7 @@ title: Home
         <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 pt-lg-5">
             <div class="row" style="width: 100%">
                 <div style="z-index: 1;" class="col-12 col-lg-7">
-                    <div class="page-title blue1">Developing and promoting a sustainable digital asset ecosystem for the future
+                    <div class="page-title blue1">Pioneering a Decentralized Future with AI Powered Trust and Compliance.
                     </div>
                     <!-- <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.
                     </div> -->
@@ -40,13 +40,13 @@ title: Home
     <div class="oax-highlights bg-white p-0 py-2 p-lg-5">
         <div class="container py-5">
             <img src="{{ '/assets/home/hologram-element-1.png' }}" class="home-item-1" style="position: absolute; transform: translate(-50px, -150px); width: 150px;"/>
-            <div class="subheading" style="text-align: center; padding-top: 30px">OAX Highlights</div>
+            <div class="subheading" style="text-align: center; padding-top: 30px">Revolutionize Digital Finance with AI and Blockchain</div>
             <div class="highlights d-flex flex-column flex-lg-row justify-content-between row mt-5">
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mr-0 mr-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
                     <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">Notifs App
                     </div>
-                    <div class="highlight-desc">The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs. It combines advanced features such as AI news and a on-chain whale tracker, enabling you to elevate your web3 portfolio management experience.
+                    <div class="highlight-desc">The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs. It combines advanced features such as AI news and a on-chain whale tracker, enabling you to elevate your web3 portfolio management experience. (A Cyberport Incubation Project.) 
                 </div>
                 </div>
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mx-0 mx-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
