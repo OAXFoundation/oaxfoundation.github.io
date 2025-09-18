@@ -39,7 +39,7 @@ order: 1
         <div class="d-flex flex-column-reverse flex-lg-row-reverse container">
             <div class="d-flex flex-column col">
                 <div class="d-flex flex-row mt-5 mt-lg-0">
-                    <div class="section--title mb-4 mr-2">Discover with OAX Learn</div>
+                    <div class="section--title mb-4 mr-2">Break Barriers with OAX Learn</div>
                     <!-- <div class="line mt-3 mt-lg-4"></div> -->
                 </div>
                 <div class="section--description">At the core of our foundation, we aim to empower both new and experienced users with support and knowledge. OAX Learn was created to reduce barriers to entering the digital assets ecosystem and enhance financial literacy through research articles, guides, and industry insights, enabling our community to navigate an ever-evolving regulatory landscape.
