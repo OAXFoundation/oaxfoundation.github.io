@@ -16,25 +16,28 @@ order: 1
             </div>
         </div>
     </div>
-</div>
-<div class="bg-white pt-5 mt-5 sections">
-    <div id="our-mission" class="container section pt-5">
+</div>    
+    <div id="pillar1" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
-                    <div class="section--title mb-4 mr-2">Compliance Meets Innovation</div>                                 
+                    <div class="section--title mb-4 mr-2">Compliance Meets Innovation</div>
+                    <!-- <div class="line mt-3 mt-lg-4"></div> -->
                 </div>
-                <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also research, community and ecosystem support. We empower innovators to thrive in Web3, joining a mission to build a secure, scalable, digital finance ecosystem with AI-driven tools and regulatory-grade infrastructure, bridging the gap between TradFi and DeFi. Read on below to see the full scope of our Foundation's values and work.</div>
+                <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also research, community and ecosystem support.
+                    <br/><br/>
+                    We empower innovators to thrive in Web3, joining a mission to build a secure, scalable, digital finance ecosystem with AI-driven tools and regulatory-grade infrastructure, bridging the gap between TradFi and DeFi.
+                    <br/><br/>
+                    Read on below to see the full scope of our Foundation's values and work.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
-                <div>
-                    <img class="w-85" src="{{ '/assets/about/About-Page-1.png' }}" alt="our mission">
+                <div><img class="w-75" src="{{ '/assets/about/About-Page-1.png' }}" alt="our mission">
                 </div>
             </div>
         </div>
     </div>
 
-    <div id="pillar1" class="section" style="background-image: url(/assets/about/pillar.1.bg.jpg); display: flex; justify-content: center; background-size: cover;">
+    <div id="pillar2" class="section" style="background-image: url(/assets/about/pillar.1.bg.jpg); display: flex; justify-content: center; background-size: cover;">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse container">
             <div class="d-flex flex-column col">
                 <div class="d-flex flex-row mt-5 mt-lg-0">
@@ -54,7 +57,7 @@ order: 1
     </div>
 
 
-    <div id="pillar2" class="container section">
+    <div id="pillar3" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
@@ -74,7 +77,7 @@ order: 1
         </div>
     </div>
 
-    <div id="pillar3" class="section" style="background-image: url(/assets/about/pillar.3.bg.jpg); display: flex; justify-content: center; background-size: cover;">
+    <div id="pillar4" class="section" style="background-image: url(/assets/about/pillar.3.bg.jpg); display: flex; justify-content: center; background-size: cover;">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse row container">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
@@ -103,7 +106,7 @@ order: 1
         </div>
     </div>
 
-    <div id="pillar4" class="container section">
+    <div id="pillar5" class="container section">
         <div class="d-flex flex-column-reverse flex-lg-row row">
             <div class="d-flex flex-column col mt-5 mt-lg-0">
                 <div class="d-flex flex-row">
