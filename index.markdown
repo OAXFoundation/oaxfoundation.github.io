@@ -26,16 +26,12 @@ title: Home
     <div class="quote1 d-flex flex-row">
         <div class="quote1--background flex-grow-1 h-100">
             <div class="container py-5 mt-0 mt-lg-5 text-center text-lg-left">
-                <div class="quote1--text"><img class="mr-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/><strong>Openness</strong>, <strong>trustlessness</strong> and <strong>strong governance</strong> are the foundations that will enable digital assets to flourish in today’s highly complex and regulated financial world.<img class="ml-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
+                <div class="quote1--text"><img class="mr-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/>We’re a research-driven blockchain foundation. We collaborate with builders from the start and develop open-source software, driving innovation in decentralized finance.<img class="ml-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
                 </div>
                 <div class="quote1--person pt-5 mb-0 mb-lg-5">
                     <div>
-                        <strong>- Hugh Madden
+                        <strong>- OAX Foundation Team
                         </strong>
-                    </div>
-                    <div>
-                        <small>Co-Founder OAX Foundation
-                        </small>   
                     </div>
                 </div>
             </div>
