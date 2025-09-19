@@ -43,7 +43,7 @@ order: 3
         <div class="container">            
             <div class="d-flex flex-column-reverse flex-lg-row-reverse">
                 <div class="d-flex flex-column col justify-content-center mt-5 mt-lg-0 px-0">
-                    <div class="section--title style-2 mr-2">Selection Criteria:</div><br>
+                    <div class="section--title style-2 mr-2">Selection Criteria</div><br>
                     <div class="section--description style-2" style="font-weight: 400;">The team is looking for well-thought out projects that demonstrate research, insight to the industry and the potential of being the first step to a bigger picture. We go into a bit more detail about some of the considerations for each of the categories below as well as frequently asked questions and the proposal form below.
                     </div>
                 </div>
