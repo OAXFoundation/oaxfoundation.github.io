@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 order: 2
 ---
-<div class="d-flex flex-column resources-hero" style="display: flex; align-items: center; padding-top: 100px; padding-bottom: 100px; justify-content: center; min-height: 100vh;">
+<div class="d-flex flex-column resources-hero" style="display: flex; align-items: center; padding-top: 100px; padding-bottom: 100px; justify-content: center;">
     <div class="container">
         <div class="d-flex flex-column flex-lg-row row justify-content-center" style="z-index: 1;">
             <div class="text-center" style="max-width: 800px;">
