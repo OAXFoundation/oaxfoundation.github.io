@@ -20,20 +20,21 @@ order: 1
 
 <div class="bg-white pt-5 mt-5 sections">
     <div id="our-mission" class="container section pt-5">
-        <div class="d-flex flex-column-reverse flex-lg-row row">
+        <div class="d-flex flex-column-reverse flex-lg-row row" style="flex-direction: column;">
             <div class="d-flex flex-column col mt-5 mt-lg-0 justify-content-center">
                 <div class="d-flex flex-row">
-                    <div class="section--title mb-4 mr-2">Compliance Meets Innovation</div>                                 
+                    <div class="section--title mb-4 mr-2" style="font-size: 28px; width: 317px; margin-bottom: 20px; line-height: 1.2;">Compliance Meets Innovation</div>                                 
                 </div>
-                <div class="section--description">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also research, community and ecosystem support. <br><br> We empower innovators to thrive in Web3, joining a mission to build a secure, scalable, digital finance ecosystem with AI-driven tools and regulatory-grade infrastructure, bridging the gap between TradFi and DeFi. <br><br>Read on below to see the full scope of our Foundation's values and work.</div>
+                <div class="section--description" style="padding-top: 15px; margin-bottom: 20px; font-size: 16px;">As a Foundation, we believe in growing and contributing to the industry however we can; not just via technology development but also research, community and ecosystem support. <br><br> We empower innovators to thrive in Web3, joining a mission to build a secure, scalable, digital finance ecosystem with AI-driven tools and regulatory-grade infrastructure, bridging the gap between TradFi and DeFi. <br><br>Read on below to see the full scope of our Foundation's values and work.</div>
             </div>
-         <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
+         <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right" style="margin-top: 20px; text-align: center;">
                 <div>
-                    <img class="w-85" src="{{ '/assets/about/About-Compliance.png' }}" alt="our mission">
+                    <img class="w-85" src="{{ '/assets/about/About-Compliance.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
                 </div>
             </div>
         </div>
     </div>
+
 
     <div id="pillar1" class="section" style="background-image: url(/assets/about/pillar.1.bg.jpg); display: flex; justify-content: center; background-size: cover;">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse container">
