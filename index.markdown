@@ -26,7 +26,7 @@ title: Home
     <div class="quote1 d-flex flex-row">
         <div class="quote1--background flex-grow-1 h-100">
             <div class="container py-5 mt-0 mt-lg-5 text-center text-lg-left">
-                <div class="quote1--text"><img class="mr-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/>We’re a <strong>project-driven blockchain foundation</strong>. We collaborate with builders from the start and develop open-source software, driving innovation in Web3 ecosystem.<img class="ml-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
+                <div class="quote1--text"><img class="mr-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}"/>We’re a <strong>project-driven blockchain foundation</strong>. We collaborate with builders from the start and develop open-source software, driving innovation in Web3 ecosystems.<img class="ml-3" src="{{ '/assets/quote-sign.png' | prepend: site.url }}" class="rotate-180"/>
                 </div>
                 <div class="quote1--person pt-5 mb-0 mb-lg-5">
                     <div>
