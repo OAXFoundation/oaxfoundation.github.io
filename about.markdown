@@ -55,21 +55,18 @@ order: 1
     </div>
 
 
-    <div id="pillar2" class="container section">
+<div class="bg-white pt-5 mt-5 sections">
+    <div id="our-mission" class="container section pt-5">
         <div class="d-flex flex-column-reverse flex-lg-row row">
-            <div class="d-flex flex-column col mt-5 mt-lg-0">
+            <div class="d-flex flex-column col mt-5 mt-lg-0 justify-content-center">
                 <div class="d-flex flex-row">
-                    <div class="section--title mb-4 mr-2">Accelerating DeFi Through AI</div>
-                    <!-- <div class="line mt-3 mt-lg-4"></div> -->
+                    <div class="section--title mb-4 mr-2">Accelerating DeFi Through AI</div>                                 
                 </div>
-                <div class="section--description">What the end goal looks like for digital finance remains unknown, and to spell it out may do a disservice of limiting its potential. OAX Foundation believes that the journey for digital assets includes DeFi and has been working to support its development.
-                    <br/><br/>
-                    From developing features for the Polkadot Network to collaborating with like-minded industry institutions, DeFi continues to hold immense promise for the industry. It has evolved within the Web3 ecosystem, leveraging emerging AI technologies to address its challenges and unlock new potential.
-                    <br/><br/>
-                    Learn more about the potential of DeFi in some of our thought pieces.</div>
+                <div class="section--description">What the end goal looks like for digital finance remains unknown, and to spell it out may do a disservice of limiting its potential. OAX Foundation believes that the journey for digital assets includes DeFi and has been working to support its development. <br/><br/> From developing features for the Polkadot Network to collaborating with like-minded industry institutions, DeFi continues to hold immense promise for the industry. It has evolved within the Web3 ecosystem, leveraging emerging AI technologies to address its challenges and unlock new potential. <br/><br/>Learn more about the potential of DeFi in some of our thought pieces.</div>
             </div>
-            <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
-                <div><img class="w-85" src="{{ '/assets/about/About-DeFi.png' }}" alt="our mission">
+         <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right">
+                <div>
+                    <img class="w-85" src="{{ '/assets/about/About-DeFi.png' }}" alt="our mission">
                 </div>
             </div>
         </div>
