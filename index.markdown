@@ -6,7 +6,7 @@ title: Home
     <div class="cta1 pt-4 pb-4 home-hero">
         <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 pt-lg-5">
             <div class="row" style="width: 100%">
-                <div class="col-12 col-lg-7" style="text-align: center; padding-top: 50px;">
+                <div class="col-12 col-lg-7" style="text-align: left; padding-top: 50px;">
                     <div class="page-title blue1">Pioneering a Decentralized Future with AI Powered Trust and Compliance.</div>
                     <!-- <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.</div> -->
                 </div>
