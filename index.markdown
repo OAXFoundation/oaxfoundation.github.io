@@ -11,9 +11,7 @@ title: Home
                     </div>
                     <!-- <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.
                     </div> -->
-                    <div class="py-5 mb-0 mb-lg-5">
-                        <img src="{{ '/assets/arrow-down.png' }}" style="padding-right: 8px; float: left;"/><div style="color: #4174B7; font-size: 24px;font-weight: bold; float: left; line-height: 1; text-decoration: underline;">Scroll to explore</div>
-                    </div>
+                    
                 </div>
                 <div class="d-flex flex-row w-100 col-12 col-lg-5">
                     <div class="d-flex flex-row" style="position: relative;">
