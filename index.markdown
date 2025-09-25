@@ -6,9 +6,9 @@ title: Home
     <div class="cta1 pt-4 pb-4 home-hero">
         <div class="container d-flex flex-column pt-5 pt-lg-0 mt-5 mt-lg-0 pb-0 pt-lg-5">
             <div class="row" style="width: 100%">
-                <div style="z-index: 1;" class="col-12 col-lg-7">
-                    <div class="page-title blue1">Pioneering a Decentralized Future with AI Powered Trust and Compliance.
-                    </div>
+               <div class="col-12 col-lg-7">
+                <div class="page-title blue1">Pioneering a Decentralized Future with AI Powered Trust and Compliance.</div>
+                </div>
                     <!-- <div class="page-subtitle black1 pt-2">OAX Foundation believes that the future is shaped by the work done today. Explore our vision and the work being done within this space.
                     </div> -->
                     
@@ -71,14 +71,18 @@ title: Home
             </div>
         </div>
     </div>
-    <style>
-        .events-content::before{
-            left: -500px;
-        }
-        .timeline__item__inner {
-            background: white;
-        }
-    </style>
+   <style>
+    .events-content::before{
+        left: -500px;
+    }
+    .timeline__item__inner {
+        background: white;
+    }
+    .page-title {
+        text-align: center;
+        padding-top: 50px; /* Adjust this value to push the text down as needed */
+    }
+</style>
     <div class="our-journey">
         <div class="container py-5">        
             <img src="{{ '/assets/home/hologram-element-2.png' }}" class="home-item-2" style="position: absolute; transform: translateY(-150px); width: 150px; right: 120px"/>        
