@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-October-Community-2025.png
+image: /img/blog-images/OAX-GMASIA-Launch.png
 tag: tech-developments
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-October-Community-2025.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-GMASIA-Launch.png)
 
 <br><b>OAX Foundation: Powering AI & Web3's Next Wave</b>
 
@@ -57,5 +57,6 @@ Beta test GMAsia to shape the features that could make a big impact. Propose you
 
 OAX Foundation doesn't chase trends. We create the infrastructure they run on.
 It's the beginning of our most ambitious era. We're building, and we hope to have your continued support and participation in this new chapter of our journey.
+
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
