@@ -68,8 +68,8 @@ title: Home
                 </div>
             </div>
             <!-- Second Row: 2 Boxes, Centered & Mobile-Optimized -->
-            <div class="row justify-content-center align-items-start mt-3">
-                <div class="col-12 col-lg-3 offset-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 380px; width: 280px; margin-right: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
+            <div class="row justify-content-center align-items-start mt-3 mx-auto" style="max-width: 840px;">
+                <div class="col-12 col-sm-6 col-lg-3 offset-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-auto" style="height: 380px; width: 280px; margin-right: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height: 100px;">
                         <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none !important; outline: none !important; box-shadow: none !important; border-radius: 4px;"/>
                     </div>
@@ -78,7 +78,7 @@ title: Home
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow: auto;">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
                     </div>
                 </div>
-                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 380px; width: 280px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-auto" style="height: 380px; width: 280px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height: 100px;">
                         <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none !important; outline: none !important; box-shadow: none !important; border-radius: 4px;"/>
                     </div>
@@ -91,6 +91,8 @@ title: Home
         </div>
     </div>
 </div>
+
+
     <style>
         .events-content::before{
             left: -500px;
