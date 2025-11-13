@@ -32,7 +32,7 @@ title: Home
             </div>
         </div>
     </div>
-   <div class="oax-highlights bg-white p-0 py-2 p-lg-5">
+  <div class="oax-highlights bg-white p-0 py-2 p-lg-5">
     <div class="container py-5">
         <img src="{{ '/assets/home/hologram-element-1.png' }}" class="home-item-1" style="position: absolute; transform: translate(-50px, -150px); width: 150px;"/>
         <div class="subheading" style="text-align: center; padding-top: 30px">Revolutionize Digital Finance with AI and Blockchain</div>
@@ -40,13 +40,12 @@ title: Home
             <!-- First Row: 3 Boxes, Centered -->
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-4 mb-4 d-flex flex-column text-center align-items-center bg-white px-3 py-5" style="border-radius: 8px;">
-                    <img src="{{ '/assets/GMASIA-LOGO-FINAL PNG.png' | prepend: site.url }}" width="120px"/>
+                    <img src="{{ '/assets/GMASIA-LOGO-FINAL-PNG.png' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">GMAsia
                     </div>
                     <div class="highlight-desc">GMAsia aims to bring the pulse of innovation to the community, featuring premier events calendar connecting Asia's vibrant Web3, crypto, and AI communities. Smartly integrated with AI technology, GMAsia celebrates this dynamic ecosystem by spotlighting events that showcase Asia's leadership in shaping the decentralized and intelligent future.
                     </div>
                 </div>
-            </div>
                 <div class="col-12 col-lg-4 mb-4 d-flex flex-column text-center align-items-center bg-white px-3 py-5" style="border-radius: 8px;">
                     <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">Notifs App
@@ -61,7 +60,7 @@ title: Home
                     <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX.
                     </div>
                 </div>
-            
+            </div>
             <!-- Second Row: 2 Boxes, Centered -->
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-4 offset-lg-2 mb-4 d-flex flex-column text-center align-items-center bg-white px-3 py-5" style="border-radius: 8px;">
