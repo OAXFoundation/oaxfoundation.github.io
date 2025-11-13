@@ -48,12 +48,12 @@ title: Home
                             box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
                         <img src="{{ '/assets/GMASIA-LOGO-FINAL-PNG.png' | prepend: site.url }}"
-                             style="max-width:120px;object-fit:contain;
+                             style="max-width:150px;object-fit:contain;
                                     border:0 !important;outline:0 !important;box-shadow:none !important;background:transparent !important;">
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">GMAsia</div>
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                        GMAsia, smartly integrated with AI technology, aims to bring the pulse of innovation to the community, featuring a premier Asian events calendar. Join the GMAsia team as they embark on this new chapter.
+                        GMAsia, smartly integrated with AI technology, aims to bring the pulse of innovation to the community, featuring a premier Asian events calendar.
                     </div>
                 </div>
 
@@ -68,7 +68,7 @@ title: Home
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">Notifs App</div>
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                        The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs with advanced features such as AI news and a on-chain whale tracker. (A Cyberport Incubation Project.)
+                        The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs with advanced features. (A Cyberport Incubation Project.)
                     </div>
                 </div>
 
@@ -83,7 +83,7 @@ title: Home
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX DeFi<br>Parachain Features</div>
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                        Developed for the Polkadot Network based parachains, explore five features that were developed by OAX. Please view our Resources page for more details.
+                        Developed for the Polkadot Network based parachains, explore five features that were developed by OAX. 
                     </div>
                 </div>
 
@@ -118,7 +118,7 @@ title: Home
                         </div>
                         <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX Community &<br>Research</div>
                         <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                            Beyond development internally, support the industry is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations within this space.
+                            Beyond development internally, industry support is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations.
                         </div>
                     </div>
                 </div>
