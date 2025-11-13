@@ -36,51 +36,53 @@ title: Home
     <div class="container py-5">
         <img src="{{ '/assets/home/hologram-element-1.png' }}" class="home-item-1" style="position: absolute; transform: translate(-50px, -150px); width: 150px;"/>
         <div class="subheading" style="text-align: center; padding-top: 30px">Revolutionize Digital Finance with AI and Blockchain</div>
-        <div class="highlights mt-5">
-            <!-- First Row: 3 Boxes, Centered -->
-            <div class="row justify-content-center">
-                <div class="col-12 col-lg-4 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="border: 1px solid #e9ecef; border-radius: 8px;">
-                    <img src="{{ '/assets/GMASIA-LOGO-FINAL PNG.png' | prepend: site.url }}" width="120px"/>
-                    <div class="highlight-title my-3">GMAsia
+        <div class="highlights mt-3">
+            <!-- First Row: 3 Boxes, Centered & Non-Wrapping -->
+            <div class="row justify-content-center flex-nowrap">
+                <div class="col-12 col-lg-3 mb-2 d-flex flex-column text-center align-items-center bg-white px-2 py-2" style="border: 1px solid #ffcc99; border-radius: 12px;">
+                    <img src="{{ '/assets/GMASIA-LOGO-FINAL PNG.png' | prepend: site.url }}" style="width: 80px; height: 80px; border: 2px solid #ffcc99; border-radius: 8px;"/>
+                    <div class="highlight-title my-2">GMAsia
                     </div>
-                    <div class="highlight-desc">GMAsia aims to bring the pulse of innovation to the community, featuring premier events calendar connecting Asia's vibrant Web3, crypto, and AI communities. Smartly integrated with AI technology, GMAsia celebrates this dynamic ecosystem by spotlighting events that showcase Asia's leadership in shaping the decentralized and intelligent future.
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="border: 1px solid #e9ecef; border-radius: 8px;">
-                    <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="100px"/>
-                    <div class="highlight-title my-3">Notifs App
-                    </div>
-                    <div class="highlight-desc">The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs. It combines advanced features such as AI news and a on-chain whale tracker, enabling you to elevate your web3 portfolio management experience. (A Cyberport Incubation Project.) 
+                    <div class="highlight-desc small">GMAsia aims to bring the pulse of innovation to the community, featuring premier events calendar connecting Asia's vibrant Web3, crypto, and AI communities. Smartly integrated with AI technology, GMAsia celebrates this dynamic ecosystem by spotlighting events that showcase Asia's leadership in shaping the decentralized and intelligent future.
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="border: 1px solid #e9ecef; border-radius: 8px;">
-                    <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" height="100px"/>
-                    <div class="highlight-title my-3">OAX DeFi<br/>Parachain Features
+                <div class="col-12 col-lg-3 mb-2 d-flex flex-column text-center align-items-center bg-white px-2 py-2" style="border: 1px solid #ffcc99; border-radius: 12px;">
+                    <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="80px"/>
+                    <div class="highlight-title my-2">Notifs App
                     </div>
-                    <div class="highlight-desc">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX.
+                    <div class="highlight-desc small">The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs. It combines advanced features such as AI news and a on-chain whale tracker, enabling you to elevate your web3 portfolio management experience. (A Cyberport Incubation Project.) 
+                    </div>
+                </div>
+                <div class="col-12 col-lg-3 mb-2 d-flex flex-column text-center align-items-center bg-white px-2 py-2" style="border: 1px solid #ffcc99; border-radius: 12px;">
+                    <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" height="80px"/>
+                    <div class="highlight-title my-2">OAX DeFi<br/>Parachain Features
+                    </div>
+                    <div class="highlight-desc small">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX.
                     </div>
                 </div>
             </div>
             <!-- Second Row: 2 Boxes, Centered -->
-            <div class="row justify-content-center">
-                <div class="col-12 col-lg-4 offset-lg-2 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="border: 1px solid #e9ecef; border-radius: 8px;">
-                    <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" height="100px"/>
-                    <div class="highlight-title my-3">OAX Layer 2<br/>Protocol
+            <div class="row justify-content-center flex-nowrap mt-3">
+                <div class="col-12 col-lg-3 offset-lg-3 mb-2 d-flex flex-column text-center align-items-center bg-white px-2 py-2" style="border: 1px solid #ffcc99; border-radius: 12px;">
+                    <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" height="80px"/>
+                    <div class="highlight-title my-2">OAX Layer 2<br/>Protocol
                     </div> 
-                    <div class="highlight-desc">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
+                    <div class="highlight-desc small">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 offset-lg-6 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="border: 1px solid #e9ecef; border-radius: 8px;">
-                    <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" height="100px"/>
-                    <div class="highlight-title my-3">OAX Community &amp;<br/>Research
+                <div class="col-12 col-lg-3 d-flex flex-column text-center align-items-center bg-white px-2 py-2" style="border: 1px solid #ffcc99; border-radius: 12px;">
+                    <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" height="80px"/>
+                    <div class="highlight-title my-2">OAX Community &<br/>Research
                     </div>
-                    <div class="highlight-desc">Beyond development internally, support the industry is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations within this space.
+                    <div class="highlight-desc small">Beyond development internally, support the industry is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations within this space.
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+
     <style>
         .events-content::before{
             left: -500px;
