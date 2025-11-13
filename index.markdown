@@ -38,23 +38,23 @@ title: Home
         <div class="subheading" style="text-align: center; padding-top: 30px">Revolutionize Digital Finance with AI and Blockchain</div>
         <div class="highlights mt-3">
             <!-- First Row: 3 Boxes, Centered -->
-            <div class="row justify-content-center align-items-stretch gx-5 gy-3">
-                <div class="col-12 col-lg-3 mb-0 h-100 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="min-height: 320px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px;">
-                    <img src="{{ '/assets/GMASIA-LOGO-FINAL-PNG.png' | prepend: site.url }}" style="max-width: 80px; max-height: 80px; object-fit: contain;"/>
+            <div class="row align-items-stretch">
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 320px; width: 100%; margin-right: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none; overflow: hidden;">
+                    <img src="{{ '/assets/GMASIA-LOGO-FINAL-PNG.png' | prepend: site.url }}" style="max-width: 80px; max-height: 80px; object-fit: contain; border: none;"/>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center">GMAsia
                     </div>
                     <div class="highlight-desc small flex-grow-1 px-1">GMAsia aims to bring the pulse of innovation to the community, featuring premier events calendar connecting Asia's vibrant Web3, crypto, and AI communities. Smartly integrated with AI technology, GMAsia celebrates this dynamic ecosystem by spotlighting events that showcase Asia's leadership in shaping the decentralized and intelligent future.
                     </div>
                 </div>
-                <div class="col-12 col-lg-3 mb-0 h-100 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="min-height: 320px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px;">
-                    <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border-radius: 4px;"/>
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 320px; width: 100%; margin-right: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none; overflow: hidden;">
+                    <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none; border-radius: 4px;"/>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center">Notifs App
                     </div>
                     <div class="highlight-desc small flex-grow-1 px-1">The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs. It combines advanced features such as AI news and a on-chain whale tracker, enabling you to elevate your web3 portfolio management experience. (A Cyberport Incubation Project.) 
                     </div>
                 </div>
-                <div class="col-12 col-lg-3 mb-0 h-100 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="min-height: 320px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px;">
-                    <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border-radius: 4px;"/>
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 320px; width: 100%; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none; overflow: hidden;">
+                    <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none; border-radius: 4px;"/>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center">OAX DeFi<br/>Parachain Features
                     </div>
                     <div class="highlight-desc small flex-grow-1 px-1">Developed for the Polkadot Network based parachains, explore five features that were developed by OAX.
@@ -62,19 +62,21 @@ title: Home
                 </div>
             </div>
             <!-- Second Row: 2 Boxes, Centered -->
-            <div class="row justify-content-center align-items-stretch gx-5 gy-3 mt-4 w-75 mx-auto">
-                <div class="col-12 col-lg-3 offset-lg-3 mb-0 h-100 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="min-height: 320px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px;">
-                    <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border-radius: 4px;"/>
-                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center">OAX Layer 2<br/>Protocol
-                    </div> 
-                    <div class="highlight-desc small flex-grow-1 px-1">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
+            <div class="d-flex justify-content-center">
+                <div class="row align-items-stretch w-75">
+                    <div class="col-12 col-lg-3 offset-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 320px; width: 100%; margin-right: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none; overflow: hidden;">
+                        <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none; border-radius: 4px;"/>
+                        <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center">OAX Layer 2<br/>Protocol
+                        </div> 
+                        <div class="highlight-desc small flex-grow-1 px-1">Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
+                        </div>
                     </div>
-                </div>
-                <div class="col-12 col-lg-3 mb-0 h-100 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="min-height: 320px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px;">
-                    <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border-radius: 4px;"/>
-                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center">OAX Community &<br/>Research
-                    </div>
-                    <div class="highlight-desc small flex-grow-1 px-1">Beyond development internally, support the industry is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations within this space.
+                    <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 320px; width: 100%; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none; overflow: hidden;">
+                        <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none; border-radius: 4px;"/>
+                        <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center">OAX Community &<br/>Research
+                        </div>
+                        <div class="highlight-desc small flex-grow-1 px-1">Beyond development internally, support the industry is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations within this space.
+                        </div>
                     </div>
                 </div>
             </div>
