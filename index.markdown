@@ -37,66 +37,83 @@ title: Home
         <img src="{{ '/assets/home/hologram-element-1.png' }}" class="home-item-1" style="position: absolute; transform: translate(-50px, -150px); width: 150px;"/>
         <div class="subheading" style="text-align: center; padding-top: 30px">Revolutionize Digital Finance with AI and Blockchain</div>
         <div class="highlights mt-3">
-            <!-- First Row: 3 Boxes, Centered -->
+
+            <!-- ==== ROW 1 – 3 boxes ==== -->
             <div class="row justify-content-center align-items-start">
                 <!-- Box 1 -->
-                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 380px; width: 280px; margin: 0 15px 20px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
-                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height: 100px;">
-                        <img src="{{ '/assets/GMASIA-LOGO-FINAL-PNG.png' | prepend: site.url }}" style="max-width: 150px; object-fit: contain; border: none !important; outline: none !important; box-shadow: none !important;"/>
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                     style="height:380px;width:280px;margin:0 15px 20px 0;
+                            box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
+                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="width:150px;">
+                        <img src="{{ '/assets/GMASIA-LOGO-FINAL-PNG.png' | prepend: site.url }}"
+                             style="max-width:120px;object-fit:contain;border:none !important;outline:none !important;box-shadow:none !important;">
                     </div>
-                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height: 60px;">GMAsia</div>
-                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow: auto;">
+                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">GMAsia</div>
+                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
                         GMAsia, smartly integrated with AI technology, aims to bring the pulse of innovation to the community, featuring a premier Asian events calendar. Join the GMAsia team as they embark on this new chapter.
                     </div>
                 </div>
 
                 <!-- Box 2 -->
-                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 380px; width: 280px; margin: 0 15px 20px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
-                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height: 100px;">
-                        <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none !important; outline: none !important; box-shadow: none !important; border-radius: 4px;"/>
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                     style="height:380px;width:280px;margin:0 15px 20px 0;
+                            box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
+                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:100px;">
+                        <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}"
+                             style="height:80px;object-fit:cover;border:none !important;outline:none !important;box-shadow:none !important;border-radius:4px;">
                     </div>
-                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height: 60px;">Notifs App</div>
-                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow: auto;">
+                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">Notifs App</div>
+                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
                         The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs with advanced features such as AI news and a on-chain whale tracker. (A Cyberport Incubation Project.)
                     </div>
                 </div>
 
                 <!-- Box 3 -->
-                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 380px; width: 280px; margin: 0 0 20px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
-                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height: 100px;">
-                        <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none !important; outline: none !important; box-shadow: none !important; border-radius: 4px;"/>
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                     style="height:380px;width:280px;margin:0 0 20px 0;
+                            box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
+                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:100px;">
+                        <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}"
+                             style="height:80px;object-fit:cover;border:none !important;outline:none !important;box-shadow:none !important;border-radius:4px;">
                     </div>
-                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height: 60px;">OAX DeFi<br/>Parachain Features</div>
-                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow: auto;">
+                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX DeFi<br>Parachain Features</div>
+                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
                         Developed for the Polkadot Network based parachains, explore five features that were developed by OAX. Please view our Resources page for more details.
                     </div>
                 </div>
             </div>
 
-            <!-- Second Row: 2 Boxes, Centered & Mobile-Optimized -->
-            <div class="row justify-content-center align-items-start mt-3 mx-auto" style="max-width: 610px;">
+            <!-- ==== ROW 2 – 2 boxes, centered ==== -->
+            <div class="row justify-content-center align-items-start mt-3" style="max-width:610px;margin-left:auto;margin-right:auto;">
                 <!-- Box 4 -->
-                <div class="col-12 col-sm-6 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 380px; width: 280px; margin-right: 30px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
-                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height: 100px;">
-                        <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none !important; outline: none !important; box-shadow: none !important; border-radius: 4px;"/>
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                     style="height:380px;width:280px;margin-right:30px;
+                            box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
+                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:100px;">
+                        <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}"
+                             style="height:80px;object-fit:cover;border:none !important;outline:none !important;box-shadow:none !important;border-radius:4px;">
                     </div>
-                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height: 60px;">OAX Layer 2<br/>Protocol</div>
-                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow: auto;">
+                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX Layer 2<br>Protocol</div>
+                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
                         Released August 2019, the Layer 2 Solution (L2X) focuses on addressing scalability, dispute resolution and more for decentralized exchanges.
                     </div>
                 </div>
 
                 <!-- Box 5 -->
-                <div class="col-12 col-sm-6 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3" style="height: 380px; width: 280px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 12px; border: none;">
-                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height: 100px;">
-                        <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}" style="height: 80px; object-fit: cover; border: none !important; outline: none !important; box-shadow: none !important; border-radius: 4px;"/>
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                     style="height:380px;width:280px;
+                            box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
+                    <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:100px;">
+                        <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}"
+                             style="height:80px;object-fit:cover;border:none !important;outline:none !important;box-shadow:none !important;border-radius:4px;">
                     </div>
-                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height: 60px;">OAX Community &<br/>Research</div>
-                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow: auto;">
+                    <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX Community &<br>Research</div>
+                    <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
                         Beyond development internally, support the industry is key. Explore the work we've done with Professor Syren Johnstone in exploring regulations within this space.
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 </div>
