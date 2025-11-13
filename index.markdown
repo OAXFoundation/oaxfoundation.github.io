@@ -37,6 +37,13 @@ title: Home
             <img src="{{ '/assets/home/hologram-element-1.png' }}" class="home-item-1" style="position: absolute; transform: translate(-50px, -150px); width: 150px;"/>
             <div class="subheading" style="text-align: center; padding-top: 30px">Revolutionize Digital Finance with AI and Blockchain</div>
             <div class="highlights d-flex flex-column flex-lg-row justify-content-between row mt-5">
+                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mr-0 mr-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
+                    <img src="{{ '/assets/GMASIA-LOGO-FINAL PNG.png' | prepend: site.url }}" height="100px"/>
+                    <div class="highlight-title my-4">GMAsia
+                    </div>
+                    <div class="highlight-desc">GMAsia aims to bring the pulse of innovation to the community, featuring premier events calendar connecting Asia's vibrant Web3, crypto, and AI communities. Smartly integrated with AI technology, GMAsia celebrates this dynamic ecosystem by spotlighting events that showcase Asia's leadership in shaping the decentralized and intelligent future.  
+                </div>
+                </div>
                 <div class="d-flex flex-column text-center align-items-center bg-white col px-3 py-5 mr-0 mr-lg-2 mb-4 mb-lg-0" style="border-radius: 8px;">
                     <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}" height="100px"/>
                     <div class="highlight-title my-4">Notifs App
