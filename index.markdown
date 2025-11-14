@@ -59,7 +59,7 @@ title: Home
                 <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
-                        <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}"
+                        <img src="{{ '/assets/notifs_app-without-border.jpg' | prepend: site.url }}"
                              style="height:80px;object-fit:cover;border:0 !important;outline:0 !important;box-shadow:none !important;border-radius:4px;">
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">Notifs App</div>
@@ -72,7 +72,7 @@ title: Home
                 <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
-                        <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}"
+                        <img src="{{ '/assets/defi-parachain-features-without-border.jpg' | prepend: site.url }}"
                              style="height:80px;object-fit:cover;border:0 !important;outline:0 !important;box-shadow:none !important;border-radius:4px;">
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX DeFi<br>Parachain Features</div>
@@ -90,7 +90,7 @@ title: Home
                 <div class="col-12 col-sm-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
-                        <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}"
+                        <img src="{{ '/assets/layer-2-protocol-without-border.jpg' | prepend: site.url }}"
                              style="height:80px;object-fit:cover;border:0 !important;outline:0 !important;box-shadow:none !important;border-radius:4px;">
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX Layer 2<br>Protocol</div>
@@ -103,7 +103,7 @@ title: Home
                 <div class="col-12 col-sm-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
-                        <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}"
+                        <img src="{{ '/assets/community-research-without-border.jpg' | prepend: site.url }}"
                              style="height:80px;object-fit:cover;border:0 !important;outline:0 !important;box-shadow:none !important;border-radius:4px;">
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">OAX Community &<br>Research</div>
