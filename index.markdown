@@ -51,7 +51,7 @@ title: Home
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">GMAsia</div>
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                        GMAsia,AA smartly integrated with AI technology, aims to bring the pulse of innovation to the community, featuring a premier Asian events calendar. 
+                        GMAsia.ai, smartly integrated with AI technology, aims to bring the pulse of innovation to the community, featuring a premier Asian events calendar. 
                     </div>
                 </div>
 
