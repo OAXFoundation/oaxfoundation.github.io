@@ -43,20 +43,20 @@ title: Home
             <div class="row justify-content-center align-items-start">
 
                 <!-- Box 1 – GMAsia -->
-                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
                         <img src="{{ '/assets/GMASIA-LOGO-FINAL-PNG.png' | prepend: site.url }}"
-                             style="max-width:150px;object-fit:contain;border:0 !important;outline:0 !important;box-shadow:none !important;background:transparent !important;">
+                             style="max-width:150px;object-fit:contain;border:0 !important;outline:0 !important;box-shadow:none !important;background:transparent !important; padding-top: 30px">
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">GMAsia</div>
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                        GMAsia, smartly integrated with AI technology, aims to bring the pulse of innovation to the community, featuring a premier Asian events calendar. 
+                        GMAsia,AA smartly integrated with AI technology, aims to bring the pulse of innovation to the community, featuring a premier Asian events calendar. 
                     </div>
                 </div>
 
                 <!-- Box 2 – Notifs App -->
-                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
                         <img src="{{ '/assets/notifs_app.jpg' | prepend: site.url }}"
@@ -69,7 +69,7 @@ title: Home
                 </div>
 
                 <!-- Box 3 – OAX DeFi Parachain -->
-                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                <div class="col-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
                         <img src="{{ '/assets/defi-parachain-features.jpg' | prepend: site.url }}"
@@ -87,7 +87,7 @@ title: Home
             <div class="row justify-content-center align-items-start mt-3">
 
                 <!-- Box 4 – OAX Layer 2 -->
-                <div class="col-12 col-sm-6 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                <div class="col-12 col-sm-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
                         <img src="{{ '/assets/layer-2-protocol.jpg' | prepend: site.url }}"
@@ -100,7 +100,7 @@ title: Home
                 </div>
 
                 <!-- Box 5 – OAX Community & Research -->
-                <div class="col-12 col-sm-6 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3"
+                <div class="col-12 col-sm-12 col-lg-3 mb-3 d-flex flex-column text-center align-items-center bg-white px-3 py-3 mx-2"
                      style="height:380px;box-shadow:0 2px 4px rgba(0,0,0,0.1);border-radius:12px;border:none;">
                     <div class="d-flex align-items-center justify-content-center flex-grow-1 mb-2" style="height:120px;">
                         <img src="{{ '/assets/community-research.jpg' | prepend: site.url }}"
