@@ -120,7 +120,6 @@ order: 1
             </div>
         </div>
     </div>
-</div>
 
     <div id="pillar5" class="section" style="background-image: url(/assets/about/OAX-Good-MPF-Employer.png); display: flex; justify-content: center; background-size: cover;">
         <div class="d-flex flex-column-reverse flex-lg-row-reverse container" style="flex-direction: column;">
