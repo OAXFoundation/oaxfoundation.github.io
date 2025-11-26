@@ -122,3 +122,24 @@ order: 1
     </div>
 </div>
 
+    <div id="pillar5" class="section" style="background-image: url(/assets/about/OAX-Good-MPF-Employer.png); display: flex; justify-content: center; background-size: cover;">
+        <div class="d-flex flex-column-reverse flex-lg-row-reverse container" style="flex-direction: column;">
+            <div class="d-flex flex-column col justify-content-center">
+                <div class="d-flex flex-row mt-5 mt-lg-0">
+                    <div class="section--title mb-4 mr-2" style="font-size: 28px; width: 317px; margin-bottom: 20px; line-height: 1.2;">People First, Innovation Always</div>
+                    <!-- <div class="line mt-3 mt-lg-4"></div> -->
+                </div>
+                <div class="section--description" style="padding-top: 15px; margin-bottom: 20px; font-size: 16px;">We’re a foundation that puts employees first, we’re recognized by the MPF Schemes Authority in Hong Kong as an Award-Winning Employer for outstanding care, notably gaining accreditation for the Good MPF Employer Award. We believe ecosystem nurturement and growth are fueled by well-being at the core. 
+
+Join us, BUIDL breakthroughs.
+                    <br/>
+                    <br/>
+                    If you would like to also contribute to this growing space, please reach out to us via any of our channels! To stay updated with OAX Learn's content rollouts, please follow us on our Social Media channels and subscribe to the OAX Foundation Newsletter.</div>
+            </div>
+            <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left" style="margin-top: 20px; text-align: center;">
+                <div><img class="w-85" src="{{ '/assets/about/About-Barriers.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
+                </div>
+            </div>
+        </div>
+    </div>
+
