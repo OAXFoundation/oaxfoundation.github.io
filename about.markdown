@@ -129,11 +129,9 @@ order: 1
                     <!-- <div class="line mt-3 mt-lg-4"></div> -->
                 </div>
                 <div class="section--description" style="padding-top: 15px; margin-bottom: 20px; font-size: 16px;">We’re a foundation that puts employees first, we’re recognized by the MPF Schemes Authority in Hong Kong as an Award-Winning Employer for outstanding care, notably gaining accreditation for the Good MPF Employer Award. We believe ecosystem nurturement and growth are fueled by well-being at the core. 
-
+<br><br>
 Join us, BUIDL breakthroughs.
-                    <br/>
-                    <br/>
-                    If you would like to also contribute to this growing space, please reach out to us via any of our channels! To stay updated with OAX Learn's content rollouts, please follow us on our Social Media channels and subscribe to the OAX Foundation Newsletter.</div>
+              </div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left" style="margin-top: 20px; text-align: center;">
                 <div><img class="w-85" src="{{ '/assets/about/OAX-Good-MPF-Employer.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
