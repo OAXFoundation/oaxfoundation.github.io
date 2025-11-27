@@ -134,7 +134,7 @@ Join us, BUIDL breakthroughs.
               </div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left" style="margin-top: 20px; text-align: center;">
-                <div><img class="w-85" src="{{ '/assets/about/OAX-Good-MPF-Employer.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
+                <div><img class="w-85" src="{{ '/assets/about/OAX-Good-MPF-Employer-Award.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
                 </div>
             </div>
         </div>
