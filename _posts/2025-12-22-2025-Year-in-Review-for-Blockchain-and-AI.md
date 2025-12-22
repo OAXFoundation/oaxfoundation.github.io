@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-Blockchain-Tokenized-Stocks-Header.png
+image: /img/blog-images/OAX-2025-Review-Web3-Header.png
 tag: oax-learn
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Blockchain-Tokenized-Stocks-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-2025-Review-Web3-Header.png)
 
 <br><b>2025 in Review: A Pivotal Year for Blockchain and AI Convergence</b>
 
@@ -60,5 +60,6 @@ We don't need another foundation model; we need a deeper understanding of what e
 <b>Tying It All Together: AI as the Catalyst for Blockchain's Next Leap</b>
 
 This convergence is what OAX Foundation is most excited about. Imagine AI-powered shopping evolving into seamless AI trading. Vast data availability in blockchain without interpretation means missing out on valuable insights. The inherent UI challenges of blockchain can be dramatically improved with generative AI and autonomous agents, solving onboarding issues and making complex protocols intuitive. Visionaries anticipate agent-to-agent interactions, where users may no longer directly interface with blockchain at all. We’re pleased to witness the significant development of both sectors over the past year, and continue to look out for use cases where they could potentially converge. 
+
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
