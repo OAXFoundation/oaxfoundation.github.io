@@ -138,7 +138,7 @@ title: Home
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
-                                            <div>December2025</div>
+                                            <div>December 2025</div>
                                             <div class="mt-2 eventCardPostTitle">OAX Supports Hack The East, an AI Hackathon</div>
                                             <div class="mt-2">OAX is proud to support Hack the East, a hackathon in Hong Kong that brings together students, developers, and AI enthusiasts to build groundbreaking projects, set to launch in Q1 2026.</div>
                                             <a href="https://x.com/OAX_Foundation/status/2001972945053536451" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
