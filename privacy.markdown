@@ -14,7 +14,6 @@ permalink: /privacy/
                     <h2 class="text-center">OAX Foundation Privacy Policy</h2>
                     <br/>
                     <p>Your privacy is important to us. We are committed to protecting the privacy, confidentiality and security of the personal information we hold by complying with the requirements under applicable laws and regulations. We are equally committed to ensuring that all our employees and agents uphold these obligations. This policy explains how we manage personal information within our organisation.</p>
-                    <br/>
                     <h4>How we collect personal information?</h4>
                     <ol type="1">
                     <li>when you register for an account on our website;</li>
@@ -23,7 +22,6 @@ permalink: /privacy/
                     <li>when you submit a query or request to us; and</li>
                     <li>when you apply for a job with us.</li>
                     </ol>
-                    <br/>
                     <h4>In some cases we may be required by law to collect certain types of personal information about you.</h4>
                     <p>Where we collect personal information from you, we will generally do so ourselves. However, in some cases we may collect personal information from a third party, such as through your representatives, contractors who provide services to us, or third parties who refer you to us because they think you may be interested in our products or services.</p>
                     <h4>What information do we collect?</h4>
