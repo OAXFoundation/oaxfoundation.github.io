@@ -42,7 +42,7 @@ We also posted a Community Poll to gauge sentiments on the crypto and Bitcoin sp
 <b>Ecosystem Growth & Hackathon Collaboration</b>
 
 To accelerate our momentum, we're combining our expertise in Blockchain, AI and community building with strategic partners. We're scaling efforts alongside leading institutions like HKUST and its student associations to boost AI literacy and develop practical, real-world applications.
-We're also excited about formalizing our partnership with <a href="https://hacktheeast.com/">HacktheEast</a, including sponsorship, judging and mentoring for winning teams at their upcoming hackathon. 
+We're also excited about formalizing our partnership with <a href="https://hacktheeast.com/">HacktheEast</a>, including sponsorship, judging and mentoring for winning teams at their upcoming hackathon. 
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Hack-The-East-Dec-2025.png)
 
@@ -55,5 +55,6 @@ The OAX Foundation's journey is just accelerating, more innovations are on the h
 ![]({{ site.baseurl }}/img/blog-images/OAX-Dec-2025-Happy-New-Year.png)
 
 Happy New Year! Here's to a breakthrough 2026 together.
+
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
