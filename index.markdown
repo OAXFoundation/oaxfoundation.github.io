@@ -134,6 +134,28 @@ title: Home
                 <div class="timeline" style="max-width: 1140px">
                     <div class="timeline__wrap">
                         <div class="timeline__items">
+                              <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>December 2025</div>
+                                            <div class="mt-2 eventCardPostTitle">GMAsia Announces Education-focused Initiative</div>
+                                            <div class="mt-2">OAX is thrilled to support GMAsia's plans on building the region's leading AI EdTech platform, bridging knowledge gaps and helping individuals and institutions upskill themselves in this rapidly-evolving landscape. Stay tuned for more details.</div>
+                                            <a href="https://x.com/GMAsiaHQ/status/2027273385689174032" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                             <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>February 2026</div>
+                                            <div class="mt-2 eventCardPostTitle">OAX Team Joins Consensus Hong Kong 2026</div>
+                                            <div class="mt-2">Attended the 2026 edition of Consensus Hong Kong hosted by CoinDesk, a vibrant conference connecting global AI, technology and Web3 communities to discuss the latest in tech innovations and various regulatory developtions.</div>
+                                            <a href="https://www.oax.org/2026/02/16/A-Summary-and-Recap-of-Consensus-Hong-Kong-2026.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
                              <div class="timeline__item">
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
