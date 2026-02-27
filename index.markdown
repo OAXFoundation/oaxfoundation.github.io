@@ -138,7 +138,7 @@ title: Home
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Tech Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
-                                            <div>December 2025</div>
+                                            <div>February 2026</div>
                                             <div class="mt-2 eventCardPostTitle">GMAsia Announces Education-focused Initiative</div>
                                             <div class="mt-2">OAX is thrilled to support GMAsia's plans on building the region's leading AI EdTech platform, bridging knowledge gaps and helping individuals and institutions upskill themselves in this rapidly-evolving landscape. Stay tuned for more details.</div>
                                             <a href="https://x.com/GMAsiaHQ/status/2027273385689174032" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
