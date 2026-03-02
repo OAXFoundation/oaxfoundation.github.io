@@ -51,7 +51,7 @@ title: Home
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">GMAsia</div>
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                        GMAsia.ai, smartly integrated with AI technology, aims to bring the pulse of innovation to the community, starting off as an events calendar, and set to launch and up-and-coming EdTech platform. 
+                        GMAsia.ai, smartly integrated with AI technology, started off as an events calendar, and set to launch and up-and-coming EdTech platform and AI resource hub. 
                     </div>
                 </div>
 
