@@ -14,7 +14,7 @@ Hi OAX community,
 February 2026 proved to be a highly <b>volatile month</b> for global financial markets, with major U.S. indices like the S&P 500 hovering at resistance level. <b>AI confidence</b> swung back and forth following a generally better than expected earnings release, with initial optimism from Nvidia's blowout Q4 earnings reinforcing sector strength before renewed doubts over massive capex returns, potential overinvestment bubbles, and disruption risks to industries like consulting and logistics led to rotations out of mega-cap tech toward cyclicals, small caps, value and energy. Meanwhile, crypto built relative support levels amid the chop, highlighted by <b>Circle's</b> impressive Q4 earnings underscoring stablecoin momentum despite broader macro headwinds. 
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Feb-2026-John-Chan.png)
-<i>Source: <a href="https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344674/hong-kong-budget-everything-you-need-know-tax-breaks-big-bet-ai">SCMP</a></>
+<i>Source: <a href="https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344674/hong-kong-budget-everything-you-need-know-tax-breaks-big-bet-ai">SCMP</a></i>
 
 <b>Hong Kong is all-in on AI</b>
 
@@ -73,3 +73,4 @@ By seamlessly blending the transformative power of <b>AI</b> with the decentrali
 We're more excited than ever to invite passionate experts, creators, and collaborators from every background to reach out, share your vision, and let's build together. In an era where AI has dismantled traditional barriers, what truly sets us apart is our unique thinking, diverse contexts, and drive to make a lasting, positive impact. The journey ahead is bright, come be part of it!
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
+
