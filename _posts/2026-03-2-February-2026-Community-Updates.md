@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-Feb-2026-Community-Header.png
+image: /img/blog-images/OAX-Feb-2026.png
 tag: community-updates
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-Feb-2026-Community-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-Feb-2026.png)
 
 <br><b>February 2026 Community Updates</b>
 
@@ -73,4 +73,5 @@ By seamlessly blending the transformative power of <b>AI</b> with the decentrali
 We're more excited than ever to invite passionate experts, creators, and collaborators from every background to reach out, share your vision, and let's build together. In an era where AI has dismantled traditional barriers, what truly sets us apart is our unique thinking, diverse contexts, and drive to make a lasting, positive impact. The journey ahead is bright, come be part of it!
 
 <i>Disclaimer: The above is an opinion piece written by an authorized author, but in no way represents the official standpoint of OAX Foundation Limited, nor should it be meant to serve as investment advice.</i>
+
 
