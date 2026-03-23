@@ -5,7 +5,7 @@ image: /img/blog-images/OAX-OpenClaw-Header.png
 tag: industry-business
 ---
 
-![]({{ site.baseurl }}/img/blog-images/img/blog-images/OAX-OpenClaw-Header.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-OpenClaw-Header.png)
 
 <br><b>OpenClaw: The Viral Open-Source AI Agent That’s Making Personal Assistants Real - Hype, Facts, and What It Means for You</b>
 
