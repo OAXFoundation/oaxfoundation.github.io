@@ -35,7 +35,7 @@ The support didn’t end at the hackathon. In mid-March, we hosted a dedicated n
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-March-26-HTE-4.png)
 
-GMAsia: Building a network to drive AI adoption
+<b>GMAsia: Building a network to drive AI adoption</b>
 
 One of our key initiatives, <a href="https://www.gmasia.ai">GMAsia</a>, also gained strong momentum this month. Focused on solving real enterprise AI adoption challenges, GMAsia is building an AI education platform for professionals,  with a strong emphasis on agentic AI leadership. Rather than general AI usage, the goal is to equip leaders and teams with the deep understanding needed to harness AI strategically, grounded in design thinking and a clear grasp of AI’s strengths and limitations.
 
