@@ -139,8 +139,8 @@ title: Home
                                     <div class="eventCardTitle">Business Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
                                             <div>March 2026</div>
-                                            <div class="mt-2 eventCardPostTitle">OAX Supports HacktheEast AI Hackathon</div>
-                                            <div class="mt-2">OAX is honored to be one of the sponsors at HacktheEast, Hong Kong’s inaugural student-led, city-scale AI hackathon. We awarded a team who put forth an EdTech product - 'Dyson of the East' with an OAX Award.</div>
+                                            <div class="mt-2 eventCardPostTitle">OAX Attends & Sponsors the HacktheEast Hackathon</div>
+                                            <div class="mt-2">OAX is honored to be one of the judges and sponsors at HacktheEast, Hong Kong’s inaugural student-led, city-scale AI hackathon. We awarded a team who put forth an EdTech product - 'Dyson of the East' with an OAX Award.</div>
                                             <a href="https://www.oax.org/2026/03/10/Key-Learnings-and-Insights-from-the-Hack-the-East-Hackathon.html" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
