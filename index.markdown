@@ -64,7 +64,7 @@ title: Home
                     </div>
                     <div class="highlight-title my-2 flex-grow-1 d-flex align-items-center justify-content-center" style="height:60px;">Notifs App</div>
                     <div class="highlight-desc small flex-grow-1 px-1" style="overflow:auto;">
-                        The Notifs app is a comprehensive solution for tracking digital assets and Bitcoin spot ETFs with advanced features. (A Cyberport Incubation Project.)
+                        The Notifs app is previously a comprehensive solution for tracking digital assets and Bitcoin spot ETFs with advanced features. (A Cyberport Incubation Project.)
                     </div>
                 </div>
 
