@@ -49,7 +49,7 @@ order: 1
                     If you would like to also contribute to this growing space, please reach out to us via any of our channels! To stay updated with OAX Learn's content rollouts, please follow us on our Social Media channels and subscribe to the OAX Foundation Newsletter.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-left" style="margin-top: 20px; text-align: center;">
-                <div><img class="w-85" src="{{ '/assets/about/About-Barriers.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
+                <div><img class="w-85" src="{{ '/assets/about/OAX-About-March-26-Learn.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
                 </div>
             </div>
         </div>
@@ -70,7 +70,7 @@ order: 1
                     Learn more about the potential of DeFi in some of our thought pieces.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right" style="margin-top: 20px; text-align: center;">
-                <div><img class="w-85" src="{{ '/assets/about/About-DeFi.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
+                <div><img class="w-85" src="{{ '/assets/about/OAX-About-March-DeFi.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
                 </div>
             </div>
         </div>
@@ -98,7 +98,7 @@ order: 1
                     If you’re interested in speaking to OAX, contact us. Information about some past work can be seen on our Resources and News page.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0  text-center text-lg-left" style="margin-top: 20px; text-align: center;">
-                <div><img class="w-85" src="{{ '/assets/about/About-Collab.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
+                <div><img class="w-85" src="{{ '/assets/about/OAX-About-March-26-Community.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
                 </div>
             </div>
         </div>
@@ -115,7 +115,7 @@ order: 1
                 <br/><br/>The launch of our Notifs app pulls information available from blockchain and in the public domain to consolidate and provide relevant information to your specific portfolio. You can also link to our Github page to review the open source work that has been done in the past for OAX Layer 2 Protocol (L2X) and the feature development for parachains in the Polkadot Network. </div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right" style="margin-top: 20px; text-align: center;">
-                <div><img class="w-85" src="{{ '/assets/about/About-Blockchain.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
+                <div><img class="w-85" src="{{ '/assets/about/OAX-About-March-Beyond.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
                 </div>
             </div>
         </div>
