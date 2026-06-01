@@ -22,15 +22,15 @@ For Blockchain: <b>Bitcoin</b> consolidated above key structural levels after pu
 
 <b>Geopolitical: Trump–Xi, stability as the outcome</b>
 
-The May 14–15 Beijing summit was Trump's first visit to China since 2017. No comprehensive deal, but stability itself was the deliverable. Xi called 2026 a potential "<b><i>historic, landmark year.</b></i>" Both sides agreed on a framework for economic cooperation and tariff de-escalation signals. Markets read it correctly: this was a floor, not a ceiling.
+The May 14–15 Beijing summit was Trump's first visit to China since 2017. No comprehensive deal, but stability itself was the deliverable. Xi called 2026 a potential "<b>historic, landmark year.</b>" Both sides agreed on a framework for economic cooperation and tariff de-escalation signals. Markets read it correctly: this was a floor, not a ceiling.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-BBC-Trump-Xi.png)
-<i>Source: <a href="https://www.bbc.co.uk/news/articles/cdxp0g4q3q2o">BBC</a></i>
+<br><i>Source: <a href="https://www.bbc.co.uk/news/articles/cdxp0g4q3q2o">BBC</a></i>
 
 The more important signal for our community: <b>AI was formally placed on the diplomatic agenda</b> for the first time. Both governments agreed to open a government-level AI dialogue. The Stanford 2026 AI Index puts the US lead over Chinese models at just 2.7%. Two superpowers in a dead heat, and they're now talking about guardrails. 
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-Reuters-Trump-Putin.png)
-<i>Source: Reuters</i>
+<br><i>Source: Reuters</i>
 
 Just days after Trump left Beijing, Putin arrived, his 25th visit to China, marking 30 years of the China-Russia strategic partnership. Within weeks, Beijing also hosted Pakistani PM Sharif and Serbian President Vucic. 
 
