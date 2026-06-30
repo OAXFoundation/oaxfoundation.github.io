@@ -20,7 +20,7 @@ On the digital assets side, it's been a quieter month , holding steady while sma
 We covered the SpaceX IPO in depth on our blog , worth a read if you want our take on what it signals for the broader AI infrastructure thesis.
 
 ![]({{ site.baseurl }}/img/blog-images/OAX-June-2026-World-Cup.png)
-<i>Source: Today.com</i>
+<br><i>Source: Today.com</i>
 
 Oh, and it's World Cup month the excitement is everywhere, and we're seeing no shortage of brands leveraging the moment to roll out real AI use cases. Read on.
 
