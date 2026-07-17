@@ -1,11 +1,11 @@
 ---
 layout: post
 author: OAX Foundation
-image: /img/blog-images/OAX-June-2026.png
+image: /img/blog-images/OAX-AI-Race-US-China-Header.png
 tag: industry-business
 ---
 
-![]({{ site.baseurl }}/img/blog-images/OAX-June-2026.png)
+![]({{ site.baseurl }}/img/blog-images/OAX-AI-Race-US-China-Header.png)
 
 <br><b>Smartest Isn't Cheapest: What the July AI Releases Tell Us About the East-West Race</b>
 
