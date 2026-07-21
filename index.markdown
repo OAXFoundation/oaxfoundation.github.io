@@ -141,7 +141,7 @@ title: Home
                                             <div>COMING SOON: Aug 2026</div>
                                             <div class="mt-2 eventCardPostTitle">OAX & GMAsia Supports AI Tinkerers AI Community Meetup</div>
                                             <div class="mt-2">Alongside GMAsia, OAX is proud to support and sponsor AI Tinkerers HK, the local chapter of the global AI Tinkerers Network. In this coming session, we hope to share more about GMAsia's journey - Stay tuned!</div>
-                                            <a href="https://hong-kong.aitinkerers.org/">Learn More</a>
+                                            <a href="https://hong-kong.aitinkerers.org/" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
                             </div>
@@ -152,7 +152,7 @@ title: Home
                                             <div>July 2026</div>
                                             <div class="mt-2 eventCardPostTitle">GMAsia is Excited to Revamp and Launch 3 Key Features.</div>
                                             <div class="mt-2">GMAsia has underwent a massive UI/UX redesign to cater to more audiences and growth as an AI Resource Hub, launching 3 major new features: GMAsia Events, GMAsia News, and GMAsia Campus - with FREE, original courses for learners in Asia.</div>
-                                            <a href="https://gmasia.ai/">Learn More</a>
+                                            <a href="https://gmasia.ai/" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
                                         </div>
                                 </div>
                             </div>
