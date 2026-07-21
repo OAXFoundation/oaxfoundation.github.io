@@ -138,6 +138,39 @@ title: Home
                                 <div class="eventCard timeline__content">
                                     <div class="eventCardTitle">Business Milestone</div>
                                         <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>COMING SOON: Aug 2026</div>
+                                            <div class="mt-2 eventCardPostTitle">OAX & GMAsia Supports AI Tinkerers AI Community Meetup</div>
+                                            <div class="mt-2">Alongside GMAsia, OAX is proud to support and sponsor AI Tinkerers HK, the local chapter of the global AI Tinkerers Network. In this coming session, we hope to share more about GMAsia's journey - Stay tuned!</div>
+                                            <a href="https://hong-kong.aitinkerers.org/">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                              <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Tech Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>July 2026</div>
+                                            <div class="mt-2 eventCardPostTitle">GMAsia is Excited to Revamp and Launch 3 Key Features.</div>
+                                            <div class="mt-2">GMAsia has underwent a massive UI/UX redesign to cater to more audiences and growth as an AI Resource Hub, launching 3 major new features: GMAsia Events, GMAsia News, and GMAsia Campus - with FREE, original courses for learners in Asia.</div>
+                                            <a href="https://gmasia.ai/">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                              <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
+                                            <div>June 2026</div>
+                                            <div class="mt-2 eventCardPostTitle">OAX Team Attends AWS Summit HK 2026</div>
+                                            <div class="mt-2">OAX is excited to take part in AWS Summit Hong Kong 2026 in HKCEC in Wan Chai. As always, AWS Summit was a one-day event showcasing cloud innovation, generative AI, data analytics, and cloud resilience, a conference not to miss for professionals in the space.</div>
+                                            <a href="https://x.com/OAX_Foundation/status/2069011000582615370" class="btn btn-default mt-3 mt-lg-4 px-4 eventCardBtn">Learn More</a>
+                                        </div>
+                                </div>
+                            </div>
+                             <div class="timeline__item">
+                                <div class="eventCard timeline__content">
+                                    <div class="eventCardTitle">Business Milestone</div>
+                                        <div class="d-flex flex-column align-items-start pt-4">
                                             <div>March 2026</div>
                                             <div class="mt-2 eventCardPostTitle">OAX Attends & Sponsors the HacktheEast Hackathon</div>
                                             <div class="mt-2">OAX is honored to be one of the judges and sponsors at HacktheEast, Hong Kong’s inaugural student-led, city-scale AI hackathon. We awarded a team who put forth an EdTech product - 'Dyson of the East' with an OAX Award.</div>
