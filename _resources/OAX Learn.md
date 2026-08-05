@@ -1,7 +1,7 @@
 ---
-title: "OAX Learn"
+title: "GMAsia"
 link_link: https://www.oax.org/tag/oax-learn.html
-group: oax-learn
+group: GMAsia
 order: 1
 ---
-An initiative launched by OAX Foundation in its commitment to nurture, educate and foster the digital assets ecosystem. OAX Academy regularly publishes content useful for both newcomers and existing users in the space, aimed at providing insightful writeups, guides and know-hows for the community at large. Read more [here](https://www.oax.org/tag/oax-learn.html).
+Launched in August 2026, GMAsia is an initiative by OAX Foundation, supporting a dedicated project team to innovate and drive AI literacy across Asia's knowledge workforce. It spans AI industry events across the region, the latest AI news and developments, and GMAsia Campus - multimedia, bite-size courses delivered as short, practical lessons guided by an AI tutor.  Visit the site [here](https://www.gmasia.ai).
