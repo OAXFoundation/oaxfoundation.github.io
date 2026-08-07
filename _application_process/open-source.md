@@ -4,4 +4,4 @@ title: Open Source
 order: 4
 # show_order: true
 ---
-This is a non-negotiable for the team. The idea of open sourcing code has long been a cornerstone to OAX Foundation’s beliefs and focus. 
+The idea of open sourcing code has long been a cornerstone to OAX Foundation’s beliefs and focus. That said, open sourcing is optional for the applicant team — you’re welcome to choose either path, so long as you can justify why it’s the right one for your project.
