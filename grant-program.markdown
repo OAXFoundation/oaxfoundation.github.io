@@ -12,7 +12,7 @@ order: 3
             </h1>
         </div>
         <div class="d-flex flex-row flex-wrap anchors align-items-center grant-hero-sub" style="z-index: 1;">
-            <p class="page-subheading col" style="margin-left: -15px;">OAX Foundation was created with the belief that decentralization holds the key to the future of the digital asset world. Nothing has pleased us more than to see the strong drive towards DeFi and “Web3 AI” over the past year, and the progress that so many teams have made within this space. Advancements large and small make a difference in developing this space and in the true nature of decentralization we believe that we must make progress as a collective group.
+            <p class="page-subheading col" style="margin-left: -15px;">OAX Foundation was created with the belief that decentralization and open innovation hold the key to the future of technology. Nothing has pleased us more than to see the strong drive towards DeFi and AI over the past years, and the progress that so many teams have made within these spaces. Advancements large and small make a difference in developing this space, and we believe that meaningful progress - whether in decentralized systems or artificial intelligence - comes from moving forward as a collective group.
             </p>
         </div>
     </div>
@@ -29,8 +29,7 @@ order: 3
                         <div class="section--title style-2 mr-4">Grant Program!</div>
                     </div>
                     <div class="section--description style-2 mt-4" style="font-weight: 400;">
-                        <p class="mb-4">The OAX Foundation Grant is one of the many ways we want to give back to this community, by supporting and developing teams large and small. Whether it’s through research, DApps, platforms and portals or more, we look forward to hearing your ideas.</p>
-                        <p>While the grant is provided only upon the sole discretion of OAX Foundation, there are certain parameters that the team focuses on generally when evaluating proposals.</p>
+                        <p class="mb-4">The OAX Foundation Grant is one of the many ways we want to give back to this community, by supporting and developing teams large and small. Whether it’s through research, DApps, AI applications, platforms and infrastructure, or more, we look forward to hearing your ideas.</p>
                     </div>
                 </div>
                 <div class="col d-flex flex-row justify-content-center align-items-top ml-lg-0">                    
