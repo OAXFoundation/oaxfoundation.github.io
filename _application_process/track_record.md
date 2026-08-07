@@ -4,7 +4,7 @@ title: Track Record
 order: 1
 # show_order: true
 ---
-Does the applicant have any history in the crypto / digital asset / blockchain space? Depending on the proposal, we’ll be looking for a demonstration of relevant experience and technical expertise. 
+Does the applicant have any history in the digital asset / blockchain / artificial intelligence space? Depending on the proposal, we’ll be looking for a demonstration of relevant experience and technical expertise. 
 
 I.e. if requesting a research grant, what previous research projects have been done, what were the deliverables and outcomes, the reach or influence? If requesting an application grant, does the applicant have prior experience in this space? Coding examples or links to GitHub will help to support the application.
 
