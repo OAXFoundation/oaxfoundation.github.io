@@ -111,6 +111,14 @@ permalink: /privacy/
                     <h4>Contact details</h4>
                     <p>If you want any further information from us on privacy matters, please contact our Data Protection Officer at:</p>
                     <p>Email: <a href="mailto:info@oax.org">info@oax.org</a></p>
+                    <h4>IMPORTANT NOTICE REGARDING DIGITAL ASSETS</h4>
+                    <p>The OAX Foundation no longer actively manages or supports the OAX token. The official token contract addresses are:</p>
+                    <ul>
+                    <li><strong>Ethereum:</strong> 0x701c244b988a513c945973defa05de933b23fe1d</li>
+                    <li><strong>Binance Smart Chain:</strong> 0x31720b2276df3b3b757b55845d17eea184d4fc8f</li>
+                    </ul>
+                    <p>Users should verify these addresses before any token interaction to avoid scams. The Foundation is not responsible for market activities or unauthorized tokens claiming association with OAX.</p>
+                </div>
                 </div>
                 <!-- </div> -->
             </div>
