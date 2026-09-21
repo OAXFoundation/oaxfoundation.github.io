@@ -119,7 +119,7 @@ permalink: /privacy/
                     </ul>
                     <p>Users should verify these addresses before any token interaction to avoid scams. The Foundation is not responsible for market activities or unauthorized tokens claiming association with OAX.</p>
                 </div>
-                </div>
+        
                 <!-- </div> -->
             </div>
         </div>
