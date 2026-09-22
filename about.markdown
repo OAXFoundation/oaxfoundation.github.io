@@ -1,4 +1,4 @@
-<img width="1726" height="945" alt="image" src="https://github.com/user-attachments/assets/7fcbf4ed-488b-431e-b759-6d7c7322e36d" />---
+---
 layout: page
 title: About
 permalink: /about/
