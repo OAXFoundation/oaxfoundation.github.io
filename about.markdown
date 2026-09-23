@@ -70,7 +70,7 @@ order: 1
                     Learn more about the potential of DeFi in some of our thought pieces.</div>
             </div>
             <div class="col d-flex flex-row justify-content-center align-items-center mt-5 ml-lg-0 text-center text-lg-right" style="margin-top: 20px; text-align: center;">
-                <div><img class="w-85" src="{{ '/assets/about/OAX-About-March-DeFi.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
+                <div><img class="w-85" src="{{ '/assets/about/DeFi-AI-Sept.png' }}" alt="our mission" style="width: 100%; max-width: 85%;">
                 </div>
             </div>
         </div>
